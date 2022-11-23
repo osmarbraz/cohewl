@@ -1,0 +1,15 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	SCONJ	0	3	3	1	0	0	1	Como empilhar elementos em uma pilha ?
+empilhar	VERB	1	3	3	1	0	1	2	Como empilhar elementos em uma pilha ?
+elementos	NOUN	0	3	3	1	0	2	3	Como empilhar elementos em uma pilha ?
+em	ADP	0	3	3	1	0	3	4	Como empilhar elementos em uma pilha ?
+uma	DET	0	3	3	1	0	4	5	Como empilhar elementos em uma pilha ?
+pilha	NOUN	0	3	3	1	1	5	6	Como empilhar elementos em uma pilha ?
+?	PUNCT	0	3	3	1	0	6		Como empilhar elementos em uma pilha ?
+Como	SCONJ	0	3_pert_0	3	0	0	0	8	Como empilhar elementos em uma fila ?
+empilhar	VERB	1	3_pert_0	3	0	0	1	9	Como empilhar elementos em uma fila ?
+elementos	NOUN	0	3_pert_0	3	0	0	2	10	Como empilhar elementos em uma fila ?
+em	ADP	0	3_pert_0	3	0	0	3	11	Como empilhar elementos em uma fila ?
+uma	DET	0	3_pert_0	3	0	0	4	12	Como empilhar elementos em uma fila ?
+fila	NOUN	1	3_pert_0	3	0	1	5	13	Como empilhar elementos em uma fila ?
+?	PUNCT	0	3_pert_0	3	0	0	6		Como empilhar elementos em uma fila ?

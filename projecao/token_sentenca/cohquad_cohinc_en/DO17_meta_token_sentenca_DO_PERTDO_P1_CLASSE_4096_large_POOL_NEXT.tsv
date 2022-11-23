@@ -1,0 +1,31 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	17	17	1	0	0	1	0	1	How are the operations to push and pop elements in a stack implemented ?
+are	AUX	0	17	17	1	0	1	2	0	1	How are the operations to push and pop elements in a stack implemented ?
+the	DET	0	17	17	1	0	2	3	0	1	How are the operations to push and pop elements in a stack implemented ?
+operations	NOUN	0	17	17	1	0	3	4	0	1	How are the operations to push and pop elements in a stack implemented ?
+to	PART	0	17	17	1	0	4	5	0	1	How are the operations to push and pop elements in a stack implemented ?
+push	VERB	0	17	17	1	0	5	6	0	1	How are the operations to push and pop elements in a stack implemented ?
+and	CCONJ	0	17	17	1	0	6	7	0	1	How are the operations to push and pop elements in a stack implemented ?
+pop	NOUN	0	17	17	1	0	7	8	0	1	How are the operations to push and pop elements in a stack implemented ?
+elements	NOUN	0	17	17	1	0	8	9	0	1	How are the operations to push and pop elements in a stack implemented ?
+in	ADP	0	17	17	1	0	9	10	0	1	How are the operations to push and pop elements in a stack implemented ?
+a	DET	0	17	17	1	0	10	11	0	1	How are the operations to push and pop elements in a stack implemented ?
+stack	NOUN	0	17	17	1	1	11	12	0	1	How are the operations to push and pop elements in a stack implemented ?
+implemented	VERB	0	17	17	1	0	12	13	0	1	How are the operations to push and pop elements in a stack implemented ?
+?	PUNCT	0	17	17	1	0	13	14	0	1	How are the operations to push and pop elements in a stack implemented ?
+0	['SCONJ', 'AUX', 'DET', 'NOUN', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	17	17	1	-1	-1		1	3	How are the operations to push and pop elements in a stack implemented ?
+How	SCONJ	0	17_pert_0	17	0	0	0	16	0	0	How are the operations to push and pop elements in a queue implemented ?
+are	AUX	0	17_pert_0	17	0	0	1	17	0	0	How are the operations to push and pop elements in a queue implemented ?
+the	DET	0	17_pert_0	17	0	0	2	18	0	0	How are the operations to push and pop elements in a queue implemented ?
+operations	NOUN	0	17_pert_0	17	0	0	3	19	0	0	How are the operations to push and pop elements in a queue implemented ?
+to	PART	0	17_pert_0	17	0	0	4	20	0	0	How are the operations to push and pop elements in a queue implemented ?
+push	VERB	0	17_pert_0	17	0	0	5	21	0	0	How are the operations to push and pop elements in a queue implemented ?
+and	CCONJ	0	17_pert_0	17	0	0	6	22	0	0	How are the operations to push and pop elements in a queue implemented ?
+pop	NOUN	0	17_pert_0	17	0	0	7	23	0	0	How are the operations to push and pop elements in a queue implemented ?
+elements	NOUN	0	17_pert_0	17	0	0	8	24	0	0	How are the operations to push and pop elements in a queue implemented ?
+in	ADP	0	17_pert_0	17	0	0	9	25	0	0	How are the operations to push and pop elements in a queue implemented ?
+a	DET	0	17_pert_0	17	0	0	10	26	0	0	How are the operations to push and pop elements in a queue implemented ?
+queue	NOUN	1	17_pert_0	17	0	1	11	27	0	0	How are the operations to push and pop elements in a queue implemented ?
+implemented	VERB	0	17_pert_0	17	0	0	12	28	0	0	How are the operations to push and pop elements in a queue implemented ?
+?	PUNCT	0	17_pert_0	17	0	0	13	29	0	0	How are the operations to push and pop elements in a queue implemented ?
+1	['SCONJ', 'AUX', 'DET', 'NOUN', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]	17_pert_0	17	0	-1	-1		1	2	How are the operations to push and pop elements in a queue implemented ?

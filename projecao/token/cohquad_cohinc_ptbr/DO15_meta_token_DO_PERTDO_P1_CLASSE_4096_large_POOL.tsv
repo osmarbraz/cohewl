@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+O	PRON	0	15	15	1	0	0	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+que	PRON	0	15	15	1	0	1	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+é	AUX	0	15	15	1	0	2	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+uma	DET	0	15	15	1	0	3	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+pilha	NOUN	0	15	15	1	1	4	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+e	CCONJ	0	15	15	1	0	5	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+como	ADV	0	15	15	1	0	6	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+empilhar	VERB	1	15	15	1	0	7	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+e	CCONJ	0	15	15	1	0	8	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+desempilhar	NOUN	1	15	15	1	0	9	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+seus	DET	0	15	15	1	0	10	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+elementos	NOUN	0	15	15	1	0	11	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+?	PUNCT	0	15	15	1	0	12	O que é uma pilha e como empilhar e desempilhar seus elementos ?
+O	PRON	0	15_pert_0	15	0	0	0	O que é uma fila e como empilhar e desempilhar seus elementos ?
+que	PRON	0	15_pert_0	15	0	0	1	O que é uma fila e como empilhar e desempilhar seus elementos ?
+é	AUX	0	15_pert_0	15	0	0	2	O que é uma fila e como empilhar e desempilhar seus elementos ?
+uma	DET	0	15_pert_0	15	0	0	3	O que é uma fila e como empilhar e desempilhar seus elementos ?
+fila	NOUN	1	15_pert_0	15	0	1	4	O que é uma fila e como empilhar e desempilhar seus elementos ?
+e	CCONJ	0	15_pert_0	15	0	0	5	O que é uma fila e como empilhar e desempilhar seus elementos ?
+como	ADV	0	15_pert_0	15	0	0	6	O que é uma fila e como empilhar e desempilhar seus elementos ?
+empilhar	VERB	1	15_pert_0	15	0	0	7	O que é uma fila e como empilhar e desempilhar seus elementos ?
+e	CCONJ	0	15_pert_0	15	0	0	8	O que é uma fila e como empilhar e desempilhar seus elementos ?
+desempilhar	NOUN	1	15_pert_0	15	0	0	9	O que é uma fila e como empilhar e desempilhar seus elementos ?
+seus	DET	0	15_pert_0	15	0	0	10	O que é uma fila e como empilhar e desempilhar seus elementos ?
+elementos	NOUN	0	15_pert_0	15	0	0	11	O que é uma fila e como empilhar e desempilhar seus elementos ?
+?	PUNCT	0	15_pert_0	15	0	0	12	O que é uma fila e como empilhar e desempilhar seus elementos ?

@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Qual	PRON	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	0	0	1	Qual foi o ato de mediação responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	1	0	1	Qual foi o ato de mediação responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	2	0	1	Qual foi o ato de mediação responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	3	0	1	Qual foi o ato de mediação responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	4	0	1	Qual foi o ato de mediação responsável pela restauração ?
+mediação	NOUN	1	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	1	5	0	1	Qual foi o ato de mediação responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	6	0	1	Qual foi o ato de mediação responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	7	0	1	Qual foi o ato de mediação responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	8	0	1	Qual foi o ato de mediação responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	9	0	1	Qual foi o ato de mediação responsável pela restauração ?
+Qual foi o ato de mediação responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	-1	-1	1	3	Qual foi o ato de mediação responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de gestão responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de gestão responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de gestão responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de gestão responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de gestão responsável pela restauração ?
+gestão	NOUN	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de gestão responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de gestão responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de gestão responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de gestão responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de gestão responsável pela restauração ?
+Qual foi o ato de gestão responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de gestão responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de fé responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de fé responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de fé responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de fé responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de fé responsável pela restauração ?
+fé	NOUN	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de fé responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de fé responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de fé responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de fé responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de fé responsável pela restauração ?
+Qual foi o ato de fé responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de fé responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de ofício responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de ofício responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de ofício responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de ofício responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de ofício responsável pela restauração ?
+ofício	NOUN	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de ofício responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de ofício responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de ofício responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de ofício responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de ofício responsável pela restauração ?
+Qual foi o ato de ofício responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de ofício responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+autoridade	NOUN	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de autoridade responsável pela restauração ?
+Qual foi o ato de autoridade responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de autoridade responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de restauração responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de restauração responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de restauração responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de restauração responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de restauração responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	5	0	0	Qual foi o ato de restauração responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de restauração responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de restauração responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de restauração responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de restauração responsável pela restauração ?
+Qual foi o ato de restauração responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de restauração responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de administração responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de administração responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de administração responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de administração responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de administração responsável pela restauração ?
+administração	NOUN	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de administração responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de administração responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de administração responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de administração responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de administração responsável pela restauração ?
+Qual foi o ato de administração responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de administração responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de alguém responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de alguém responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de alguém responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de alguém responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de alguém responsável pela restauração ?
+alguém	PRON	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de alguém responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de alguém responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de alguém responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de alguém responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de alguém responsável pela restauração ?
+Qual foi o ato de alguém responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de alguém responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de governo responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de governo responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de governo responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de governo responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de governo responsável pela restauração ?
+governo	NOUN	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de governo responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de governo responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de governo responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de governo responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de governo responsável pela restauração ?
+Qual foi o ato de governo responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de governo responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de Deus responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de Deus responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de Deus responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de Deus responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de Deus responsável pela restauração ?
+Deus	PROPN	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de Deus responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de Deus responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de Deus responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de Deus responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de Deus responsável pela restauração ?
+Qual foi o ato de Deus responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de Deus responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de conservação responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de conservação responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de conservação responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de conservação responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de conservação responsável pela restauração ?
+conservação	NOUN	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de conservação responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de conservação responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de conservação responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de conservação responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de conservação responsável pela restauração ?
+Qual foi o ato de conservação responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de conservação responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de poder responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de poder responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de poder responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de poder responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de poder responsável pela restauração ?
+poder	NOUN	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de poder responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de poder responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de poder responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de poder responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de poder responsável pela restauração ?
+Qual foi o ato de poder responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de poder responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de fato responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de fato responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de fato responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de fato responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de fato responsável pela restauração ?
+fato	NOUN	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de fato responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de fato responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de fato responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de fato responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de fato responsável pela restauração ?
+Qual foi o ato de fato responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de fato responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de execução responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de execução responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de execução responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de execução responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de execução responsável pela restauração ?
+execução	NOUN	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de execução responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de execução responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de execução responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de execução responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de execução responsável pela restauração ?
+Qual foi o ato de execução responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de execução responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de vontade responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de vontade responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de vontade responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de vontade responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de vontade responsável pela restauração ?
+vontade	NOUN	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de vontade responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de vontade responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de vontade responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de vontade responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de vontade responsável pela restauração ?
+Qual foi o ato de vontade responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de vontade responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de quem responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de quem responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de quem responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de quem responsável pela restauração ?
+de	SCONJ	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de quem responsável pela restauração ?
+quem	PRON	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de quem responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de quem responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de quem responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de quem responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de quem responsável pela restauração ?
+Qual foi o ato de quem responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'SCONJ', 'PRON', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de quem responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de adoração responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de adoração responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de adoração responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de adoração responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de adoração responsável pela restauração ?
+adoração	NOUN	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de adoração responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de adoração responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de adoração responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de adoração responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de adoração responsável pela restauração ?
+Qual foi o ato de adoração responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de adoração responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de caridade responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de caridade responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de caridade responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de caridade responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de caridade responsável pela restauração ?
+caridade	NOUN	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de caridade responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de caridade responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de caridade responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de caridade responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de caridade responsável pela restauração ?
+Qual foi o ato de caridade responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de caridade responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de amor responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de amor responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de amor responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de amor responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de amor responsável pela restauração ?
+amor	NOUN	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de amor responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de amor responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de amor responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de amor responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de amor responsável pela restauração ?
+Qual foi o ato de amor responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de amor responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de preservação responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de preservação responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de preservação responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de preservação responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de preservação responsável pela restauração ?
+preservação	NOUN	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de preservação responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de preservação responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de preservação responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de preservação responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de preservação responsável pela restauração ?
+Qual foi o ato de preservação responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de preservação responsável pela restauração ?
+Qual	PRON	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	0	0	0	Qual foi o ato de força responsável pela restauração ?
+foi	AUX	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	1	0	0	Qual foi o ato de força responsável pela restauração ?
+o	DET	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	2	0	0	Qual foi o ato de força responsável pela restauração ?
+ato	NOUN	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	3	0	0	Qual foi o ato de força responsável pela restauração ?
+de	ADP	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	4	0	0	Qual foi o ato de força responsável pela restauração ?
+força	NOUN	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	1	5	0	0	Qual foi o ato de força responsável pela restauração ?
+responsável	ADJ	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	6	0	0	Qual foi o ato de força responsável pela restauração ?
+pela	ADP	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	7	0	0	Qual foi o ato de força responsável pela restauração ?
+restauração	NOUN	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	8	0	0	Qual foi o ato de força responsável pela restauração ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	9	0	0	Qual foi o ato de força responsável pela restauração ?
+Qual foi o ato de força responsável pela restauração ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	-1	-1	1	2	Qual foi o ato de força responsável pela restauração ?

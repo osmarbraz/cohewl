@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+O	PRON	0	12	12	1	0	0	O que é uma pilha e como desempilhar um elemento nela ?
+que	PRON	0	12	12	1	0	1	O que é uma pilha e como desempilhar um elemento nela ?
+é	AUX	0	12	12	1	0	2	O que é uma pilha e como desempilhar um elemento nela ?
+uma	DET	0	12	12	1	0	3	O que é uma pilha e como desempilhar um elemento nela ?
+pilha	NOUN	0	12	12	1	1	4	O que é uma pilha e como desempilhar um elemento nela ?
+e	CCONJ	0	12	12	1	0	5	O que é uma pilha e como desempilhar um elemento nela ?
+como	ADV	0	12	12	1	0	6	O que é uma pilha e como desempilhar um elemento nela ?
+desempilhar	NOUN	1	12	12	1	0	7	O que é uma pilha e como desempilhar um elemento nela ?
+um	DET	0	12	12	1	0	8	O que é uma pilha e como desempilhar um elemento nela ?
+elemento	NOUN	0	12	12	1	0	9	O que é uma pilha e como desempilhar um elemento nela ?
+nela	PRON	0	12	12	1	0	10	O que é uma pilha e como desempilhar um elemento nela ?
+?	PUNCT	0	12	12	1	0	11	O que é uma pilha e como desempilhar um elemento nela ?
+O	PRON	0	12_pert_0	12	0	0	0	O que é uma fila e como desempilhar um elemento nela ?
+que	PRON	0	12_pert_0	12	0	0	1	O que é uma fila e como desempilhar um elemento nela ?
+é	AUX	0	12_pert_0	12	0	0	2	O que é uma fila e como desempilhar um elemento nela ?
+uma	DET	0	12_pert_0	12	0	0	3	O que é uma fila e como desempilhar um elemento nela ?
+fila	NOUN	1	12_pert_0	12	0	1	4	O que é uma fila e como desempilhar um elemento nela ?
+e	CCONJ	0	12_pert_0	12	0	0	5	O que é uma fila e como desempilhar um elemento nela ?
+como	ADV	0	12_pert_0	12	0	0	6	O que é uma fila e como desempilhar um elemento nela ?
+desempilhar	NOUN	1	12_pert_0	12	0	0	7	O que é uma fila e como desempilhar um elemento nela ?
+um	DET	0	12_pert_0	12	0	0	8	O que é uma fila e como desempilhar um elemento nela ?
+elemento	NOUN	0	12_pert_0	12	0	0	9	O que é uma fila e como desempilhar um elemento nela ?
+nela	PRON	0	12_pert_0	12	0	0	10	O que é uma fila e como desempilhar um elemento nela ?
+?	PUNCT	0	12_pert_0	12	0	0	11	O que é uma fila e como desempilhar um elemento nela ?

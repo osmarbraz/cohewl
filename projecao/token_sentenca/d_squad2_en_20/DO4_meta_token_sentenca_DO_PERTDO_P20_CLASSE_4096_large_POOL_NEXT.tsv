@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Where	SCONJ	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	0	1	0	1	Where are tornadoes most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	1	2	0	1	Where are tornadoes most common on Earth ?
+tornadoes	NOUN	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	1	2	3	0	1	Where are tornadoes most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	3	4	0	1	Where are tornadoes most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	4	5	0	1	Where are tornadoes most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	5	6	0	1	Where are tornadoes most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	6	7	0	1	Where are tornadoes most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	7	8	0	1	Where are tornadoes most common on Earth ?
+0	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	-1	-1		1	3	Where are tornadoes most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	0	10	0	0	Where are the most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	1	11	0	0	Where are the most common on Earth ?
+the	DET	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	1	2	12	0	0	Where are the most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	3	13	0	0	Where are the most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	4	14	0	0	Where are the most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	5	15	0	0	Where are the most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	6	16	0	0	Where are the most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	7	17	0	0	Where are the most common on Earth ?
+1	['SCONJ', 'AUX', 'DET', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are the most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	0	19	0	0	Where are they most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	1	20	0	0	Where are they most common on Earth ?
+they	PRON	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	1	2	21	0	0	Where are they most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	3	22	0	0	Where are they most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	4	23	0	0	Where are they most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	5	24	0	0	Where are they most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	6	25	0	0	Where are they most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	7	26	0	0	Where are they most common on Earth ?
+2	['SCONJ', 'AUX', 'PRON', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are they most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	0	28	0	0	Where are those most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	1	29	0	0	Where are those most common on Earth ?
+those	PRON	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	1	2	30	0	0	Where are those most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	3	31	0	0	Where are those most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	4	32	0	0	Where are those most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	5	33	0	0	Where are those most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	6	34	0	0	Where are those most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	7	35	0	0	Where are those most common on Earth ?
+3	['SCONJ', 'AUX', 'PRON', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are those most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	0	37	0	0	Where are these most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	1	38	0	0	Where are these most common on Earth ?
+these	DET	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	1	2	39	0	0	Where are these most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	3	40	0	0	Where are these most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	4	41	0	0	Where are these most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	5	42	0	0	Where are these most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	6	43	0	0	Where are these most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	7	44	0	0	Where are these most common on Earth ?
+4	['SCONJ', 'AUX', 'DET', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are these most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	0	46	0	0	Where are people most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	1	47	0	0	Where are people most common on Earth ?
+people	NOUN	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	1	2	48	0	0	Where are people most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	3	49	0	0	Where are people most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	4	50	0	0	Where are people most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	5	51	0	0	Where are people most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	6	52	0	0	Where are people most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	7	53	0	0	Where are people most common on Earth ?
+5	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are people most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	0	55	0	0	Where are species most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	1	56	0	0	Where are species most common on Earth ?
+species	NOUN	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	1	2	57	0	0	Where are species most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	3	58	0	0	Where are species most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	4	59	0	0	Where are species most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	5	60	0	0	Where are species most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	6	61	0	0	Where are species most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	7	62	0	0	Where are species most common on Earth ?
+6	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are species most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	0	64	0	0	Where are you most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	1	65	0	0	Where are you most common on Earth ?
+you	PRON	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	1	2	66	0	0	Where are you most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	3	67	0	0	Where are you most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	4	68	0	0	Where are you most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	5	69	0	0	Where are you most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	6	70	0	0	Where are you most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	7	71	0	0	Where are you most common on Earth ?
+7	['SCONJ', 'AUX', 'PRON', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are you most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	0	73	0	0	Where are we most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	1	74	0	0	Where are we most common on Earth ?
+we	PRON	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	1	2	75	0	0	Where are we most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	3	76	0	0	Where are we most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	4	77	0	0	Where are we most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	5	78	0	0	Where are we most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	6	79	0	0	Where are we most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	7	80	0	0	Where are we most common on Earth ?
+8	['SCONJ', 'AUX', 'PRON', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are we most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	0	82	0	0	Where are animals most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	1	83	0	0	Where are animals most common on Earth ?
+animals	NOUN	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	1	2	84	0	0	Where are animals most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	3	85	0	0	Where are animals most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	4	86	0	0	Where are animals most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	5	87	0	0	Where are animals most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	6	88	0	0	Where are animals most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	7	89	0	0	Where are animals most common on Earth ?
+9	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are animals most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	0	91	0	0	Where are their most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	1	92	0	0	Where are their most common on Earth ?
+their	PRON	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	1	2	93	0	0	Where are their most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	3	94	0	0	Where are their most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	4	95	0	0	Where are their most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	5	96	0	0	Where are their most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	6	97	0	0	Where are their most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	7	98	0	0	Where are their most common on Earth ?
+10	['SCONJ', 'AUX', 'PRON', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are their most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	0	100	0	0	Where are humans most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	1	101	0	0	Where are humans most common on Earth ?
+humans	NOUN	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	1	2	102	0	0	Where are humans most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	3	103	0	0	Where are humans most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	4	104	0	0	Where are humans most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	5	105	0	0	Where are humans most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	6	106	0	0	Where are humans most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	7	107	0	0	Where are humans most common on Earth ?
+11	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are humans most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	0	109	0	0	Where are birds most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	1	110	0	0	Where are birds most common on Earth ?
+birds	NOUN	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	1	2	111	0	0	Where are birds most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	3	112	0	0	Where are birds most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	4	113	0	0	Where are birds most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	5	114	0	0	Where are birds most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	6	115	0	0	Where are birds most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	7	116	0	0	Where are birds most common on Earth ?
+12	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are birds most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	0	118	0	0	Where are bacteria most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	1	119	0	0	Where are bacteria most common on Earth ?
+bacteria	NOUN	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	1	2	120	0	0	Where are bacteria most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	3	121	0	0	Where are bacteria most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	4	122	0	0	Where are bacteria most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	5	123	0	0	Where are bacteria most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	6	124	0	0	Where are bacteria most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	7	125	0	0	Where are bacteria most common on Earth ?
+13	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are bacteria most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	0	127	0	0	Where are aliens most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	1	128	0	0	Where are aliens most common on Earth ?
+aliens	NOUN	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	1	2	129	0	0	Where are aliens most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	3	130	0	0	Where are aliens most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	4	131	0	0	Where are aliens most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	5	132	0	0	Where are aliens most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	6	133	0	0	Where are aliens most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	7	134	0	0	Where are aliens most common on Earth ?
+14	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are aliens most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	0	136	0	0	Where are plants most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	1	137	0	0	Where are plants most common on Earth ?
+plants	NOUN	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	1	2	138	0	0	Where are plants most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	3	139	0	0	Where are plants most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	4	140	0	0	Where are plants most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	5	141	0	0	Where are plants most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	6	142	0	0	Where are plants most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	7	143	0	0	Where are plants most common on Earth ?
+15	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are plants most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	0	145	0	0	Where are insects most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	1	146	0	0	Where are insects most common on Earth ?
+insects	NOUN	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	1	2	147	0	0	Where are insects most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	3	148	0	0	Where are insects most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	4	149	0	0	Where are insects most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	5	150	0	0	Where are insects most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	6	151	0	0	Where are insects most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	7	152	0	0	Where are insects most common on Earth ?
+16	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are insects most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	0	154	0	0	Where are children most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	1	155	0	0	Where are children most common on Earth ?
+children	NOUN	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	1	2	156	0	0	Where are children most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	3	157	0	0	Where are children most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	4	158	0	0	Where are children most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	5	159	0	0	Where are children most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	6	160	0	0	Where are children most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	7	161	0	0	Where are children most common on Earth ?
+17	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are children most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	0	163	0	0	Where are trees most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	1	164	0	0	Where are trees most common on Earth ?
+trees	NOUN	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	1	2	165	0	0	Where are trees most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	3	166	0	0	Where are trees most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	4	167	0	0	Where are trees most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	5	168	0	0	Where are trees most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	6	169	0	0	Where are trees most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	7	170	0	0	Where are trees most common on Earth ?
+18	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are trees most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	0	172	0	0	Where are snakes most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	1	173	0	0	Where are snakes most common on Earth ?
+snakes	NOUN	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	1	2	174	0	0	Where are snakes most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	3	175	0	0	Where are snakes most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	4	176	0	0	Where are snakes most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	5	177	0	0	Where are snakes most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	6	178	0	0	Where are snakes most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	7	179	0	0	Where are snakes most common on Earth ?
+19	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are snakes most common on Earth ?
+Where	SCONJ	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	0	181	0	0	Where are spiders most common on Earth ?
+are	AUX	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	1	182	0	0	Where are spiders most common on Earth ?
+spiders	NOUN	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	1	2	183	0	0	Where are spiders most common on Earth ?
+most	ADV	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	3	184	0	0	Where are spiders most common on Earth ?
+common	ADJ	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	4	185	0	0	Where are spiders most common on Earth ?
+on	ADP	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	5	186	0	0	Where are spiders most common on Earth ?
+Earth	PROPN	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	6	187	0	0	Where are spiders most common on Earth ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	7	188	0	0	Where are spiders most common on Earth ?
+20	['SCONJ', 'AUX', 'NOUN', 'ADV', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	-1	-1		1	2	Where are spiders most common on Earth ?

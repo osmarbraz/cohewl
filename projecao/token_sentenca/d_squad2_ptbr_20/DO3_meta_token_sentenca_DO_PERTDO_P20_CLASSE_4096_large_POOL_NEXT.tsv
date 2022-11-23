@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+O	PRON	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	0	1	0	1	O que usa um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	1	2	0	1	O que usa um estado de memória interna ?
+usa	VERB	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	1	2	3	0	1	O que usa um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	3	4	0	1	O que usa um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	4	5	0	1	O que usa um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	5	6	0	1	O que usa um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	6	7	0	1	O que usa um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	7	8	0	1	O que usa um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	8	9	0	1	O que usa um estado de memória interna ?
+O que usa um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	-1	-1		1	3	O que usa um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	0	11	0	0	O que é um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	1	12	0	0	O que é um estado de memória interna ?
+é	AUX	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	1	2	13	0	0	O que é um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	3	14	0	0	O que é um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	4	15	0	0	O que é um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	5	16	0	0	O que é um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	6	17	0	0	O que é um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	7	18	0	0	O que é um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	8	19	0	0	O que é um estado de memória interna ?
+O que é um estado de memória interna ?	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que é um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	0	21	0	0	O que seria um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	1	22	0	0	O que seria um estado de memória interna ?
+seria	AUX	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	1	2	23	0	0	O que seria um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	3	24	0	0	O que seria um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	4	25	0	0	O que seria um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	5	26	0	0	O que seria um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	6	27	0	0	O que seria um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	7	28	0	0	O que seria um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	8	29	0	0	O que seria um estado de memória interna ?
+O que seria um estado de memória interna ?	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que seria um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	0	31	0	0	O que caracteriza um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	1	32	0	0	O que caracteriza um estado de memória interna ?
+caracteriza	VERB	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	1	2	33	0	0	O que caracteriza um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	3	34	0	0	O que caracteriza um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	4	35	0	0	O que caracteriza um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	5	36	0	0	O que caracteriza um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	6	37	0	0	O que caracteriza um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	7	38	0	0	O que caracteriza um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	8	39	0	0	O que caracteriza um estado de memória interna ?
+O que caracteriza um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que caracteriza um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	0	41	0	0	O que significa um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	1	42	0	0	O que significa um estado de memória interna ?
+significa	VERB	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	1	2	43	0	0	O que significa um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	3	44	0	0	O que significa um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	4	45	0	0	O que significa um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	5	46	0	0	O que significa um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	6	47	0	0	O que significa um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	7	48	0	0	O que significa um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	8	49	0	0	O que significa um estado de memória interna ?
+O que significa um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que significa um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	0	51	0	0	O que constitui um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	1	52	0	0	O que constitui um estado de memória interna ?
+constitui	VERB	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	1	2	53	0	0	O que constitui um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	3	54	0	0	O que constitui um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	4	55	0	0	O que constitui um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	5	56	0	0	O que constitui um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	6	57	0	0	O que constitui um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	7	58	0	0	O que constitui um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	8	59	0	0	O que constitui um estado de memória interna ?
+O que constitui um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que constitui um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	0	61	0	0	O que define um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	1	62	0	0	O que define um estado de memória interna ?
+define	VERB	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	1	2	63	0	0	O que define um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	3	64	0	0	O que define um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	4	65	0	0	O que define um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	5	66	0	0	O que define um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	6	67	0	0	O que define um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	7	68	0	0	O que define um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	8	69	0	0	O que define um estado de memória interna ?
+O que define um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que define um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	0	71	0	0	O que representa um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	1	72	0	0	O que representa um estado de memória interna ?
+representa	VERB	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	1	2	73	0	0	O que representa um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	3	74	0	0	O que representa um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	4	75	0	0	O que representa um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	5	76	0	0	O que representa um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	6	77	0	0	O que representa um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	7	78	0	0	O que representa um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	8	79	0	0	O que representa um estado de memória interna ?
+O que representa um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que representa um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	0	81	0	0	O que gera um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	1	82	0	0	O que gera um estado de memória interna ?
+gera	VERB	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	1	2	83	0	0	O que gera um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	3	84	0	0	O que gera um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	4	85	0	0	O que gera um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	5	86	0	0	O que gera um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	6	87	0	0	O que gera um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	7	88	0	0	O que gera um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	8	89	0	0	O que gera um estado de memória interna ?
+O que gera um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que gera um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	0	91	0	0	O que produz um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	1	92	0	0	O que produz um estado de memória interna ?
+produz	VERB	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	1	2	93	0	0	O que produz um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	3	94	0	0	O que produz um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	4	95	0	0	O que produz um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	5	96	0	0	O que produz um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	6	97	0	0	O que produz um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	7	98	0	0	O que produz um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	8	99	0	0	O que produz um estado de memória interna ?
+O que produz um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que produz um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	0	101	0	0	O que indica um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	1	102	0	0	O que indica um estado de memória interna ?
+indica	VERB	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	1	2	103	0	0	O que indica um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	3	104	0	0	O que indica um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	4	105	0	0	O que indica um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	5	106	0	0	O que indica um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	6	107	0	0	O que indica um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	7	108	0	0	O que indica um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	8	109	0	0	O que indica um estado de memória interna ?
+O que indica um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que indica um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	0	111	0	0	O que era um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	1	112	0	0	O que era um estado de memória interna ?
+era	AUX	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	1	2	113	0	0	O que era um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	3	114	0	0	O que era um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	4	115	0	0	O que era um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	5	116	0	0	O que era um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	6	117	0	0	O que era um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	7	118	0	0	O que era um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	8	119	0	0	O que era um estado de memória interna ?
+O que era um estado de memória interna ?	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que era um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	0	121	0	0	O que causa um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	1	122	0	0	O que causa um estado de memória interna ?
+causa	VERB	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	1	2	123	0	0	O que causa um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	3	124	0	0	O que causa um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	4	125	0	0	O que causa um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	5	126	0	0	O que causa um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	6	127	0	0	O que causa um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	7	128	0	0	O que causa um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	8	129	0	0	O que causa um estado de memória interna ?
+O que causa um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que causa um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	0	131	0	0	O que determina um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	1	132	0	0	O que determina um estado de memória interna ?
+determina	VERB	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	1	2	133	0	0	O que determina um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	3	134	0	0	O que determina um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	4	135	0	0	O que determina um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	5	136	0	0	O que determina um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	6	137	0	0	O que determina um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	7	138	0	0	O que determina um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	8	139	0	0	O que determina um estado de memória interna ?
+O que determina um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que determina um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	0	141	0	0	O que seja um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	1	142	0	0	O que seja um estado de memória interna ?
+seja	AUX	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	1	2	143	0	0	O que seja um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	3	144	0	0	O que seja um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	4	145	0	0	O que seja um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	5	146	0	0	O que seja um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	6	147	0	0	O que seja um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	7	148	0	0	O que seja um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	8	149	0	0	O que seja um estado de memória interna ?
+O que seja um estado de memória interna ?	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que seja um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	0	151	0	0	O que será um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	1	152	0	0	O que será um estado de memória interna ?
+será	AUX	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	1	2	153	0	0	O que será um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	3	154	0	0	O que será um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	4	155	0	0	O que será um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	5	156	0	0	O que será um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	6	157	0	0	O que será um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	7	158	0	0	O que será um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	8	159	0	0	O que será um estado de memória interna ?
+O que será um estado de memória interna ?	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que será um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	0	161	0	0	O que provoca um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	1	162	0	0	O que provoca um estado de memória interna ?
+provoca	VERB	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	1	2	163	0	0	O que provoca um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	3	164	0	0	O que provoca um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	4	165	0	0	O que provoca um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	5	166	0	0	O que provoca um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	6	167	0	0	O que provoca um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	7	168	0	0	O que provoca um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	8	169	0	0	O que provoca um estado de memória interna ?
+O que provoca um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que provoca um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	0	171	0	0	O que torna um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	1	172	0	0	O que torna um estado de memória interna ?
+torna	VERB	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	1	2	173	0	0	O que torna um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	3	174	0	0	O que torna um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	4	175	0	0	O que torna um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	5	176	0	0	O que torna um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	6	177	0	0	O que torna um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	7	178	0	0	O que torna um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	8	179	0	0	O que torna um estado de memória interna ?
+O que torna um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que torna um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	0	181	0	0	O que faz um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	1	182	0	0	O que faz um estado de memória interna ?
+faz	VERB	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	1	2	183	0	0	O que faz um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	3	184	0	0	O que faz um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	4	185	0	0	O que faz um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	5	186	0	0	O que faz um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	6	187	0	0	O que faz um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	7	188	0	0	O que faz um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	8	189	0	0	O que faz um estado de memória interna ?
+O que faz um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que faz um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	0	191	0	0	O que inclui um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	1	192	0	0	O que inclui um estado de memória interna ?
+inclui	VERB	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	1	2	193	0	0	O que inclui um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	3	194	0	0	O que inclui um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	4	195	0	0	O que inclui um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	5	196	0	0	O que inclui um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	6	197	0	0	O que inclui um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	7	198	0	0	O que inclui um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	8	199	0	0	O que inclui um estado de memória interna ?
+O que inclui um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que inclui um estado de memória interna ?
+O	PRON	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	0	201	0	0	O que estabelece um estado de memória interna ?
+que	PRON	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	1	202	0	0	O que estabelece um estado de memória interna ?
+estabelece	VERB	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	1	2	203	0	0	O que estabelece um estado de memória interna ?
+um	DET	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	3	204	0	0	O que estabelece um estado de memória interna ?
+estado	NOUN	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	4	205	0	0	O que estabelece um estado de memória interna ?
+de	ADP	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	5	206	0	0	O que estabelece um estado de memória interna ?
+memória	NOUN	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	6	207	0	0	O que estabelece um estado de memória interna ?
+interna	ADJ	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	7	208	0	0	O que estabelece um estado de memória interna ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	8	209	0	0	O que estabelece um estado de memória interna ?
+O que estabelece um estado de memória interna ?	['PRON', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	-1	-1		1	2	O que estabelece um estado de memória interna ?

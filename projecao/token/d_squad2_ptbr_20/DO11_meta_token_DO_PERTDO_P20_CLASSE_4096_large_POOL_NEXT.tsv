@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	PRON	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	0	1	O que são neurônios dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	1	2	O que são neurônios dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	2	3	O que são neurônios dinâmicos de ampla faixa ?
+neurônios	NOUN	1	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	1	3	4	O que são neurônios dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	4	5	O que são neurônios dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	5	6	O que são neurônios dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	6	7	O que são neurônios dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	7	8	O que são neurônios dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	8		O que são neurônios dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	0	10	O que são sistemas dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	1	11	O que são sistemas dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	2	12	O que são sistemas dinâmicos de ampla faixa ?
+sistemas	NOUN	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	1	3	13	O que são sistemas dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	4	14	O que são sistemas dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	5	15	O que são sistemas dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	6	16	O que são sistemas dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	7	17	O que são sistemas dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	8		O que são sistemas dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	0	19	O que são motores dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	1	20	O que são motores dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	2	21	O que são motores dinâmicos de ampla faixa ?
+motores	NOUN	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	1	3	22	O que são motores dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	4	23	O que são motores dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	5	24	O que são motores dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	6	25	O que são motores dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	7	26	O que são motores dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	8		O que são motores dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	0	28	O que são circuitos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	1	29	O que são circuitos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	2	30	O que são circuitos dinâmicos de ampla faixa ?
+circuitos	NOUN	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	1	3	31	O que são circuitos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	4	32	O que são circuitos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	5	33	O que são circuitos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	6	34	O que são circuitos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	7	35	O que são circuitos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	8		O que são circuitos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	0	37	O que são efeitos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	1	38	O que são efeitos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	2	39	O que são efeitos dinâmicos de ampla faixa ?
+efeitos	NOUN	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	1	3	40	O que são efeitos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	4	41	O que são efeitos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	5	42	O que são efeitos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	6	43	O que são efeitos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	7	44	O que são efeitos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	8		O que são efeitos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	0	46	O que são modelos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	1	47	O que são modelos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	2	48	O que são modelos dinâmicos de ampla faixa ?
+modelos	NOUN	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	1	3	49	O que são modelos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	4	50	O que são modelos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	5	51	O que são modelos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	6	52	O que são modelos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	7	53	O que são modelos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	8		O que são modelos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	0	55	O que são ambientes dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	1	56	O que são ambientes dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	2	57	O que são ambientes dinâmicos de ampla faixa ?
+ambientes	NOUN	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	1	3	58	O que são ambientes dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	4	59	O que são ambientes dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	5	60	O que são ambientes dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	6	61	O que são ambientes dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	7	62	O que são ambientes dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	8		O que são ambientes dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	0	64	O que são campos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	1	65	O que são campos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	2	66	O que são campos dinâmicos de ampla faixa ?
+campos	NOUN	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	1	3	67	O que são campos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	4	68	O que são campos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	5	69	O que são campos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	6	70	O que são campos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	7	71	O que são campos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	8		O que são campos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	0	73	O que são blocos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	1	74	O que são blocos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	2	75	O que são blocos dinâmicos de ampla faixa ?
+blocos	NOUN	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	1	3	76	O que são blocos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	4	77	O que são blocos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	5	78	O que são blocos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	6	79	O que são blocos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	7	80	O que são blocos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	8		O que são blocos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	0	82	O que são movimentos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	1	83	O que são movimentos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	2	84	O que são movimentos dinâmicos de ampla faixa ?
+movimentos	NOUN	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	1	3	85	O que são movimentos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	4	86	O que são movimentos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	5	87	O que são movimentos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	6	88	O que são movimentos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	7	89	O que são movimentos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	8		O que são movimentos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	0	91	O que são pneus dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	1	92	O que são pneus dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	2	93	O que são pneus dinâmicos de ampla faixa ?
+pneus	NOUN	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	1	3	94	O que são pneus dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	4	95	O que são pneus dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	5	96	O que são pneus dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	6	97	O que são pneus dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	7	98	O que são pneus dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	8		O que são pneus dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	0	100	O que são componentes dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	1	101	O que são componentes dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	2	102	O que são componentes dinâmicos de ampla faixa ?
+componentes	NOUN	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	1	3	103	O que são componentes dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	4	104	O que são componentes dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	5	105	O que são componentes dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	6	106	O que são componentes dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	7	107	O que são componentes dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	8		O que são componentes dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	0	109	O que são veículos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	1	110	O que são veículos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	2	111	O que são veículos dinâmicos de ampla faixa ?
+veículos	NOUN	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	1	3	112	O que são veículos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	4	113	O que são veículos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	5	114	O que são veículos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	6	115	O que são veículos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	7	116	O que são veículos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	8		O que são veículos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	0	118	O que são ciclos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	1	119	O que são ciclos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	2	120	O que são ciclos dinâmicos de ampla faixa ?
+ciclos	NOUN	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	1	3	121	O que são ciclos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	4	122	O que são ciclos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	5	123	O que são ciclos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	6	124	O que são ciclos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	7	125	O que são ciclos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	8		O que são ciclos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	0	127	O que são eixos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	1	128	O que são eixos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	2	129	O que são eixos dinâmicos de ampla faixa ?
+eixos	NOUN	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	1	3	130	O que são eixos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	4	131	O que são eixos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	5	132	O que são eixos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	6	133	O que são eixos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	7	134	O que são eixos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	8		O que são eixos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	0	136	O que são modos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	1	137	O que são modos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	2	138	O que são modos dinâmicos de ampla faixa ?
+modos	NOUN	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	1	3	139	O que são modos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	4	140	O que são modos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	5	141	O que são modos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	6	142	O que são modos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	7	143	O que são modos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	8		O que são modos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	0	145	O que são mapas dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	1	146	O que são mapas dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	2	147	O que são mapas dinâmicos de ampla faixa ?
+mapas	NOUN	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	1	3	148	O que são mapas dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	4	149	O que são mapas dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	5	150	O que são mapas dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	6	151	O que são mapas dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	7	152	O que são mapas dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	8		O que são mapas dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	0	154	O que são dispositivos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	1	155	O que são dispositivos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	2	156	O que são dispositivos dinâmicos de ampla faixa ?
+dispositivos	NOUN	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	1	3	157	O que são dispositivos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	4	158	O que são dispositivos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	5	159	O que são dispositivos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	6	160	O que são dispositivos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	7	161	O que são dispositivos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	8		O que são dispositivos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	0	163	O que são processos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	1	164	O que são processos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	2	165	O que são processos dinâmicos de ampla faixa ?
+processos	NOUN	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	1	3	166	O que são processos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	4	167	O que são processos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	5	168	O que são processos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	6	169	O que são processos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	7	170	O que são processos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	8		O que são processos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	0	172	O que são ritmos dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	1	173	O que são ritmos dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	2	174	O que são ritmos dinâmicos de ampla faixa ?
+ritmos	NOUN	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	1	3	175	O que são ritmos dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	4	176	O que são ritmos dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	5	177	O que são ritmos dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	6	178	O que são ritmos dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	7	179	O que são ritmos dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	8		O que são ritmos dinâmicos de ampla faixa ?
+O	PRON	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	0	181	O que são regimes dinâmicos de ampla faixa ?
+que	PRON	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	1	182	O que são regimes dinâmicos de ampla faixa ?
+são	AUX	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	2	183	O que são regimes dinâmicos de ampla faixa ?
+regimes	NOUN	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	1	3	184	O que são regimes dinâmicos de ampla faixa ?
+dinâmicos	ADJ	1	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	4	185	O que são regimes dinâmicos de ampla faixa ?
+de	ADP	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	5	186	O que são regimes dinâmicos de ampla faixa ?
+ampla	ADJ	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	6	187	O que são regimes dinâmicos de ampla faixa ?
+faixa	NOUN	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	7	188	O que são regimes dinâmicos de ampla faixa ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	8		O que são regimes dinâmicos de ampla faixa ?

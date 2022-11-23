@@ -1,0 +1,21 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+How	SCONJ	0	5	5	1	0	0	How to push elements in a stack data structure ?
+to	PART	0	5	5	1	0	1	How to push elements in a stack data structure ?
+push	VERB	0	5	5	1	0	2	How to push elements in a stack data structure ?
+elements	NOUN	0	5	5	1	0	3	How to push elements in a stack data structure ?
+in	ADP	0	5	5	1	0	4	How to push elements in a stack data structure ?
+a	DET	0	5	5	1	0	5	How to push elements in a stack data structure ?
+stack	NOUN	0	5	5	1	1	6	How to push elements in a stack data structure ?
+data	NOUN	0	5	5	1	0	7	How to push elements in a stack data structure ?
+structure	NOUN	0	5	5	1	0	8	How to push elements in a stack data structure ?
+?	PUNCT	0	5	5	1	0	9	How to push elements in a stack data structure ?
+How	SCONJ	0	5_pert_0	5	0	0	0	How to push elements in a queue data structure ?
+to	PART	0	5_pert_0	5	0	0	1	How to push elements in a queue data structure ?
+push	VERB	0	5_pert_0	5	0	0	2	How to push elements in a queue data structure ?
+elements	NOUN	0	5_pert_0	5	0	0	3	How to push elements in a queue data structure ?
+in	ADP	0	5_pert_0	5	0	0	4	How to push elements in a queue data structure ?
+a	DET	0	5_pert_0	5	0	0	5	How to push elements in a queue data structure ?
+queue	NOUN	1	5_pert_0	5	0	1	6	How to push elements in a queue data structure ?
+data	NOUN	0	5_pert_0	5	0	0	7	How to push elements in a queue data structure ?
+structure	NOUN	0	5_pert_0	5	0	0	8	How to push elements in a queue data structure ?
+?	PUNCT	0	5_pert_0	5	0	0	9	How to push elements in a queue data structure ?

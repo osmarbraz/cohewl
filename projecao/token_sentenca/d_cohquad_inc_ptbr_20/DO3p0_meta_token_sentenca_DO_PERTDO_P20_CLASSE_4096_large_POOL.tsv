@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Como	SCONJ	0	3p0	3p0	1	0	0	0	1	Como empilhar elementos em uma fila ?
+empilhar	VERB	1	3p0	3p0	1	1	1	0	1	Como empilhar elementos em uma fila ?
+elementos	NOUN	0	3p0	3p0	1	0	2	0	1	Como empilhar elementos em uma fila ?
+em	ADP	0	3p0	3p0	1	0	3	0	1	Como empilhar elementos em uma fila ?
+uma	DET	0	3p0	3p0	1	0	4	0	1	Como empilhar elementos em uma fila ?
+fila	NOUN	1	3p0	3p0	1	0	5	0	1	Como empilhar elementos em uma fila ?
+?	PUNCT	0	3p0	3p0	1	0	6	0	1	Como empilhar elementos em uma fila ?
+0	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 1, 0]	3p0	3p0	1	-1	-1	1	3	Como empilhar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_0	3p0	0	0	0	0	0	Como colocar elementos em uma fila ?
+colocar	VERB	0	3p0_pert_0	3p0	0	1	1	0	0	Como colocar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_0	3p0	0	0	2	0	0	Como colocar elementos em uma fila ?
+em	ADP	0	3p0_pert_0	3p0	0	0	3	0	0	Como colocar elementos em uma fila ?
+uma	DET	0	3p0_pert_0	3p0	0	0	4	0	0	Como colocar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_0	3p0	0	0	5	0	0	Como colocar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_0	3p0	0	0	6	0	0	Como colocar elementos em uma fila ?
+1	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_0	3p0	0	-1	-1	1	2	Como colocar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_1	3p0	0	0	0	0	0	Como identificar elementos em uma fila ?
+identificar	VERB	0	3p0_pert_1	3p0	0	1	1	0	0	Como identificar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_1	3p0	0	0	2	0	0	Como identificar elementos em uma fila ?
+em	ADP	0	3p0_pert_1	3p0	0	0	3	0	0	Como identificar elementos em uma fila ?
+uma	DET	0	3p0_pert_1	3p0	0	0	4	0	0	Como identificar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_1	3p0	0	0	5	0	0	Como identificar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_1	3p0	0	0	6	0	0	Como identificar elementos em uma fila ?
+2	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_1	3p0	0	-1	-1	1	2	Como identificar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_2	3p0	0	0	0	0	0	Como encontrar elementos em uma fila ?
+encontrar	VERB	0	3p0_pert_2	3p0	0	1	1	0	0	Como encontrar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_2	3p0	0	0	2	0	0	Como encontrar elementos em uma fila ?
+em	ADP	0	3p0_pert_2	3p0	0	0	3	0	0	Como encontrar elementos em uma fila ?
+uma	DET	0	3p0_pert_2	3p0	0	0	4	0	0	Como encontrar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_2	3p0	0	0	5	0	0	Como encontrar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_2	3p0	0	0	6	0	0	Como encontrar elementos em uma fila ?
+3	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_2	3p0	0	-1	-1	1	2	Como encontrar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_3	3p0	0	0	0	0	0	Como adicionar elementos em uma fila ?
+adicionar	VERB	0	3p0_pert_3	3p0	0	1	1	0	0	Como adicionar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_3	3p0	0	0	2	0	0	Como adicionar elementos em uma fila ?
+em	ADP	0	3p0_pert_3	3p0	0	0	3	0	0	Como adicionar elementos em uma fila ?
+uma	DET	0	3p0_pert_3	3p0	0	0	4	0	0	Como adicionar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_3	3p0	0	0	5	0	0	Como adicionar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_3	3p0	0	0	6	0	0	Como adicionar elementos em uma fila ?
+4	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_3	3p0	0	-1	-1	1	2	Como adicionar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_4	3p0	0	0	0	0	0	Como organizar elementos em uma fila ?
+organizar	VERB	0	3p0_pert_4	3p0	0	1	1	0	0	Como organizar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_4	3p0	0	0	2	0	0	Como organizar elementos em uma fila ?
+em	ADP	0	3p0_pert_4	3p0	0	0	3	0	0	Como organizar elementos em uma fila ?
+uma	DET	0	3p0_pert_4	3p0	0	0	4	0	0	Como organizar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_4	3p0	0	0	5	0	0	Como organizar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_4	3p0	0	0	6	0	0	Como organizar elementos em uma fila ?
+5	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_4	3p0	0	-1	-1	1	2	Como organizar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_5	3p0	0	0	0	0	0	Como localizar elementos em uma fila ?
+localizar	VERB	0	3p0_pert_5	3p0	0	1	1	0	0	Como localizar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_5	3p0	0	0	2	0	0	Como localizar elementos em uma fila ?
+em	ADP	0	3p0_pert_5	3p0	0	0	3	0	0	Como localizar elementos em uma fila ?
+uma	DET	0	3p0_pert_5	3p0	0	0	4	0	0	Como localizar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_5	3p0	0	0	5	0	0	Como localizar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_5	3p0	0	0	6	0	0	Como localizar elementos em uma fila ?
+6	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_5	3p0	0	-1	-1	1	2	Como localizar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_6	3p0	0	0	0	0	0	Como classificar elementos em uma fila ?
+classificar	VERB	0	3p0_pert_6	3p0	0	1	1	0	0	Como classificar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_6	3p0	0	0	2	0	0	Como classificar elementos em uma fila ?
+em	ADP	0	3p0_pert_6	3p0	0	0	3	0	0	Como classificar elementos em uma fila ?
+uma	DET	0	3p0_pert_6	3p0	0	0	4	0	0	Como classificar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_6	3p0	0	0	5	0	0	Como classificar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_6	3p0	0	0	6	0	0	Como classificar elementos em uma fila ?
+7	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_6	3p0	0	-1	-1	1	2	Como classificar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_7	3p0	0	0	0	0	0	Como conseguir elementos em uma fila ?
+conseguir	VERB	0	3p0_pert_7	3p0	0	1	1	0	0	Como conseguir elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_7	3p0	0	0	2	0	0	Como conseguir elementos em uma fila ?
+em	ADP	0	3p0_pert_7	3p0	0	0	3	0	0	Como conseguir elementos em uma fila ?
+uma	DET	0	3p0_pert_7	3p0	0	0	4	0	0	Como conseguir elementos em uma fila ?
+fila	NOUN	1	3p0_pert_7	3p0	0	0	5	0	0	Como conseguir elementos em uma fila ?
+?	PUNCT	0	3p0_pert_7	3p0	0	0	6	0	0	Como conseguir elementos em uma fila ?
+8	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_7	3p0	0	-1	-1	1	2	Como conseguir elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_8	3p0	0	0	0	0	0	Como achar elementos em uma fila ?
+achar	VERB	0	3p0_pert_8	3p0	0	1	1	0	0	Como achar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_8	3p0	0	0	2	0	0	Como achar elementos em uma fila ?
+em	ADP	0	3p0_pert_8	3p0	0	0	3	0	0	Como achar elementos em uma fila ?
+uma	DET	0	3p0_pert_8	3p0	0	0	4	0	0	Como achar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_8	3p0	0	0	5	0	0	Como achar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_8	3p0	0	0	6	0	0	Como achar elementos em uma fila ?
+9	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_8	3p0	0	-1	-1	1	2	Como achar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_9	3p0	0	0	0	0	0	Como ver elementos em uma fila ?
+ver	VERB	0	3p0_pert_9	3p0	0	1	1	0	0	Como ver elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_9	3p0	0	0	2	0	0	Como ver elementos em uma fila ?
+em	ADP	0	3p0_pert_9	3p0	0	0	3	0	0	Como ver elementos em uma fila ?
+uma	DET	0	3p0_pert_9	3p0	0	0	4	0	0	Como ver elementos em uma fila ?
+fila	NOUN	1	3p0_pert_9	3p0	0	0	5	0	0	Como ver elementos em uma fila ?
+?	PUNCT	0	3p0_pert_9	3p0	0	0	6	0	0	Como ver elementos em uma fila ?
+10	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_9	3p0	0	-1	-1	1	2	Como ver elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_10	3p0	0	0	0	0	0	Como juntar elementos em uma fila ?
+juntar	VERB	0	3p0_pert_10	3p0	0	1	1	0	0	Como juntar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_10	3p0	0	0	2	0	0	Como juntar elementos em uma fila ?
+em	ADP	0	3p0_pert_10	3p0	0	0	3	0	0	Como juntar elementos em uma fila ?
+uma	DET	0	3p0_pert_10	3p0	0	0	4	0	0	Como juntar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_10	3p0	0	0	5	0	0	Como juntar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_10	3p0	0	0	6	0	0	Como juntar elementos em uma fila ?
+11	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_10	3p0	0	-1	-1	1	2	Como juntar elementos em uma fila ?
+Como	ADV	0	3p0_pert_11	3p0	0	0	0	0	0	Como separar elementos em uma fila ?
+separar	VERB	0	3p0_pert_11	3p0	0	1	1	0	0	Como separar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_11	3p0	0	0	2	0	0	Como separar elementos em uma fila ?
+em	ADP	0	3p0_pert_11	3p0	0	0	3	0	0	Como separar elementos em uma fila ?
+uma	DET	0	3p0_pert_11	3p0	0	0	4	0	0	Como separar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_11	3p0	0	0	5	0	0	Como separar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_11	3p0	0	0	6	0	0	Como separar elementos em uma fila ?
+12	['ADV', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_11	3p0	0	-1	-1	1	2	Como separar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_12	3p0	0	0	0	0	0	Como incluir elementos em uma fila ?
+incluir	VERB	0	3p0_pert_12	3p0	0	1	1	0	0	Como incluir elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_12	3p0	0	0	2	0	0	Como incluir elementos em uma fila ?
+em	ADP	0	3p0_pert_12	3p0	0	0	3	0	0	Como incluir elementos em uma fila ?
+uma	DET	0	3p0_pert_12	3p0	0	0	4	0	0	Como incluir elementos em uma fila ?
+fila	NOUN	1	3p0_pert_12	3p0	0	0	5	0	0	Como incluir elementos em uma fila ?
+?	PUNCT	0	3p0_pert_12	3p0	0	0	6	0	0	Como incluir elementos em uma fila ?
+13	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_12	3p0	0	-1	-1	1	2	Como incluir elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_13	3p0	0	0	0	0	0	Como procurar elementos em uma fila ?
+procurar	VERB	0	3p0_pert_13	3p0	0	1	1	0	0	Como procurar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_13	3p0	0	0	2	0	0	Como procurar elementos em uma fila ?
+em	ADP	0	3p0_pert_13	3p0	0	0	3	0	0	Como procurar elementos em uma fila ?
+uma	DET	0	3p0_pert_13	3p0	0	0	4	0	0	Como procurar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_13	3p0	0	0	5	0	0	Como procurar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_13	3p0	0	0	6	0	0	Como procurar elementos em uma fila ?
+14	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_13	3p0	0	-1	-1	1	2	Como procurar elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_14	3p0	0	0	0	0	0	Como reconhecer elementos em uma fila ?
+reconhecer	VERB	0	3p0_pert_14	3p0	0	1	1	0	0	Como reconhecer elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_14	3p0	0	0	2	0	0	Como reconhecer elementos em uma fila ?
+em	ADP	0	3p0_pert_14	3p0	0	0	3	0	0	Como reconhecer elementos em uma fila ?
+uma	DET	0	3p0_pert_14	3p0	0	0	4	0	0	Como reconhecer elementos em uma fila ?
+fila	NOUN	1	3p0_pert_14	3p0	0	0	5	0	0	Como reconhecer elementos em uma fila ?
+?	PUNCT	0	3p0_pert_14	3p0	0	0	6	0	0	Como reconhecer elementos em uma fila ?
+15	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_14	3p0	0	-1	-1	1	2	Como reconhecer elementos em uma fila ?
+Como	ADP	0	3p0_pert_15	3p0	0	0	0	0	0	Como os elementos em uma fila ?
+os	DET	0	3p0_pert_15	3p0	0	1	1	0	0	Como os elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_15	3p0	0	0	2	0	0	Como os elementos em uma fila ?
+em	ADP	0	3p0_pert_15	3p0	0	0	3	0	0	Como os elementos em uma fila ?
+uma	DET	0	3p0_pert_15	3p0	0	0	4	0	0	Como os elementos em uma fila ?
+fila	NOUN	1	3p0_pert_15	3p0	0	0	5	0	0	Como os elementos em uma fila ?
+?	PUNCT	0	3p0_pert_15	3p0	0	0	6	0	0	Como os elementos em uma fila ?
+16	['ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_15	3p0	0	-1	-1	1	2	Como os elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_16	3p0	0	0	0	0	0	Como escolher elementos em uma fila ?
+escolher	VERB	0	3p0_pert_16	3p0	0	1	1	0	0	Como escolher elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_16	3p0	0	0	2	0	0	Como escolher elementos em uma fila ?
+em	ADP	0	3p0_pert_16	3p0	0	0	3	0	0	Como escolher elementos em uma fila ?
+uma	DET	0	3p0_pert_16	3p0	0	0	4	0	0	Como escolher elementos em uma fila ?
+fila	NOUN	1	3p0_pert_16	3p0	0	0	5	0	0	Como escolher elementos em uma fila ?
+?	PUNCT	0	3p0_pert_16	3p0	0	0	6	0	0	Como escolher elementos em uma fila ?
+17	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_16	3p0	0	-1	-1	1	2	Como escolher elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_17	3p0	0	0	0	0	0	Como obter elementos em uma fila ?
+obter	VERB	0	3p0_pert_17	3p0	0	1	1	0	0	Como obter elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_17	3p0	0	0	2	0	0	Como obter elementos em uma fila ?
+em	ADP	0	3p0_pert_17	3p0	0	0	3	0	0	Como obter elementos em uma fila ?
+uma	DET	0	3p0_pert_17	3p0	0	0	4	0	0	Como obter elementos em uma fila ?
+fila	NOUN	1	3p0_pert_17	3p0	0	0	5	0	0	Como obter elementos em uma fila ?
+?	PUNCT	0	3p0_pert_17	3p0	0	0	6	0	0	Como obter elementos em uma fila ?
+18	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_17	3p0	0	-1	-1	1	2	Como obter elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_18	3p0	0	0	0	0	0	Como reunir elementos em uma fila ?
+reunir	VERB	0	3p0_pert_18	3p0	0	1	1	0	0	Como reunir elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_18	3p0	0	0	2	0	0	Como reunir elementos em uma fila ?
+em	ADP	0	3p0_pert_18	3p0	0	0	3	0	0	Como reunir elementos em uma fila ?
+uma	DET	0	3p0_pert_18	3p0	0	0	4	0	0	Como reunir elementos em uma fila ?
+fila	NOUN	1	3p0_pert_18	3p0	0	0	5	0	0	Como reunir elementos em uma fila ?
+?	PUNCT	0	3p0_pert_18	3p0	0	0	6	0	0	Como reunir elementos em uma fila ?
+19	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_18	3p0	0	-1	-1	1	2	Como reunir elementos em uma fila ?
+Como	SCONJ	0	3p0_pert_19	3p0	0	0	0	0	0	Como entrar elementos em uma fila ?
+entrar	VERB	0	3p0_pert_19	3p0	0	1	1	0	0	Como entrar elementos em uma fila ?
+elementos	NOUN	0	3p0_pert_19	3p0	0	0	2	0	0	Como entrar elementos em uma fila ?
+em	ADP	0	3p0_pert_19	3p0	0	0	3	0	0	Como entrar elementos em uma fila ?
+uma	DET	0	3p0_pert_19	3p0	0	0	4	0	0	Como entrar elementos em uma fila ?
+fila	NOUN	1	3p0_pert_19	3p0	0	0	5	0	0	Como entrar elementos em uma fila ?
+?	PUNCT	0	3p0_pert_19	3p0	0	0	6	0	0	Como entrar elementos em uma fila ?
+20	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0]	3p0_pert_19	3p0	0	-1	-1	1	2	Como entrar elementos em uma fila ?

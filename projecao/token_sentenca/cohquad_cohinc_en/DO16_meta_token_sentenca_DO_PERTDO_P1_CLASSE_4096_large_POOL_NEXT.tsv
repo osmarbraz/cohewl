@@ -1,0 +1,29 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+What	PRON	0	16	16	1	0	0	1	0	1	What is a queue and how to enqueue and dequeue its elements ?
+is	AUX	0	16	16	1	0	1	2	0	1	What is a queue and how to enqueue and dequeue its elements ?
+a	DET	0	16	16	1	0	2	3	0	1	What is a queue and how to enqueue and dequeue its elements ?
+queue	NOUN	1	16	16	1	1	3	4	0	1	What is a queue and how to enqueue and dequeue its elements ?
+and	CCONJ	0	16	16	1	0	4	5	0	1	What is a queue and how to enqueue and dequeue its elements ?
+how	SCONJ	0	16	16	1	0	5	6	0	1	What is a queue and how to enqueue and dequeue its elements ?
+to	PART	0	16	16	1	0	6	7	0	1	What is a queue and how to enqueue and dequeue its elements ?
+enqueue	VERB	1	16	16	1	0	7	8	0	1	What is a queue and how to enqueue and dequeue its elements ?
+and	CCONJ	0	16	16	1	0	8	9	0	1	What is a queue and how to enqueue and dequeue its elements ?
+dequeue	VERB	1	16	16	1	0	9	10	0	1	What is a queue and how to enqueue and dequeue its elements ?
+its	PRON	0	16	16	1	0	10	11	0	1	What is a queue and how to enqueue and dequeue its elements ?
+elements	NOUN	0	16	16	1	0	11	12	0	1	What is a queue and how to enqueue and dequeue its elements ?
+?	PUNCT	0	16	16	1	0	12	13	0	1	What is a queue and how to enqueue and dequeue its elements ?
+0	['PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'PUNCT']	[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]	16	16	1	-1	-1		1	3	What is a queue and how to enqueue and dequeue its elements ?
+What	PRON	0	16_pert_0	16	0	0	0	15	0	0	What is a stack and how to enqueue and dequeue its elements ?
+is	AUX	0	16_pert_0	16	0	0	1	16	0	0	What is a stack and how to enqueue and dequeue its elements ?
+a	DET	0	16_pert_0	16	0	0	2	17	0	0	What is a stack and how to enqueue and dequeue its elements ?
+stack	NOUN	0	16_pert_0	16	0	1	3	18	0	0	What is a stack and how to enqueue and dequeue its elements ?
+and	CCONJ	0	16_pert_0	16	0	0	4	19	0	0	What is a stack and how to enqueue and dequeue its elements ?
+how	SCONJ	0	16_pert_0	16	0	0	5	20	0	0	What is a stack and how to enqueue and dequeue its elements ?
+to	PART	0	16_pert_0	16	0	0	6	21	0	0	What is a stack and how to enqueue and dequeue its elements ?
+enqueue	VERB	1	16_pert_0	16	0	0	7	22	0	0	What is a stack and how to enqueue and dequeue its elements ?
+and	CCONJ	0	16_pert_0	16	0	0	8	23	0	0	What is a stack and how to enqueue and dequeue its elements ?
+dequeue	VERB	1	16_pert_0	16	0	0	9	24	0	0	What is a stack and how to enqueue and dequeue its elements ?
+its	PRON	0	16_pert_0	16	0	0	10	25	0	0	What is a stack and how to enqueue and dequeue its elements ?
+elements	NOUN	0	16_pert_0	16	0	0	11	26	0	0	What is a stack and how to enqueue and dequeue its elements ?
+?	PUNCT	0	16_pert_0	16	0	0	12	27	0	0	What is a stack and how to enqueue and dequeue its elements ?
+1	['PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]	16_pert_0	16	0	-1	-1		1	2	What is a stack and how to enqueue and dequeue its elements ?

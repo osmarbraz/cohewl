@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	0	1	What was the intensity scaled at ?
+was	AUX	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	1	2	What was the intensity scaled at ?
+the	DET	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	2	3	What was the intensity scaled at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	3	4	What was the intensity scaled at ?
+scaled	VERB	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	1	4	5	What was the intensity scaled at ?
+at	ADP	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	5	6	What was the intensity scaled at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	6		What was the intensity scaled at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	0	8	What was the intensity aimed at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	1	9	What was the intensity aimed at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	2	10	What was the intensity aimed at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	3	11	What was the intensity aimed at ?
+aimed	VERB	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	1	4	12	What was the intensity aimed at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	5	13	What was the intensity aimed at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	6		What was the intensity aimed at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	0	15	What was the intensity directed at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	1	16	What was the intensity directed at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	2	17	What was the intensity directed at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	3	18	What was the intensity directed at ?
+directed	VERB	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	1	4	19	What was the intensity directed at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	5	20	What was the intensity directed at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	6		What was the intensity directed at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	0	22	What was the intensity hinted at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	1	23	What was the intensity hinted at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	2	24	What was the intensity hinted at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	3	25	What was the intensity hinted at ?
+hinted	VERB	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	1	4	26	What was the intensity hinted at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	5	27	What was the intensity hinted at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	6		What was the intensity hinted at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	0	29	What was the intensity pointed at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	1	30	What was the intensity pointed at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	2	31	What was the intensity pointed at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	3	32	What was the intensity pointed at ?
+pointed	VERB	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	1	4	33	What was the intensity pointed at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	5	34	What was the intensity pointed at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	6		What was the intensity pointed at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	0	36	What was the intensity pointing at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	1	37	What was the intensity pointing at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	2	38	What was the intensity pointing at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	3	39	What was the intensity pointing at ?
+pointing	NOUN	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	1	4	40	What was the intensity pointing at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	5	41	What was the intensity pointing at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	6		What was the intensity pointing at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	0	43	What was the intensity playing at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	1	44	What was the intensity playing at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	2	45	What was the intensity playing at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	3	46	What was the intensity playing at ?
+playing	VERB	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	1	4	47	What was the intensity playing at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	5	48	What was the intensity playing at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	6		What was the intensity playing at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	0	50	What was the intensity aiming at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	1	51	What was the intensity aiming at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	2	52	What was the intensity aiming at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	3	53	What was the intensity aiming at ?
+aiming	VERB	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	1	4	54	What was the intensity aiming at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	5	55	What was the intensity aiming at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	6		What was the intensity aiming at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	0	57	What was the intensity targeted at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	1	58	What was the intensity targeted at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	2	59	What was the intensity targeted at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	3	60	What was the intensity targeted at ?
+targeted	VERB	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	1	4	61	What was the intensity targeted at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	5	62	What was the intensity targeted at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	6		What was the intensity targeted at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	0	64	What was the intensity point at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	1	65	What was the intensity point at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	2	66	What was the intensity point at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	3	67	What was the intensity point at ?
+point	NOUN	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	1	4	68	What was the intensity point at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	5	69	What was the intensity point at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	6		What was the intensity point at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	0	71	What was the intensity looking at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	1	72	What was the intensity looking at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	2	73	What was the intensity looking at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	3	74	What was the intensity looking at ?
+looking	VERB	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	1	4	75	What was the intensity looking at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	5	76	What was the intensity looking at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	6		What was the intensity looking at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	0	78	What was the intensity worked at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	1	79	What was the intensity worked at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	2	80	What was the intensity worked at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	3	81	What was the intensity worked at ?
+worked	VERB	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	1	4	82	What was the intensity worked at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	5	83	What was the intensity worked at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	6		What was the intensity worked at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	0	85	What was the intensity shot at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	1	86	What was the intensity shot at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	2	87	What was the intensity shot at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	3	88	What was the intensity shot at ?
+shot	VERB	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	1	4	89	What was the intensity shot at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	5	90	What was the intensity shot at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	6		What was the intensity shot at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	0	92	What was the intensity been at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	1	93	What was the intensity been at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	2	94	What was the intensity been at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	3	95	What was the intensity been at ?
+been	AUX	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	1	4	96	What was the intensity been at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	5	97	What was the intensity been at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	6		What was the intensity been at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	0	99	What was the intensity played at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	1	100	What was the intensity played at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	2	101	What was the intensity played at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	3	102	What was the intensity played at ?
+played	VERB	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	1	4	103	What was the intensity played at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	5	104	What was the intensity played at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	6		What was the intensity played at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	0	106	What was the intensity set at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	1	107	What was the intensity set at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	2	108	What was the intensity set at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	3	109	What was the intensity set at ?
+set	VERB	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	1	4	110	What was the intensity set at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	5	111	What was the intensity set at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	6		What was the intensity set at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	0	113	What was the intensity shooting at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	1	114	What was the intensity shooting at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	2	115	What was the intensity shooting at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	3	116	What was the intensity shooting at ?
+shooting	VERB	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	1	4	117	What was the intensity shooting at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	5	118	What was the intensity shooting at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	6		What was the intensity shooting at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	0	120	What was the intensity driving at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	1	121	What was the intensity driving at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	2	122	What was the intensity driving at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	3	123	What was the intensity driving at ?
+driving	VERB	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	1	4	124	What was the intensity driving at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	5	125	What was the intensity driving at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	6		What was the intensity driving at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	0	127	What was the intensity staring at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	1	128	What was the intensity staring at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	2	129	What was the intensity staring at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	3	130	What was the intensity staring at ?
+staring	VERB	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	1	4	131	What was the intensity staring at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	5	132	What was the intensity staring at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	6		What was the intensity staring at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	0	134	What was the intensity yelled at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	1	135	What was the intensity yelled at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	2	136	What was the intensity yelled at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	3	137	What was the intensity yelled at ?
+yelled	VERB	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	1	4	138	What was the intensity yelled at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	5	139	What was the intensity yelled at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	6		What was the intensity yelled at ?
+What	PRON	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	0	141	What was the intensity looked at ?
+was	AUX	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	1	142	What was the intensity looked at ?
+the	DET	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	2	143	What was the intensity looked at ?
+intensity	NOUN	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	3	144	What was the intensity looked at ?
+looked	VERB	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	1	4	145	What was the intensity looked at ?
+at	ADP	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	5	146	What was the intensity looked at ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	6		What was the intensity looked at ?

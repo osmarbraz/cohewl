@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	9p0	9p0	1	0	0	1	What is a queue and how to push its element ?
+is	AUX	0	9p0	9p0	1	0	1	2	What is a queue and how to push its element ?
+a	DET	0	9p0	9p0	1	0	2	3	What is a queue and how to push its element ?
+queue	NOUN	1	9p0	9p0	1	0	3	4	What is a queue and how to push its element ?
+and	CCONJ	0	9p0	9p0	1	0	4	5	What is a queue and how to push its element ?
+how	SCONJ	0	9p0	9p0	1	0	5	6	What is a queue and how to push its element ?
+to	PART	0	9p0	9p0	1	0	6	7	What is a queue and how to push its element ?
+push	VERB	0	9p0	9p0	1	1	7	8	What is a queue and how to push its element ?
+its	PRON	0	9p0	9p0	1	0	8	9	What is a queue and how to push its element ?
+element	NOUN	0	9p0	9p0	1	0	9	10	What is a queue and how to push its element ?
+?	PUNCT	0	9p0	9p0	1	0	10		What is a queue and how to push its element ?
+What	PRON	0	9p0_pert_0	9p0	0	0	0	12	What is a queue and how to find its element ?
+is	AUX	0	9p0_pert_0	9p0	0	0	1	13	What is a queue and how to find its element ?
+a	DET	0	9p0_pert_0	9p0	0	0	2	14	What is a queue and how to find its element ?
+queue	NOUN	1	9p0_pert_0	9p0	0	0	3	15	What is a queue and how to find its element ?
+and	CCONJ	0	9p0_pert_0	9p0	0	0	4	16	What is a queue and how to find its element ?
+how	SCONJ	0	9p0_pert_0	9p0	0	0	5	17	What is a queue and how to find its element ?
+to	PART	0	9p0_pert_0	9p0	0	0	6	18	What is a queue and how to find its element ?
+find	VERB	0	9p0_pert_0	9p0	0	1	7	19	What is a queue and how to find its element ?
+its	PRON	0	9p0_pert_0	9p0	0	0	8	20	What is a queue and how to find its element ?
+element	NOUN	0	9p0_pert_0	9p0	0	0	9	21	What is a queue and how to find its element ?
+?	PUNCT	0	9p0_pert_0	9p0	0	0	10		What is a queue and how to find its element ?
+What	PRON	0	9p0_pert_1	9p0	0	0	0	23	What is a queue and how to use its element ?
+is	AUX	0	9p0_pert_1	9p0	0	0	1	24	What is a queue and how to use its element ?
+a	DET	0	9p0_pert_1	9p0	0	0	2	25	What is a queue and how to use its element ?
+queue	NOUN	1	9p0_pert_1	9p0	0	0	3	26	What is a queue and how to use its element ?
+and	CCONJ	0	9p0_pert_1	9p0	0	0	4	27	What is a queue and how to use its element ?
+how	SCONJ	0	9p0_pert_1	9p0	0	0	5	28	What is a queue and how to use its element ?
+to	PART	0	9p0_pert_1	9p0	0	0	6	29	What is a queue and how to use its element ?
+use	VERB	0	9p0_pert_1	9p0	0	1	7	30	What is a queue and how to use its element ?
+its	PRON	0	9p0_pert_1	9p0	0	0	8	31	What is a queue and how to use its element ?
+element	NOUN	0	9p0_pert_1	9p0	0	0	9	32	What is a queue and how to use its element ?
+?	PUNCT	0	9p0_pert_1	9p0	0	0	10		What is a queue and how to use its element ?
+What	PRON	0	9p0_pert_2	9p0	0	0	0	34	What is a queue and how to access its element ?
+is	AUX	0	9p0_pert_2	9p0	0	0	1	35	What is a queue and how to access its element ?
+a	DET	0	9p0_pert_2	9p0	0	0	2	36	What is a queue and how to access its element ?
+queue	NOUN	1	9p0_pert_2	9p0	0	0	3	37	What is a queue and how to access its element ?
+and	CCONJ	0	9p0_pert_2	9p0	0	0	4	38	What is a queue and how to access its element ?
+how	SCONJ	0	9p0_pert_2	9p0	0	0	5	39	What is a queue and how to access its element ?
+to	PART	0	9p0_pert_2	9p0	0	0	6	40	What is a queue and how to access its element ?
+access	VERB	0	9p0_pert_2	9p0	0	1	7	41	What is a queue and how to access its element ?
+its	PRON	0	9p0_pert_2	9p0	0	0	8	42	What is a queue and how to access its element ?
+element	NOUN	0	9p0_pert_2	9p0	0	0	9	43	What is a queue and how to access its element ?
+?	PUNCT	0	9p0_pert_2	9p0	0	0	10		What is a queue and how to access its element ?
+What	PRON	0	9p0_pert_3	9p0	0	0	0	45	What is a queue and how to manage its element ?
+is	AUX	0	9p0_pert_3	9p0	0	0	1	46	What is a queue and how to manage its element ?
+a	DET	0	9p0_pert_3	9p0	0	0	2	47	What is a queue and how to manage its element ?
+queue	NOUN	1	9p0_pert_3	9p0	0	0	3	48	What is a queue and how to manage its element ?
+and	CCONJ	0	9p0_pert_3	9p0	0	0	4	49	What is a queue and how to manage its element ?
+how	SCONJ	0	9p0_pert_3	9p0	0	0	5	50	What is a queue and how to manage its element ?
+to	PART	0	9p0_pert_3	9p0	0	0	6	51	What is a queue and how to manage its element ?
+manage	VERB	0	9p0_pert_3	9p0	0	1	7	52	What is a queue and how to manage its element ?
+its	PRON	0	9p0_pert_3	9p0	0	0	8	53	What is a queue and how to manage its element ?
+element	NOUN	0	9p0_pert_3	9p0	0	0	9	54	What is a queue and how to manage its element ?
+?	PUNCT	0	9p0_pert_3	9p0	0	0	10		What is a queue and how to manage its element ?
+What	PRON	0	9p0_pert_4	9p0	0	0	0	56	What is a queue and how to define its element ?
+is	AUX	0	9p0_pert_4	9p0	0	0	1	57	What is a queue and how to define its element ?
+a	DET	0	9p0_pert_4	9p0	0	0	2	58	What is a queue and how to define its element ?
+queue	NOUN	1	9p0_pert_4	9p0	0	0	3	59	What is a queue and how to define its element ?
+and	CCONJ	0	9p0_pert_4	9p0	0	0	4	60	What is a queue and how to define its element ?
+how	SCONJ	0	9p0_pert_4	9p0	0	0	5	61	What is a queue and how to define its element ?
+to	PART	0	9p0_pert_4	9p0	0	0	6	62	What is a queue and how to define its element ?
+define	VERB	0	9p0_pert_4	9p0	0	1	7	63	What is a queue and how to define its element ?
+its	PRON	0	9p0_pert_4	9p0	0	0	8	64	What is a queue and how to define its element ?
+element	NOUN	0	9p0_pert_4	9p0	0	0	9	65	What is a queue and how to define its element ?
+?	PUNCT	0	9p0_pert_4	9p0	0	0	10		What is a queue and how to define its element ?
+What	PRON	0	9p0_pert_5	9p0	0	0	0	67	What is a queue and how to identify its element ?
+is	AUX	0	9p0_pert_5	9p0	0	0	1	68	What is a queue and how to identify its element ?
+a	DET	0	9p0_pert_5	9p0	0	0	2	69	What is a queue and how to identify its element ?
+queue	NOUN	1	9p0_pert_5	9p0	0	0	3	70	What is a queue and how to identify its element ?
+and	CCONJ	0	9p0_pert_5	9p0	0	0	4	71	What is a queue and how to identify its element ?
+how	SCONJ	0	9p0_pert_5	9p0	0	0	5	72	What is a queue and how to identify its element ?
+to	PART	0	9p0_pert_5	9p0	0	0	6	73	What is a queue and how to identify its element ?
+identify	VERB	0	9p0_pert_5	9p0	0	1	7	74	What is a queue and how to identify its element ?
+its	PRON	0	9p0_pert_5	9p0	0	0	8	75	What is a queue and how to identify its element ?
+element	NOUN	0	9p0_pert_5	9p0	0	0	9	76	What is a queue and how to identify its element ?
+?	PUNCT	0	9p0_pert_5	9p0	0	0	10		What is a queue and how to identify its element ?
+What	PRON	0	9p0_pert_6	9p0	0	0	0	78	What is a queue and how to handle its element ?
+is	AUX	0	9p0_pert_6	9p0	0	0	1	79	What is a queue and how to handle its element ?
+a	DET	0	9p0_pert_6	9p0	0	0	2	80	What is a queue and how to handle its element ?
+queue	NOUN	1	9p0_pert_6	9p0	0	0	3	81	What is a queue and how to handle its element ?
+and	CCONJ	0	9p0_pert_6	9p0	0	0	4	82	What is a queue and how to handle its element ?
+how	SCONJ	0	9p0_pert_6	9p0	0	0	5	83	What is a queue and how to handle its element ?
+to	PART	0	9p0_pert_6	9p0	0	0	6	84	What is a queue and how to handle its element ?
+handle	VERB	0	9p0_pert_6	9p0	0	1	7	85	What is a queue and how to handle its element ?
+its	PRON	0	9p0_pert_6	9p0	0	0	8	86	What is a queue and how to handle its element ?
+element	NOUN	0	9p0_pert_6	9p0	0	0	9	87	What is a queue and how to handle its element ?
+?	PUNCT	0	9p0_pert_6	9p0	0	0	10		What is a queue and how to handle its element ?
+What	PRON	0	9p0_pert_7	9p0	0	0	0	89	What is a queue and how to retrieve its element ?
+is	AUX	0	9p0_pert_7	9p0	0	0	1	90	What is a queue and how to retrieve its element ?
+a	DET	0	9p0_pert_7	9p0	0	0	2	91	What is a queue and how to retrieve its element ?
+queue	NOUN	1	9p0_pert_7	9p0	0	0	3	92	What is a queue and how to retrieve its element ?
+and	CCONJ	0	9p0_pert_7	9p0	0	0	4	93	What is a queue and how to retrieve its element ?
+how	SCONJ	0	9p0_pert_7	9p0	0	0	5	94	What is a queue and how to retrieve its element ?
+to	PART	0	9p0_pert_7	9p0	0	0	6	95	What is a queue and how to retrieve its element ?
+retrieve	VERB	0	9p0_pert_7	9p0	0	1	7	96	What is a queue and how to retrieve its element ?
+its	PRON	0	9p0_pert_7	9p0	0	0	8	97	What is a queue and how to retrieve its element ?
+element	NOUN	0	9p0_pert_7	9p0	0	0	9	98	What is a queue and how to retrieve its element ?
+?	PUNCT	0	9p0_pert_7	9p0	0	0	10		What is a queue and how to retrieve its element ?
+What	PRON	0	9p0_pert_8	9p0	0	0	0	100	What is a queue and how to control its element ?
+is	AUX	0	9p0_pert_8	9p0	0	0	1	101	What is a queue and how to control its element ?
+a	DET	0	9p0_pert_8	9p0	0	0	2	102	What is a queue and how to control its element ?
+queue	NOUN	1	9p0_pert_8	9p0	0	0	3	103	What is a queue and how to control its element ?
+and	CCONJ	0	9p0_pert_8	9p0	0	0	4	104	What is a queue and how to control its element ?
+how	SCONJ	0	9p0_pert_8	9p0	0	0	5	105	What is a queue and how to control its element ?
+to	PART	0	9p0_pert_8	9p0	0	0	6	106	What is a queue and how to control its element ?
+control	VERB	0	9p0_pert_8	9p0	0	1	7	107	What is a queue and how to control its element ?
+its	PRON	0	9p0_pert_8	9p0	0	0	8	108	What is a queue and how to control its element ?
+element	NOUN	0	9p0_pert_8	9p0	0	0	9	109	What is a queue and how to control its element ?
+?	PUNCT	0	9p0_pert_8	9p0	0	0	10		What is a queue and how to control its element ?
+What	PRON	0	9p0_pert_9	9p0	0	0	0	111	What is a queue and how to select its element ?
+is	AUX	0	9p0_pert_9	9p0	0	0	1	112	What is a queue and how to select its element ?
+a	DET	0	9p0_pert_9	9p0	0	0	2	113	What is a queue and how to select its element ?
+queue	NOUN	1	9p0_pert_9	9p0	0	0	3	114	What is a queue and how to select its element ?
+and	CCONJ	0	9p0_pert_9	9p0	0	0	4	115	What is a queue and how to select its element ?
+how	SCONJ	0	9p0_pert_9	9p0	0	0	5	116	What is a queue and how to select its element ?
+to	PART	0	9p0_pert_9	9p0	0	0	6	117	What is a queue and how to select its element ?
+select	VERB	0	9p0_pert_9	9p0	0	1	7	118	What is a queue and how to select its element ?
+its	PRON	0	9p0_pert_9	9p0	0	0	8	119	What is a queue and how to select its element ?
+element	NOUN	0	9p0_pert_9	9p0	0	0	9	120	What is a queue and how to select its element ?
+?	PUNCT	0	9p0_pert_9	9p0	0	0	10		What is a queue and how to select its element ?
+What	PRON	0	9p0_pert_10	9p0	0	0	0	122	What is a queue and how to choose its element ?
+is	AUX	0	9p0_pert_10	9p0	0	0	1	123	What is a queue and how to choose its element ?
+a	DET	0	9p0_pert_10	9p0	0	0	2	124	What is a queue and how to choose its element ?
+queue	NOUN	1	9p0_pert_10	9p0	0	0	3	125	What is a queue and how to choose its element ?
+and	CCONJ	0	9p0_pert_10	9p0	0	0	4	126	What is a queue and how to choose its element ?
+how	SCONJ	0	9p0_pert_10	9p0	0	0	5	127	What is a queue and how to choose its element ?
+to	PART	0	9p0_pert_10	9p0	0	0	6	128	What is a queue and how to choose its element ?
+choose	VERB	0	9p0_pert_10	9p0	0	1	7	129	What is a queue and how to choose its element ?
+its	PRON	0	9p0_pert_10	9p0	0	0	8	130	What is a queue and how to choose its element ?
+element	NOUN	0	9p0_pert_10	9p0	0	0	9	131	What is a queue and how to choose its element ?
+?	PUNCT	0	9p0_pert_10	9p0	0	0	10		What is a queue and how to choose its element ?
+What	PRON	0	9p0_pert_11	9p0	0	0	0	133	What is a queue and how to create its element ?
+is	AUX	0	9p0_pert_11	9p0	0	0	1	134	What is a queue and how to create its element ?
+a	DET	0	9p0_pert_11	9p0	0	0	2	135	What is a queue and how to create its element ?
+queue	NOUN	1	9p0_pert_11	9p0	0	0	3	136	What is a queue and how to create its element ?
+and	CCONJ	0	9p0_pert_11	9p0	0	0	4	137	What is a queue and how to create its element ?
+how	SCONJ	0	9p0_pert_11	9p0	0	0	5	138	What is a queue and how to create its element ?
+to	PART	0	9p0_pert_11	9p0	0	0	6	139	What is a queue and how to create its element ?
+create	VERB	0	9p0_pert_11	9p0	0	1	7	140	What is a queue and how to create its element ?
+its	PRON	0	9p0_pert_11	9p0	0	0	8	141	What is a queue and how to create its element ?
+element	NOUN	0	9p0_pert_11	9p0	0	0	9	142	What is a queue and how to create its element ?
+?	PUNCT	0	9p0_pert_11	9p0	0	0	10		What is a queue and how to create its element ?
+What	PRON	0	9p0_pert_12	9p0	0	0	0	144	What is a queue and how to manipulate its element ?
+is	AUX	0	9p0_pert_12	9p0	0	0	1	145	What is a queue and how to manipulate its element ?
+a	DET	0	9p0_pert_12	9p0	0	0	2	146	What is a queue and how to manipulate its element ?
+queue	NOUN	1	9p0_pert_12	9p0	0	0	3	147	What is a queue and how to manipulate its element ?
+and	CCONJ	0	9p0_pert_12	9p0	0	0	4	148	What is a queue and how to manipulate its element ?
+how	SCONJ	0	9p0_pert_12	9p0	0	0	5	149	What is a queue and how to manipulate its element ?
+to	PART	0	9p0_pert_12	9p0	0	0	6	150	What is a queue and how to manipulate its element ?
+manipulate	VERB	0	9p0_pert_12	9p0	0	1	7	151	What is a queue and how to manipulate its element ?
+its	PRON	0	9p0_pert_12	9p0	0	0	8	152	What is a queue and how to manipulate its element ?
+element	NOUN	0	9p0_pert_12	9p0	0	0	9	153	What is a queue and how to manipulate its element ?
+?	PUNCT	0	9p0_pert_12	9p0	0	0	10		What is a queue and how to manipulate its element ?
+What	PRON	0	9p0_pert_13	9p0	0	0	0	155	What is a queue and how to determine its element ?
+is	AUX	0	9p0_pert_13	9p0	0	0	1	156	What is a queue and how to determine its element ?
+a	DET	0	9p0_pert_13	9p0	0	0	2	157	What is a queue and how to determine its element ?
+queue	NOUN	1	9p0_pert_13	9p0	0	0	3	158	What is a queue and how to determine its element ?
+and	CCONJ	0	9p0_pert_13	9p0	0	0	4	159	What is a queue and how to determine its element ?
+how	SCONJ	0	9p0_pert_13	9p0	0	0	5	160	What is a queue and how to determine its element ?
+to	PART	0	9p0_pert_13	9p0	0	0	6	161	What is a queue and how to determine its element ?
+determine	VERB	0	9p0_pert_13	9p0	0	1	7	162	What is a queue and how to determine its element ?
+its	PRON	0	9p0_pert_13	9p0	0	0	8	163	What is a queue and how to determine its element ?
+element	NOUN	0	9p0_pert_13	9p0	0	0	9	164	What is a queue and how to determine its element ?
+?	PUNCT	0	9p0_pert_13	9p0	0	0	10		What is a queue and how to determine its element ?
+What	PRON	0	9p0_pert_14	9p0	0	0	0	166	What is a queue and how to reach its element ?
+is	AUX	0	9p0_pert_14	9p0	0	0	1	167	What is a queue and how to reach its element ?
+a	DET	0	9p0_pert_14	9p0	0	0	2	168	What is a queue and how to reach its element ?
+queue	NOUN	1	9p0_pert_14	9p0	0	0	3	169	What is a queue and how to reach its element ?
+and	CCONJ	0	9p0_pert_14	9p0	0	0	4	170	What is a queue and how to reach its element ?
+how	SCONJ	0	9p0_pert_14	9p0	0	0	5	171	What is a queue and how to reach its element ?
+to	PART	0	9p0_pert_14	9p0	0	0	6	172	What is a queue and how to reach its element ?
+reach	VERB	0	9p0_pert_14	9p0	0	1	7	173	What is a queue and how to reach its element ?
+its	PRON	0	9p0_pert_14	9p0	0	0	8	174	What is a queue and how to reach its element ?
+element	NOUN	0	9p0_pert_14	9p0	0	0	9	175	What is a queue and how to reach its element ?
+?	PUNCT	0	9p0_pert_14	9p0	0	0	10		What is a queue and how to reach its element ?
+What	PRON	0	9p0_pert_15	9p0	0	0	0	177	What is a queue and how to organize its element ?
+is	AUX	0	9p0_pert_15	9p0	0	0	1	178	What is a queue and how to organize its element ?
+a	DET	0	9p0_pert_15	9p0	0	0	2	179	What is a queue and how to organize its element ?
+queue	NOUN	1	9p0_pert_15	9p0	0	0	3	180	What is a queue and how to organize its element ?
+and	CCONJ	0	9p0_pert_15	9p0	0	0	4	181	What is a queue and how to organize its element ?
+how	SCONJ	0	9p0_pert_15	9p0	0	0	5	182	What is a queue and how to organize its element ?
+to	PART	0	9p0_pert_15	9p0	0	0	6	183	What is a queue and how to organize its element ?
+organize	VERB	0	9p0_pert_15	9p0	0	1	7	184	What is a queue and how to organize its element ?
+its	PRON	0	9p0_pert_15	9p0	0	0	8	185	What is a queue and how to organize its element ?
+element	NOUN	0	9p0_pert_15	9p0	0	0	9	186	What is a queue and how to organize its element ?
+?	PUNCT	0	9p0_pert_15	9p0	0	0	10		What is a queue and how to organize its element ?
+What	PRON	0	9p0_pert_16	9p0	0	0	0	188	What is a queue and how to get its element ?
+is	AUX	0	9p0_pert_16	9p0	0	0	1	189	What is a queue and how to get its element ?
+a	DET	0	9p0_pert_16	9p0	0	0	2	190	What is a queue and how to get its element ?
+queue	NOUN	1	9p0_pert_16	9p0	0	0	3	191	What is a queue and how to get its element ?
+and	CCONJ	0	9p0_pert_16	9p0	0	0	4	192	What is a queue and how to get its element ?
+how	SCONJ	0	9p0_pert_16	9p0	0	0	5	193	What is a queue and how to get its element ?
+to	PART	0	9p0_pert_16	9p0	0	0	6	194	What is a queue and how to get its element ?
+get	VERB	0	9p0_pert_16	9p0	0	1	7	195	What is a queue and how to get its element ?
+its	PRON	0	9p0_pert_16	9p0	0	0	8	196	What is a queue and how to get its element ?
+element	NOUN	0	9p0_pert_16	9p0	0	0	9	197	What is a queue and how to get its element ?
+?	PUNCT	0	9p0_pert_16	9p0	0	0	10		What is a queue and how to get its element ?
+What	PRON	0	9p0_pert_17	9p0	0	0	0	199	What is a queue and how to sort its element ?
+is	AUX	0	9p0_pert_17	9p0	0	0	1	200	What is a queue and how to sort its element ?
+a	DET	0	9p0_pert_17	9p0	0	0	2	201	What is a queue and how to sort its element ?
+queue	NOUN	1	9p0_pert_17	9p0	0	0	3	202	What is a queue and how to sort its element ?
+and	CCONJ	0	9p0_pert_17	9p0	0	0	4	203	What is a queue and how to sort its element ?
+how	SCONJ	0	9p0_pert_17	9p0	0	0	5	204	What is a queue and how to sort its element ?
+to	PART	0	9p0_pert_17	9p0	0	0	6	205	What is a queue and how to sort its element ?
+sort	VERB	0	9p0_pert_17	9p0	0	1	7	206	What is a queue and how to sort its element ?
+its	PRON	0	9p0_pert_17	9p0	0	0	8	207	What is a queue and how to sort its element ?
+element	NOUN	0	9p0_pert_17	9p0	0	0	9	208	What is a queue and how to sort its element ?
+?	PUNCT	0	9p0_pert_17	9p0	0	0	10		What is a queue and how to sort its element ?
+What	PRON	0	9p0_pert_18	9p0	0	0	0	210	What is a queue and how to describe its element ?
+is	AUX	0	9p0_pert_18	9p0	0	0	1	211	What is a queue and how to describe its element ?
+a	DET	0	9p0_pert_18	9p0	0	0	2	212	What is a queue and how to describe its element ?
+queue	NOUN	1	9p0_pert_18	9p0	0	0	3	213	What is a queue and how to describe its element ?
+and	CCONJ	0	9p0_pert_18	9p0	0	0	4	214	What is a queue and how to describe its element ?
+how	SCONJ	0	9p0_pert_18	9p0	0	0	5	215	What is a queue and how to describe its element ?
+to	PART	0	9p0_pert_18	9p0	0	0	6	216	What is a queue and how to describe its element ?
+describe	VERB	0	9p0_pert_18	9p0	0	1	7	217	What is a queue and how to describe its element ?
+its	PRON	0	9p0_pert_18	9p0	0	0	8	218	What is a queue and how to describe its element ?
+element	NOUN	0	9p0_pert_18	9p0	0	0	9	219	What is a queue and how to describe its element ?
+?	PUNCT	0	9p0_pert_18	9p0	0	0	10		What is a queue and how to describe its element ?
+What	PRON	0	9p0_pert_19	9p0	0	0	0	221	What is a queue and how to obtain its element ?
+is	AUX	0	9p0_pert_19	9p0	0	0	1	222	What is a queue and how to obtain its element ?
+a	DET	0	9p0_pert_19	9p0	0	0	2	223	What is a queue and how to obtain its element ?
+queue	NOUN	1	9p0_pert_19	9p0	0	0	3	224	What is a queue and how to obtain its element ?
+and	CCONJ	0	9p0_pert_19	9p0	0	0	4	225	What is a queue and how to obtain its element ?
+how	SCONJ	0	9p0_pert_19	9p0	0	0	5	226	What is a queue and how to obtain its element ?
+to	PART	0	9p0_pert_19	9p0	0	0	6	227	What is a queue and how to obtain its element ?
+obtain	VERB	0	9p0_pert_19	9p0	0	1	7	228	What is a queue and how to obtain its element ?
+its	PRON	0	9p0_pert_19	9p0	0	0	8	229	What is a queue and how to obtain its element ?
+element	NOUN	0	9p0_pert_19	9p0	0	0	9	230	What is a queue and how to obtain its element ?
+?	PUNCT	0	9p0_pert_19	9p0	0	0	10		What is a queue and how to obtain its element ?

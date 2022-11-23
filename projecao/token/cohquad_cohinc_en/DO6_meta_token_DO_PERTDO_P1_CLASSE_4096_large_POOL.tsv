@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+How	SCONJ	0	6	6	1	0	0	How to push and pop elements in a stack data structure ?
+to	PART	0	6	6	1	0	1	How to push and pop elements in a stack data structure ?
+push	VERB	0	6	6	1	0	2	How to push and pop elements in a stack data structure ?
+and	CCONJ	0	6	6	1	0	3	How to push and pop elements in a stack data structure ?
+pop	NOUN	0	6	6	1	0	4	How to push and pop elements in a stack data structure ?
+elements	NOUN	0	6	6	1	0	5	How to push and pop elements in a stack data structure ?
+in	ADP	0	6	6	1	0	6	How to push and pop elements in a stack data structure ?
+a	DET	0	6	6	1	0	7	How to push and pop elements in a stack data structure ?
+stack	NOUN	0	6	6	1	1	8	How to push and pop elements in a stack data structure ?
+data	NOUN	0	6	6	1	0	9	How to push and pop elements in a stack data structure ?
+structure	NOUN	0	6	6	1	0	10	How to push and pop elements in a stack data structure ?
+?	PUNCT	0	6	6	1	0	11	How to push and pop elements in a stack data structure ?
+How	SCONJ	0	6_pert_0	6	0	0	0	How to push and pop elements in a queue data structure ?
+to	PART	0	6_pert_0	6	0	0	1	How to push and pop elements in a queue data structure ?
+push	VERB	0	6_pert_0	6	0	0	2	How to push and pop elements in a queue data structure ?
+and	CCONJ	0	6_pert_0	6	0	0	3	How to push and pop elements in a queue data structure ?
+pop	NOUN	0	6_pert_0	6	0	0	4	How to push and pop elements in a queue data structure ?
+elements	NOUN	0	6_pert_0	6	0	0	5	How to push and pop elements in a queue data structure ?
+in	ADP	0	6_pert_0	6	0	0	6	How to push and pop elements in a queue data structure ?
+a	DET	0	6_pert_0	6	0	0	7	How to push and pop elements in a queue data structure ?
+queue	NOUN	1	6_pert_0	6	0	1	8	How to push and pop elements in a queue data structure ?
+data	NOUN	0	6_pert_0	6	0	0	9	How to push and pop elements in a queue data structure ?
+structure	NOUN	0	6_pert_0	6	0	0	10	How to push and pop elements in a queue data structure ?
+?	PUNCT	0	6_pert_0	6	0	0	11	How to push and pop elements in a queue data structure ?

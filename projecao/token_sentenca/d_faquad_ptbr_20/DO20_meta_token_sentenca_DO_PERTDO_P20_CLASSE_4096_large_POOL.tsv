@@ -1,0 +1,127 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	0	0	0	1	Quando Turing cometeu suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	0	1	0	1	Quando Turing cometeu suicídio ?
+cometeu	VERB	0	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	1	2	0	1	Quando Turing cometeu suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	0	3	0	1	Quando Turing cometeu suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	0	4	0	1	Quando Turing cometeu suicídio ?
+Quando Turing cometeu suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25	7e320bf9101343f69feaca32edfe0e25	1	-1	-1	1	3	Quando Turing cometeu suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing cometeu suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing cometeu suicídio ?
+cometeu	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing cometeu suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing cometeu suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing cometeu suicídio ?
+Quando Turing cometeu suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_0	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing cometeu suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing tentou suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing tentou suicídio ?
+tentou	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing tentou suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing tentou suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing tentou suicídio ?
+Quando Turing tentou suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_1	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing tentou suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing cometer suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing cometer suicídio ?
+cometer	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing cometer suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing cometer suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing cometer suicídio ?
+Quando Turing cometer suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_2	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing cometer suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing tenta suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing tenta suicídio ?
+tenta	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing tenta suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing tenta suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing tenta suicídio ?
+Quando Turing tenta suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_3	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing tenta suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing o suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing o suicídio ?
+o	DET	0	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing o suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing o suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing o suicídio ?
+Quando Turing o suicídio ?	['SCONJ', 'PROPN', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_4	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing o suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing te suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing te suicídio ?
+te	DET	0	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing te suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing te suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing te suicídio ?
+Quando Turing te suicídio ?	['SCONJ', 'PROPN', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_5	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing te suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing admitiu suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing admitiu suicídio ?
+admitiu	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing admitiu suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing admitiu suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing admitiu suicídio ?
+Quando Turing admitiu suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_6	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing admitiu suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing ou suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing ou suicídio ?
+ou	CCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing ou suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing ou suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing ou suicídio ?
+Quando Turing ou suicídio ?	['ADP', 'PROPN', 'CCONJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_7	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing ou suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing u suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing u suicídio ?
+u	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing u suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing u suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing u suicídio ?
+Quando Turing u suicídio ?	['ADP', 'PROPN', 'PROPN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_8	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing u suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing a suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing a suicídio ?
+a	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing a suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing a suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing a suicídio ?
+Quando Turing a suicídio ?	['ADP', 'PROPN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_9	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing a suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing sofreu suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing sofreu suicídio ?
+sofreu	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing sofreu suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing sofreu suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing sofreu suicídio ?
+Quando Turing sofreu suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_10	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing sofreu suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing come suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing come suicídio ?
+come	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing come suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing come suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing come suicídio ?
+Quando Turing come suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_11	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing come suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing pediu suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing pediu suicídio ?
+pediu	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing pediu suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing pediu suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing pediu suicídio ?
+Quando Turing pediu suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_12	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing pediu suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing i suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing i suicídio ?
+i	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing i suicídio ?
+suicídio	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing i suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing i suicídio ?
+Quando Turing i suicídio ?	['ADP', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_13	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing i suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing ao suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing ao suicídio ?
+ao	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing ao suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing ao suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing ao suicídio ?
+Quando Turing ao suicídio ?	['ADP', 'PROPN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_14	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing ao suicídio ?
+Quando	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing á suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing á suicídio ?
+á	ADP	0	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing á suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing á suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing á suicídio ?
+Quando Turing á suicídio ?	['ADP', 'PROPN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_15	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing á suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing ia suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing ia suicídio ?
+ia	AUX	0	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing ia suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing ia suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing ia suicídio ?
+Quando Turing ia suicídio ?	['SCONJ', 'PROPN', 'AUX', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_16	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing ia suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing fez suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing fez suicídio ?
+fez	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing fez suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing fez suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing fez suicídio ?
+Quando Turing fez suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_17	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing fez suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing declarou suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing declarou suicídio ?
+declarou	VERB	0	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing declarou suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing declarou suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing declarou suicídio ?
+Quando Turing declarou suicídio ?	['SCONJ', 'PROPN', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_18	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing declarou suicídio ?
+Quando	SCONJ	0	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	0	0	0	0	Quando Turing foi suicídio ?
+Turing	PROPN	0	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	0	1	0	0	Quando Turing foi suicídio ?
+foi	AUX	0	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	1	2	0	0	Quando Turing foi suicídio ?
+suicídio	NOUN	0	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	0	3	0	0	Quando Turing foi suicídio ?
+?	PUNCT	0	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	0	4	0	0	Quando Turing foi suicídio ?
+Quando Turing foi suicídio ?	['SCONJ', 'PROPN', 'AUX', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	7e320bf9101343f69feaca32edfe0e25_pert_19	7e320bf9101343f69feaca32edfe0e25	0	-1	-1	1	2	Quando Turing foi suicídio ?

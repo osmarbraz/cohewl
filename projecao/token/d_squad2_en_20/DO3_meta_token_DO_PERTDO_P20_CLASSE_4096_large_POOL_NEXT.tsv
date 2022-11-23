@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentence
+What	PRON	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	0	1	What was the nationality of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	1	2	What was the nationality of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	2	3	What was the nationality of Estêvão Gomes ?
+nationality	NOUN	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	1	3	4	What was the nationality of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	4	5	What was the nationality of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	5	6	What was the nationality of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	6	7	What was the nationality of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	7		What was the nationality of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	0	9	What was the name of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	1	10	What was the name of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	2	11	What was the name of Estêvão Gomes ?
+name	NOUN	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	1	3	12	What was the name of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	4	13	What was the name of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	5	14	What was the name of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	6	15	What was the name of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	7		What was the name of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	0	17	What was the story of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	1	18	What was the story of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	2	19	What was the story of Estêvão Gomes ?
+story	NOUN	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	1	3	20	What was the story of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	4	21	What was the story of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	5	22	What was the story of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	6	23	What was the story of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	7		What was the story of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	0	25	What was the character of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	1	26	What was the character of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	2	27	What was the character of Estêvão Gomes ?
+character	NOUN	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	1	3	28	What was the character of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	4	29	What was the character of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	5	30	What was the character of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	6	31	What was the character of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	7		What was the character of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	0	33	What was the role of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	1	34	What was the role of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	2	35	What was the role of Estêvão Gomes ?
+role	NOUN	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	1	3	36	What was the role of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	4	37	What was the role of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	5	38	What was the role of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	6	39	What was the role of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	7		What was the role of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	0	41	What was the fate of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	1	42	What was the fate of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	2	43	What was the fate of Estêvão Gomes ?
+fate	NOUN	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	1	3	44	What was the fate of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	4	45	What was the fate of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	5	46	What was the fate of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	6	47	What was the fate of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	7		What was the fate of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	0	49	What was the identity of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	1	50	What was the identity of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	2	51	What was the identity of Estêvão Gomes ?
+identity	NOUN	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	1	3	52	What was the identity of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	4	53	What was the identity of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	5	54	What was the identity of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	6	55	What was the identity of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	7		What was the identity of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	0	57	What was the work of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	1	58	What was the work of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	2	59	What was the work of Estêvão Gomes ?
+work	NOUN	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	1	3	60	What was the work of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	4	61	What was the work of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	5	62	What was the work of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	6	63	What was the work of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	7		What was the work of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	0	65	What was the motive of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	1	66	What was the motive of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	2	67	What was the motive of Estêvão Gomes ?
+motive	NOUN	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	1	3	68	What was the motive of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	4	69	What was the motive of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	5	70	What was the motive of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	6	71	What was the motive of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	7		What was the motive of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	0	73	What was the meaning of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	1	74	What was the meaning of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	2	75	What was the meaning of Estêvão Gomes ?
+meaning	NOUN	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	1	3	76	What was the meaning of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	4	77	What was the meaning of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	5	78	What was the meaning of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	6	79	What was the meaning of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	7		What was the meaning of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	0	81	What was the significance of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	1	82	What was the significance of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	2	83	What was the significance of Estêvão Gomes ?
+significance	NOUN	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	1	3	84	What was the significance of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	4	85	What was the significance of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	5	86	What was the significance of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	6	87	What was the significance of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	7		What was the significance of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	0	89	What was the nature of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	1	90	What was the nature of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	2	91	What was the nature of Estêvão Gomes ?
+nature	NOUN	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	1	3	92	What was the nature of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	4	93	What was the nature of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	5	94	What was the nature of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	6	95	What was the nature of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	7		What was the nature of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	0	97	What was the cause of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	1	98	What was the cause of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	2	99	What was the cause of Estêvão Gomes ?
+cause	NOUN	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	1	3	100	What was the cause of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	4	101	What was the cause of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	5	102	What was the cause of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	6	103	What was the cause of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	7		What was the cause of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	0	105	What was the history of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	1	106	What was the history of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	2	107	What was the history of Estêvão Gomes ?
+history	NOUN	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	1	3	108	What was the history of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	4	109	What was the history of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	5	110	What was the history of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	6	111	What was the history of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	7		What was the history of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	0	113	What was the case of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	1	114	What was the case of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	2	115	What was the case of Estêvão Gomes ?
+case	NOUN	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	1	3	116	What was the case of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	4	117	What was the case of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	5	118	What was the case of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	6	119	What was the case of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	7		What was the case of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	0	121	What was the life of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	1	122	What was the life of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	2	123	What was the life of Estêvão Gomes ?
+life	NOUN	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	1	3	124	What was the life of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	4	125	What was the life of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	5	126	What was the life of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	6	127	What was the life of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	7		What was the life of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	0	129	What was the place of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	1	130	What was the place of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	2	131	What was the place of Estêvão Gomes ?
+place	NOUN	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	1	3	132	What was the place of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	4	133	What was the place of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	5	134	What was the place of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	6	135	What was the place of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	7		What was the place of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	0	137	What was the motivation of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	1	138	What was the motivation of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	2	139	What was the motivation of Estêvão Gomes ?
+motivation	NOUN	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	1	3	140	What was the motivation of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	4	141	What was the motivation of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	5	142	What was the motivation of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	6	143	What was the motivation of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	7		What was the motivation of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	0	145	What was the destiny of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	1	146	What was the destiny of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	2	147	What was the destiny of Estêvão Gomes ?
+destiny	NOUN	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	1	3	148	What was the destiny of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	4	149	What was the destiny of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	5	150	What was the destiny of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	6	151	What was the destiny of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	7		What was the destiny of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	0	153	What was the position of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	1	154	What was the position of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	2	155	What was the position of Estêvão Gomes ?
+position	NOUN	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	1	3	156	What was the position of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	4	157	What was the position of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	5	158	What was the position of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	6	159	What was the position of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	7		What was the position of Estêvão Gomes ?
+What	PRON	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	0	161	What was the origin of Estêvão Gomes ?
+was	AUX	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	1	162	What was the origin of Estêvão Gomes ?
+the	DET	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	2	163	What was the origin of Estêvão Gomes ?
+origin	NOUN	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	1	3	164	What was the origin of Estêvão Gomes ?
+of	ADP	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	4	165	What was the origin of Estêvão Gomes ?
+Estêvão	PROPN	1	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	5	166	What was the origin of Estêvão Gomes ?
+Gomes	PROPN	1	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	6	167	What was the origin of Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	7		What was the origin of Estêvão Gomes ?

@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentence
+What	PRON	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	0	1	What is a key factor for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	1	2	What is a key factor for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	2	3	What is a key factor for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	3	4	What is a key factor for the ESA ?
+factor	NOUN	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	1	4	5	What is a key factor for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	5	6	What is a key factor for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	6	7	What is a key factor for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	7	8	What is a key factor for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	8		What is a key factor for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	0	10	What is a key issue for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	1	11	What is a key issue for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	2	12	What is a key issue for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	3	13	What is a key issue for the ESA ?
+issue	NOUN	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	1	4	14	What is a key issue for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	5	15	What is a key issue for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	6	16	What is a key issue for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	7	17	What is a key issue for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	8		What is a key issue for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	0	19	What is a key element for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	1	20	What is a key element for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	2	21	What is a key element for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	3	22	What is a key element for the ESA ?
+element	NOUN	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	1	4	23	What is a key element for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	5	24	What is a key element for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	6	25	What is a key element for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	7	26	What is a key element for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	8		What is a key element for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	0	28	What is a key word for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	1	29	What is a key word for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	2	30	What is a key word for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	3	31	What is a key word for the ESA ?
+word	NOUN	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	1	4	32	What is a key word for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	5	33	What is a key word for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	6	34	What is a key word for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	7	35	What is a key word for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	8		What is a key word for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	0	37	What is a key component for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	1	38	What is a key component for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	2	39	What is a key component for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	3	40	What is a key component for the ESA ?
+component	NOUN	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	1	4	41	What is a key component for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	5	42	What is a key component for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	6	43	What is a key component for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	7	44	What is a key component for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	8		What is a key component for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	0	46	What is a key factor for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	1	47	What is a key factor for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	2	48	What is a key factor for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	3	49	What is a key factor for the ESA ?
+factor	NOUN	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	1	4	50	What is a key factor for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	5	51	What is a key factor for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	6	52	What is a key factor for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	7	53	What is a key factor for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	8		What is a key factor for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	0	55	What is a key concept for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	1	56	What is a key concept for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	2	57	What is a key concept for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	3	58	What is a key concept for the ESA ?
+concept	NOUN	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	1	4	59	What is a key concept for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	5	60	What is a key concept for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	6	61	What is a key concept for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	7	62	What is a key concept for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	8		What is a key concept for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	0	64	What is a key consideration for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	1	65	What is a key consideration for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	2	66	What is a key consideration for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	3	67	What is a key consideration for the ESA ?
+consideration	NOUN	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	1	4	68	What is a key consideration for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	5	69	What is a key consideration for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	6	70	What is a key consideration for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	7	71	What is a key consideration for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	8		What is a key consideration for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	0	73	What is a key problem for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	1	74	What is a key problem for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	2	75	What is a key problem for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	3	76	What is a key problem for the ESA ?
+problem	NOUN	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	1	4	77	What is a key problem for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	5	78	What is a key problem for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	6	79	What is a key problem for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	7	80	What is a key problem for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	8		What is a key problem for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	0	82	What is a key ingredient for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	1	83	What is a key ingredient for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	2	84	What is a key ingredient for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	3	85	What is a key ingredient for the ESA ?
+ingredient	NOUN	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	1	4	86	What is a key ingredient for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	5	87	What is a key ingredient for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	6	88	What is a key ingredient for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	7	89	What is a key ingredient for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	8		What is a key ingredient for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	0	91	What is a key role for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	1	92	What is a key role for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	2	93	What is a key role for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	3	94	What is a key role for the ESA ?
+role	NOUN	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	1	4	95	What is a key role for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	5	96	What is a key role for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	6	97	What is a key role for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	7	98	What is a key role for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	8		What is a key role for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	0	100	What is a key note for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	1	101	What is a key note for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	2	102	What is a key note for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	3	103	What is a key note for the ESA ?
+note	NOUN	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	1	4	104	What is a key note for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	5	105	What is a key note for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	6	106	What is a key note for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	7	107	What is a key note for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	8		What is a key note for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	0	109	What is a key value for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	1	110	What is a key value for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	2	111	What is a key value for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	3	112	What is a key value for the ESA ?
+value	NOUN	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	1	4	113	What is a key value for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	5	114	What is a key value for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	6	115	What is a key value for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	7	116	What is a key value for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	8		What is a key value for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	0	118	What is a key asset for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	1	119	What is a key asset for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	2	120	What is a key asset for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	3	121	What is a key asset for the ESA ?
+asset	NOUN	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	1	4	122	What is a key asset for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	5	123	What is a key asset for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	6	124	What is a key asset for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	7	125	What is a key asset for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	8		What is a key asset for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	0	127	What is a key requirement for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	1	128	What is a key requirement for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	2	129	What is a key requirement for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	3	130	What is a key requirement for the ESA ?
+requirement	NOUN	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	1	4	131	What is a key requirement for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	5	132	What is a key requirement for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	6	133	What is a key requirement for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	7	134	What is a key requirement for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	8		What is a key requirement for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	0	136	What is a key objective for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	1	137	What is a key objective for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	2	138	What is a key objective for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	3	139	What is a key objective for the ESA ?
+objective	NOUN	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	1	4	140	What is a key objective for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	5	141	What is a key objective for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	6	142	What is a key objective for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	7	143	What is a key objective for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	8		What is a key objective for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	0	145	What is a key function for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	1	146	What is a key function for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	2	147	What is a key function for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	3	148	What is a key function for the ESA ?
+function	NOUN	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	1	4	149	What is a key function for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	5	150	What is a key function for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	6	151	What is a key function for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	7	152	What is a key function for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	8		What is a key function for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	0	154	What is a key word for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	1	155	What is a key word for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	2	156	What is a key word for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	3	157	What is a key word for the ESA ?
+word	NOUN	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	1	4	158	What is a key word for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	5	159	What is a key word for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	6	160	What is a key word for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	7	161	What is a key word for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	8		What is a key word for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	0	163	What is a key target for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	1	164	What is a key target for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	2	165	What is a key target for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	3	166	What is a key target for the ESA ?
+target	NOUN	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	1	4	167	What is a key target for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	5	168	What is a key target for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	6	169	What is a key target for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	7	170	What is a key target for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	8		What is a key target for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	0	172	What is a key matter for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	1	173	What is a key matter for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	2	174	What is a key matter for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	3	175	What is a key matter for the ESA ?
+matter	NOUN	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	1	4	176	What is a key matter for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	5	177	What is a key matter for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	6	178	What is a key matter for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	7	179	What is a key matter for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	8		What is a key matter for the ESA ?
+What	PRON	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	0	181	What is a key resource for the ESA ?
+is	AUX	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	1	182	What is a key resource for the ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	2	183	What is a key resource for the ESA ?
+key	ADJ	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	3	184	What is a key resource for the ESA ?
+resource	NOUN	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	1	4	185	What is a key resource for the ESA ?
+for	ADP	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	5	186	What is a key resource for the ESA ?
+the	DET	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	6	187	What is a key resource for the ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	7	188	What is a key resource for the ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	8		What is a key resource for the ESA ?

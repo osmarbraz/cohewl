@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	0	1	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	1	2	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+utilizadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	1	2	3	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	3	4	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	4	5	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	5	6	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	6	7	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	7	8	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	8	9	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	0	9	10	0	1	Como são utilizadas as versões mais modernas do ábaco ?
+Como são utilizadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34	5f4325dafdab4a0ea778a2d7c8083c34	1	-1	-1		1	3	Como são utilizadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	12	0	0	Como são classificadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	13	0	0	Como são classificadas as versões mais modernas do ábaco ?
+classificadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	14	0	0	Como são classificadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	15	0	0	Como são classificadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	16	0	0	Como são classificadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	17	0	0	Como são classificadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	18	0	0	Como são classificadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	19	0	0	Como são classificadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	20	0	0	Como são classificadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	21	0	0	Como são classificadas as versões mais modernas do ábaco ?
+Como são classificadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_0	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são classificadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	23	0	0	Como são feitas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	24	0	0	Como são feitas as versões mais modernas do ábaco ?
+feitas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	25	0	0	Como são feitas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	26	0	0	Como são feitas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	27	0	0	Como são feitas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	28	0	0	Como são feitas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	29	0	0	Como são feitas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	30	0	0	Como são feitas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	31	0	0	Como são feitas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	32	0	0	Como são feitas as versões mais modernas do ábaco ?
+Como são feitas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_1	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são feitas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	34	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	35	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+conhecidas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	36	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	37	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	38	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	39	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	40	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	41	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	42	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	43	0	0	Como são conhecidas as versões mais modernas do ábaco ?
+Como são conhecidas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_2	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são conhecidas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	45	0	0	Como são produzidas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	46	0	0	Como são produzidas as versões mais modernas do ábaco ?
+produzidas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	47	0	0	Como são produzidas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	48	0	0	Como são produzidas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	49	0	0	Como são produzidas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	50	0	0	Como são produzidas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	51	0	0	Como são produzidas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	52	0	0	Como são produzidas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	53	0	0	Como são produzidas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	54	0	0	Como são produzidas as versões mais modernas do ábaco ?
+Como são produzidas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_3	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são produzidas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	56	0	0	Como são chamadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	57	0	0	Como são chamadas as versões mais modernas do ábaco ?
+chamadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	58	0	0	Como são chamadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	59	0	0	Como são chamadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	60	0	0	Como são chamadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	61	0	0	Como são chamadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	62	0	0	Como são chamadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	63	0	0	Como são chamadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	64	0	0	Como são chamadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	65	0	0	Como são chamadas as versões mais modernas do ábaco ?
+Como são chamadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_4	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são chamadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	67	0	0	Como são criadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	68	0	0	Como são criadas as versões mais modernas do ábaco ?
+criadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	69	0	0	Como são criadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	70	0	0	Como são criadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	71	0	0	Como são criadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	72	0	0	Como são criadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	73	0	0	Como são criadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	74	0	0	Como são criadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	75	0	0	Como são criadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	76	0	0	Como são criadas as versões mais modernas do ábaco ?
+Como são criadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_5	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são criadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	78	0	0	Como são construídas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	79	0	0	Como são construídas as versões mais modernas do ábaco ?
+construídas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	80	0	0	Como são construídas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	81	0	0	Como são construídas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	82	0	0	Como são construídas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	83	0	0	Como são construídas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	84	0	0	Como são construídas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	85	0	0	Como são construídas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	86	0	0	Como são construídas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	87	0	0	Como são construídas as versões mais modernas do ábaco ?
+Como são construídas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_6	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são construídas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	89	0	0	Como são definidas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	90	0	0	Como são definidas as versões mais modernas do ábaco ?
+definidas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	91	0	0	Como são definidas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	92	0	0	Como são definidas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	93	0	0	Como são definidas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	94	0	0	Como são definidas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	95	0	0	Como são definidas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	96	0	0	Como são definidas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	97	0	0	Como são definidas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	98	0	0	Como são definidas as versões mais modernas do ábaco ?
+Como são definidas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_7	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são definidas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	100	0	0	Como são formadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	101	0	0	Como são formadas as versões mais modernas do ábaco ?
+formadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	102	0	0	Como são formadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	103	0	0	Como são formadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	104	0	0	Como são formadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	105	0	0	Como são formadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	106	0	0	Como são formadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	107	0	0	Como são formadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	108	0	0	Como são formadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	109	0	0	Como são formadas as versões mais modernas do ábaco ?
+Como são formadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_8	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são formadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	111	0	0	Como são consideradas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	112	0	0	Como são consideradas as versões mais modernas do ábaco ?
+consideradas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	113	0	0	Como são consideradas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	114	0	0	Como são consideradas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	115	0	0	Como são consideradas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	116	0	0	Como são consideradas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	117	0	0	Como são consideradas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	118	0	0	Como são consideradas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	119	0	0	Como são consideradas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	120	0	0	Como são consideradas as versões mais modernas do ábaco ?
+Como são consideradas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_9	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são consideradas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	122	0	0	Como são obtidas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	123	0	0	Como são obtidas as versões mais modernas do ábaco ?
+obtidas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	124	0	0	Como são obtidas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	125	0	0	Como são obtidas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	126	0	0	Como são obtidas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	127	0	0	Como são obtidas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	128	0	0	Como são obtidas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	129	0	0	Como são obtidas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	130	0	0	Como são obtidas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	131	0	0	Como são obtidas as versões mais modernas do ábaco ?
+Como são obtidas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_10	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são obtidas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	133	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	134	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+utilizadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	135	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	136	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	137	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	138	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	139	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	140	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	141	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	142	0	0	Como são utilizadas as versões mais modernas do ábaco ?
+Como são utilizadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_11	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são utilizadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	144	0	0	Como são encontradas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	145	0	0	Como são encontradas as versões mais modernas do ábaco ?
+encontradas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	146	0	0	Como são encontradas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	147	0	0	Como são encontradas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	148	0	0	Como são encontradas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	149	0	0	Como são encontradas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	150	0	0	Como são encontradas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	151	0	0	Como são encontradas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	152	0	0	Como são encontradas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	153	0	0	Como são encontradas as versões mais modernas do ábaco ?
+Como são encontradas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_12	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são encontradas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	155	0	0	Como são usadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	156	0	0	Como são usadas as versões mais modernas do ábaco ?
+usadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	157	0	0	Como são usadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	158	0	0	Como são usadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	159	0	0	Como são usadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	160	0	0	Como são usadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	161	0	0	Como são usadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	162	0	0	Como são usadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	163	0	0	Como são usadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	164	0	0	Como são usadas as versões mais modernas do ábaco ?
+Como são usadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_13	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são usadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	166	0	0	Como são identificadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	167	0	0	Como são identificadas as versões mais modernas do ábaco ?
+identificadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	168	0	0	Como são identificadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	169	0	0	Como são identificadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	170	0	0	Como são identificadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	171	0	0	Como são identificadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	172	0	0	Como são identificadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	173	0	0	Como são identificadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	174	0	0	Como são identificadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	175	0	0	Como são identificadas as versões mais modernas do ábaco ?
+Como são identificadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_14	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são identificadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	177	0	0	Como são denominadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	178	0	0	Como são denominadas as versões mais modernas do ábaco ?
+denominadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	179	0	0	Como são denominadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	180	0	0	Como são denominadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	181	0	0	Como são denominadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	182	0	0	Como são denominadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	183	0	0	Como são denominadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	184	0	0	Como são denominadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	185	0	0	Como são denominadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	186	0	0	Como são denominadas as versões mais modernas do ábaco ?
+Como são denominadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_15	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são denominadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	188	0	0	Como são hoje as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	189	0	0	Como são hoje as versões mais modernas do ábaco ?
+hoje	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	190	0	0	Como são hoje as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	191	0	0	Como são hoje as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	192	0	0	Como são hoje as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	193	0	0	Como são hoje as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	194	0	0	Como são hoje as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	195	0	0	Como são hoje as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	196	0	0	Como são hoje as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	197	0	0	Como são hoje as versões mais modernas do ábaco ?
+Como são hoje as versões mais modernas do ábaco ?	['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_16	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são hoje as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	199	0	0	Como são representadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	200	0	0	Como são representadas as versões mais modernas do ábaco ?
+representadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	201	0	0	Como são representadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	202	0	0	Como são representadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	203	0	0	Como são representadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	204	0	0	Como são representadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	205	0	0	Como são representadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	206	0	0	Como são representadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	207	0	0	Como são representadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	208	0	0	Como são representadas as versões mais modernas do ábaco ?
+Como são representadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_17	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são representadas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	210	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	211	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+desenvolvidas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	212	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	213	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	214	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	215	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	216	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	217	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	218	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	219	0	0	Como são desenvolvidas as versões mais modernas do ábaco ?
+Como são desenvolvidas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_18	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são desenvolvidas as versões mais modernas do ábaco ?
+Como	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	0	221	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+são	AUX	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	1	222	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+apresentadas	VERB	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	1	2	223	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+as	DET	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	3	224	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+versões	NOUN	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	4	225	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+mais	ADV	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	5	226	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+modernas	ADJ	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	6	227	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+do	ADP	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	7	228	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+ábaco	NOUN	1	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	8	229	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+?	PUNCT	0	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	0	9	230	0	0	Como são apresentadas as versões mais modernas do ábaco ?
+Como são apresentadas as versões mais modernas do ábaco ?	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	5f4325dafdab4a0ea778a2d7c8083c34_pert_19	5f4325dafdab4a0ea778a2d7c8083c34	0	-1	-1		1	2	Como são apresentadas as versões mais modernas do ábaco ?

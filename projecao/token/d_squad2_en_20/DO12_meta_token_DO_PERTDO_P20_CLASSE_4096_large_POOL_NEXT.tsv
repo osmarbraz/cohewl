@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	DET	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	0	1	What type of message is sent in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	1	2	What type of message is sent in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	2	3	What type of message is sent in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	3	4	What type of message is sent in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	4	5	What type of message is sent in a complex model ?
+sent	VERB	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	1	5	6	What type of message is sent in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	6	7	What type of message is sent in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	7	8	What type of message is sent in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	8	9	What type of message is sent in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	9	10	What type of message is sent in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce	59fc36eaa9fb160018f10dce	1	0	10		What type of message is sent in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	0	12	What type of message is required in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	1	13	What type of message is required in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	2	14	What type of message is required in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	3	15	What type of message is required in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	4	16	What type of message is required in a complex model ?
+required	VERB	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	1	5	17	What type of message is required in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	6	18	What type of message is required in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	7	19	What type of message is required in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	8	20	What type of message is required in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	9	21	What type of message is required in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_0	59fc36eaa9fb160018f10dce	0	0	10		What type of message is required in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	0	23	What type of message is needed in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	1	24	What type of message is needed in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	2	25	What type of message is needed in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	3	26	What type of message is needed in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	4	27	What type of message is needed in a complex model ?
+needed	VERB	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	1	5	28	What type of message is needed in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	6	29	What type of message is needed in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	7	30	What type of message is needed in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	8	31	What type of message is needed in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	9	32	What type of message is needed in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_1	59fc36eaa9fb160018f10dce	0	0	10		What type of message is needed in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	0	34	What type of message is possible in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	1	35	What type of message is possible in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	2	36	What type of message is possible in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	3	37	What type of message is possible in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	4	38	What type of message is possible in a complex model ?
+possible	ADJ	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	1	5	39	What type of message is possible in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	6	40	What type of message is possible in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	7	41	What type of message is possible in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	8	42	What type of message is possible in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	9	43	What type of message is possible in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_2	59fc36eaa9fb160018f10dce	0	0	10		What type of message is possible in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	0	45	What type of message is used in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	1	46	What type of message is used in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	2	47	What type of message is used in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	3	48	What type of message is used in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	4	49	What type of message is used in a complex model ?
+used	VERB	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	1	5	50	What type of message is used in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	6	51	What type of message is used in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	7	52	What type of message is used in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	8	53	What type of message is used in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	9	54	What type of message is used in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_3	59fc36eaa9fb160018f10dce	0	0	10		What type of message is used in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	0	56	What type of message is present in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	1	57	What type of message is present in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	2	58	What type of message is present in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	3	59	What type of message is present in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	4	60	What type of message is present in a complex model ?
+present	ADJ	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	1	5	61	What type of message is present in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	6	62	What type of message is present in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	7	63	What type of message is present in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	8	64	What type of message is present in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	9	65	What type of message is present in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_4	59fc36eaa9fb160018f10dce	0	0	10		What type of message is present in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	0	67	What type of message is there in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	1	68	What type of message is there in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	2	69	What type of message is there in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	3	70	What type of message is there in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	4	71	What type of message is there in a complex model ?
+there	ADV	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	1	5	72	What type of message is there in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	6	73	What type of message is there in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	7	74	What type of message is there in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	8	75	What type of message is there in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	9	76	What type of message is there in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_5	59fc36eaa9fb160018f10dce	0	0	10		What type of message is there in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	0	78	What type of message is expected in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	1	79	What type of message is expected in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	2	80	What type of message is expected in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	3	81	What type of message is expected in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	4	82	What type of message is expected in a complex model ?
+expected	VERB	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	1	5	83	What type of message is expected in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	6	84	What type of message is expected in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	7	85	What type of message is expected in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	8	86	What type of message is expected in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	9	87	What type of message is expected in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_6	59fc36eaa9fb160018f10dce	0	0	10		What type of message is expected in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	0	89	What type of message is sent in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	1	90	What type of message is sent in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	2	91	What type of message is sent in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	3	92	What type of message is sent in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	4	93	What type of message is sent in a complex model ?
+sent	VERB	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	1	5	94	What type of message is sent in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	6	95	What type of message is sent in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	7	96	What type of message is sent in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	8	97	What type of message is sent in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	9	98	What type of message is sent in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_7	59fc36eaa9fb160018f10dce	0	0	10		What type of message is sent in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	0	100	What type of message is involved in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	1	101	What type of message is involved in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	2	102	What type of message is involved in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	3	103	What type of message is involved in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	4	104	What type of message is involved in a complex model ?
+involved	VERB	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	1	5	105	What type of message is involved in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	6	106	What type of message is involved in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	7	107	What type of message is involved in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	8	108	What type of message is involved in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	9	109	What type of message is involved in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_8	59fc36eaa9fb160018f10dce	0	0	10		What type of message is involved in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	0	111	What type of message is included in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	1	112	What type of message is included in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	2	113	What type of message is included in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	3	114	What type of message is included in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	4	115	What type of message is included in a complex model ?
+included	VERB	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	1	5	116	What type of message is included in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	6	117	What type of message is included in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	7	118	What type of message is included in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	8	119	What type of message is included in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	9	120	What type of message is included in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_9	59fc36eaa9fb160018f10dce	0	0	10		What type of message is included in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	0	122	What type of message is encoded in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	1	123	What type of message is encoded in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	2	124	What type of message is encoded in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	3	125	What type of message is encoded in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	4	126	What type of message is encoded in a complex model ?
+encoded	VERB	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	1	5	127	What type of message is encoded in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	6	128	What type of message is encoded in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	7	129	What type of message is encoded in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	8	130	What type of message is encoded in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	9	131	What type of message is encoded in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_10	59fc36eaa9fb160018f10dce	0	0	10		What type of message is encoded in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	0	133	What type of message is common in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	1	134	What type of message is common in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	2	135	What type of message is common in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	3	136	What type of message is common in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	4	137	What type of message is common in a complex model ?
+common	ADJ	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	1	5	138	What type of message is common in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	6	139	What type of message is common in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	7	140	What type of message is common in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	8	141	What type of message is common in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	9	142	What type of message is common in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_11	59fc36eaa9fb160018f10dce	0	0	10		What type of message is common in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	0	144	What type of message is received in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	1	145	What type of message is received in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	2	146	What type of message is received in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	3	147	What type of message is received in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	4	148	What type of message is received in a complex model ?
+received	VERB	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	1	5	149	What type of message is received in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	6	150	What type of message is received in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	7	151	What type of message is received in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	8	152	What type of message is received in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	9	153	What type of message is received in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_12	59fc36eaa9fb160018f10dce	0	0	10		What type of message is received in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	0	155	What type of message is available in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	1	156	What type of message is available in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	2	157	What type of message is available in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	3	158	What type of message is available in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	4	159	What type of message is available in a complex model ?
+available	ADJ	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	1	5	160	What type of message is available in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	6	161	What type of message is available in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	7	162	What type of message is available in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	8	163	What type of message is available in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	9	164	What type of message is available in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_13	59fc36eaa9fb160018f10dce	0	0	10		What type of message is available in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	0	166	What type of message is found in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	1	167	What type of message is found in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	2	168	What type of message is found in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	3	169	What type of message is found in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	4	170	What type of message is found in a complex model ?
+found	VERB	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	1	5	171	What type of message is found in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	6	172	What type of message is found in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	7	173	What type of message is found in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	8	174	What type of message is found in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	9	175	What type of message is found in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_14	59fc36eaa9fb160018f10dce	0	0	10		What type of message is found in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	0	177	What type of message is transmitted in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	1	178	What type of message is transmitted in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	2	179	What type of message is transmitted in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	3	180	What type of message is transmitted in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	4	181	What type of message is transmitted in a complex model ?
+transmitted	VERB	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	1	5	182	What type of message is transmitted in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	6	183	What type of message is transmitted in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	7	184	What type of message is transmitted in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	8	185	What type of message is transmitted in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	9	186	What type of message is transmitted in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_15	59fc36eaa9fb160018f10dce	0	0	10		What type of message is transmitted in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	0	188	What type of message is intended in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	1	189	What type of message is intended in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	2	190	What type of message is intended in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	3	191	What type of message is intended in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	4	192	What type of message is intended in a complex model ?
+intended	VERB	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	1	5	193	What type of message is intended in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	6	194	What type of message is intended in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	7	195	What type of message is intended in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	8	196	What type of message is intended in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	9	197	What type of message is intended in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_16	59fc36eaa9fb160018f10dce	0	0	10		What type of message is intended in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	0	199	What type of message is necessary in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	1	200	What type of message is necessary in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	2	201	What type of message is necessary in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	3	202	What type of message is necessary in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	4	203	What type of message is necessary in a complex model ?
+necessary	ADJ	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	1	5	204	What type of message is necessary in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	6	205	What type of message is necessary in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	7	206	What type of message is necessary in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	8	207	What type of message is necessary in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	9	208	What type of message is necessary in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_17	59fc36eaa9fb160018f10dce	0	0	10		What type of message is necessary in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	0	210	What type of message is generated in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	1	211	What type of message is generated in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	2	212	What type of message is generated in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	3	213	What type of message is generated in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	4	214	What type of message is generated in a complex model ?
+generated	VERB	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	1	5	215	What type of message is generated in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	6	216	What type of message is generated in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	7	217	What type of message is generated in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	8	218	What type of message is generated in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	9	219	What type of message is generated in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_18	59fc36eaa9fb160018f10dce	0	0	10		What type of message is generated in a complex model ?
+What	DET	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	0	221	What type of message is presented in a complex model ?
+type	NOUN	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	1	222	What type of message is presented in a complex model ?
+of	ADP	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	2	223	What type of message is presented in a complex model ?
+message	NOUN	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	3	224	What type of message is presented in a complex model ?
+is	AUX	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	4	225	What type of message is presented in a complex model ?
+presented	VERB	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	1	5	226	What type of message is presented in a complex model ?
+in	ADP	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	6	227	What type of message is presented in a complex model ?
+a	DET	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	7	228	What type of message is presented in a complex model ?
+complex	ADJ	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	8	229	What type of message is presented in a complex model ?
+model	NOUN	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	9	230	What type of message is presented in a complex model ?
+?	PUNCT	0	59fc36eaa9fb160018f10dce_pert_19	59fc36eaa9fb160018f10dce	0	0	10		What type of message is presented in a complex model ?

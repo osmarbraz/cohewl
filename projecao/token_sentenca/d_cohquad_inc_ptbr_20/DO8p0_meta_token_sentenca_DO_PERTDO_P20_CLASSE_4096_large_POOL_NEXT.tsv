@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Como	ADP	0	8p0	8p0	1	0	0	1	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+desempilhar	NOUN	1	8p0	8p0	1	0	1	2	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+elementos	NOUN	0	8p0	8p0	1	0	2	3	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+em	ADP	0	8p0	8p0	1	0	3	4	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+uma	DET	0	8p0	8p0	1	0	4	5	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+estrutura	NOUN	0	8p0	8p0	1	0	5	6	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+de	ADP	0	8p0	8p0	1	0	6	7	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+dados	NOUN	0	8p0	8p0	1	0	7	8	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+fila	NOUN	1	8p0	8p0	1	1	8	9	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+?	PUNCT	0	8p0	8p0	1	0	9	10	0	1	Como desempilhar elementos em uma estrutura de dados fila ?
+0	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 1, 0]	8p0	8p0	1	-1	-1		1	3	Como desempilhar elementos em uma estrutura de dados fila ?
+Como	ADP	0	8p0_pert_0	8p0	0	0	0	12	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+desempilhar	NOUN	1	8p0_pert_0	8p0	0	0	1	13	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+elementos	NOUN	0	8p0_pert_0	8p0	0	0	2	14	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+em	ADP	0	8p0_pert_0	8p0	0	0	3	15	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+uma	DET	0	8p0_pert_0	8p0	0	0	4	16	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+estrutura	NOUN	0	8p0_pert_0	8p0	0	0	5	17	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+de	ADP	0	8p0_pert_0	8p0	0	0	6	18	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+dados	NOUN	0	8p0_pert_0	8p0	0	0	7	19	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+complexa	ADJ	0	8p0_pert_0	8p0	0	1	8	20	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+?	PUNCT	0	8p0_pert_0	8p0	0	0	9	21	0	0	Como desempilhar elementos em uma estrutura de dados complexa ?
+1	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_0	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados complexa ?
+Como	ADP	0	8p0_pert_1	8p0	0	0	0	23	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+desempilhar	NOUN	1	8p0_pert_1	8p0	0	0	1	24	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+elementos	NOUN	0	8p0_pert_1	8p0	0	0	2	25	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+em	ADP	0	8p0_pert_1	8p0	0	0	3	26	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+uma	DET	0	8p0_pert_1	8p0	0	0	4	27	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+estrutura	NOUN	0	8p0_pert_1	8p0	0	0	5	28	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+de	ADP	0	8p0_pert_1	8p0	0	0	6	29	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+dados	NOUN	0	8p0_pert_1	8p0	0	0	7	30	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+simples	ADJ	0	8p0_pert_1	8p0	0	1	8	31	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+?	PUNCT	0	8p0_pert_1	8p0	0	0	9	32	0	0	Como desempilhar elementos em uma estrutura de dados simples ?
+2	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_1	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados simples ?
+Como	ADP	0	8p0_pert_2	8p0	0	0	0	34	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+desempilhar	NOUN	1	8p0_pert_2	8p0	0	0	1	35	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+elementos	NOUN	0	8p0_pert_2	8p0	0	0	2	36	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+em	ADP	0	8p0_pert_2	8p0	0	0	3	37	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+uma	DET	0	8p0_pert_2	8p0	0	0	4	38	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+estrutura	NOUN	0	8p0_pert_2	8p0	0	0	5	39	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+de	ADP	0	8p0_pert_2	8p0	0	0	6	40	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+dados	NOUN	0	8p0_pert_2	8p0	0	0	7	41	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+dinâmica	ADJ	0	8p0_pert_2	8p0	0	1	8	42	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+?	PUNCT	0	8p0_pert_2	8p0	0	0	9	43	0	0	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+3	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_2	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados dinâmica ?
+Como	ADP	0	8p0_pert_3	8p0	0	0	0	45	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+desempilhar	NOUN	1	8p0_pert_3	8p0	0	0	1	46	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+elementos	NOUN	0	8p0_pert_3	8p0	0	0	2	47	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+em	ADP	0	8p0_pert_3	8p0	0	0	3	48	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+uma	DET	0	8p0_pert_3	8p0	0	0	4	49	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+estrutura	NOUN	0	8p0_pert_3	8p0	0	0	5	50	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+de	ADP	0	8p0_pert_3	8p0	0	0	6	51	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+dados	NOUN	0	8p0_pert_3	8p0	0	0	7	52	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+existente	ADJ	0	8p0_pert_3	8p0	0	1	8	53	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+?	PUNCT	0	8p0_pert_3	8p0	0	0	9	54	0	0	Como desempilhar elementos em uma estrutura de dados existente ?
+4	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_3	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados existente ?
+Como	ADP	0	8p0_pert_4	8p0	0	0	0	56	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+desempilhar	NOUN	1	8p0_pert_4	8p0	0	0	1	57	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+elementos	NOUN	0	8p0_pert_4	8p0	0	0	2	58	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+em	ADP	0	8p0_pert_4	8p0	0	0	3	59	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+uma	DET	0	8p0_pert_4	8p0	0	0	4	60	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+estrutura	NOUN	0	8p0_pert_4	8p0	0	0	5	61	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+de	ADP	0	8p0_pert_4	8p0	0	0	6	62	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+dados	NOUN	0	8p0_pert_4	8p0	0	0	7	63	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+aberta	VERB	0	8p0_pert_4	8p0	0	1	8	64	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+?	PUNCT	0	8p0_pert_4	8p0	0	0	9	65	0	0	Como desempilhar elementos em uma estrutura de dados aberta ?
+5	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_4	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados aberta ?
+Como	ADP	0	8p0_pert_5	8p0	0	0	0	67	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+desempilhar	NOUN	1	8p0_pert_5	8p0	0	0	1	68	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+elementos	NOUN	0	8p0_pert_5	8p0	0	0	2	69	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+em	ADP	0	8p0_pert_5	8p0	0	0	3	70	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+uma	DET	0	8p0_pert_5	8p0	0	0	4	71	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+estrutura	NOUN	0	8p0_pert_5	8p0	0	0	5	72	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+de	ADP	0	8p0_pert_5	8p0	0	0	6	73	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+dados	NOUN	0	8p0_pert_5	8p0	0	0	7	74	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+sólida	ADJ	0	8p0_pert_5	8p0	0	1	8	75	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+?	PUNCT	0	8p0_pert_5	8p0	0	0	9	76	0	0	Como desempilhar elementos em uma estrutura de dados sólida ?
+6	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_5	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados sólida ?
+Como	ADP	0	8p0_pert_6	8p0	0	0	0	78	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+desempilhar	NOUN	1	8p0_pert_6	8p0	0	0	1	79	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+elementos	NOUN	0	8p0_pert_6	8p0	0	0	2	80	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+em	ADP	0	8p0_pert_6	8p0	0	0	3	81	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+uma	DET	0	8p0_pert_6	8p0	0	0	4	82	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+estrutura	NOUN	0	8p0_pert_6	8p0	0	0	5	83	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+de	ADP	0	8p0_pert_6	8p0	0	0	6	84	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+dados	NOUN	0	8p0_pert_6	8p0	0	0	7	85	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+comum	ADJ	0	8p0_pert_6	8p0	0	1	8	86	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+?	PUNCT	0	8p0_pert_6	8p0	0	0	9	87	0	0	Como desempilhar elementos em uma estrutura de dados comum ?
+7	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_6	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados comum ?
+Como	ADP	0	8p0_pert_7	8p0	0	0	0	89	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+desempilhar	NOUN	1	8p0_pert_7	8p0	0	0	1	90	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+elementos	NOUN	0	8p0_pert_7	8p0	0	0	2	91	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+em	ADP	0	8p0_pert_7	8p0	0	0	3	92	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+uma	DET	0	8p0_pert_7	8p0	0	0	4	93	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+estrutura	NOUN	0	8p0_pert_7	8p0	0	0	5	94	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+de	ADP	0	8p0_pert_7	8p0	0	0	6	95	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+dados	NOUN	0	8p0_pert_7	8p0	0	0	7	96	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+básica	ADJ	0	8p0_pert_7	8p0	0	1	8	97	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+?	PUNCT	0	8p0_pert_7	8p0	0	0	9	98	0	0	Como desempilhar elementos em uma estrutura de dados básica ?
+8	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_7	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados básica ?
+Como	ADP	0	8p0_pert_8	8p0	0	0	0	100	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+desempilhar	NOUN	1	8p0_pert_8	8p0	0	0	1	101	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+elementos	NOUN	0	8p0_pert_8	8p0	0	0	2	102	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+em	ADP	0	8p0_pert_8	8p0	0	0	3	103	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+uma	DET	0	8p0_pert_8	8p0	0	0	4	104	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+estrutura	NOUN	0	8p0_pert_8	8p0	0	0	5	105	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+de	ADP	0	8p0_pert_8	8p0	0	0	6	106	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+dados	NOUN	0	8p0_pert_8	8p0	0	0	7	107	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+eletrônica	ADJ	0	8p0_pert_8	8p0	0	1	8	108	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+?	PUNCT	0	8p0_pert_8	8p0	0	0	9	109	0	0	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+9	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_8	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados eletrônica ?
+Como	ADP	0	8p0_pert_9	8p0	0	0	0	111	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+desempilhar	NOUN	1	8p0_pert_9	8p0	0	0	1	112	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+elementos	NOUN	0	8p0_pert_9	8p0	0	0	2	113	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+em	ADP	0	8p0_pert_9	8p0	0	0	3	114	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+uma	DET	0	8p0_pert_9	8p0	0	0	4	115	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+estrutura	NOUN	0	8p0_pert_9	8p0	0	0	5	116	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+de	ADP	0	8p0_pert_9	8p0	0	0	6	117	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+dados	NOUN	0	8p0_pert_9	8p0	0	0	7	118	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+padrão	NOUN	0	8p0_pert_9	8p0	0	1	8	119	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+?	PUNCT	0	8p0_pert_9	8p0	0	0	9	120	0	0	Como desempilhar elementos em uma estrutura de dados padrão ?
+10	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_9	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados padrão ?
+Como	ADP	0	8p0_pert_10	8p0	0	0	0	122	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+desempilhar	NOUN	1	8p0_pert_10	8p0	0	0	1	123	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+elementos	NOUN	0	8p0_pert_10	8p0	0	0	2	124	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+em	ADP	0	8p0_pert_10	8p0	0	0	3	125	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+uma	DET	0	8p0_pert_10	8p0	0	0	4	126	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+estrutura	NOUN	0	8p0_pert_10	8p0	0	0	5	127	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+de	ADP	0	8p0_pert_10	8p0	0	0	6	128	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+dados	NOUN	0	8p0_pert_10	8p0	0	0	7	129	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+única	ADJ	0	8p0_pert_10	8p0	0	1	8	130	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+?	PUNCT	0	8p0_pert_10	8p0	0	0	9	131	0	0	Como desempilhar elementos em uma estrutura de dados única ?
+11	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_10	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados única ?
+Como	ADP	0	8p0_pert_11	8p0	0	0	0	133	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+desempilhar	NOUN	1	8p0_pert_11	8p0	0	0	1	134	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+elementos	NOUN	0	8p0_pert_11	8p0	0	0	2	135	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+em	ADP	0	8p0_pert_11	8p0	0	0	3	136	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+uma	DET	0	8p0_pert_11	8p0	0	0	4	137	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+estrutura	NOUN	0	8p0_pert_11	8p0	0	0	5	138	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+de	ADP	0	8p0_pert_11	8p0	0	0	6	139	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+dados	NOUN	0	8p0_pert_11	8p0	0	0	7	140	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+matemática	ADJ	0	8p0_pert_11	8p0	0	1	8	141	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+?	PUNCT	0	8p0_pert_11	8p0	0	0	9	142	0	0	Como desempilhar elementos em uma estrutura de dados matemática ?
+12	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_11	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados matemática ?
+Como	ADP	0	8p0_pert_12	8p0	0	0	0	144	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+desempilhar	NOUN	1	8p0_pert_12	8p0	0	0	1	145	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+elementos	NOUN	0	8p0_pert_12	8p0	0	0	2	146	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+em	ADP	0	8p0_pert_12	8p0	0	0	3	147	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+uma	DET	0	8p0_pert_12	8p0	0	0	4	148	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+estrutura	NOUN	0	8p0_pert_12	8p0	0	0	5	149	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+de	ADP	0	8p0_pert_12	8p0	0	0	6	150	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+dados	NOUN	0	8p0_pert_12	8p0	0	0	7	151	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+lógica	ADJ	0	8p0_pert_12	8p0	0	1	8	152	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+?	PUNCT	0	8p0_pert_12	8p0	0	0	9	153	0	0	Como desempilhar elementos em uma estrutura de dados lógica ?
+13	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_12	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados lógica ?
+Como	ADP	0	8p0_pert_13	8p0	0	0	0	155	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+desempilhar	NOUN	1	8p0_pert_13	8p0	0	0	1	156	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+elementos	NOUN	0	8p0_pert_13	8p0	0	0	2	157	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+em	ADP	0	8p0_pert_13	8p0	0	0	3	158	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+uma	DET	0	8p0_pert_13	8p0	0	0	4	159	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+estrutura	NOUN	0	8p0_pert_13	8p0	0	0	5	160	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+de	ADP	0	8p0_pert_13	8p0	0	0	6	161	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+dados	NOUN	0	8p0_pert_13	8p0	0	0	7	162	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+fechada	VERB	0	8p0_pert_13	8p0	0	1	8	163	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+?	PUNCT	0	8p0_pert_13	8p0	0	0	9	164	0	0	Como desempilhar elementos em uma estrutura de dados fechada ?
+14	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_13	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados fechada ?
+Como	ADP	0	8p0_pert_14	8p0	0	0	0	166	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+desempilhar	NOUN	1	8p0_pert_14	8p0	0	0	1	167	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+elementos	NOUN	0	8p0_pert_14	8p0	0	0	2	168	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+em	ADP	0	8p0_pert_14	8p0	0	0	3	169	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+uma	DET	0	8p0_pert_14	8p0	0	0	4	170	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+estrutura	NOUN	0	8p0_pert_14	8p0	0	0	5	171	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+de	ADP	0	8p0_pert_14	8p0	0	0	6	172	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+dados	NOUN	0	8p0_pert_14	8p0	0	0	7	173	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+definida	VERB	0	8p0_pert_14	8p0	0	1	8	174	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+?	PUNCT	0	8p0_pert_14	8p0	0	0	9	175	0	0	Como desempilhar elementos em uma estrutura de dados definida ?
+15	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_14	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados definida ?
+Como	ADP	0	8p0_pert_15	8p0	0	0	0	177	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+desempilhar	NOUN	1	8p0_pert_15	8p0	0	0	1	178	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+elementos	NOUN	0	8p0_pert_15	8p0	0	0	2	179	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+em	ADP	0	8p0_pert_15	8p0	0	0	3	180	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+uma	DET	0	8p0_pert_15	8p0	0	0	4	181	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+estrutura	NOUN	0	8p0_pert_15	8p0	0	0	5	182	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+de	ADP	0	8p0_pert_15	8p0	0	0	6	183	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+dados	NOUN	0	8p0_pert_15	8p0	0	0	7	184	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+completa	ADJ	0	8p0_pert_15	8p0	0	1	8	185	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+?	PUNCT	0	8p0_pert_15	8p0	0	0	9	186	0	0	Como desempilhar elementos em uma estrutura de dados completa ?
+16	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_15	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados completa ?
+Como	ADP	0	8p0_pert_16	8p0	0	0	0	188	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+desempilhar	NOUN	1	8p0_pert_16	8p0	0	0	1	189	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+elementos	NOUN	0	8p0_pert_16	8p0	0	0	2	190	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+em	ADP	0	8p0_pert_16	8p0	0	0	3	191	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+uma	DET	0	8p0_pert_16	8p0	0	0	4	192	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+estrutura	NOUN	0	8p0_pert_16	8p0	0	0	5	193	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+de	ADP	0	8p0_pert_16	8p0	0	0	6	194	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+dados	NOUN	0	8p0_pert_16	8p0	0	0	7	195	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+física	ADJ	0	8p0_pert_16	8p0	0	1	8	196	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+?	PUNCT	0	8p0_pert_16	8p0	0	0	9	197	0	0	Como desempilhar elementos em uma estrutura de dados física ?
+17	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_16	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados física ?
+Como	ADP	0	8p0_pert_17	8p0	0	0	0	199	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+desempilhar	NOUN	1	8p0_pert_17	8p0	0	0	1	200	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+elementos	NOUN	0	8p0_pert_17	8p0	0	0	2	201	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+em	ADP	0	8p0_pert_17	8p0	0	0	3	202	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+uma	DET	0	8p0_pert_17	8p0	0	0	4	203	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+estrutura	NOUN	0	8p0_pert_17	8p0	0	0	5	204	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+de	ADP	0	8p0_pert_17	8p0	0	0	6	205	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+dados	NOUN	0	8p0_pert_17	8p0	0	0	7	206	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+real	ADJ	0	8p0_pert_17	8p0	0	1	8	207	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+?	PUNCT	0	8p0_pert_17	8p0	0	0	9	208	0	0	Como desempilhar elementos em uma estrutura de dados real ?
+18	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_17	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados real ?
+Como	ADP	0	8p0_pert_18	8p0	0	0	0	210	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+desempilhar	NOUN	1	8p0_pert_18	8p0	0	0	1	211	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+elementos	NOUN	0	8p0_pert_18	8p0	0	0	2	212	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+em	ADP	0	8p0_pert_18	8p0	0	0	3	213	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+uma	DET	0	8p0_pert_18	8p0	0	0	4	214	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+estrutura	NOUN	0	8p0_pert_18	8p0	0	0	5	215	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+de	ADP	0	8p0_pert_18	8p0	0	0	6	216	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+dados	NOUN	0	8p0_pert_18	8p0	0	0	7	217	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+linear	ADJ	0	8p0_pert_18	8p0	0	1	8	218	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+?	PUNCT	0	8p0_pert_18	8p0	0	0	9	219	0	0	Como desempilhar elementos em uma estrutura de dados linear ?
+19	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_18	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados linear ?
+Como	ADP	0	8p0_pert_19	8p0	0	0	0	221	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+desempilhar	NOUN	1	8p0_pert_19	8p0	0	0	1	222	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+elementos	NOUN	0	8p0_pert_19	8p0	0	0	2	223	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+em	ADP	0	8p0_pert_19	8p0	0	0	3	224	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+uma	DET	0	8p0_pert_19	8p0	0	0	4	225	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+estrutura	NOUN	0	8p0_pert_19	8p0	0	0	5	226	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+de	ADP	0	8p0_pert_19	8p0	0	0	6	227	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+dados	NOUN	0	8p0_pert_19	8p0	0	0	7	228	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+primária	ADJ	0	8p0_pert_19	8p0	0	1	8	229	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+?	PUNCT	0	8p0_pert_19	8p0	0	0	9	230	0	0	Como desempilhar elementos em uma estrutura de dados primária ?
+20	['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	8p0_pert_19	8p0	0	-1	-1		1	2	Como desempilhar elementos em uma estrutura de dados primária ?

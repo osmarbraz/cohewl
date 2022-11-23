@@ -1,0 +1,106 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161	ad0858f4e0164263a5d7fa6ccb677161	1	0	0	1	O que é monografia ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161	ad0858f4e0164263a5d7fa6ccb677161	1	0	1	2	O que é monografia ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161	ad0858f4e0164263a5d7fa6ccb677161	1	0	2	3	O que é monografia ?
+monografia	NOUN	1	ad0858f4e0164263a5d7fa6ccb677161	ad0858f4e0164263a5d7fa6ccb677161	1	1	3	4	O que é monografia ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161	ad0858f4e0164263a5d7fa6ccb677161	1	0	4		O que é monografia ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_0	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	6	O que é isso ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_0	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	7	O que é isso ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_0	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	8	O que é isso ?
+isso	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_0	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	9	O que é isso ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_0	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é isso ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_1	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	11	O que é isto ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_1	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	12	O que é isto ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_1	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	13	O que é isto ?
+isto	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_1	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	14	O que é isto ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_1	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é isto ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_2	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	16	O que é amor ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_2	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	17	O que é amor ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_2	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	18	O que é amor ?
+amor	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_2	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	19	O que é amor ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_2	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é amor ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_3	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	21	O que é câncer ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_3	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	22	O que é câncer ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_3	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	23	O que é câncer ?
+câncer	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_3	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	24	O que é câncer ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_3	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é câncer ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_4	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	26	O que é verdade ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_4	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	27	O que é verdade ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_4	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	28	O que é verdade ?
+verdade	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_4	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	29	O que é verdade ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_4	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é verdade ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_5	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	31	O que é Deus ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_5	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	32	O que é Deus ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_5	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	33	O que é Deus ?
+Deus	PROPN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_5	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	34	O que é Deus ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_5	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é Deus ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_6	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	36	O que é bom ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_6	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	37	O que é bom ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_6	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	38	O que é bom ?
+bom	ADJ	0	ad0858f4e0164263a5d7fa6ccb677161_pert_6	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	39	O que é bom ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_6	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é bom ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_7	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	41	O que é depressão ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_7	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	42	O que é depressão ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_7	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	43	O que é depressão ?
+depressão	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_7	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	44	O que é depressão ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_7	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é depressão ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_8	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	46	O que é felicidade ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_8	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	47	O que é felicidade ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_8	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	48	O que é felicidade ?
+felicidade	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_8	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	49	O que é felicidade ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_8	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é felicidade ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_9	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	51	O que é saúde ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_9	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	52	O que é saúde ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_9	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	53	O que é saúde ?
+saúde	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_9	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	54	O que é saúde ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_9	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é saúde ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_10	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	56	O que é democracia ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_10	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	57	O que é democracia ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_10	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	58	O que é democracia ?
+democracia	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_10	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	59	O que é democracia ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_10	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é democracia ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_11	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	61	O que é música ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_11	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	62	O que é música ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_11	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	63	O que é música ?
+música	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_11	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	64	O que é música ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_11	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é música ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_12	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	66	O que é melhor ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_12	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	67	O que é melhor ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_12	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	68	O que é melhor ?
+melhor	ADJ	0	ad0858f4e0164263a5d7fa6ccb677161_pert_12	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	69	O que é melhor ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_12	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é melhor ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_13	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	71	O que é cultura ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_13	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	72	O que é cultura ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_13	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	73	O que é cultura ?
+cultura	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_13	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	74	O que é cultura ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_13	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é cultura ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_14	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	76	O que é religião ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_14	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	77	O que é religião ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_14	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	78	O que é religião ?
+religião	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_14	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	79	O que é religião ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_14	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é religião ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_15	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	81	O que é fé ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_15	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	82	O que é fé ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_15	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	83	O que é fé ?
+fé	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_15	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	84	O que é fé ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_15	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é fé ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_16	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	86	O que é doença ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_16	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	87	O que é doença ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_16	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	88	O que é doença ?
+doença	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_16	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	89	O que é doença ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_16	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é doença ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_17	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	91	O que é cidadania ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_17	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	92	O que é cidadania ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_17	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	93	O que é cidadania ?
+cidadania	VERB	0	ad0858f4e0164263a5d7fa6ccb677161_pert_17	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	94	O que é cidadania ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_17	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é cidadania ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_18	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	96	O que é ciência ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_18	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	97	O que é ciência ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_18	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	98	O que é ciência ?
+ciência	NOUN	0	ad0858f4e0164263a5d7fa6ccb677161_pert_18	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	99	O que é ciência ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_18	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é ciência ?
+O	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_19	ad0858f4e0164263a5d7fa6ccb677161	0	0	0	101	O que é ela ?
+que	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_19	ad0858f4e0164263a5d7fa6ccb677161	0	0	1	102	O que é ela ?
+é	AUX	0	ad0858f4e0164263a5d7fa6ccb677161_pert_19	ad0858f4e0164263a5d7fa6ccb677161	0	0	2	103	O que é ela ?
+ela	PRON	0	ad0858f4e0164263a5d7fa6ccb677161_pert_19	ad0858f4e0164263a5d7fa6ccb677161	0	1	3	104	O que é ela ?
+?	PUNCT	0	ad0858f4e0164263a5d7fa6ccb677161_pert_19	ad0858f4e0164263a5d7fa6ccb677161	0	0	4		O que é ela ?

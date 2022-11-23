@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Onde	ADV	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	0	1	Onde os tornados são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	1	2	Onde os tornados são mais comuns na Terra ?
+tornados	NOUN	1	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	1	2	3	Onde os tornados são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	3	4	Onde os tornados são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	4	5	Onde os tornados são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	5	6	Onde os tornados são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	6	7	Onde os tornados são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	7	8	Onde os tornados são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6	572ed039c246551400ce46d6	1	0	8		Onde os tornados são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	0	10	Onde os raios são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	1	11	Onde os raios são mais comuns na Terra ?
+raios	NOUN	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	1	2	12	Onde os raios são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	3	13	Onde os raios são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	4	14	Onde os raios são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	5	15	Onde os raios são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	6	16	Onde os raios são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	7	17	Onde os raios são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_0	572ed039c246551400ce46d6	0	0	8		Onde os raios são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	0	19	Onde os buracos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	1	20	Onde os buracos são mais comuns na Terra ?
+buracos	NOUN	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	1	2	21	Onde os buracos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	3	22	Onde os buracos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	4	23	Onde os buracos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	5	24	Onde os buracos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	6	25	Onde os buracos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	7	26	Onde os buracos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_1	572ed039c246551400ce46d6	0	0	8		Onde os buracos são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	0	28	Onde os alienígenas são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	1	29	Onde os alienígenas são mais comuns na Terra ?
+alienígenas	NOUN	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	1	2	30	Onde os alienígenas são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	3	31	Onde os alienígenas são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	4	32	Onde os alienígenas são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	5	33	Onde os alienígenas são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	6	34	Onde os alienígenas são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	7	35	Onde os alienígenas são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_2	572ed039c246551400ce46d6	0	0	8		Onde os alienígenas são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	0	37	Onde os vírus são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	1	38	Onde os vírus são mais comuns na Terra ?
+vírus	NOUN	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	1	2	39	Onde os vírus são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	3	40	Onde os vírus são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	4	41	Onde os vírus são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	5	42	Onde os vírus são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	6	43	Onde os vírus são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	7	44	Onde os vírus são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_3	572ed039c246551400ce46d6	0	0	8		Onde os vírus são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	0	46	Onde os animais são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	1	47	Onde os animais são mais comuns na Terra ?
+animais	NOUN	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	1	2	48	Onde os animais são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	3	49	Onde os animais são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	4	50	Onde os animais são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	5	51	Onde os animais são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	6	52	Onde os animais são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	7	53	Onde os animais são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_4	572ed039c246551400ce46d6	0	0	8		Onde os animais são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	0	55	Onde os problemas são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	1	56	Onde os problemas são mais comuns na Terra ?
+problemas	NOUN	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	1	2	57	Onde os problemas são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	3	58	Onde os problemas são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	4	59	Onde os problemas são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	5	60	Onde os problemas são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	6	61	Onde os problemas são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	7	62	Onde os problemas são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_5	572ed039c246551400ce46d6	0	0	8		Onde os problemas são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	0	64	Onde os insetos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	1	65	Onde os insetos são mais comuns na Terra ?
+insetos	NOUN	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	1	2	66	Onde os insetos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	3	67	Onde os insetos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	4	68	Onde os insetos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	5	69	Onde os insetos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	6	70	Onde os insetos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	7	71	Onde os insetos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_6	572ed039c246551400ce46d6	0	0	8		Onde os insetos são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	0	73	Onde os acidentes são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	1	74	Onde os acidentes são mais comuns na Terra ?
+acidentes	NOUN	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	1	2	75	Onde os acidentes são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	3	76	Onde os acidentes são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	4	77	Onde os acidentes são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	5	78	Onde os acidentes são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	6	79	Onde os acidentes são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	7	80	Onde os acidentes são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_7	572ed039c246551400ce46d6	0	0	8		Onde os acidentes são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	0	82	Onde os planetas são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	1	83	Onde os planetas são mais comuns na Terra ?
+planetas	NOUN	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	1	2	84	Onde os planetas são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	3	85	Onde os planetas são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	4	86	Onde os planetas são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	5	87	Onde os planetas são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	6	88	Onde os planetas são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	7	89	Onde os planetas são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_8	572ed039c246551400ce46d6	0	0	8		Onde os planetas são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	0	91	Onde os vampiros são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	1	92	Onde os vampiros são mais comuns na Terra ?
+vampiros	NOUN	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	1	2	93	Onde os vampiros são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	3	94	Onde os vampiros são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	4	95	Onde os vampiros são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	5	96	Onde os vampiros são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	6	97	Onde os vampiros são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	7	98	Onde os vampiros são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_9	572ed039c246551400ce46d6	0	0	8		Onde os vampiros são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	0	100	Onde os dinossauros são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	1	101	Onde os dinossauros são mais comuns na Terra ?
+dinossauros	NOUN	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	1	2	102	Onde os dinossauros são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	3	103	Onde os dinossauros são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	4	104	Onde os dinossauros são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	5	105	Onde os dinossauros são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	6	106	Onde os dinossauros são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	7	107	Onde os dinossauros são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_10	572ed039c246551400ce46d6	0	0	8		Onde os dinossauros são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	0	109	Onde os incêndios são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	1	110	Onde os incêndios são mais comuns na Terra ?
+incêndios	NOUN	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	1	2	111	Onde os incêndios são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	3	112	Onde os incêndios são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	4	113	Onde os incêndios são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	5	114	Onde os incêndios são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	6	115	Onde os incêndios são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	7	116	Onde os incêndios são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_11	572ed039c246551400ce46d6	0	0	8		Onde os incêndios são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	0	118	Onde os humanos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	1	119	Onde os humanos são mais comuns na Terra ?
+humanos	NOUN	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	1	2	120	Onde os humanos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	3	121	Onde os humanos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	4	122	Onde os humanos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	5	123	Onde os humanos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	6	124	Onde os humanos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	7	125	Onde os humanos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_12	572ed039c246551400ce46d6	0	0	8		Onde os humanos são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	0	127	Onde os conflitos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	1	128	Onde os conflitos são mais comuns na Terra ?
+conflitos	NOUN	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	1	2	129	Onde os conflitos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	3	130	Onde os conflitos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	4	131	Onde os conflitos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	5	132	Onde os conflitos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	6	133	Onde os conflitos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	7	134	Onde os conflitos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_13	572ed039c246551400ce46d6	0	0	8		Onde os conflitos são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	0	136	Onde os gases são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	1	137	Onde os gases são mais comuns na Terra ?
+gases	NOUN	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	1	2	138	Onde os gases são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	3	139	Onde os gases são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	4	140	Onde os gases são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	5	141	Onde os gases são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	6	142	Onde os gases são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	7	143	Onde os gases são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_14	572ed039c246551400ce46d6	0	0	8		Onde os gases são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	0	145	Onde os fósseis são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	1	146	Onde os fósseis são mais comuns na Terra ?
+fósseis	NOUN	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	1	2	147	Onde os fósseis são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	3	148	Onde os fósseis são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	4	149	Onde os fósseis são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	5	150	Onde os fósseis são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	6	151	Onde os fósseis são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	7	152	Onde os fósseis são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_15	572ed039c246551400ce46d6	0	0	8		Onde os fósseis são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	0	154	Onde os fungos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	1	155	Onde os fungos são mais comuns na Terra ?
+fungos	NOUN	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	1	2	156	Onde os fungos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	3	157	Onde os fungos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	4	158	Onde os fungos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	5	159	Onde os fungos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	6	160	Onde os fungos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	7	161	Onde os fungos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_16	572ed039c246551400ce46d6	0	0	8		Onde os fungos são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	0	163	Onde os gatos são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	1	164	Onde os gatos são mais comuns na Terra ?
+gatos	NOUN	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	1	2	165	Onde os gatos são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	3	166	Onde os gatos são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	4	167	Onde os gatos são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	5	168	Onde os gatos são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	6	169	Onde os gatos são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	7	170	Onde os gatos são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_17	572ed039c246551400ce46d6	0	0	8		Onde os gatos são mais comuns na Terra ?
+Onde	ADV	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	0	172	Onde os peixes são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	1	173	Onde os peixes são mais comuns na Terra ?
+peixes	NOUN	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	1	2	174	Onde os peixes são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	3	175	Onde os peixes são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	4	176	Onde os peixes são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	5	177	Onde os peixes são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	6	178	Onde os peixes são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	7	179	Onde os peixes são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_18	572ed039c246551400ce46d6	0	0	8		Onde os peixes são mais comuns na Terra ?
+Onde	PRON	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	0	181	Onde os erros são mais comuns na Terra ?
+os	DET	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	1	182	Onde os erros são mais comuns na Terra ?
+erros	NOUN	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	1	2	183	Onde os erros são mais comuns na Terra ?
+são	AUX	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	3	184	Onde os erros são mais comuns na Terra ?
+mais	ADV	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	4	185	Onde os erros são mais comuns na Terra ?
+comuns	ADJ	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	5	186	Onde os erros são mais comuns na Terra ?
+na	ADP	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	6	187	Onde os erros são mais comuns na Terra ?
+Terra	PROPN	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	7	188	Onde os erros são mais comuns na Terra ?
+?	PUNCT	0	572ed039c246551400ce46d6_pert_19	572ed039c246551400ce46d6	0	0	8		Onde os erros são mais comuns na Terra ?

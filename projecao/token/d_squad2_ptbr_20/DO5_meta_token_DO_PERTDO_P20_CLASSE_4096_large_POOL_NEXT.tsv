@@ -1,0 +1,127 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Que	DET	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	0	1	Que perguntas correspondem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	1	2	Que perguntas correspondem às homossexuais ?
+correspondem	VERB	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	1	2	3	Que perguntas correspondem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	3	4	Que perguntas correspondem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	4	5	Que perguntas correspondem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	5		Que perguntas correspondem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	0	7	Que perguntas fazem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	1	8	Que perguntas fazem às homossexuais ?
+fazem	VERB	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	1	2	9	Que perguntas fazem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	3	10	Que perguntas fazem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	4	11	Que perguntas fazem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	5		Que perguntas fazem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	0	13	Que perguntas fazer às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	1	14	Que perguntas fazer às homossexuais ?
+fazer	VERB	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	1	2	15	Que perguntas fazer às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	3	16	Que perguntas fazer às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	4	17	Que perguntas fazer às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	5		Que perguntas fazer às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	0	19	Que perguntas faz às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	1	20	Que perguntas faz às homossexuais ?
+faz	VERB	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	1	2	21	Que perguntas faz às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	3	22	Que perguntas faz às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	4	23	Que perguntas faz às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	5		Que perguntas faz às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	0	25	Que perguntas fizeram às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	1	26	Que perguntas fizeram às homossexuais ?
+fizeram	VERB	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	1	2	27	Que perguntas fizeram às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	3	28	Que perguntas fizeram às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	4	29	Que perguntas fizeram às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	5		Que perguntas fizeram às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	0	31	Que perguntas faria às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	1	32	Que perguntas faria às homossexuais ?
+faria	VERB	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	1	2	33	Que perguntas faria às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	3	34	Que perguntas faria às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	4	35	Que perguntas faria às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	5		Que perguntas faria às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	0	37	Que perguntas faziam às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	1	38	Que perguntas faziam às homossexuais ?
+faziam	VERB	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	1	2	39	Que perguntas faziam às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	3	40	Que perguntas faziam às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	4	41	Que perguntas faziam às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	5		Que perguntas faziam às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	0	43	Que perguntas fez às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	1	44	Que perguntas fez às homossexuais ?
+fez	VERB	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	1	2	45	Que perguntas fez às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	3	46	Que perguntas fez às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	4	47	Que perguntas fez às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	5		Que perguntas fez às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	0	49	Que perguntas feitas às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	1	50	Que perguntas feitas às homossexuais ?
+feitas	VERB	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	1	2	51	Que perguntas feitas às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	3	52	Que perguntas feitas às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	4	53	Que perguntas feitas às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	5		Que perguntas feitas às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	0	55	Que perguntas responder às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	1	56	Que perguntas responder às homossexuais ?
+responder	VERB	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	1	2	57	Que perguntas responder às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	3	58	Que perguntas responder às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	4	59	Que perguntas responder às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	5		Que perguntas responder às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	0	61	Que perguntas fazia às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	1	62	Que perguntas fazia às homossexuais ?
+fazia	VERB	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	1	2	63	Que perguntas fazia às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	3	64	Que perguntas fazia às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	4	65	Que perguntas fazia às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	5		Que perguntas fazia às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	0	67	Que perguntas fiz às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	1	68	Que perguntas fiz às homossexuais ?
+fiz	VERB	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	1	2	69	Que perguntas fiz às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	3	70	Que perguntas fiz às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	4	71	Que perguntas fiz às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	5		Que perguntas fiz às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	0	73	Que perguntas fará às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	1	74	Que perguntas fará às homossexuais ?
+fará	VERB	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	1	2	75	Que perguntas fará às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	3	76	Que perguntas fará às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	4	77	Que perguntas fará às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	5		Que perguntas fará às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	0	79	Que perguntas faça às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	1	80	Que perguntas faça às homossexuais ?
+faça	VERB	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	1	2	81	Que perguntas faça às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	3	82	Que perguntas faça às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	4	83	Que perguntas faça às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	5		Que perguntas faça às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	0	85	Que perguntas surgem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	1	86	Que perguntas surgem às homossexuais ?
+surgem	VERB	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	1	2	87	Que perguntas surgem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	3	88	Que perguntas surgem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	4	89	Que perguntas surgem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	5		Que perguntas surgem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	0	91	Que perguntas servem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	1	92	Que perguntas servem às homossexuais ?
+servem	VERB	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	1	2	93	Que perguntas servem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	3	94	Que perguntas servem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	4	95	Que perguntas servem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	5		Que perguntas servem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	0	97	Que perguntas são às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	1	98	Que perguntas são às homossexuais ?
+são	AUX	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	1	2	99	Que perguntas são às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	3	100	Que perguntas são às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	4	101	Que perguntas são às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	5		Que perguntas são às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	0	103	Que perguntas dirige às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	1	104	Que perguntas dirige às homossexuais ?
+dirige	VERB	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	1	2	105	Que perguntas dirige às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	3	106	Que perguntas dirige às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	4	107	Que perguntas dirige às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	5		Que perguntas dirige às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	0	109	Que perguntas ocorrem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	1	110	Que perguntas ocorrem às homossexuais ?
+ocorrem	VERB	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	1	2	111	Que perguntas ocorrem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	3	112	Que perguntas ocorrem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	4	113	Que perguntas ocorrem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	5		Que perguntas ocorrem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	0	115	Que perguntas permitem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	1	116	Que perguntas permitem às homossexuais ?
+permitem	VERB	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	1	2	117	Que perguntas permitem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	3	118	Que perguntas permitem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	4	119	Que perguntas permitem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	5		Que perguntas permitem às homossexuais ?
+Que	DET	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	0	121	Que perguntas existem às homossexuais ?
+perguntas	NOUN	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	1	122	Que perguntas existem às homossexuais ?
+existem	VERB	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	1	2	123	Que perguntas existem às homossexuais ?
+às	ADP	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	3	124	Que perguntas existem às homossexuais ?
+homossexuais	NOUN	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	4	125	Que perguntas existem às homossexuais ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	5		Que perguntas existem às homossexuais ?

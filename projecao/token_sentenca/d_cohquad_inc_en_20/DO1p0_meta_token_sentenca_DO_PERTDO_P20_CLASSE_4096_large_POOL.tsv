@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	1p0	1p0	1	0	0	0	1	How to dequeue elements in a stack ?
+to	PART	0	1p0	1p0	1	0	1	0	1	How to dequeue elements in a stack ?
+dequeue	VERB	1	1p0	1p0	1	1	2	0	1	How to dequeue elements in a stack ?
+elements	NOUN	0	1p0	1p0	1	0	3	0	1	How to dequeue elements in a stack ?
+in	ADP	0	1p0	1p0	1	0	4	0	1	How to dequeue elements in a stack ?
+a	DET	0	1p0	1p0	1	0	5	0	1	How to dequeue elements in a stack ?
+stack	NOUN	0	1p0	1p0	1	0	6	0	1	How to dequeue elements in a stack ?
+?	PUNCT	0	1p0	1p0	1	0	7	0	1	How to dequeue elements in a stack ?
+0	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0]	1p0	1p0	1	-1	-1	1	3	How to dequeue elements in a stack ?
+How	SCONJ	0	1p0_pert_0	1p0	0	0	0	0	0	How to arrange elements in a stack ?
+to	PART	0	1p0_pert_0	1p0	0	0	1	0	0	How to arrange elements in a stack ?
+arrange	VERB	0	1p0_pert_0	1p0	0	1	2	0	0	How to arrange elements in a stack ?
+elements	NOUN	0	1p0_pert_0	1p0	0	0	3	0	0	How to arrange elements in a stack ?
+in	ADP	0	1p0_pert_0	1p0	0	0	4	0	0	How to arrange elements in a stack ?
+a	DET	0	1p0_pert_0	1p0	0	0	5	0	0	How to arrange elements in a stack ?
+stack	NOUN	0	1p0_pert_0	1p0	0	0	6	0	0	How to arrange elements in a stack ?
+?	PUNCT	0	1p0_pert_0	1p0	0	0	7	0	0	How to arrange elements in a stack ?
+1	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_0	1p0	0	-1	-1	1	2	How to arrange elements in a stack ?
+How	SCONJ	0	1p0_pert_1	1p0	0	0	0	0	0	How to organize elements in a stack ?
+to	PART	0	1p0_pert_1	1p0	0	0	1	0	0	How to organize elements in a stack ?
+organize	VERB	0	1p0_pert_1	1p0	0	1	2	0	0	How to organize elements in a stack ?
+elements	NOUN	0	1p0_pert_1	1p0	0	0	3	0	0	How to organize elements in a stack ?
+in	ADP	0	1p0_pert_1	1p0	0	0	4	0	0	How to organize elements in a stack ?
+a	DET	0	1p0_pert_1	1p0	0	0	5	0	0	How to organize elements in a stack ?
+stack	NOUN	0	1p0_pert_1	1p0	0	0	6	0	0	How to organize elements in a stack ?
+?	PUNCT	0	1p0_pert_1	1p0	0	0	7	0	0	How to organize elements in a stack ?
+2	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_1	1p0	0	-1	-1	1	2	How to organize elements in a stack ?
+How	SCONJ	0	1p0_pert_2	1p0	0	0	0	0	0	How to store elements in a stack ?
+to	PART	0	1p0_pert_2	1p0	0	0	1	0	0	How to store elements in a stack ?
+store	VERB	0	1p0_pert_2	1p0	0	1	2	0	0	How to store elements in a stack ?
+elements	NOUN	0	1p0_pert_2	1p0	0	0	3	0	0	How to store elements in a stack ?
+in	ADP	0	1p0_pert_2	1p0	0	0	4	0	0	How to store elements in a stack ?
+a	DET	0	1p0_pert_2	1p0	0	0	5	0	0	How to store elements in a stack ?
+stack	NOUN	0	1p0_pert_2	1p0	0	0	6	0	0	How to store elements in a stack ?
+?	PUNCT	0	1p0_pert_2	1p0	0	0	7	0	0	How to store elements in a stack ?
+3	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_2	1p0	0	-1	-1	1	2	How to store elements in a stack ?
+How	SCONJ	0	1p0_pert_3	1p0	0	0	0	0	0	How to put elements in a stack ?
+to	PART	0	1p0_pert_3	1p0	0	0	1	0	0	How to put elements in a stack ?
+put	VERB	0	1p0_pert_3	1p0	0	1	2	0	0	How to put elements in a stack ?
+elements	NOUN	0	1p0_pert_3	1p0	0	0	3	0	0	How to put elements in a stack ?
+in	ADP	0	1p0_pert_3	1p0	0	0	4	0	0	How to put elements in a stack ?
+a	DET	0	1p0_pert_3	1p0	0	0	5	0	0	How to put elements in a stack ?
+stack	NOUN	0	1p0_pert_3	1p0	0	0	6	0	0	How to put elements in a stack ?
+?	PUNCT	0	1p0_pert_3	1p0	0	0	7	0	0	How to put elements in a stack ?
+4	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_3	1p0	0	-1	-1	1	2	How to put elements in a stack ?
+How	SCONJ	0	1p0_pert_4	1p0	0	0	0	0	0	How to manage elements in a stack ?
+to	PART	0	1p0_pert_4	1p0	0	0	1	0	0	How to manage elements in a stack ?
+manage	VERB	0	1p0_pert_4	1p0	0	1	2	0	0	How to manage elements in a stack ?
+elements	NOUN	0	1p0_pert_4	1p0	0	0	3	0	0	How to manage elements in a stack ?
+in	ADP	0	1p0_pert_4	1p0	0	0	4	0	0	How to manage elements in a stack ?
+a	DET	0	1p0_pert_4	1p0	0	0	5	0	0	How to manage elements in a stack ?
+stack	NOUN	0	1p0_pert_4	1p0	0	0	6	0	0	How to manage elements in a stack ?
+?	PUNCT	0	1p0_pert_4	1p0	0	0	7	0	0	How to manage elements in a stack ?
+5	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_4	1p0	0	-1	-1	1	2	How to manage elements in a stack ?
+How	SCONJ	0	1p0_pert_5	1p0	0	0	0	0	0	How to place elements in a stack ?
+to	PART	0	1p0_pert_5	1p0	0	0	1	0	0	How to place elements in a stack ?
+place	VERB	0	1p0_pert_5	1p0	0	1	2	0	0	How to place elements in a stack ?
+elements	NOUN	0	1p0_pert_5	1p0	0	0	3	0	0	How to place elements in a stack ?
+in	ADP	0	1p0_pert_5	1p0	0	0	4	0	0	How to place elements in a stack ?
+a	DET	0	1p0_pert_5	1p0	0	0	5	0	0	How to place elements in a stack ?
+stack	NOUN	0	1p0_pert_5	1p0	0	0	6	0	0	How to place elements in a stack ?
+?	PUNCT	0	1p0_pert_5	1p0	0	0	7	0	0	How to place elements in a stack ?
+6	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_5	1p0	0	-1	-1	1	2	How to place elements in a stack ?
+How	SCONJ	0	1p0_pert_6	1p0	0	0	0	0	0	How to represent elements in a stack ?
+to	PART	0	1p0_pert_6	1p0	0	0	1	0	0	How to represent elements in a stack ?
+represent	VERB	0	1p0_pert_6	1p0	0	1	2	0	0	How to represent elements in a stack ?
+elements	NOUN	0	1p0_pert_6	1p0	0	0	3	0	0	How to represent elements in a stack ?
+in	ADP	0	1p0_pert_6	1p0	0	0	4	0	0	How to represent elements in a stack ?
+a	DET	0	1p0_pert_6	1p0	0	0	5	0	0	How to represent elements in a stack ?
+stack	NOUN	0	1p0_pert_6	1p0	0	0	6	0	0	How to represent elements in a stack ?
+?	PUNCT	0	1p0_pert_6	1p0	0	0	7	0	0	How to represent elements in a stack ?
+7	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_6	1p0	0	-1	-1	1	2	How to represent elements in a stack ?
+How	SCONJ	0	1p0_pert_7	1p0	0	0	0	0	0	How to stack elements in a stack ?
+to	PART	0	1p0_pert_7	1p0	0	0	1	0	0	How to stack elements in a stack ?
+stack	VERB	0	1p0_pert_7	1p0	0	0	2	0	0	How to stack elements in a stack ?
+elements	NOUN	0	1p0_pert_7	1p0	0	0	3	0	0	How to stack elements in a stack ?
+in	ADP	0	1p0_pert_7	1p0	0	0	4	0	0	How to stack elements in a stack ?
+a	DET	0	1p0_pert_7	1p0	0	0	5	0	0	How to stack elements in a stack ?
+stack	NOUN	0	1p0_pert_7	1p0	0	0	6	0	0	How to stack elements in a stack ?
+?	PUNCT	0	1p0_pert_7	1p0	0	0	7	0	0	How to stack elements in a stack ?
+8	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_7	1p0	0	-1	-1	1	2	How to stack elements in a stack ?
+How	SCONJ	0	1p0_pert_8	1p0	0	0	0	0	0	How to sort elements in a stack ?
+to	PART	0	1p0_pert_8	1p0	0	0	1	0	0	How to sort elements in a stack ?
+sort	VERB	0	1p0_pert_8	1p0	0	1	2	0	0	How to sort elements in a stack ?
+elements	NOUN	0	1p0_pert_8	1p0	0	0	3	0	0	How to sort elements in a stack ?
+in	ADP	0	1p0_pert_8	1p0	0	0	4	0	0	How to sort elements in a stack ?
+a	DET	0	1p0_pert_8	1p0	0	0	5	0	0	How to sort elements in a stack ?
+stack	NOUN	0	1p0_pert_8	1p0	0	0	6	0	0	How to sort elements in a stack ?
+?	PUNCT	0	1p0_pert_8	1p0	0	0	7	0	0	How to sort elements in a stack ?
+9	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_8	1p0	0	-1	-1	1	2	How to sort elements in a stack ?
+How	SCONJ	0	1p0_pert_9	1p0	0	0	0	0	0	How to handle elements in a stack ?
+to	PART	0	1p0_pert_9	1p0	0	0	1	0	0	How to handle elements in a stack ?
+handle	VERB	0	1p0_pert_9	1p0	0	1	2	0	0	How to handle elements in a stack ?
+elements	NOUN	0	1p0_pert_9	1p0	0	0	3	0	0	How to handle elements in a stack ?
+in	ADP	0	1p0_pert_9	1p0	0	0	4	0	0	How to handle elements in a stack ?
+a	DET	0	1p0_pert_9	1p0	0	0	5	0	0	How to handle elements in a stack ?
+stack	NOUN	0	1p0_pert_9	1p0	0	0	6	0	0	How to handle elements in a stack ?
+?	PUNCT	0	1p0_pert_9	1p0	0	0	7	0	0	How to handle elements in a stack ?
+10	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_9	1p0	0	-1	-1	1	2	How to handle elements in a stack ?
+How	SCONJ	0	1p0_pert_10	1p0	0	0	0	0	0	How to combine elements in a stack ?
+to	PART	0	1p0_pert_10	1p0	0	0	1	0	0	How to combine elements in a stack ?
+combine	VERB	0	1p0_pert_10	1p0	0	1	2	0	0	How to combine elements in a stack ?
+elements	NOUN	0	1p0_pert_10	1p0	0	0	3	0	0	How to combine elements in a stack ?
+in	ADP	0	1p0_pert_10	1p0	0	0	4	0	0	How to combine elements in a stack ?
+a	DET	0	1p0_pert_10	1p0	0	0	5	0	0	How to combine elements in a stack ?
+stack	NOUN	0	1p0_pert_10	1p0	0	0	6	0	0	How to combine elements in a stack ?
+?	PUNCT	0	1p0_pert_10	1p0	0	0	7	0	0	How to combine elements in a stack ?
+11	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_10	1p0	0	-1	-1	1	2	How to combine elements in a stack ?
+How	SCONJ	0	1p0_pert_11	1p0	0	0	0	0	0	How to use elements in a stack ?
+to	PART	0	1p0_pert_11	1p0	0	0	1	0	0	How to use elements in a stack ?
+use	VERB	0	1p0_pert_11	1p0	0	1	2	0	0	How to use elements in a stack ?
+elements	NOUN	0	1p0_pert_11	1p0	0	0	3	0	0	How to use elements in a stack ?
+in	ADP	0	1p0_pert_11	1p0	0	0	4	0	0	How to use elements in a stack ?
+a	DET	0	1p0_pert_11	1p0	0	0	5	0	0	How to use elements in a stack ?
+stack	NOUN	0	1p0_pert_11	1p0	0	0	6	0	0	How to use elements in a stack ?
+?	PUNCT	0	1p0_pert_11	1p0	0	0	7	0	0	How to use elements in a stack ?
+12	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_11	1p0	0	-1	-1	1	2	How to use elements in a stack ?
+How	SCONJ	0	1p0_pert_12	1p0	0	0	0	0	0	How to separate elements in a stack ?
+to	PART	0	1p0_pert_12	1p0	0	0	1	0	0	How to separate elements in a stack ?
+separate	VERB	0	1p0_pert_12	1p0	0	1	2	0	0	How to separate elements in a stack ?
+elements	NOUN	0	1p0_pert_12	1p0	0	0	3	0	0	How to separate elements in a stack ?
+in	ADP	0	1p0_pert_12	1p0	0	0	4	0	0	How to separate elements in a stack ?
+a	DET	0	1p0_pert_12	1p0	0	0	5	0	0	How to separate elements in a stack ?
+stack	NOUN	0	1p0_pert_12	1p0	0	0	6	0	0	How to separate elements in a stack ?
+?	PUNCT	0	1p0_pert_12	1p0	0	0	7	0	0	How to separate elements in a stack ?
+13	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_12	1p0	0	-1	-1	1	2	How to separate elements in a stack ?
+How	SCONJ	0	1p0_pert_13	1p0	0	0	0	0	0	How to describe elements in a stack ?
+to	PART	0	1p0_pert_13	1p0	0	0	1	0	0	How to describe elements in a stack ?
+describe	VERB	0	1p0_pert_13	1p0	0	1	2	0	0	How to describe elements in a stack ?
+elements	NOUN	0	1p0_pert_13	1p0	0	0	3	0	0	How to describe elements in a stack ?
+in	ADP	0	1p0_pert_13	1p0	0	0	4	0	0	How to describe elements in a stack ?
+a	DET	0	1p0_pert_13	1p0	0	0	5	0	0	How to describe elements in a stack ?
+stack	NOUN	0	1p0_pert_13	1p0	0	0	6	0	0	How to describe elements in a stack ?
+?	PUNCT	0	1p0_pert_13	1p0	0	0	7	0	0	How to describe elements in a stack ?
+14	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_13	1p0	0	-1	-1	1	2	How to describe elements in a stack ?
+How	SCONJ	0	1p0_pert_14	1p0	0	0	0	0	0	How to manipulate elements in a stack ?
+to	PART	0	1p0_pert_14	1p0	0	0	1	0	0	How to manipulate elements in a stack ?
+manipulate	VERB	0	1p0_pert_14	1p0	0	1	2	0	0	How to manipulate elements in a stack ?
+elements	NOUN	0	1p0_pert_14	1p0	0	0	3	0	0	How to manipulate elements in a stack ?
+in	ADP	0	1p0_pert_14	1p0	0	0	4	0	0	How to manipulate elements in a stack ?
+a	DET	0	1p0_pert_14	1p0	0	0	5	0	0	How to manipulate elements in a stack ?
+stack	NOUN	0	1p0_pert_14	1p0	0	0	6	0	0	How to manipulate elements in a stack ?
+?	PUNCT	0	1p0_pert_14	1p0	0	0	7	0	0	How to manipulate elements in a stack ?
+15	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_14	1p0	0	-1	-1	1	2	How to manipulate elements in a stack ?
+How	SCONJ	0	1p0_pert_15	1p0	0	0	0	0	0	How to define elements in a stack ?
+to	PART	0	1p0_pert_15	1p0	0	0	1	0	0	How to define elements in a stack ?
+define	VERB	0	1p0_pert_15	1p0	0	1	2	0	0	How to define elements in a stack ?
+elements	NOUN	0	1p0_pert_15	1p0	0	0	3	0	0	How to define elements in a stack ?
+in	ADP	0	1p0_pert_15	1p0	0	0	4	0	0	How to define elements in a stack ?
+a	DET	0	1p0_pert_15	1p0	0	0	5	0	0	How to define elements in a stack ?
+stack	NOUN	0	1p0_pert_15	1p0	0	0	6	0	0	How to define elements in a stack ?
+?	PUNCT	0	1p0_pert_15	1p0	0	0	7	0	0	How to define elements in a stack ?
+16	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_15	1p0	0	-1	-1	1	2	How to define elements in a stack ?
+How	SCONJ	0	1p0_pert_16	1p0	0	0	0	0	0	How to connect elements in a stack ?
+to	PART	0	1p0_pert_16	1p0	0	0	1	0	0	How to connect elements in a stack ?
+connect	VERB	0	1p0_pert_16	1p0	0	1	2	0	0	How to connect elements in a stack ?
+elements	NOUN	0	1p0_pert_16	1p0	0	0	3	0	0	How to connect elements in a stack ?
+in	ADP	0	1p0_pert_16	1p0	0	0	4	0	0	How to connect elements in a stack ?
+a	DET	0	1p0_pert_16	1p0	0	0	5	0	0	How to connect elements in a stack ?
+stack	NOUN	0	1p0_pert_16	1p0	0	0	6	0	0	How to connect elements in a stack ?
+?	PUNCT	0	1p0_pert_16	1p0	0	0	7	0	0	How to connect elements in a stack ?
+17	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_16	1p0	0	-1	-1	1	2	How to connect elements in a stack ?
+How	SCONJ	0	1p0_pert_17	1p0	0	0	0	0	0	How to order elements in a stack ?
+to	PART	0	1p0_pert_17	1p0	0	0	1	0	0	How to order elements in a stack ?
+order	VERB	0	1p0_pert_17	1p0	0	1	2	0	0	How to order elements in a stack ?
+elements	NOUN	0	1p0_pert_17	1p0	0	0	3	0	0	How to order elements in a stack ?
+in	ADP	0	1p0_pert_17	1p0	0	0	4	0	0	How to order elements in a stack ?
+a	DET	0	1p0_pert_17	1p0	0	0	5	0	0	How to order elements in a stack ?
+stack	NOUN	0	1p0_pert_17	1p0	0	0	6	0	0	How to order elements in a stack ?
+?	PUNCT	0	1p0_pert_17	1p0	0	0	7	0	0	How to order elements in a stack ?
+18	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_17	1p0	0	-1	-1	1	2	How to order elements in a stack ?
+How	SCONJ	0	1p0_pert_18	1p0	0	0	0	0	0	How to create elements in a stack ?
+to	PART	0	1p0_pert_18	1p0	0	0	1	0	0	How to create elements in a stack ?
+create	VERB	0	1p0_pert_18	1p0	0	1	2	0	0	How to create elements in a stack ?
+elements	NOUN	0	1p0_pert_18	1p0	0	0	3	0	0	How to create elements in a stack ?
+in	ADP	0	1p0_pert_18	1p0	0	0	4	0	0	How to create elements in a stack ?
+a	DET	0	1p0_pert_18	1p0	0	0	5	0	0	How to create elements in a stack ?
+stack	NOUN	0	1p0_pert_18	1p0	0	0	6	0	0	How to create elements in a stack ?
+?	PUNCT	0	1p0_pert_18	1p0	0	0	7	0	0	How to create elements in a stack ?
+19	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_18	1p0	0	-1	-1	1	2	How to create elements in a stack ?
+How	SCONJ	0	1p0_pert_19	1p0	0	0	0	0	0	How to find elements in a stack ?
+to	PART	0	1p0_pert_19	1p0	0	0	1	0	0	How to find elements in a stack ?
+find	VERB	0	1p0_pert_19	1p0	0	1	2	0	0	How to find elements in a stack ?
+elements	NOUN	0	1p0_pert_19	1p0	0	0	3	0	0	How to find elements in a stack ?
+in	ADP	0	1p0_pert_19	1p0	0	0	4	0	0	How to find elements in a stack ?
+a	DET	0	1p0_pert_19	1p0	0	0	5	0	0	How to find elements in a stack ?
+stack	NOUN	0	1p0_pert_19	1p0	0	0	6	0	0	How to find elements in a stack ?
+?	PUNCT	0	1p0_pert_19	1p0	0	0	7	0	0	How to find elements in a stack ?
+20	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	1p0_pert_19	1p0	0	-1	-1	1	2	How to find elements in a stack ?

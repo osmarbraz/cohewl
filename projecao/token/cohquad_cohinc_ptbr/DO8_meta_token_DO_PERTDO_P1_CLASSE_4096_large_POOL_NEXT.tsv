@@ -1,0 +1,21 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADP	0	8	8	1	0	0	1	Como desempilhar elementos em uma estrutura de dados pilha ?
+desempilhar	NOUN	1	8	8	1	0	1	2	Como desempilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	8	8	1	0	2	3	Como desempilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	8	8	1	0	3	4	Como desempilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	8	8	1	0	4	5	Como desempilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	8	8	1	0	5	6	Como desempilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	8	8	1	0	6	7	Como desempilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	8	8	1	0	7	8	Como desempilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	8	8	1	1	8	9	Como desempilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	8	8	1	0	9		Como desempilhar elementos em uma estrutura de dados pilha ?
+Como	ADP	0	8_pert_0	8	0	0	0	11	Como desempilhar elementos em uma estrutura de dados fila ?
+desempilhar	NOUN	1	8_pert_0	8	0	0	1	12	Como desempilhar elementos em uma estrutura de dados fila ?
+elementos	NOUN	0	8_pert_0	8	0	0	2	13	Como desempilhar elementos em uma estrutura de dados fila ?
+em	ADP	0	8_pert_0	8	0	0	3	14	Como desempilhar elementos em uma estrutura de dados fila ?
+uma	DET	0	8_pert_0	8	0	0	4	15	Como desempilhar elementos em uma estrutura de dados fila ?
+estrutura	NOUN	0	8_pert_0	8	0	0	5	16	Como desempilhar elementos em uma estrutura de dados fila ?
+de	ADP	0	8_pert_0	8	0	0	6	17	Como desempilhar elementos em uma estrutura de dados fila ?
+dados	NOUN	0	8_pert_0	8	0	0	7	18	Como desempilhar elementos em uma estrutura de dados fila ?
+fila	NOUN	1	8_pert_0	8	0	1	8	19	Como desempilhar elementos em uma estrutura de dados fila ?
+?	PUNCT	0	8_pert_0	8	0	0	9		Como desempilhar elementos em uma estrutura de dados fila ?

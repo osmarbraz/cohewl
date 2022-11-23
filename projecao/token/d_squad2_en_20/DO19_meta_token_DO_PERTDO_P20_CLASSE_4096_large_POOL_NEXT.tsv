@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+In	ADP	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	0	1	In what year was Nero made emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	1	2	In what year was Nero made emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	2	3	In what year was Nero made emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	3	4	In what year was Nero made emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	4	5	In what year was Nero made emperor ?
+made	VERB	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	1	5	6	In what year was Nero made emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	6	7	In what year was Nero made emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	7		In what year was Nero made emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	0	9	In what year was Nero made emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	1	10	In what year was Nero made emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	2	11	In what year was Nero made emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	3	12	In what year was Nero made emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	4	13	In what year was Nero made emperor ?
+made	VERB	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	1	5	14	In what year was Nero made emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	6	15	In what year was Nero made emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero made emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	0	17	In what year was Nero elected emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	1	18	In what year was Nero elected emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	2	19	In what year was Nero elected emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	3	20	In what year was Nero elected emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	4	21	In what year was Nero elected emperor ?
+elected	VERB	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	1	5	22	In what year was Nero elected emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	6	23	In what year was Nero elected emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero elected emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	0	25	In what year was Nero the emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	1	26	In what year was Nero the emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	2	27	In what year was Nero the emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	3	28	In what year was Nero the emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	4	29	In what year was Nero the emperor ?
+the	DET	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	1	5	30	In what year was Nero the emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	6	31	In what year was Nero the emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero the emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	0	33	In what year was Nero crowned emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	1	34	In what year was Nero crowned emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	2	35	In what year was Nero crowned emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	3	36	In what year was Nero crowned emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	4	37	In what year was Nero crowned emperor ?
+crowned	VERB	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	1	5	38	In what year was Nero crowned emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	6	39	In what year was Nero crowned emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero crowned emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	0	41	In what year was Nero first emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	1	42	In what year was Nero first emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	2	43	In what year was Nero first emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	3	44	In what year was Nero first emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	4	45	In what year was Nero first emperor ?
+first	ADJ	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	1	5	46	In what year was Nero first emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	6	47	In what year was Nero first emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero first emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	0	49	In what year was Nero already emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	1	50	In what year was Nero already emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	2	51	In what year was Nero already emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	3	52	In what year was Nero already emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	4	53	In what year was Nero already emperor ?
+already	ADV	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	1	5	54	In what year was Nero already emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	6	55	In what year was Nero already emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero already emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	0	57	In what year was Nero appointed emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	1	58	In what year was Nero appointed emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	2	59	In what year was Nero appointed emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	3	60	In what year was Nero appointed emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	4	61	In what year was Nero appointed emperor ?
+appointed	VERB	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	1	5	62	In what year was Nero appointed emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	6	63	In what year was Nero appointed emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero appointed emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	0	65	In what year was Nero proclaimed emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	1	66	In what year was Nero proclaimed emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	2	67	In what year was Nero proclaimed emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	3	68	In what year was Nero proclaimed emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	4	69	In what year was Nero proclaimed emperor ?
+proclaimed	VERB	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	1	5	70	In what year was Nero proclaimed emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	6	71	In what year was Nero proclaimed emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero proclaimed emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	0	73	In what year was Nero declared emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	1	74	In what year was Nero declared emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	2	75	In what year was Nero declared emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	3	76	In what year was Nero declared emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	4	77	In what year was Nero declared emperor ?
+declared	VERB	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	1	5	78	In what year was Nero declared emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	6	79	In what year was Nero declared emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero declared emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	0	81	In what year was Nero still emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	1	82	In what year was Nero still emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	2	83	In what year was Nero still emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	3	84	In what year was Nero still emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	4	85	In what year was Nero still emperor ?
+still	ADV	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	1	5	86	In what year was Nero still emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	6	87	In what year was Nero still emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero still emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	0	89	In what year was Nero also emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	1	90	In what year was Nero also emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	2	91	In what year was Nero also emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	3	92	In what year was Nero also emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	4	93	In what year was Nero also emperor ?
+also	ADV	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	1	5	94	In what year was Nero also emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	6	95	In what year was Nero also emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero also emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	0	97	In what year was Nero an emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	1	98	In what year was Nero an emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	2	99	In what year was Nero an emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	3	100	In what year was Nero an emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	4	101	In what year was Nero an emperor ?
+an	DET	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	1	5	102	In what year was Nero an emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	6	103	In what year was Nero an emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero an emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	0	105	In what year was Nero named emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	1	106	In what year was Nero named emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	2	107	In what year was Nero named emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	3	108	In what year was Nero named emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	4	109	In what year was Nero named emperor ?
+named	VERB	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	1	5	110	In what year was Nero named emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	6	111	In what year was Nero named emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero named emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	0	113	In what year was Nero last emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	1	114	In what year was Nero last emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	2	115	In what year was Nero last emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	3	116	In what year was Nero last emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	4	117	In what year was Nero last emperor ?
+last	ADJ	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	1	5	118	In what year was Nero last emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	6	119	In what year was Nero last emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero last emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	0	121	In what year was Nero sole emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	1	122	In what year was Nero sole emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	2	123	In what year was Nero sole emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	3	124	In what year was Nero sole emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	4	125	In what year was Nero sole emperor ?
+sole	ADJ	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	1	5	126	In what year was Nero sole emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	6	127	In what year was Nero sole emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero sole emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	0	129	In what year was Nero himself emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	1	130	In what year was Nero himself emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	2	131	In what year was Nero himself emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	3	132	In what year was Nero himself emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	4	133	In what year was Nero himself emperor ?
+himself	PRON	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	1	5	134	In what year was Nero himself emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	6	135	In what year was Nero himself emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero himself emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	0	137	In what year was Nero again emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	1	138	In what year was Nero again emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	2	139	In what year was Nero again emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	3	140	In what year was Nero again emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	4	141	In what year was Nero again emperor ?
+again	ADV	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	1	5	142	In what year was Nero again emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	6	143	In what year was Nero again emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero again emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	0	145	In what year was Nero created emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	1	146	In what year was Nero created emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	2	147	In what year was Nero created emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	3	148	In what year was Nero created emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	4	149	In what year was Nero created emperor ?
+created	VERB	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	1	5	150	In what year was Nero created emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	6	151	In what year was Nero created emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero created emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	0	153	In what year was Nero actually emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	1	154	In what year was Nero actually emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	2	155	In what year was Nero actually emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	3	156	In what year was Nero actually emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	4	157	In what year was Nero actually emperor ?
+actually	ADV	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	1	5	158	In what year was Nero actually emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	6	159	In what year was Nero actually emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero actually emperor ?
+In	ADP	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	0	161	In what year was Nero once emperor ?
+what	DET	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	1	162	In what year was Nero once emperor ?
+year	NOUN	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	2	163	In what year was Nero once emperor ?
+was	AUX	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	3	164	In what year was Nero once emperor ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	4	165	In what year was Nero once emperor ?
+once	ADV	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	1	5	166	In what year was Nero once emperor ?
+emperor	NOUN	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	6	167	In what year was Nero once emperor ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	7		In what year was Nero once emperor ?

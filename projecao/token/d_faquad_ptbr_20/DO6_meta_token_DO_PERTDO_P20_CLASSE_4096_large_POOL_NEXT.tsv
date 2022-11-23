@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	0	1	Como pode ser definido um sistema de informação ?
+pode	VERB	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	1	1	2	Como pode ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	2	3	Como pode ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	3	4	Como pode ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	4	5	Como pode ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	5	6	Como pode ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	6	7	Como pode ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	7	8	Como pode ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b	4918ff59e83343b88c1fd3a204f55a3b	1	0	8		Como pode ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	10	Como pode ser definido um sistema de informação ?
+pode	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	11	Como pode ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	12	Como pode ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	13	Como pode ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	14	Como pode ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	15	Como pode ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	16	Como pode ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	17	Como pode ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_0	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como pode ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	19	Como deve ser definido um sistema de informação ?
+deve	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	20	Como deve ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	21	Como deve ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	22	Como deve ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	23	Como deve ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	24	Como deve ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	25	Como deve ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	26	Como deve ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_1	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como deve ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	28	Como poderia ser definido um sistema de informação ?
+poderia	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	29	Como poderia ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	30	Como poderia ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	31	Como poderia ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	32	Como poderia ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	33	Como poderia ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	34	Como poderia ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	35	Como poderia ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_2	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como poderia ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	37	Como deveria ser definido um sistema de informação ?
+deveria	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	38	Como deveria ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	39	Como deveria ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	40	Como deveria ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	41	Como deveria ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	42	Como deveria ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	43	Como deveria ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	44	Como deveria ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_3	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como deveria ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	46	Como poderá ser definido um sistema de informação ?
+poderá	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	47	Como poderá ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	48	Como poderá ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	49	Como poderá ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	50	Como poderá ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	51	Como poderá ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	52	Como poderá ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	53	Como poderá ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_4	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como poderá ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	55	Como deverá ser definido um sistema de informação ?
+deverá	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	56	Como deverá ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	57	Como deverá ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	58	Como deverá ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	59	Como deverá ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	60	Como deverá ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	61	Como deverá ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	62	Como deverá ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_5	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como deverá ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	64	Como costuma ser definido um sistema de informação ?
+costuma	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	65	Como costuma ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	66	Como costuma ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	67	Como costuma ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	68	Como costuma ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	69	Como costuma ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	70	Como costuma ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	71	Como costuma ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_6	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como costuma ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	73	Como vai ser definido um sistema de informação ?
+vai	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	74	Como vai ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	75	Como vai ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	76	Como vai ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	77	Como vai ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	78	Como vai ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	79	Como vai ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	80	Como vai ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_7	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como vai ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	82	Como precisa ser definido um sistema de informação ?
+precisa	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	83	Como precisa ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	84	Como precisa ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	85	Como precisa ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	86	Como precisa ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	87	Como precisa ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	88	Como precisa ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	89	Como precisa ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_8	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como precisa ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	91	Como Pode ser definido um sistema de informação ?
+Pode	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	92	Como Pode ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	93	Como Pode ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	94	Como Pode ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	95	Como Pode ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	96	Como Pode ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	97	Como Pode ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	98	Como Pode ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_9	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como Pode ser definido um sistema de informação ?
+Como	SCONJ	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	100	Como possa ser definido um sistema de informação ?
+possa	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	101	Como possa ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	102	Como possa ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	103	Como possa ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	104	Como possa ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	105	Como possa ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	106	Como possa ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	107	Como possa ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_10	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como possa ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	109	Como pôde ser definido um sistema de informação ?
+pôde	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	110	Como pôde ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	111	Como pôde ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	112	Como pôde ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	113	Como pôde ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	114	Como pôde ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	115	Como pôde ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	116	Como pôde ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_11	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como pôde ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	118	Como podem ser definido um sistema de informação ?
+podem	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	119	Como podem ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	120	Como podem ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	121	Como podem ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	122	Como podem ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	123	Como podem ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	124	Como podem ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	125	Como podem ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_12	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como podem ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	127	Como podia ser definido um sistema de informação ?
+podia	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	128	Como podia ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	129	Como podia ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	130	Como podia ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	131	Como podia ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	132	Como podia ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	133	Como podia ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	134	Como podia ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_13	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como podia ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	136	Como é ser definido um sistema de informação ?
+é	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	137	Como é ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	138	Como é ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	139	Como é ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	140	Como é ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	141	Como é ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	142	Como é ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	143	Como é ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_14	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como é ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	145	Como parece ser definido um sistema de informação ?
+parece	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	146	Como parece ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	147	Como parece ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	148	Como parece ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	149	Como parece ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	150	Como parece ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	151	Como parece ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	152	Como parece ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_15	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como parece ser definido um sistema de informação ?
+Como	ADV	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	154	Como pretende ser definido um sistema de informação ?
+pretende	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	155	Como pretende ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	156	Como pretende ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	157	Como pretende ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	158	Como pretende ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	159	Como pretende ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	160	Como pretende ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	161	Como pretende ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_16	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como pretende ser definido um sistema de informação ?
+Como	SCONJ	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	163	Como poder ser definido um sistema de informação ?
+poder	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	164	Como poder ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	165	Como poder ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	166	Como poder ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	167	Como poder ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	168	Como poder ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	169	Como poder ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	170	Como poder ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_17	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como poder ser definido um sistema de informação ?
+Como	SCONJ	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	172	Como dever ser definido um sistema de informação ?
+dever	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	173	Como dever ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	174	Como dever ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	175	Como dever ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	176	Como dever ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	177	Como dever ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	178	Como dever ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	179	Como dever ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_18	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como dever ser definido um sistema de informação ?
+Como	SCONJ	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	0	181	Como a ser definido um sistema de informação ?
+a	SCONJ	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	1	1	182	Como a ser definido um sistema de informação ?
+ser	AUX	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	2	183	Como a ser definido um sistema de informação ?
+definido	VERB	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	3	184	Como a ser definido um sistema de informação ?
+um	DET	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	4	185	Como a ser definido um sistema de informação ?
+sistema	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	5	186	Como a ser definido um sistema de informação ?
+de	ADP	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	6	187	Como a ser definido um sistema de informação ?
+informação	NOUN	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	7	188	Como a ser definido um sistema de informação ?
+?	PUNCT	0	4918ff59e83343b88c1fd3a204f55a3b_pert_19	4918ff59e83343b88c1fd3a204f55a3b	0	0	8		Como a ser definido um sistema de informação ?

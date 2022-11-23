@@ -1,0 +1,421 @@
+Sentença	Id	Origem	Classe
+How to enqueue elements in a queue ?	1	1	1
+How to place elements in a queue ?	1_pert_0	1	0
+How to arrange elements in a queue ?	1_pert_1	1	0
+How to organize elements in a queue ?	1_pert_2	1	0
+How to manage elements in a queue ?	1_pert_3	1	0
+How to put elements in a queue ?	1_pert_4	1	0
+How to sort elements in a queue ?	1_pert_5	1	0
+How to store elements in a queue ?	1_pert_6	1	0
+How to find elements in a queue ?	1_pert_7	1	0
+How to separate elements in a queue ?	1_pert_8	1	0
+How to identify elements in a queue ?	1_pert_9	1	0
+How to order elements in a queue ?	1_pert_10	1	0
+How to position elements in a queue ?	1_pert_11	1	0
+How to connect elements in a queue ?	1_pert_12	1	0
+How to handle elements in a queue ?	1_pert_13	1	0
+How to use elements in a queue ?	1_pert_14	1	0
+How to rank elements in a queue ?	1_pert_15	1	0
+How to move elements in a queue ?	1_pert_16	1	0
+How to group elements in a queue ?	1_pert_17	1	0
+How to create elements in a queue ?	1_pert_18	1	0
+How to process elements in a queue ?	1_pert_19	1	0
+How to dequeue elements in a queue ?	2	2	1
+How to place elements in a queue ?	2_pert_0	2	0
+How to arrange elements in a queue ?	2_pert_1	2	0
+How to organize elements in a queue ?	2_pert_2	2	0
+How to manage elements in a queue ?	2_pert_3	2	0
+How to put elements in a queue ?	2_pert_4	2	0
+How to sort elements in a queue ?	2_pert_5	2	0
+How to store elements in a queue ?	2_pert_6	2	0
+How to find elements in a queue ?	2_pert_7	2	0
+How to separate elements in a queue ?	2_pert_8	2	0
+How to identify elements in a queue ?	2_pert_9	2	0
+How to order elements in a queue ?	2_pert_10	2	0
+How to position elements in a queue ?	2_pert_11	2	0
+How to connect elements in a queue ?	2_pert_12	2	0
+How to handle elements in a queue ?	2_pert_13	2	0
+How to use elements in a queue ?	2_pert_14	2	0
+How to rank elements in a queue ?	2_pert_15	2	0
+How to move elements in a queue ?	2_pert_16	2	0
+How to group elements in a queue ?	2_pert_17	2	0
+How to create elements in a queue ?	2_pert_18	2	0
+How to process elements in a queue ?	2_pert_19	2	0
+How to push elements in a stack ?	3	3	1
+How to arrange elements in a stack ?	3_pert_0	3	0
+How to organize elements in a stack ?	3_pert_1	3	0
+How to store elements in a stack ?	3_pert_2	3	0
+How to put elements in a stack ?	3_pert_3	3	0
+How to manage elements in a stack ?	3_pert_4	3	0
+How to place elements in a stack ?	3_pert_5	3	0
+How to represent elements in a stack ?	3_pert_6	3	0
+How to stack elements in a stack ?	3_pert_7	3	0
+How to sort elements in a stack ?	3_pert_8	3	0
+How to handle elements in a stack ?	3_pert_9	3	0
+How to combine elements in a stack ?	3_pert_10	3	0
+How to use elements in a stack ?	3_pert_11	3	0
+How to separate elements in a stack ?	3_pert_12	3	0
+How to describe elements in a stack ?	3_pert_13	3	0
+How to manipulate elements in a stack ?	3_pert_14	3	0
+How to define elements in a stack ?	3_pert_15	3	0
+How to connect elements in a stack ?	3_pert_16	3	0
+How to order elements in a stack ?	3_pert_17	3	0
+How to create elements in a stack ?	3_pert_18	3	0
+How to find elements in a stack ?	3_pert_19	3	0
+How to push and pop elements in a stack ?	4	4	1
+How to mix and pop elements in a stack ?	4_pert_0	4	0
+How to combine and pop elements in a stack ?	4_pert_1	4	0
+How to throw and pop elements in a stack ?	4_pert_2	4	0
+How to put and pop elements in a stack ?	4_pert_3	4	0
+How to blend and pop elements in a stack ?	4_pert_4	4	0
+How to add and pop elements in a stack ?	4_pert_5	4	0
+How to gather and pop elements in a stack ?	4_pert_6	4	0
+How to arrange and pop elements in a stack ?	4_pert_7	4	0
+How to trap and pop elements in a stack ?	4_pert_8	4	0
+How to go and pop elements in a stack ?	4_pert_9	4	0
+How to use and pop elements in a stack ?	4_pert_10	4	0
+How to create and pop elements in a stack ?	4_pert_11	4	0
+How to twist and pop elements in a stack ?	4_pert_12	4	0
+How to connect and pop elements in a stack ?	4_pert_13	4	0
+How to try and pop elements in a stack ?	4_pert_14	4	0
+How to stack and pop elements in a stack ?	4_pert_15	4	0
+How to fit and pop elements in a stack ?	4_pert_16	4	0
+How to write and pop elements in a stack ?	4_pert_17	4	0
+How to fold and pop elements in a stack ?	4_pert_18	4	0
+How to layer and pop elements in a stack ?	4_pert_19	4	0
+How to push elements in a stack data structure ?	5	5	1
+How to store elements in a stack data structure ?	5_pert_0	5	0
+How to organize elements in a stack data structure ?	5_pert_1	5	0
+How to manage elements in a stack data structure ?	5_pert_2	5	0
+How to represent elements in a stack data structure ?	5_pert_3	5	0
+How to define elements in a stack data structure ?	5_pert_4	5	0
+How to use elements in a stack data structure ?	5_pert_5	5	0
+How to handle elements in a stack data structure ?	5_pert_6	5	0
+How to stack elements in a stack data structure ?	5_pert_7	5	0
+How to implement elements in a stack data structure ?	5_pert_8	5	0
+How to write elements in a stack data structure ?	5_pert_9	5	0
+How to describe elements in a stack data structure ?	5_pert_10	5	0
+How to manipulate elements in a stack data structure ?	5_pert_11	5	0
+How to arrange elements in a stack data structure ?	5_pert_12	5	0
+How to separate elements in a stack data structure ?	5_pert_13	5	0
+How to create elements in a stack data structure ?	5_pert_14	5	0
+How to sort elements in a stack data structure ?	5_pert_15	5	0
+How to put elements in a stack data structure ?	5_pert_16	5	0
+How to place elements in a stack data structure ?	5_pert_17	5	0
+How to view elements in a stack data structure ?	5_pert_18	5	0
+How to index elements in a stack data structure ?	5_pert_19	5	0
+How to push and pop elements in a stack data structure ?	6	6	1
+How to push and pop elements in a stack data structure ?	6_pert_0	6	0
+How to pop and pop elements in a stack data structure ?	6_pert_1	6	0
+How to drag and pop elements in a stack data structure ?	6_pert_2	6	0
+How to pull and pop elements in a stack data structure ?	6_pert_3	6	0
+How to drop and pop elements in a stack data structure ?	6_pert_4	6	0
+How to plug and pop elements in a stack data structure ?	6_pert_5	6	0
+How to smash and pop elements in a stack data structure ?	6_pert_6	6	0
+How to rock and pop elements in a stack data structure ?	6_pert_7	6	0
+How to grab and pop elements in a stack data structure ?	6_pert_8	6	0
+How to squeeze and pop elements in a stack data structure ?	6_pert_9	6	0
+How to hit and pop elements in a stack data structure ?	6_pert_10	6	0
+How to jam and pop elements in a stack data structure ?	6_pert_11	6	0
+How to put and pop elements in a stack data structure ?	6_pert_12	6	0
+How to scratch and pop elements in a stack data structure ?	6_pert_13	6	0
+How to throw and pop elements in a stack data structure ?	6_pert_14	6	0
+How to twist and pop elements in a stack data structure ?	6_pert_15	6	0
+How to stick and pop elements in a stack data structure ?	6_pert_16	6	0
+How to try and pop elements in a stack data structure ?	6_pert_17	6	0
+How to dump and pop elements in a stack data structure ?	6_pert_18	6	0
+How to bang and pop elements in a stack data structure ?	6_pert_19	6	0
+How to pop elements from a stack ?	7	7	1
+How to remove elements from a stack ?	7_pert_0	7	0
+How to separate elements from a stack ?	7_pert_1	7	0
+How to extract elements from a stack ?	7_pert_2	7	0
+How to draw elements from a stack ?	7_pert_3	7	0
+How to create elements from a stack ?	7_pert_4	7	0
+How to generate elements from a stack ?	7_pert_5	7	0
+How to use elements from a stack ?	7_pert_6	7	0
+How to construct elements from a stack ?	7_pert_7	7	0
+How to get elements from a stack ?	7_pert_8	7	0
+How to write elements from a stack ?	7_pert_9	7	0
+How to retrieve elements from a stack ?	7_pert_10	7	0
+How to take elements from a stack ?	7_pert_11	7	0
+How to sort elements from a stack ?	7_pert_12	7	0
+How to eliminate elements from a stack ?	7_pert_13	7	0
+How to produce elements from a stack ?	7_pert_14	7	0
+How to select elements from a stack ?	7_pert_15	7	0
+How to pull elements from a stack ?	7_pert_16	7	0
+How to build elements from a stack ?	7_pert_17	7	0
+How to split elements from a stack ?	7_pert_18	7	0
+How to fetch elements from a stack ?	7_pert_19	7	0
+How to pop elements in a stack data structure ?	8	8	1
+How to store elements in a stack data structure ?	8_pert_0	8	0
+How to organize elements in a stack data structure ?	8_pert_1	8	0
+How to manage elements in a stack data structure ?	8_pert_2	8	0
+How to represent elements in a stack data structure ?	8_pert_3	8	0
+How to define elements in a stack data structure ?	8_pert_4	8	0
+How to use elements in a stack data structure ?	8_pert_5	8	0
+How to handle elements in a stack data structure ?	8_pert_6	8	0
+How to stack elements in a stack data structure ?	8_pert_7	8	0
+How to implement elements in a stack data structure ?	8_pert_8	8	0
+How to write elements in a stack data structure ?	8_pert_9	8	0
+How to describe elements in a stack data structure ?	8_pert_10	8	0
+How to manipulate elements in a stack data structure ?	8_pert_11	8	0
+How to arrange elements in a stack data structure ?	8_pert_12	8	0
+How to separate elements in a stack data structure ?	8_pert_13	8	0
+How to create elements in a stack data structure ?	8_pert_14	8	0
+How to sort elements in a stack data structure ?	8_pert_15	8	0
+How to put elements in a stack data structure ?	8_pert_16	8	0
+How to place elements in a stack data structure ?	8_pert_17	8	0
+How to view elements in a stack data structure ?	8_pert_18	8	0
+How to index elements in a stack data structure ?	8_pert_19	8	0
+What is a stack and how to push its element ?	9	9	1
+What is a stack and how to define its element ?	9_pert_0	9	0
+What is a stack and how to use its element ?	9_pert_1	9	0
+What is a stack and how to find its element ?	9_pert_2	9	0
+What is a stack and how to describe its element ?	9_pert_3	9	0
+What is a stack and how to manage its element ?	9_pert_4	9	0
+What is a stack and how to access its element ?	9_pert_5	9	0
+What is a stack and how to represent its element ?	9_pert_6	9	0
+What is a stack and how to handle its element ?	9_pert_7	9	0
+What is a stack and how to determine its element ?	9_pert_8	9	0
+What is a stack and how to calculate its element ?	9_pert_9	9	0
+What is a stack and how to manipulate its element ?	9_pert_10	9	0
+What is a stack and how to store its element ?	9_pert_11	9	0
+What is a stack and how to identify its element ?	9_pert_12	9	0
+What is a stack and how to organize its element ?	9_pert_13	9	0
+What is a stack and how to implement its element ?	9_pert_14	9	0
+What is a stack and how to modify its element ?	9_pert_15	9	0
+What is a stack and how to write its element ?	9_pert_16	9	0
+What is a stack and how to count its element ?	9_pert_17	9	0
+What is a stack and how to construct its element ?	9_pert_18	9	0
+What is a stack and how to get its element ?	9_pert_19	9	0
+What is a queue and how to enqueue its element ?	10	10	1
+What is a queue and how to find its element ?	10_pert_0	10	0
+What is a queue and how to use its element ?	10_pert_1	10	0
+What is a queue and how to access its element ?	10_pert_2	10	0
+What is a queue and how to manage its element ?	10_pert_3	10	0
+What is a queue and how to define its element ?	10_pert_4	10	0
+What is a queue and how to identify its element ?	10_pert_5	10	0
+What is a queue and how to handle its element ?	10_pert_6	10	0
+What is a queue and how to retrieve its element ?	10_pert_7	10	0
+What is a queue and how to control its element ?	10_pert_8	10	0
+What is a queue and how to select its element ?	10_pert_9	10	0
+What is a queue and how to choose its element ?	10_pert_10	10	0
+What is a queue and how to create its element ?	10_pert_11	10	0
+What is a queue and how to manipulate its element ?	10_pert_12	10	0
+What is a queue and how to determine its element ?	10_pert_13	10	0
+What is a queue and how to reach its element ?	10_pert_14	10	0
+What is a queue and how to organize its element ?	10_pert_15	10	0
+What is a queue and how to get its element ?	10_pert_16	10	0
+What is a queue and how to sort its element ?	10_pert_17	10	0
+What is a queue and how to describe its element ?	10_pert_18	10	0
+What is a queue and how to obtain its element ?	10_pert_19	10	0
+What is a queue and how to dequeue an element in it ?	11	11	1
+What is a queue and how to place an element in it ?	11_pert_0	11	0
+What is a queue and how to put an element in it ?	11_pert_1	11	0
+What is a queue and how to find an element in it ?	11_pert_2	11	0
+What is a queue and how to manage an element in it ?	11_pert_3	11	0
+What is a queue and how to use an element in it ?	11_pert_4	11	0
+What is a queue and how to create an element in it ?	11_pert_5	11	0
+What is a queue and how to store an element in it ?	11_pert_6	11	0
+What is a queue and how to get an element in it ?	11_pert_7	11	0
+What is a queue and how to access an element in it ?	11_pert_8	11	0
+What is a queue and how to locate an element in it ?	11_pert_9	11	0
+What is a queue and how to handle an element in it ?	11_pert_10	11	0
+What is a queue and how to identify an element in it ?	11_pert_11	11	0
+What is a queue and how to sort an element in it ?	11_pert_12	11	0
+What is a queue and how to define an element in it ?	11_pert_13	11	0
+What is a queue and how to add an element in it ?	11_pert_14	11	0
+What is a queue and how to organize an element in it ?	11_pert_15	11	0
+What is a queue and how to retrieve an element in it ?	11_pert_16	11	0
+What is a queue and how to keep an element in it ?	11_pert_17	11	0
+What is a queue and how to implement an element in it ?	11_pert_18	11	0
+What is a queue and how to insert an element in it ?	11_pert_19	11	0
+What is a stack and how to pop an element from it ?	12	12	1
+What is a stack and how to create an element from it ?	12_pert_0	12	0
+What is a stack and how to extract an element from it ?	12_pert_1	12	0
+What is a stack and how to remove an element from it ?	12_pert_2	12	0
+What is a stack and how to construct an element from it ?	12_pert_3	12	0
+What is a stack and how to build an element from it ?	12_pert_4	12	0
+What is a stack and how to generate an element from it ?	12_pert_5	12	0
+What is a stack and how to get an element from it ?	12_pert_6	12	0
+What is a stack and how to retrieve an element from it ?	12_pert_7	12	0
+What is a stack and how to draw an element from it ?	12_pert_8	12	0
+What is a stack and how to make an element from it ?	12_pert_9	12	0
+What is a stack and how to obtain an element from it ?	12_pert_10	12	0
+What is a stack and how to derive an element from it ?	12_pert_11	12	0
+What is a stack and how to write an element from it ?	12_pert_12	12	0
+What is a stack and how to separate an element from it ?	12_pert_13	12	0
+What is a stack and how to fetch an element from it ?	12_pert_14	12	0
+What is a stack and how to produce an element from it ?	12_pert_15	12	0
+What is a stack and how to define an element from it ?	12_pert_16	12	0
+What is a stack and how to access an element from it ?	12_pert_17	12	0
+What is a stack and how to choose an element from it ?	12_pert_18	12	0
+What is a stack and how to find an element from it ?	12_pert_19	12	0
+What is a queue and how to enqueue an element in it ?	13	13	1
+What is a queue and how to place an element in it ?	13_pert_0	13	0
+What is a queue and how to put an element in it ?	13_pert_1	13	0
+What is a queue and how to find an element in it ?	13_pert_2	13	0
+What is a queue and how to manage an element in it ?	13_pert_3	13	0
+What is a queue and how to use an element in it ?	13_pert_4	13	0
+What is a queue and how to create an element in it ?	13_pert_5	13	0
+What is a queue and how to store an element in it ?	13_pert_6	13	0
+What is a queue and how to get an element in it ?	13_pert_7	13	0
+What is a queue and how to access an element in it ?	13_pert_8	13	0
+What is a queue and how to locate an element in it ?	13_pert_9	13	0
+What is a queue and how to handle an element in it ?	13_pert_10	13	0
+What is a queue and how to identify an element in it ?	13_pert_11	13	0
+What is a queue and how to sort an element in it ?	13_pert_12	13	0
+What is a queue and how to define an element in it ?	13_pert_13	13	0
+What is a queue and how to add an element in it ?	13_pert_14	13	0
+What is a queue and how to organize an element in it ?	13_pert_15	13	0
+What is a queue and how to retrieve an element in it ?	13_pert_16	13	0
+What is a queue and how to keep an element in it ?	13_pert_17	13	0
+What is a queue and how to implement an element in it ?	13_pert_18	13	0
+What is a queue and how to insert an element in it ?	13_pert_19	13	0
+What is a stack and how to push an element on it ?	14	14	1
+What is a stack and how to put an element on it ?	14_pert_0	14	0
+What is a stack and how to place an element on it ?	14_pert_1	14	0
+What is a stack and how to implement an element on it ?	14_pert_2	14	0
+What is a stack and how to define an element on it ?	14_pert_3	14	0
+What is a stack and how to write an element on it ?	14_pert_4	14	0
+What is a stack and how to store an element on it ?	14_pert_5	14	0
+What is a stack and how to create an element on it ?	14_pert_6	14	0
+What is a stack and how to find an element on it ?	14_pert_7	14	0
+What is a stack and how to get an element on it ?	14_pert_8	14	0
+What is a stack and how to represent an element on it ?	14_pert_9	14	0
+What is a stack and how to set an element on it ?	14_pert_10	14	0
+What is a stack and how to build an element on it ?	14_pert_11	14	0
+What is a stack and how to execute an element on it ?	14_pert_12	14	0
+What is a stack and how to construct an element on it ?	14_pert_13	14	0
+What is a stack and how to have an element on it ?	14_pert_14	14	0
+What is a stack and how to form an element on it ?	14_pert_15	14	0
+What is a stack and how to manage an element on it ?	14_pert_16	14	0
+What is a stack and how to load an element on it ?	14_pert_17	14	0
+What is a stack and how to use an element on it ?	14_pert_18	14	0
+What is a stack and how to type an element on it ?	14_pert_19	14	0
+What is a stack and how to push and pop its elements ?	15	15	1
+What is a stack and how to push and pull its elements ?	15_pert_0	15	0
+What is a stack and how to push and hold its elements ?	15_pert_1	15	0
+What is a stack and how to push and push its elements ?	15_pert_2	15	0
+What is a stack and how to push and extract its elements ?	15_pert_3	15	0
+What is a stack and how to push and move its elements ?	15_pert_4	15	0
+What is a stack and how to push and shove its elements ?	15_pert_5	15	0
+What is a stack and how to push and grab its elements ?	15_pert_6	15	0
+What is a stack and how to push and remove its elements ?	15_pert_7	15	0
+What is a stack and how to push and take its elements ?	15_pert_8	15	0
+What is a stack and how to push and get its elements ?	15_pert_9	15	0
+What is a stack and how to push and drop its elements ?	15_pert_10	15	0
+What is a stack and how to push and dump its elements ?	15_pert_11	15	0
+What is a stack and how to push and release its elements ?	15_pert_12	15	0
+What is a stack and how to push and manipulate its elements ?	15_pert_13	15	0
+What is a stack and how to push and close its elements ?	15_pert_14	15	0
+What is a stack and how to push and press its elements ?	15_pert_15	15	0
+What is a stack and how to push and lock its elements ?	15_pert_16	15	0
+What is a stack and how to push and retrieve its elements ?	15_pert_17	15	0
+What is a stack and how to push and keep its elements ?	15_pert_18	15	0
+What is a stack and how to push and shift its elements ?	15_pert_19	15	0
+What is a queue and how to enqueue and dequeue its elements ?	16	16	1
+What is a queue and how to enqueue and organize its elements ?	16_pert_0	16	0
+What is a queue and how to enqueue and arrange its elements ?	16_pert_1	16	0
+What is a queue and how to enqueue and combine its elements ?	16_pert_2	16	0
+What is a queue and how to enqueue and manage its elements ?	16_pert_3	16	0
+What is a queue and how to enqueue and separate its elements ?	16_pert_4	16	0
+What is a queue and how to enqueue and order its elements ?	16_pert_5	16	0
+What is a queue and how to enqueue and distribute its elements ?	16_pert_6	16	0
+What is a queue and how to enqueue and organise its elements ?	16_pert_7	16	0
+What is a queue and how to enqueue and identify its elements ?	16_pert_8	16	0
+What is a queue and how to enqueue and connect its elements ?	16_pert_9	16	0
+What is a queue and how to enqueue and balance its elements ?	16_pert_10	16	0
+What is a queue and how to enqueue and store its elements ?	16_pert_11	16	0
+What is a queue and how to enqueue and control its elements ?	16_pert_12	16	0
+What is a queue and how to enqueue and use its elements ?	16_pert_13	16	0
+What is a queue and how to enqueue and process its elements ?	16_pert_14	16	0
+What is a queue and how to enqueue and express its elements ?	16_pert_15	16	0
+What is a queue and how to enqueue and sort its elements ?	16_pert_16	16	0
+What is a queue and how to enqueue and find its elements ?	16_pert_17	16	0
+What is a queue and how to enqueue and define its elements ?	16_pert_18	16	0
+What is a queue and how to enqueue and manipulate its elements ?	16_pert_19	16	0
+How are the operations to push and pop elements in a stack implemented ?	17	17	1
+How are the operations to push and pop elements in a stack implemented ?	17_pert_0	17	0
+How are the operations to pop and pop elements in a stack implemented ?	17_pert_1	17	0
+How are the operations to drop and pop elements in a stack implemented ?	17_pert_2	17	0
+How are the operations to pull and pop elements in a stack implemented ?	17_pert_3	17	0
+How are the operations to drag and pop elements in a stack implemented ?	17_pert_4	17	0
+How are the operations to dump and pop elements in a stack implemented ?	17_pert_5	17	0
+How are the operations to tap and pop elements in a stack implemented ?	17_pert_6	17	0
+How are the operations to roll and pop elements in a stack implemented ?	17_pert_7	17	0
+How are the operations to put and pop elements in a stack implemented ?	17_pert_8	17	0
+How are the operations to smash and pop elements in a stack implemented ?	17_pert_9	17	0
+How are the operations to throw and pop elements in a stack implemented ?	17_pert_10	17	0
+How are the operations to grab and pop elements in a stack implemented ?	17_pert_11	17	0
+How are the operations to hit and pop elements in a stack implemented ?	17_pert_12	17	0
+How are the operations to load and pop elements in a stack implemented ?	17_pert_13	17	0
+How are the operations to scratch and pop elements in a stack implemented ?	17_pert_14	17	0
+How are the operations to flip and pop elements in a stack implemented ?	17_pert_15	17	0
+How are the operations to press and pop elements in a stack implemented ?	17_pert_16	17	0
+How are the operations to set and pop elements in a stack implemented ?	17_pert_17	17	0
+How are the operations to sink and pop elements in a stack implemented ?	17_pert_18	17	0
+How are the operations to toss and pop elements in a stack implemented ?	17_pert_19	17	0
+How are the operations to enqueue and dequeue elements in a queue implemented ?	18	18	1
+How are the operations to enqueue and dequeue elements in a queue defined ?	18_pert_0	18	0
+How are the operations to enqueue and dequeue elements in a queue implemented ?	18_pert_1	18	0
+How are the operations to enqueue and dequeue elements in a queue function ?	18_pert_2	18	0
+How are the operations to enqueue and dequeue elements in a queue structured ?	18_pert_3	18	0
+How are the operations to enqueue and dequeue elements in a queue system ?	18_pert_4	18	0
+How are the operations to enqueue and dequeue elements in a queue tree ?	18_pert_5	18	0
+How are the operations to enqueue and dequeue elements in a queue process ?	18_pert_6	18	0
+How are the operations to enqueue and dequeue elements in a queue efficient ?	18_pert_7	18	0
+How are the operations to enqueue and dequeue elements in a queue performed ?	18_pert_8	18	0
+How are the operations to enqueue and dequeue elements in a queue possible ?	18_pert_9	18	0
+How are the operations to enqueue and dequeue elements in a queue connected ?	18_pert_10	18	0
+How are the operations to enqueue and dequeue elements in a queue model ?	18_pert_11	18	0
+How are the operations to enqueue and dequeue elements in a queue ordered ?	18_pert_12	18	0
+How are the operations to enqueue and dequeue elements in a queue structure ?	18_pert_13	18	0
+How are the operations to enqueue and dequeue elements in a queue functional ?	18_pert_14	18	0
+How are the operations to enqueue and dequeue elements in a queue considered ?	18_pert_15	18	0
+How are the operations to enqueue and dequeue elements in a queue described ?	18_pert_16	18	0
+How are the operations to enqueue and dequeue elements in a queue set ?	18_pert_17	18	0
+How are the operations to enqueue and dequeue elements in a queue processed ?	18_pert_18	18	0
+How are the operations to enqueue and dequeue elements in a queue distributed ?	18_pert_19	18	0
+In a stack does the pop operation occur at which end ?	19	19	1
+In a stack does the pop operation matter at which end ?	19_pert_0	19	0
+In a stack does the pop operation specify at which end ?	19_pert_1	19	0
+In a stack does the pop operation determine at which end ?	19_pert_2	19	0
+In a stack does the pop operation decide at which end ?	19_pert_3	19	0
+In a stack does the pop operation occur at which end ?	19_pert_4	19	0
+In a stack does the pop operation depend at which end ?	19_pert_5	19	0
+In a stack does the pop operation indicate at which end ?	19_pert_6	19	0
+In a stack does the pop operation say at which end ?	19_pert_7	19	0
+In a stack does the pop operation know at which end ?	19_pert_8	19	0
+In a stack does the pop operation happen at which end ?	19_pert_9	19	0
+In a stack does the pop operation ask at which end ?	19_pert_10	19	0
+In a stack does the pop operation change at which end ?	19_pert_11	19	0
+In a stack does the pop operation exist at which end ?	19_pert_12	19	0
+In a stack does the pop operation stop at which end ?	19_pert_13	19	0
+In a stack does the pop operation apply at which end ?	19_pert_14	19	0
+In a stack does the pop operation work at which end ?	19_pert_15	19	0
+In a stack does the pop operation hold at which end ?	19_pert_16	19	0
+In a stack does the pop operation mean at which end ?	19_pert_17	19	0
+In a stack does the pop operation define at which end ?	19_pert_18	19	0
+In a stack does the pop operation affect at which end ?	19_pert_19	19	0
+In a queue does the enqueue operation occur at which end ?	20	20	1
+In a queue does the enqueue operation specify at which end ?	20_pert_0	20	0
+In a queue does the enqueue operation determine at which end ?	20_pert_1	20	0
+In a queue does the enqueue operation decide at which end ?	20_pert_2	20	0
+In a queue does the enqueue operation know at which end ?	20_pert_3	20	0
+In a queue does the enqueue operation indicate at which end ?	20_pert_4	20	0
+In a queue does the enqueue operation matter at which end ?	20_pert_5	20	0
+In a queue does the enqueue operation define at which end ?	20_pert_6	20	0
+In a queue does the enqueue operation say at which end ?	20_pert_7	20	0
+In a queue does the enqueue operation ask at which end ?	20_pert_8	20	0
+In a queue does the enqueue operation change at which end ?	20_pert_9	20	0
+In a queue does the enqueue operation depend at which end ?	20_pert_10	20	0
+In a queue does the enqueue operation denote at which end ?	20_pert_11	20	0
+In a queue does the enqueue operation describe at which end ?	20_pert_12	20	0
+In a queue does the enqueue operation hold at which end ?	20_pert_13	20	0
+In a queue does the enqueue operation state at which end ?	20_pert_14	20	0
+In a queue does the enqueue operation check at which end ?	20_pert_15	20	0
+In a queue does the enqueue operation tell at which end ?	20_pert_16	20	0
+In a queue does the enqueue operation affect at which end ?	20_pert_17	20	0
+In a queue does the enqueue operation imply at which end ?	20_pert_18	20	0
+In a queue does the enqueue operation reveal at which end ?	20_pert_19	20	0

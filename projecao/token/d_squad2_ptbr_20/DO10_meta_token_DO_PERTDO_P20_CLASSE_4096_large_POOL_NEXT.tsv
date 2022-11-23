@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Qual	PRON	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	0	1	Qual é o fator chave para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	1	2	Qual é o fator chave para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	2	3	Qual é o fator chave para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	3	4	Qual é o fator chave para a ESA ?
+chave	NOUN	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	1	4	5	Qual é o fator chave para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	5	6	Qual é o fator chave para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	6	7	Qual é o fator chave para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	7	8	Qual é o fator chave para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb	5a848a6d7cf838001a46a8eb	1	0	8		Qual é o fator chave para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	0	10	Qual é o fator decisivo para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	1	11	Qual é o fator decisivo para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	2	12	Qual é o fator decisivo para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	3	13	Qual é o fator decisivo para a ESA ?
+decisivo	ADJ	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	1	4	14	Qual é o fator decisivo para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	5	15	Qual é o fator decisivo para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	6	16	Qual é o fator decisivo para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	7	17	Qual é o fator decisivo para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_0	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator decisivo para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	0	19	Qual é o fator chave para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	1	20	Qual é o fator chave para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	2	21	Qual é o fator chave para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	3	22	Qual é o fator chave para a ESA ?
+chave	NOUN	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	1	4	23	Qual é o fator chave para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	5	24	Qual é o fator chave para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	6	25	Qual é o fator chave para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	7	26	Qual é o fator chave para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_1	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator chave para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	0	28	Qual é o fator principal para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	1	29	Qual é o fator principal para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	2	30	Qual é o fator principal para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	3	31	Qual é o fator principal para a ESA ?
+principal	ADJ	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	1	4	32	Qual é o fator principal para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	5	33	Qual é o fator principal para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	6	34	Qual é o fator principal para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	7	35	Qual é o fator principal para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_2	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator principal para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	0	37	Qual é o fator importante para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	1	38	Qual é o fator importante para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	2	39	Qual é o fator importante para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	3	40	Qual é o fator importante para a ESA ?
+importante	ADJ	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	1	4	41	Qual é o fator importante para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	5	42	Qual é o fator importante para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	6	43	Qual é o fator importante para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	7	44	Qual é o fator importante para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_3	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator importante para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	0	46	Qual é o fator fundamental para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	1	47	Qual é o fator fundamental para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	2	48	Qual é o fator fundamental para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	3	49	Qual é o fator fundamental para a ESA ?
+fundamental	ADJ	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	1	4	50	Qual é o fator fundamental para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	5	51	Qual é o fator fundamental para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	6	52	Qual é o fator fundamental para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	7	53	Qual é o fator fundamental para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_4	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator fundamental para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	0	55	Qual é o fator crucial para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	1	56	Qual é o fator crucial para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	2	57	Qual é o fator crucial para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	3	58	Qual é o fator crucial para a ESA ?
+crucial	ADJ	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	1	4	59	Qual é o fator crucial para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	5	60	Qual é o fator crucial para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	6	61	Qual é o fator crucial para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	7	62	Qual é o fator crucial para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_5	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator crucial para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	0	64	Qual é o fator essencial para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	1	65	Qual é o fator essencial para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	2	66	Qual é o fator essencial para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	3	67	Qual é o fator essencial para a ESA ?
+essencial	ADJ	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	1	4	68	Qual é o fator essencial para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	5	69	Qual é o fator essencial para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	6	70	Qual é o fator essencial para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	7	71	Qual é o fator essencial para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_6	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator essencial para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	0	73	Qual é o fator econômico para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	1	74	Qual é o fator econômico para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	2	75	Qual é o fator econômico para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	3	76	Qual é o fator econômico para a ESA ?
+econômico	ADJ	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	1	4	77	Qual é o fator econômico para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	5	78	Qual é o fator econômico para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	6	79	Qual é o fator econômico para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	7	80	Qual é o fator econômico para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_7	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator econômico para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	0	82	Qual é o fator relevante para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	1	83	Qual é o fator relevante para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	2	84	Qual é o fator relevante para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	3	85	Qual é o fator relevante para a ESA ?
+relevante	ADJ	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	1	4	86	Qual é o fator relevante para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	5	87	Qual é o fator relevante para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	6	88	Qual é o fator relevante para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	7	89	Qual é o fator relevante para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_8	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator relevante para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	0	91	Qual é o fator estratégico para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	1	92	Qual é o fator estratégico para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	2	93	Qual é o fator estratégico para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	3	94	Qual é o fator estratégico para a ESA ?
+estratégico	ADJ	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	1	4	95	Qual é o fator estratégico para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	5	96	Qual é o fator estratégico para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	6	97	Qual é o fator estratégico para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	7	98	Qual é o fator estratégico para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_9	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator estratégico para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	0	100	Qual é o fator primordial para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	1	101	Qual é o fator primordial para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	2	102	Qual é o fator primordial para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	3	103	Qual é o fator primordial para a ESA ?
+primordial	ADJ	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	1	4	104	Qual é o fator primordial para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	5	105	Qual é o fator primordial para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	6	106	Qual é o fator primordial para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	7	107	Qual é o fator primordial para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_10	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator primordial para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	0	109	Qual é o fator político para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	1	110	Qual é o fator político para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	2	111	Qual é o fator político para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	3	112	Qual é o fator político para a ESA ?
+político	ADJ	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	1	4	113	Qual é o fator político para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	5	114	Qual é o fator político para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	6	115	Qual é o fator político para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	7	116	Qual é o fator político para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_11	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator político para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	0	118	Qual é o fator central para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	1	119	Qual é o fator central para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	2	120	Qual é o fator central para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	3	121	Qual é o fator central para a ESA ?
+central	ADJ	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	1	4	122	Qual é o fator central para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	5	123	Qual é o fator central para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	6	124	Qual é o fator central para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	7	125	Qual é o fator central para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_12	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator central para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	0	127	Qual é o fator humano para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	1	128	Qual é o fator humano para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	2	129	Qual é o fator humano para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	3	130	Qual é o fator humano para a ESA ?
+humano	ADJ	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	1	4	131	Qual é o fator humano para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	5	132	Qual é o fator humano para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	6	133	Qual é o fator humano para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	7	134	Qual é o fator humano para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_13	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator humano para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	0	136	Qual é o fator positivo para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	1	137	Qual é o fator positivo para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	2	138	Qual é o fator positivo para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	3	139	Qual é o fator positivo para a ESA ?
+positivo	ADJ	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	1	4	140	Qual é o fator positivo para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	5	141	Qual é o fator positivo para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	6	142	Qual é o fator positivo para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	7	143	Qual é o fator positivo para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_14	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator positivo para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	0	145	Qual é o fator crítico para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	1	146	Qual é o fator crítico para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	2	147	Qual é o fator crítico para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	3	148	Qual é o fator crítico para a ESA ?
+crítico	ADJ	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	1	4	149	Qual é o fator crítico para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	5	150	Qual é o fator crítico para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	6	151	Qual é o fator crítico para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	7	152	Qual é o fator crítico para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_15	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator crítico para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	0	154	Qual é o fator novo para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	1	155	Qual é o fator novo para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	2	156	Qual é o fator novo para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	3	157	Qual é o fator novo para a ESA ?
+novo	ADJ	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	1	4	158	Qual é o fator novo para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	5	159	Qual é o fator novo para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	6	160	Qual é o fator novo para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	7	161	Qual é o fator novo para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_16	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator novo para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	0	163	Qual é o fator financeiro para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	1	164	Qual é o fator financeiro para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	2	165	Qual é o fator financeiro para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	3	166	Qual é o fator financeiro para a ESA ?
+financeiro	ADJ	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	1	4	167	Qual é o fator financeiro para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	5	168	Qual é o fator financeiro para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	6	169	Qual é o fator financeiro para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	7	170	Qual é o fator financeiro para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_17	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator financeiro para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	0	172	Qual é o fator nuclear para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	1	173	Qual é o fator nuclear para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	2	174	Qual é o fator nuclear para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	3	175	Qual é o fator nuclear para a ESA ?
+nuclear	ADJ	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	1	4	176	Qual é o fator nuclear para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	5	177	Qual é o fator nuclear para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	6	178	Qual é o fator nuclear para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	7	179	Qual é o fator nuclear para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_18	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator nuclear para a ESA ?
+Qual	PRON	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	0	181	Qual é o fator surpresa para a ESA ?
+é	AUX	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	1	182	Qual é o fator surpresa para a ESA ?
+o	DET	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	2	183	Qual é o fator surpresa para a ESA ?
+fator	NOUN	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	3	184	Qual é o fator surpresa para a ESA ?
+surpresa	NOUN	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	1	4	185	Qual é o fator surpresa para a ESA ?
+para	ADP	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	5	186	Qual é o fator surpresa para a ESA ?
+a	DET	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	6	187	Qual é o fator surpresa para a ESA ?
+ESA	PROPN	1	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	7	188	Qual é o fator surpresa para a ESA ?
+?	PUNCT	0	5a848a6d7cf838001a46a8eb_pert_19	5a848a6d7cf838001a46a8eb	0	0	8		Qual é o fator surpresa para a ESA ?

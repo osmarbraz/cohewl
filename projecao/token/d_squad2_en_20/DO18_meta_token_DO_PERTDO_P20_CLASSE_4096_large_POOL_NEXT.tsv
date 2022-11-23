@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Who	PRON	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	0	1	Who convinced Michael Dell to use retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	1	2	Who convinced Michael Dell to use retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	2	3	Who convinced Michael Dell to use retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	3	4	Who convinced Michael Dell to use retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	4	5	Who convinced Michael Dell to use retailers to sell PCs ?
+use	VERB	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	1	5	6	Who convinced Michael Dell to use retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	6	7	Who convinced Michael Dell to use retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	7	8	Who convinced Michael Dell to use retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	8	9	Who convinced Michael Dell to use retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	9	10	Who convinced Michael Dell to use retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6	5ad35760604f3c001a3fddf6	1	0	10		Who convinced Michael Dell to use retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	0	12	Who convinced Michael Dell to allow retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	1	13	Who convinced Michael Dell to allow retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	2	14	Who convinced Michael Dell to allow retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	3	15	Who convinced Michael Dell to allow retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	4	16	Who convinced Michael Dell to allow retailers to sell PCs ?
+allow	VERB	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	1	5	17	Who convinced Michael Dell to allow retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	6	18	Who convinced Michael Dell to allow retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	7	19	Who convinced Michael Dell to allow retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	8	20	Who convinced Michael Dell to allow retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	9	21	Who convinced Michael Dell to allow retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_0	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to allow retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	0	23	Who convinced Michael Dell to force retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	1	24	Who convinced Michael Dell to force retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	2	25	Who convinced Michael Dell to force retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	3	26	Who convinced Michael Dell to force retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	4	27	Who convinced Michael Dell to force retailers to sell PCs ?
+force	VERB	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	1	5	28	Who convinced Michael Dell to force retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	6	29	Who convinced Michael Dell to force retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	7	30	Who convinced Michael Dell to force retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	8	31	Who convinced Michael Dell to force retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	9	32	Who convinced Michael Dell to force retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_1	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to force retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	0	34	Who convinced Michael Dell to pay retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	1	35	Who convinced Michael Dell to pay retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	2	36	Who convinced Michael Dell to pay retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	3	37	Who convinced Michael Dell to pay retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	4	38	Who convinced Michael Dell to pay retailers to sell PCs ?
+pay	VERB	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	1	5	39	Who convinced Michael Dell to pay retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	6	40	Who convinced Michael Dell to pay retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	7	41	Who convinced Michael Dell to pay retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	8	42	Who convinced Michael Dell to pay retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	9	43	Who convinced Michael Dell to pay retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_2	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to pay retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	0	45	Who convinced Michael Dell to persuade retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	1	46	Who convinced Michael Dell to persuade retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	2	47	Who convinced Michael Dell to persuade retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	3	48	Who convinced Michael Dell to persuade retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	4	49	Who convinced Michael Dell to persuade retailers to sell PCs ?
+persuade	VERB	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	1	5	50	Who convinced Michael Dell to persuade retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	6	51	Who convinced Michael Dell to persuade retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	7	52	Who convinced Michael Dell to persuade retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	8	53	Who convinced Michael Dell to persuade retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	9	54	Who convinced Michael Dell to persuade retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_3	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to persuade retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	0	56	Who convinced Michael Dell to encourage retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	1	57	Who convinced Michael Dell to encourage retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	2	58	Who convinced Michael Dell to encourage retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	3	59	Who convinced Michael Dell to encourage retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	4	60	Who convinced Michael Dell to encourage retailers to sell PCs ?
+encourage	VERB	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	1	5	61	Who convinced Michael Dell to encourage retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	6	62	Who convinced Michael Dell to encourage retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	7	63	Who convinced Michael Dell to encourage retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	8	64	Who convinced Michael Dell to encourage retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	9	65	Who convinced Michael Dell to encourage retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_4	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to encourage retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	0	67	Who convinced Michael Dell to get retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	1	68	Who convinced Michael Dell to get retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	2	69	Who convinced Michael Dell to get retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	3	70	Who convinced Michael Dell to get retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	4	71	Who convinced Michael Dell to get retailers to sell PCs ?
+get	VERB	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	1	5	72	Who convinced Michael Dell to get retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	6	73	Who convinced Michael Dell to get retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	7	74	Who convinced Michael Dell to get retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	8	75	Who convinced Michael Dell to get retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	9	76	Who convinced Michael Dell to get retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_5	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to get retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	0	78	Who convinced Michael Dell to convince retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	1	79	Who convinced Michael Dell to convince retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	2	80	Who convinced Michael Dell to convince retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	3	81	Who convinced Michael Dell to convince retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	4	82	Who convinced Michael Dell to convince retailers to sell PCs ?
+convince	VERB	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	1	5	83	Who convinced Michael Dell to convince retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	6	84	Who convinced Michael Dell to convince retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	7	85	Who convinced Michael Dell to convince retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	8	86	Who convinced Michael Dell to convince retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	9	87	Who convinced Michael Dell to convince retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_6	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to convince retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	0	89	Who convinced Michael Dell to hire retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	1	90	Who convinced Michael Dell to hire retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	2	91	Who convinced Michael Dell to hire retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	3	92	Who convinced Michael Dell to hire retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	4	93	Who convinced Michael Dell to hire retailers to sell PCs ?
+hire	VERB	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	1	5	94	Who convinced Michael Dell to hire retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	6	95	Who convinced Michael Dell to hire retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	7	96	Who convinced Michael Dell to hire retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	8	97	Who convinced Michael Dell to hire retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	9	98	Who convinced Michael Dell to hire retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_7	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to hire retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	0	100	Who convinced Michael Dell to require retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	1	101	Who convinced Michael Dell to require retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	2	102	Who convinced Michael Dell to require retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	3	103	Who convinced Michael Dell to require retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	4	104	Who convinced Michael Dell to require retailers to sell PCs ?
+require	VERB	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	1	5	105	Who convinced Michael Dell to require retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	6	106	Who convinced Michael Dell to require retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	7	107	Who convinced Michael Dell to require retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	8	108	Who convinced Michael Dell to require retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	9	109	Who convinced Michael Dell to require retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_8	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to require retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	0	111	Who convinced Michael Dell to permit retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	1	112	Who convinced Michael Dell to permit retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	2	113	Who convinced Michael Dell to permit retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	3	114	Who convinced Michael Dell to permit retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	4	115	Who convinced Michael Dell to permit retailers to sell PCs ?
+permit	VERB	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	1	5	116	Who convinced Michael Dell to permit retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	6	117	Who convinced Michael Dell to permit retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	7	118	Who convinced Michael Dell to permit retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	8	119	Who convinced Michael Dell to permit retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	9	120	Who convinced Michael Dell to permit retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_9	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to permit retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	0	122	Who convinced Michael Dell to use retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	1	123	Who convinced Michael Dell to use retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	2	124	Who convinced Michael Dell to use retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	3	125	Who convinced Michael Dell to use retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	4	126	Who convinced Michael Dell to use retailers to sell PCs ?
+use	VERB	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	1	5	127	Who convinced Michael Dell to use retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	6	128	Who convinced Michael Dell to use retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	7	129	Who convinced Michael Dell to use retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	8	130	Who convinced Michael Dell to use retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	9	131	Who convinced Michael Dell to use retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_10	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to use retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	0	133	Who convinced Michael Dell to push retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	1	134	Who convinced Michael Dell to push retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	2	135	Who convinced Michael Dell to push retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	3	136	Who convinced Michael Dell to push retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	4	137	Who convinced Michael Dell to push retailers to sell PCs ?
+push	VERB	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	1	5	138	Who convinced Michael Dell to push retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	6	139	Who convinced Michael Dell to push retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	7	140	Who convinced Michael Dell to push retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	8	141	Who convinced Michael Dell to push retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	9	142	Who convinced Michael Dell to push retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_11	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to push retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	0	144	Who convinced Michael Dell to pressure retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	1	145	Who convinced Michael Dell to pressure retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	2	146	Who convinced Michael Dell to pressure retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	3	147	Who convinced Michael Dell to pressure retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	4	148	Who convinced Michael Dell to pressure retailers to sell PCs ?
+pressure	VERB	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	1	5	149	Who convinced Michael Dell to pressure retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	6	150	Who convinced Michael Dell to pressure retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	7	151	Who convinced Michael Dell to pressure retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	8	152	Who convinced Michael Dell to pressure retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	9	153	Who convinced Michael Dell to pressure retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_12	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to pressure retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	0	155	Who convinced Michael Dell to ask retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	1	156	Who convinced Michael Dell to ask retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	2	157	Who convinced Michael Dell to ask retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	3	158	Who convinced Michael Dell to ask retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	4	159	Who convinced Michael Dell to ask retailers to sell PCs ?
+ask	VERB	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	1	5	160	Who convinced Michael Dell to ask retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	6	161	Who convinced Michael Dell to ask retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	7	162	Who convinced Michael Dell to ask retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	8	163	Who convinced Michael Dell to ask retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	9	164	Who convinced Michael Dell to ask retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_13	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to ask retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	0	166	Who convinced Michael Dell to license retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	1	167	Who convinced Michael Dell to license retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	2	168	Who convinced Michael Dell to license retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	3	169	Who convinced Michael Dell to license retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	4	170	Who convinced Michael Dell to license retailers to sell PCs ?
+license	VERB	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	1	5	171	Who convinced Michael Dell to license retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	6	172	Who convinced Michael Dell to license retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	7	173	Who convinced Michael Dell to license retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	8	174	Who convinced Michael Dell to license retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	9	175	Who convinced Michael Dell to license retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_14	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to license retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	0	177	Who convinced Michael Dell to order retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	1	178	Who convinced Michael Dell to order retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	2	179	Who convinced Michael Dell to order retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	3	180	Who convinced Michael Dell to order retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	4	181	Who convinced Michael Dell to order retailers to sell PCs ?
+order	VERB	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	1	5	182	Who convinced Michael Dell to order retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	6	183	Who convinced Michael Dell to order retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	7	184	Who convinced Michael Dell to order retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	8	185	Who convinced Michael Dell to order retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	9	186	Who convinced Michael Dell to order retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_15	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to order retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	0	188	Who convinced Michael Dell to urge retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	1	189	Who convinced Michael Dell to urge retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	2	190	Who convinced Michael Dell to urge retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	3	191	Who convinced Michael Dell to urge retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	4	192	Who convinced Michael Dell to urge retailers to sell PCs ?
+urge	VERB	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	1	5	193	Who convinced Michael Dell to urge retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	6	194	Who convinced Michael Dell to urge retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	7	195	Who convinced Michael Dell to urge retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	8	196	Who convinced Michael Dell to urge retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	9	197	Who convinced Michael Dell to urge retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_16	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to urge retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	0	199	Who convinced Michael Dell to want retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	1	200	Who convinced Michael Dell to want retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	2	201	Who convinced Michael Dell to want retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	3	202	Who convinced Michael Dell to want retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	4	203	Who convinced Michael Dell to want retailers to sell PCs ?
+want	VERB	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	1	5	204	Who convinced Michael Dell to want retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	6	205	Who convinced Michael Dell to want retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	7	206	Who convinced Michael Dell to want retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	8	207	Who convinced Michael Dell to want retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	9	208	Who convinced Michael Dell to want retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_17	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to want retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	0	210	Who convinced Michael Dell to invite retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	1	211	Who convinced Michael Dell to invite retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	2	212	Who convinced Michael Dell to invite retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	3	213	Who convinced Michael Dell to invite retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	4	214	Who convinced Michael Dell to invite retailers to sell PCs ?
+invite	VERB	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	1	5	215	Who convinced Michael Dell to invite retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	6	216	Who convinced Michael Dell to invite retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	7	217	Who convinced Michael Dell to invite retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	8	218	Who convinced Michael Dell to invite retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	9	219	Who convinced Michael Dell to invite retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_18	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to invite retailers to sell PCs ?
+Who	PRON	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	0	221	Who convinced Michael Dell to enable retailers to sell PCs ?
+convinced	VERB	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	1	222	Who convinced Michael Dell to enable retailers to sell PCs ?
+Michael	PROPN	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	2	223	Who convinced Michael Dell to enable retailers to sell PCs ?
+Dell	PROPN	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	3	224	Who convinced Michael Dell to enable retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	4	225	Who convinced Michael Dell to enable retailers to sell PCs ?
+enable	VERB	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	1	5	226	Who convinced Michael Dell to enable retailers to sell PCs ?
+retailers	NOUN	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	6	227	Who convinced Michael Dell to enable retailers to sell PCs ?
+to	PART	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	7	228	Who convinced Michael Dell to enable retailers to sell PCs ?
+sell	VERB	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	8	229	Who convinced Michael Dell to enable retailers to sell PCs ?
+PCs	NOUN	1	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	9	230	Who convinced Michael Dell to enable retailers to sell PCs ?
+?	PUNCT	0	5ad35760604f3c001a3fddf6_pert_19	5ad35760604f3c001a3fddf6	0	0	10		Who convinced Michael Dell to enable retailers to sell PCs ?

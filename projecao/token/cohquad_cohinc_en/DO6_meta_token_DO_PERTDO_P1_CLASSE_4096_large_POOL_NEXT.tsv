@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+How	SCONJ	0	6	6	1	0	0	1	How to push and pop elements in a stack data structure ?
+to	PART	0	6	6	1	0	1	2	How to push and pop elements in a stack data structure ?
+push	VERB	0	6	6	1	0	2	3	How to push and pop elements in a stack data structure ?
+and	CCONJ	0	6	6	1	0	3	4	How to push and pop elements in a stack data structure ?
+pop	NOUN	0	6	6	1	0	4	5	How to push and pop elements in a stack data structure ?
+elements	NOUN	0	6	6	1	0	5	6	How to push and pop elements in a stack data structure ?
+in	ADP	0	6	6	1	0	6	7	How to push and pop elements in a stack data structure ?
+a	DET	0	6	6	1	0	7	8	How to push and pop elements in a stack data structure ?
+stack	NOUN	0	6	6	1	1	8	9	How to push and pop elements in a stack data structure ?
+data	NOUN	0	6	6	1	0	9	10	How to push and pop elements in a stack data structure ?
+structure	NOUN	0	6	6	1	0	10	11	How to push and pop elements in a stack data structure ?
+?	PUNCT	0	6	6	1	0	11		How to push and pop elements in a stack data structure ?
+How	SCONJ	0	6_pert_0	6	0	0	0	13	How to push and pop elements in a queue data structure ?
+to	PART	0	6_pert_0	6	0	0	1	14	How to push and pop elements in a queue data structure ?
+push	VERB	0	6_pert_0	6	0	0	2	15	How to push and pop elements in a queue data structure ?
+and	CCONJ	0	6_pert_0	6	0	0	3	16	How to push and pop elements in a queue data structure ?
+pop	NOUN	0	6_pert_0	6	0	0	4	17	How to push and pop elements in a queue data structure ?
+elements	NOUN	0	6_pert_0	6	0	0	5	18	How to push and pop elements in a queue data structure ?
+in	ADP	0	6_pert_0	6	0	0	6	19	How to push and pop elements in a queue data structure ?
+a	DET	0	6_pert_0	6	0	0	7	20	How to push and pop elements in a queue data structure ?
+queue	NOUN	1	6_pert_0	6	0	1	8	21	How to push and pop elements in a queue data structure ?
+data	NOUN	0	6_pert_0	6	0	0	9	22	How to push and pop elements in a queue data structure ?
+structure	NOUN	0	6_pert_0	6	0	0	10	23	How to push and pop elements in a queue data structure ?
+?	PUNCT	0	6_pert_0	6	0	0	11		How to push and pop elements in a queue data structure ?

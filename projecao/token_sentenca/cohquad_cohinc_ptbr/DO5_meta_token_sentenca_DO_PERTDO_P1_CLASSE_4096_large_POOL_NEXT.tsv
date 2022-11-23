@@ -1,0 +1,23 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Como	SCONJ	0	5	5	1	0	0	1	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+empilhar	VERB	1	5	5	1	0	1	2	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5	5	1	0	2	3	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5	5	1	0	3	4	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5	5	1	0	4	5	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5	5	1	0	5	6	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5	5	1	0	6	7	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5	5	1	0	7	8	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5	5	1	1	8	9	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5	5	1	0	9	10	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+0	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	5	5	1	-1	-1		1	3	Como empilhar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_0	5	0	0	0	12	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+empilhar	VERB	1	5_pert_0	5	0	0	1	13	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+elementos	NOUN	0	5_pert_0	5	0	0	2	14	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+em	ADP	0	5_pert_0	5	0	0	3	15	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+uma	DET	0	5_pert_0	5	0	0	4	16	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+estrutura	NOUN	0	5_pert_0	5	0	0	5	17	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+de	ADP	0	5_pert_0	5	0	0	6	18	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+dados	NOUN	0	5_pert_0	5	0	0	7	19	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+fila	NOUN	1	5_pert_0	5	0	1	8	20	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+?	PUNCT	0	5_pert_0	5	0	0	9	21	0	0	Como empilhar elementos em uma estrutura de dados fila ?
+1	['SCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 1, 0]	5_pert_0	5	0	-1	-1		1	2	Como empilhar elementos em uma estrutura de dados fila ?

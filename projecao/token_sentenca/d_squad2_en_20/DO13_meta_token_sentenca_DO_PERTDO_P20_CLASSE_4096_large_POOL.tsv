@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+What	DET	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	0	0	1	What ships were attacked in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	1	0	1	What ships were attacked in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	2	0	1	What ships were attacked in 1852 ?
+attacked	VERB	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	1	3	0	1	What ships were attacked in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	4	0	1	What ships were attacked in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	5	0	1	What ships were attacked in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	6	0	1	What ships were attacked in 1852 ?
+What ships were attacked in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	-1	-1	1	3	What ships were attacked in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were lost in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were lost in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were lost in 1852 ?
+lost	VERB	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were lost in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were lost in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were lost in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were lost in 1852 ?
+What ships were lost in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were lost in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were present in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were present in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were present in 1852 ?
+present	ADJ	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were present in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were present in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were present in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were present in 1852 ?
+What ships were present in 1852 ?	['DET', 'NOUN', 'AUX', 'ADJ', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were present in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were built in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were built in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were built in 1852 ?
+built	VERB	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were built in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were built in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were built in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were built in 1852 ?
+What ships were built in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were built in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were registered in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were registered in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were registered in 1852 ?
+registered	VERB	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were registered in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were registered in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were registered in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were registered in 1852 ?
+What ships were registered in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were registered in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were listed in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were listed in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were listed in 1852 ?
+listed	VERB	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were listed in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were listed in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were listed in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were listed in 1852 ?
+What ships were listed in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were listed in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were used in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were used in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were used in 1852 ?
+used	VERB	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were used in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were used in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were used in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were used in 1852 ?
+What ships were used in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were used in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were launched in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were launched in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were launched in 1852 ?
+launched	VERB	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were launched in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were launched in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were launched in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were launched in 1852 ?
+What ships were launched in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were launched in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were sunk in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were sunk in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were sunk in 1852 ?
+sunk	VERB	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were sunk in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were sunk in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were sunk in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were sunk in 1852 ?
+What ships were sunk in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were sunk in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were wrecked in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were wrecked in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were wrecked in 1852 ?
+wrecked	VERB	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were wrecked in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were wrecked in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were wrecked in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were wrecked in 1852 ?
+What ships were wrecked in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were wrecked in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were sold in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were sold in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were sold in 1852 ?
+sold	VERB	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were sold in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were sold in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were sold in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were sold in 1852 ?
+What ships were sold in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were sold in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were there in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were there in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were there in 1852 ?
+there	ADV	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were there in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were there in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were there in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were there in 1852 ?
+What ships were there in 1852 ?	['DET', 'NOUN', 'AUX', 'ADV', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were there in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were involved in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were involved in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were involved in 1852 ?
+involved	VERB	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were involved in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were involved in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were involved in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were involved in 1852 ?
+What ships were involved in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were involved in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were employed in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were employed in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were employed in 1852 ?
+employed	VERB	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were employed in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were employed in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were employed in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were employed in 1852 ?
+What ships were employed in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were employed in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were active in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were active in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were active in 1852 ?
+active	ADJ	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were active in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were active in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were active in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were active in 1852 ?
+What ships were active in 1852 ?	['DET', 'NOUN', 'AUX', 'ADJ', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were active in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were missing in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were missing in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were missing in 1852 ?
+missing	VERB	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were missing in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were missing in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were missing in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were missing in 1852 ?
+What ships were missing in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were missing in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were mentioned in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were mentioned in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were mentioned in 1852 ?
+mentioned	VERB	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were mentioned in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were mentioned in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were mentioned in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were mentioned in 1852 ?
+What ships were mentioned in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were mentioned in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were burned in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were burned in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were burned in 1852 ?
+burned	VERB	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were burned in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were burned in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were burned in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were burned in 1852 ?
+What ships were burned in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were burned in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were destroyed in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were destroyed in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were destroyed in 1852 ?
+destroyed	VERB	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were destroyed in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were destroyed in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were destroyed in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were destroyed in 1852 ?
+What ships were destroyed in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were destroyed in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were counted in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were counted in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were counted in 1852 ?
+counted	VERB	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were counted in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were counted in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were counted in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were counted in 1852 ?
+What ships were counted in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were counted in 1852 ?
+What	DET	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	0	0	0	What ships were scrapped in 1852 ?
+ships	NOUN	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	1	0	0	What ships were scrapped in 1852 ?
+were	AUX	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	2	0	0	What ships were scrapped in 1852 ?
+scrapped	VERB	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	1	3	0	0	What ships were scrapped in 1852 ?
+in	ADP	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	4	0	0	What ships were scrapped in 1852 ?
+1852	NUM	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	5	0	0	What ships were scrapped in 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	6	0	0	What ships were scrapped in 1852 ?
+What ships were scrapped in 1852 ?	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	-1	-1	1	2	What ships were scrapped in 1852 ?

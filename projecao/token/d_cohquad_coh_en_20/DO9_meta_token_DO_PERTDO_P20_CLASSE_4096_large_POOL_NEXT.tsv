@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	9	9	1	0	0	1	What is a stack and how to push its element ?
+is	AUX	0	9	9	1	0	1	2	What is a stack and how to push its element ?
+a	DET	0	9	9	1	0	2	3	What is a stack and how to push its element ?
+stack	NOUN	0	9	9	1	0	3	4	What is a stack and how to push its element ?
+and	CCONJ	0	9	9	1	0	4	5	What is a stack and how to push its element ?
+how	SCONJ	0	9	9	1	0	5	6	What is a stack and how to push its element ?
+to	PART	0	9	9	1	0	6	7	What is a stack and how to push its element ?
+push	VERB	0	9	9	1	1	7	8	What is a stack and how to push its element ?
+its	PRON	0	9	9	1	0	8	9	What is a stack and how to push its element ?
+element	NOUN	0	9	9	1	0	9	10	What is a stack and how to push its element ?
+?	PUNCT	0	9	9	1	0	10		What is a stack and how to push its element ?
+What	PRON	0	9_pert_0	9	0	0	0	12	What is a stack and how to define its element ?
+is	AUX	0	9_pert_0	9	0	0	1	13	What is a stack and how to define its element ?
+a	DET	0	9_pert_0	9	0	0	2	14	What is a stack and how to define its element ?
+stack	NOUN	0	9_pert_0	9	0	0	3	15	What is a stack and how to define its element ?
+and	CCONJ	0	9_pert_0	9	0	0	4	16	What is a stack and how to define its element ?
+how	SCONJ	0	9_pert_0	9	0	0	5	17	What is a stack and how to define its element ?
+to	PART	0	9_pert_0	9	0	0	6	18	What is a stack and how to define its element ?
+define	VERB	0	9_pert_0	9	0	1	7	19	What is a stack and how to define its element ?
+its	PRON	0	9_pert_0	9	0	0	8	20	What is a stack and how to define its element ?
+element	NOUN	0	9_pert_0	9	0	0	9	21	What is a stack and how to define its element ?
+?	PUNCT	0	9_pert_0	9	0	0	10		What is a stack and how to define its element ?
+What	PRON	0	9_pert_1	9	0	0	0	23	What is a stack and how to use its element ?
+is	AUX	0	9_pert_1	9	0	0	1	24	What is a stack and how to use its element ?
+a	DET	0	9_pert_1	9	0	0	2	25	What is a stack and how to use its element ?
+stack	NOUN	0	9_pert_1	9	0	0	3	26	What is a stack and how to use its element ?
+and	CCONJ	0	9_pert_1	9	0	0	4	27	What is a stack and how to use its element ?
+how	SCONJ	0	9_pert_1	9	0	0	5	28	What is a stack and how to use its element ?
+to	PART	0	9_pert_1	9	0	0	6	29	What is a stack and how to use its element ?
+use	VERB	0	9_pert_1	9	0	1	7	30	What is a stack and how to use its element ?
+its	PRON	0	9_pert_1	9	0	0	8	31	What is a stack and how to use its element ?
+element	NOUN	0	9_pert_1	9	0	0	9	32	What is a stack and how to use its element ?
+?	PUNCT	0	9_pert_1	9	0	0	10		What is a stack and how to use its element ?
+What	PRON	0	9_pert_2	9	0	0	0	34	What is a stack and how to find its element ?
+is	AUX	0	9_pert_2	9	0	0	1	35	What is a stack and how to find its element ?
+a	DET	0	9_pert_2	9	0	0	2	36	What is a stack and how to find its element ?
+stack	NOUN	0	9_pert_2	9	0	0	3	37	What is a stack and how to find its element ?
+and	CCONJ	0	9_pert_2	9	0	0	4	38	What is a stack and how to find its element ?
+how	SCONJ	0	9_pert_2	9	0	0	5	39	What is a stack and how to find its element ?
+to	PART	0	9_pert_2	9	0	0	6	40	What is a stack and how to find its element ?
+find	VERB	0	9_pert_2	9	0	1	7	41	What is a stack and how to find its element ?
+its	PRON	0	9_pert_2	9	0	0	8	42	What is a stack and how to find its element ?
+element	NOUN	0	9_pert_2	9	0	0	9	43	What is a stack and how to find its element ?
+?	PUNCT	0	9_pert_2	9	0	0	10		What is a stack and how to find its element ?
+What	PRON	0	9_pert_3	9	0	0	0	45	What is a stack and how to describe its element ?
+is	AUX	0	9_pert_3	9	0	0	1	46	What is a stack and how to describe its element ?
+a	DET	0	9_pert_3	9	0	0	2	47	What is a stack and how to describe its element ?
+stack	NOUN	0	9_pert_3	9	0	0	3	48	What is a stack and how to describe its element ?
+and	CCONJ	0	9_pert_3	9	0	0	4	49	What is a stack and how to describe its element ?
+how	SCONJ	0	9_pert_3	9	0	0	5	50	What is a stack and how to describe its element ?
+to	PART	0	9_pert_3	9	0	0	6	51	What is a stack and how to describe its element ?
+describe	VERB	0	9_pert_3	9	0	1	7	52	What is a stack and how to describe its element ?
+its	PRON	0	9_pert_3	9	0	0	8	53	What is a stack and how to describe its element ?
+element	NOUN	0	9_pert_3	9	0	0	9	54	What is a stack and how to describe its element ?
+?	PUNCT	0	9_pert_3	9	0	0	10		What is a stack and how to describe its element ?
+What	PRON	0	9_pert_4	9	0	0	0	56	What is a stack and how to manage its element ?
+is	AUX	0	9_pert_4	9	0	0	1	57	What is a stack and how to manage its element ?
+a	DET	0	9_pert_4	9	0	0	2	58	What is a stack and how to manage its element ?
+stack	NOUN	0	9_pert_4	9	0	0	3	59	What is a stack and how to manage its element ?
+and	CCONJ	0	9_pert_4	9	0	0	4	60	What is a stack and how to manage its element ?
+how	SCONJ	0	9_pert_4	9	0	0	5	61	What is a stack and how to manage its element ?
+to	PART	0	9_pert_4	9	0	0	6	62	What is a stack and how to manage its element ?
+manage	VERB	0	9_pert_4	9	0	1	7	63	What is a stack and how to manage its element ?
+its	PRON	0	9_pert_4	9	0	0	8	64	What is a stack and how to manage its element ?
+element	NOUN	0	9_pert_4	9	0	0	9	65	What is a stack and how to manage its element ?
+?	PUNCT	0	9_pert_4	9	0	0	10		What is a stack and how to manage its element ?
+What	PRON	0	9_pert_5	9	0	0	0	67	What is a stack and how to access its element ?
+is	AUX	0	9_pert_5	9	0	0	1	68	What is a stack and how to access its element ?
+a	DET	0	9_pert_5	9	0	0	2	69	What is a stack and how to access its element ?
+stack	NOUN	0	9_pert_5	9	0	0	3	70	What is a stack and how to access its element ?
+and	CCONJ	0	9_pert_5	9	0	0	4	71	What is a stack and how to access its element ?
+how	SCONJ	0	9_pert_5	9	0	0	5	72	What is a stack and how to access its element ?
+to	PART	0	9_pert_5	9	0	0	6	73	What is a stack and how to access its element ?
+access	VERB	0	9_pert_5	9	0	1	7	74	What is a stack and how to access its element ?
+its	PRON	0	9_pert_5	9	0	0	8	75	What is a stack and how to access its element ?
+element	NOUN	0	9_pert_5	9	0	0	9	76	What is a stack and how to access its element ?
+?	PUNCT	0	9_pert_5	9	0	0	10		What is a stack and how to access its element ?
+What	PRON	0	9_pert_6	9	0	0	0	78	What is a stack and how to represent its element ?
+is	AUX	0	9_pert_6	9	0	0	1	79	What is a stack and how to represent its element ?
+a	DET	0	9_pert_6	9	0	0	2	80	What is a stack and how to represent its element ?
+stack	NOUN	0	9_pert_6	9	0	0	3	81	What is a stack and how to represent its element ?
+and	CCONJ	0	9_pert_6	9	0	0	4	82	What is a stack and how to represent its element ?
+how	SCONJ	0	9_pert_6	9	0	0	5	83	What is a stack and how to represent its element ?
+to	PART	0	9_pert_6	9	0	0	6	84	What is a stack and how to represent its element ?
+represent	VERB	0	9_pert_6	9	0	1	7	85	What is a stack and how to represent its element ?
+its	PRON	0	9_pert_6	9	0	0	8	86	What is a stack and how to represent its element ?
+element	NOUN	0	9_pert_6	9	0	0	9	87	What is a stack and how to represent its element ?
+?	PUNCT	0	9_pert_6	9	0	0	10		What is a stack and how to represent its element ?
+What	PRON	0	9_pert_7	9	0	0	0	89	What is a stack and how to handle its element ?
+is	AUX	0	9_pert_7	9	0	0	1	90	What is a stack and how to handle its element ?
+a	DET	0	9_pert_7	9	0	0	2	91	What is a stack and how to handle its element ?
+stack	NOUN	0	9_pert_7	9	0	0	3	92	What is a stack and how to handle its element ?
+and	CCONJ	0	9_pert_7	9	0	0	4	93	What is a stack and how to handle its element ?
+how	SCONJ	0	9_pert_7	9	0	0	5	94	What is a stack and how to handle its element ?
+to	PART	0	9_pert_7	9	0	0	6	95	What is a stack and how to handle its element ?
+handle	VERB	0	9_pert_7	9	0	1	7	96	What is a stack and how to handle its element ?
+its	PRON	0	9_pert_7	9	0	0	8	97	What is a stack and how to handle its element ?
+element	NOUN	0	9_pert_7	9	0	0	9	98	What is a stack and how to handle its element ?
+?	PUNCT	0	9_pert_7	9	0	0	10		What is a stack and how to handle its element ?
+What	PRON	0	9_pert_8	9	0	0	0	100	What is a stack and how to determine its element ?
+is	AUX	0	9_pert_8	9	0	0	1	101	What is a stack and how to determine its element ?
+a	DET	0	9_pert_8	9	0	0	2	102	What is a stack and how to determine its element ?
+stack	NOUN	0	9_pert_8	9	0	0	3	103	What is a stack and how to determine its element ?
+and	CCONJ	0	9_pert_8	9	0	0	4	104	What is a stack and how to determine its element ?
+how	SCONJ	0	9_pert_8	9	0	0	5	105	What is a stack and how to determine its element ?
+to	PART	0	9_pert_8	9	0	0	6	106	What is a stack and how to determine its element ?
+determine	VERB	0	9_pert_8	9	0	1	7	107	What is a stack and how to determine its element ?
+its	PRON	0	9_pert_8	9	0	0	8	108	What is a stack and how to determine its element ?
+element	NOUN	0	9_pert_8	9	0	0	9	109	What is a stack and how to determine its element ?
+?	PUNCT	0	9_pert_8	9	0	0	10		What is a stack and how to determine its element ?
+What	PRON	0	9_pert_9	9	0	0	0	111	What is a stack and how to calculate its element ?
+is	AUX	0	9_pert_9	9	0	0	1	112	What is a stack and how to calculate its element ?
+a	DET	0	9_pert_9	9	0	0	2	113	What is a stack and how to calculate its element ?
+stack	NOUN	0	9_pert_9	9	0	0	3	114	What is a stack and how to calculate its element ?
+and	CCONJ	0	9_pert_9	9	0	0	4	115	What is a stack and how to calculate its element ?
+how	SCONJ	0	9_pert_9	9	0	0	5	116	What is a stack and how to calculate its element ?
+to	PART	0	9_pert_9	9	0	0	6	117	What is a stack and how to calculate its element ?
+calculate	VERB	0	9_pert_9	9	0	1	7	118	What is a stack and how to calculate its element ?
+its	PRON	0	9_pert_9	9	0	0	8	119	What is a stack and how to calculate its element ?
+element	NOUN	0	9_pert_9	9	0	0	9	120	What is a stack and how to calculate its element ?
+?	PUNCT	0	9_pert_9	9	0	0	10		What is a stack and how to calculate its element ?
+What	PRON	0	9_pert_10	9	0	0	0	122	What is a stack and how to manipulate its element ?
+is	AUX	0	9_pert_10	9	0	0	1	123	What is a stack and how to manipulate its element ?
+a	DET	0	9_pert_10	9	0	0	2	124	What is a stack and how to manipulate its element ?
+stack	NOUN	0	9_pert_10	9	0	0	3	125	What is a stack and how to manipulate its element ?
+and	CCONJ	0	9_pert_10	9	0	0	4	126	What is a stack and how to manipulate its element ?
+how	SCONJ	0	9_pert_10	9	0	0	5	127	What is a stack and how to manipulate its element ?
+to	PART	0	9_pert_10	9	0	0	6	128	What is a stack and how to manipulate its element ?
+manipulate	VERB	0	9_pert_10	9	0	1	7	129	What is a stack and how to manipulate its element ?
+its	PRON	0	9_pert_10	9	0	0	8	130	What is a stack and how to manipulate its element ?
+element	NOUN	0	9_pert_10	9	0	0	9	131	What is a stack and how to manipulate its element ?
+?	PUNCT	0	9_pert_10	9	0	0	10		What is a stack and how to manipulate its element ?
+What	PRON	0	9_pert_11	9	0	0	0	133	What is a stack and how to store its element ?
+is	AUX	0	9_pert_11	9	0	0	1	134	What is a stack and how to store its element ?
+a	DET	0	9_pert_11	9	0	0	2	135	What is a stack and how to store its element ?
+stack	NOUN	0	9_pert_11	9	0	0	3	136	What is a stack and how to store its element ?
+and	CCONJ	0	9_pert_11	9	0	0	4	137	What is a stack and how to store its element ?
+how	SCONJ	0	9_pert_11	9	0	0	5	138	What is a stack and how to store its element ?
+to	PART	0	9_pert_11	9	0	0	6	139	What is a stack and how to store its element ?
+store	VERB	0	9_pert_11	9	0	1	7	140	What is a stack and how to store its element ?
+its	PRON	0	9_pert_11	9	0	0	8	141	What is a stack and how to store its element ?
+element	NOUN	0	9_pert_11	9	0	0	9	142	What is a stack and how to store its element ?
+?	PUNCT	0	9_pert_11	9	0	0	10		What is a stack and how to store its element ?
+What	PRON	0	9_pert_12	9	0	0	0	144	What is a stack and how to identify its element ?
+is	AUX	0	9_pert_12	9	0	0	1	145	What is a stack and how to identify its element ?
+a	DET	0	9_pert_12	9	0	0	2	146	What is a stack and how to identify its element ?
+stack	NOUN	0	9_pert_12	9	0	0	3	147	What is a stack and how to identify its element ?
+and	CCONJ	0	9_pert_12	9	0	0	4	148	What is a stack and how to identify its element ?
+how	SCONJ	0	9_pert_12	9	0	0	5	149	What is a stack and how to identify its element ?
+to	PART	0	9_pert_12	9	0	0	6	150	What is a stack and how to identify its element ?
+identify	VERB	0	9_pert_12	9	0	1	7	151	What is a stack and how to identify its element ?
+its	PRON	0	9_pert_12	9	0	0	8	152	What is a stack and how to identify its element ?
+element	NOUN	0	9_pert_12	9	0	0	9	153	What is a stack and how to identify its element ?
+?	PUNCT	0	9_pert_12	9	0	0	10		What is a stack and how to identify its element ?
+What	PRON	0	9_pert_13	9	0	0	0	155	What is a stack and how to organize its element ?
+is	AUX	0	9_pert_13	9	0	0	1	156	What is a stack and how to organize its element ?
+a	DET	0	9_pert_13	9	0	0	2	157	What is a stack and how to organize its element ?
+stack	NOUN	0	9_pert_13	9	0	0	3	158	What is a stack and how to organize its element ?
+and	CCONJ	0	9_pert_13	9	0	0	4	159	What is a stack and how to organize its element ?
+how	SCONJ	0	9_pert_13	9	0	0	5	160	What is a stack and how to organize its element ?
+to	PART	0	9_pert_13	9	0	0	6	161	What is a stack and how to organize its element ?
+organize	VERB	0	9_pert_13	9	0	1	7	162	What is a stack and how to organize its element ?
+its	PRON	0	9_pert_13	9	0	0	8	163	What is a stack and how to organize its element ?
+element	NOUN	0	9_pert_13	9	0	0	9	164	What is a stack and how to organize its element ?
+?	PUNCT	0	9_pert_13	9	0	0	10		What is a stack and how to organize its element ?
+What	PRON	0	9_pert_14	9	0	0	0	166	What is a stack and how to implement its element ?
+is	AUX	0	9_pert_14	9	0	0	1	167	What is a stack and how to implement its element ?
+a	DET	0	9_pert_14	9	0	0	2	168	What is a stack and how to implement its element ?
+stack	NOUN	0	9_pert_14	9	0	0	3	169	What is a stack and how to implement its element ?
+and	CCONJ	0	9_pert_14	9	0	0	4	170	What is a stack and how to implement its element ?
+how	SCONJ	0	9_pert_14	9	0	0	5	171	What is a stack and how to implement its element ?
+to	PART	0	9_pert_14	9	0	0	6	172	What is a stack and how to implement its element ?
+implement	VERB	0	9_pert_14	9	0	1	7	173	What is a stack and how to implement its element ?
+its	PRON	0	9_pert_14	9	0	0	8	174	What is a stack and how to implement its element ?
+element	NOUN	0	9_pert_14	9	0	0	9	175	What is a stack and how to implement its element ?
+?	PUNCT	0	9_pert_14	9	0	0	10		What is a stack and how to implement its element ?
+What	PRON	0	9_pert_15	9	0	0	0	177	What is a stack and how to modify its element ?
+is	AUX	0	9_pert_15	9	0	0	1	178	What is a stack and how to modify its element ?
+a	DET	0	9_pert_15	9	0	0	2	179	What is a stack and how to modify its element ?
+stack	NOUN	0	9_pert_15	9	0	0	3	180	What is a stack and how to modify its element ?
+and	CCONJ	0	9_pert_15	9	0	0	4	181	What is a stack and how to modify its element ?
+how	SCONJ	0	9_pert_15	9	0	0	5	182	What is a stack and how to modify its element ?
+to	PART	0	9_pert_15	9	0	0	6	183	What is a stack and how to modify its element ?
+modify	VERB	0	9_pert_15	9	0	1	7	184	What is a stack and how to modify its element ?
+its	PRON	0	9_pert_15	9	0	0	8	185	What is a stack and how to modify its element ?
+element	NOUN	0	9_pert_15	9	0	0	9	186	What is a stack and how to modify its element ?
+?	PUNCT	0	9_pert_15	9	0	0	10		What is a stack and how to modify its element ?
+What	PRON	0	9_pert_16	9	0	0	0	188	What is a stack and how to write its element ?
+is	AUX	0	9_pert_16	9	0	0	1	189	What is a stack and how to write its element ?
+a	DET	0	9_pert_16	9	0	0	2	190	What is a stack and how to write its element ?
+stack	NOUN	0	9_pert_16	9	0	0	3	191	What is a stack and how to write its element ?
+and	CCONJ	0	9_pert_16	9	0	0	4	192	What is a stack and how to write its element ?
+how	SCONJ	0	9_pert_16	9	0	0	5	193	What is a stack and how to write its element ?
+to	PART	0	9_pert_16	9	0	0	6	194	What is a stack and how to write its element ?
+write	VERB	0	9_pert_16	9	0	1	7	195	What is a stack and how to write its element ?
+its	PRON	0	9_pert_16	9	0	0	8	196	What is a stack and how to write its element ?
+element	NOUN	0	9_pert_16	9	0	0	9	197	What is a stack and how to write its element ?
+?	PUNCT	0	9_pert_16	9	0	0	10		What is a stack and how to write its element ?
+What	PRON	0	9_pert_17	9	0	0	0	199	What is a stack and how to count its element ?
+is	AUX	0	9_pert_17	9	0	0	1	200	What is a stack and how to count its element ?
+a	DET	0	9_pert_17	9	0	0	2	201	What is a stack and how to count its element ?
+stack	NOUN	0	9_pert_17	9	0	0	3	202	What is a stack and how to count its element ?
+and	CCONJ	0	9_pert_17	9	0	0	4	203	What is a stack and how to count its element ?
+how	SCONJ	0	9_pert_17	9	0	0	5	204	What is a stack and how to count its element ?
+to	PART	0	9_pert_17	9	0	0	6	205	What is a stack and how to count its element ?
+count	VERB	0	9_pert_17	9	0	1	7	206	What is a stack and how to count its element ?
+its	PRON	0	9_pert_17	9	0	0	8	207	What is a stack and how to count its element ?
+element	NOUN	0	9_pert_17	9	0	0	9	208	What is a stack and how to count its element ?
+?	PUNCT	0	9_pert_17	9	0	0	10		What is a stack and how to count its element ?
+What	PRON	0	9_pert_18	9	0	0	0	210	What is a stack and how to construct its element ?
+is	AUX	0	9_pert_18	9	0	0	1	211	What is a stack and how to construct its element ?
+a	DET	0	9_pert_18	9	0	0	2	212	What is a stack and how to construct its element ?
+stack	NOUN	0	9_pert_18	9	0	0	3	213	What is a stack and how to construct its element ?
+and	CCONJ	0	9_pert_18	9	0	0	4	214	What is a stack and how to construct its element ?
+how	SCONJ	0	9_pert_18	9	0	0	5	215	What is a stack and how to construct its element ?
+to	PART	0	9_pert_18	9	0	0	6	216	What is a stack and how to construct its element ?
+construct	VERB	0	9_pert_18	9	0	1	7	217	What is a stack and how to construct its element ?
+its	PRON	0	9_pert_18	9	0	0	8	218	What is a stack and how to construct its element ?
+element	NOUN	0	9_pert_18	9	0	0	9	219	What is a stack and how to construct its element ?
+?	PUNCT	0	9_pert_18	9	0	0	10		What is a stack and how to construct its element ?
+What	PRON	0	9_pert_19	9	0	0	0	221	What is a stack and how to get its element ?
+is	AUX	0	9_pert_19	9	0	0	1	222	What is a stack and how to get its element ?
+a	DET	0	9_pert_19	9	0	0	2	223	What is a stack and how to get its element ?
+stack	NOUN	0	9_pert_19	9	0	0	3	224	What is a stack and how to get its element ?
+and	CCONJ	0	9_pert_19	9	0	0	4	225	What is a stack and how to get its element ?
+how	SCONJ	0	9_pert_19	9	0	0	5	226	What is a stack and how to get its element ?
+to	PART	0	9_pert_19	9	0	0	6	227	What is a stack and how to get its element ?
+get	VERB	0	9_pert_19	9	0	1	7	228	What is a stack and how to get its element ?
+its	PRON	0	9_pert_19	9	0	0	8	229	What is a stack and how to get its element ?
+element	NOUN	0	9_pert_19	9	0	0	9	230	What is a stack and how to get its element ?
+?	PUNCT	0	9_pert_19	9	0	0	10		What is a stack and how to get its element ?

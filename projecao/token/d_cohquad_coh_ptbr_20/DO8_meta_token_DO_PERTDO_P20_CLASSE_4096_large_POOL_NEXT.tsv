@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADP	0	8	8	1	0	0	1	Como desempilhar elementos em uma estrutura de dados pilha ?
+desempilhar	NOUN	1	8	8	1	0	1	2	Como desempilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	8	8	1	0	2	3	Como desempilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	8	8	1	0	3	4	Como desempilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	8	8	1	0	4	5	Como desempilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	8	8	1	1	5	6	Como desempilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	8	8	1	0	6	7	Como desempilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	8	8	1	0	7	8	Como desempilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	8	8	1	0	8	9	Como desempilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	8	8	1	0	9		Como desempilhar elementos em uma estrutura de dados pilha ?
+Como	ADP	0	8_pert_0	8	0	0	0	11	Como desempilhar elementos em uma base de dados pilha ?
+desempilhar	NOUN	1	8_pert_0	8	0	0	1	12	Como desempilhar elementos em uma base de dados pilha ?
+elementos	NOUN	0	8_pert_0	8	0	0	2	13	Como desempilhar elementos em uma base de dados pilha ?
+em	ADP	0	8_pert_0	8	0	0	3	14	Como desempilhar elementos em uma base de dados pilha ?
+uma	DET	0	8_pert_0	8	0	0	4	15	Como desempilhar elementos em uma base de dados pilha ?
+base	NOUN	0	8_pert_0	8	0	1	5	16	Como desempilhar elementos em uma base de dados pilha ?
+de	ADP	0	8_pert_0	8	0	0	6	17	Como desempilhar elementos em uma base de dados pilha ?
+dados	NOUN	0	8_pert_0	8	0	0	7	18	Como desempilhar elementos em uma base de dados pilha ?
+pilha	NOUN	0	8_pert_0	8	0	0	8	19	Como desempilhar elementos em uma base de dados pilha ?
+?	PUNCT	0	8_pert_0	8	0	0	9		Como desempilhar elementos em uma base de dados pilha ?
+Como	ADP	0	8_pert_1	8	0	0	0	21	Como desempilhar elementos em uma estrutura de dados pilha ?
+desempilhar	NOUN	1	8_pert_1	8	0	0	1	22	Como desempilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	8_pert_1	8	0	0	2	23	Como desempilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	8_pert_1	8	0	0	3	24	Como desempilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	8_pert_1	8	0	0	4	25	Como desempilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	8_pert_1	8	0	1	5	26	Como desempilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	8_pert_1	8	0	0	6	27	Como desempilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	8_pert_1	8	0	0	7	28	Como desempilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	8_pert_1	8	0	0	8	29	Como desempilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	8_pert_1	8	0	0	9		Como desempilhar elementos em uma estrutura de dados pilha ?
+Como	ADP	0	8_pert_2	8	0	0	0	31	Como desempilhar elementos em uma árvore de dados pilha ?
+desempilhar	NOUN	1	8_pert_2	8	0	0	1	32	Como desempilhar elementos em uma árvore de dados pilha ?
+elementos	NOUN	0	8_pert_2	8	0	0	2	33	Como desempilhar elementos em uma árvore de dados pilha ?
+em	ADP	0	8_pert_2	8	0	0	3	34	Como desempilhar elementos em uma árvore de dados pilha ?
+uma	DET	0	8_pert_2	8	0	0	4	35	Como desempilhar elementos em uma árvore de dados pilha ?
+árvore	NOUN	0	8_pert_2	8	0	1	5	36	Como desempilhar elementos em uma árvore de dados pilha ?
+de	ADP	0	8_pert_2	8	0	0	6	37	Como desempilhar elementos em uma árvore de dados pilha ?
+dados	NOUN	0	8_pert_2	8	0	0	7	38	Como desempilhar elementos em uma árvore de dados pilha ?
+pilha	NOUN	0	8_pert_2	8	0	0	8	39	Como desempilhar elementos em uma árvore de dados pilha ?
+?	PUNCT	0	8_pert_2	8	0	0	9		Como desempilhar elementos em uma árvore de dados pilha ?
+Como	ADP	0	8_pert_3	8	0	0	0	41	Como desempilhar elementos em uma matriz de dados pilha ?
+desempilhar	NOUN	1	8_pert_3	8	0	0	1	42	Como desempilhar elementos em uma matriz de dados pilha ?
+elementos	NOUN	0	8_pert_3	8	0	0	2	43	Como desempilhar elementos em uma matriz de dados pilha ?
+em	ADP	0	8_pert_3	8	0	0	3	44	Como desempilhar elementos em uma matriz de dados pilha ?
+uma	DET	0	8_pert_3	8	0	0	4	45	Como desempilhar elementos em uma matriz de dados pilha ?
+matriz	NOUN	0	8_pert_3	8	0	1	5	46	Como desempilhar elementos em uma matriz de dados pilha ?
+de	ADP	0	8_pert_3	8	0	0	6	47	Como desempilhar elementos em uma matriz de dados pilha ?
+dados	NOUN	0	8_pert_3	8	0	0	7	48	Como desempilhar elementos em uma matriz de dados pilha ?
+pilha	NOUN	0	8_pert_3	8	0	0	8	49	Como desempilhar elementos em uma matriz de dados pilha ?
+?	PUNCT	0	8_pert_3	8	0	0	9		Como desempilhar elementos em uma matriz de dados pilha ?
+Como	ADP	0	8_pert_4	8	0	0	0	51	Como desempilhar elementos em uma coleção de dados pilha ?
+desempilhar	NOUN	1	8_pert_4	8	0	0	1	52	Como desempilhar elementos em uma coleção de dados pilha ?
+elementos	NOUN	0	8_pert_4	8	0	0	2	53	Como desempilhar elementos em uma coleção de dados pilha ?
+em	ADP	0	8_pert_4	8	0	0	3	54	Como desempilhar elementos em uma coleção de dados pilha ?
+uma	DET	0	8_pert_4	8	0	0	4	55	Como desempilhar elementos em uma coleção de dados pilha ?
+coleção	NOUN	0	8_pert_4	8	0	1	5	56	Como desempilhar elementos em uma coleção de dados pilha ?
+de	ADP	0	8_pert_4	8	0	0	6	57	Como desempilhar elementos em uma coleção de dados pilha ?
+dados	NOUN	0	8_pert_4	8	0	0	7	58	Como desempilhar elementos em uma coleção de dados pilha ?
+pilha	NOUN	0	8_pert_4	8	0	0	8	59	Como desempilhar elementos em uma coleção de dados pilha ?
+?	PUNCT	0	8_pert_4	8	0	0	9		Como desempilhar elementos em uma coleção de dados pilha ?
+Como	ADP	0	8_pert_5	8	0	0	0	61	Como desempilhar elementos em uma biblioteca de dados pilha ?
+desempilhar	NOUN	1	8_pert_5	8	0	0	1	62	Como desempilhar elementos em uma biblioteca de dados pilha ?
+elementos	NOUN	0	8_pert_5	8	0	0	2	63	Como desempilhar elementos em uma biblioteca de dados pilha ?
+em	ADP	0	8_pert_5	8	0	0	3	64	Como desempilhar elementos em uma biblioteca de dados pilha ?
+uma	DET	0	8_pert_5	8	0	0	4	65	Como desempilhar elementos em uma biblioteca de dados pilha ?
+biblioteca	NOUN	0	8_pert_5	8	0	1	5	66	Como desempilhar elementos em uma biblioteca de dados pilha ?
+de	ADP	0	8_pert_5	8	0	0	6	67	Como desempilhar elementos em uma biblioteca de dados pilha ?
+dados	NOUN	0	8_pert_5	8	0	0	7	68	Como desempilhar elementos em uma biblioteca de dados pilha ?
+pilha	NOUN	0	8_pert_5	8	0	0	8	69	Como desempilhar elementos em uma biblioteca de dados pilha ?
+?	PUNCT	0	8_pert_5	8	0	0	9		Como desempilhar elementos em uma biblioteca de dados pilha ?
+Como	ADP	0	8_pert_6	8	0	0	0	71	Como desempilhar elementos em uma entrada de dados pilha ?
+desempilhar	NOUN	1	8_pert_6	8	0	0	1	72	Como desempilhar elementos em uma entrada de dados pilha ?
+elementos	NOUN	0	8_pert_6	8	0	0	2	73	Como desempilhar elementos em uma entrada de dados pilha ?
+em	ADP	0	8_pert_6	8	0	0	3	74	Como desempilhar elementos em uma entrada de dados pilha ?
+uma	DET	0	8_pert_6	8	0	0	4	75	Como desempilhar elementos em uma entrada de dados pilha ?
+entrada	NOUN	0	8_pert_6	8	0	1	5	76	Como desempilhar elementos em uma entrada de dados pilha ?
+de	ADP	0	8_pert_6	8	0	0	6	77	Como desempilhar elementos em uma entrada de dados pilha ?
+dados	NOUN	0	8_pert_6	8	0	0	7	78	Como desempilhar elementos em uma entrada de dados pilha ?
+pilha	NOUN	0	8_pert_6	8	0	0	8	79	Como desempilhar elementos em uma entrada de dados pilha ?
+?	PUNCT	0	8_pert_6	8	0	0	9		Como desempilhar elementos em uma entrada de dados pilha ?
+Como	ADP	0	8_pert_7	8	0	0	0	81	Como desempilhar elementos em uma fonte de dados pilha ?
+desempilhar	NOUN	1	8_pert_7	8	0	0	1	82	Como desempilhar elementos em uma fonte de dados pilha ?
+elementos	NOUN	0	8_pert_7	8	0	0	2	83	Como desempilhar elementos em uma fonte de dados pilha ?
+em	ADP	0	8_pert_7	8	0	0	3	84	Como desempilhar elementos em uma fonte de dados pilha ?
+uma	DET	0	8_pert_7	8	0	0	4	85	Como desempilhar elementos em uma fonte de dados pilha ?
+fonte	NOUN	0	8_pert_7	8	0	1	5	86	Como desempilhar elementos em uma fonte de dados pilha ?
+de	ADP	0	8_pert_7	8	0	0	6	87	Como desempilhar elementos em uma fonte de dados pilha ?
+dados	NOUN	0	8_pert_7	8	0	0	7	88	Como desempilhar elementos em uma fonte de dados pilha ?
+pilha	NOUN	0	8_pert_7	8	0	0	8	89	Como desempilhar elementos em uma fonte de dados pilha ?
+?	PUNCT	0	8_pert_7	8	0	0	9		Como desempilhar elementos em uma fonte de dados pilha ?
+Como	ADP	0	8_pert_8	8	0	0	0	91	Como desempilhar elementos em uma tabela de dados pilha ?
+desempilhar	NOUN	1	8_pert_8	8	0	0	1	92	Como desempilhar elementos em uma tabela de dados pilha ?
+elementos	NOUN	0	8_pert_8	8	0	0	2	93	Como desempilhar elementos em uma tabela de dados pilha ?
+em	ADP	0	8_pert_8	8	0	0	3	94	Como desempilhar elementos em uma tabela de dados pilha ?
+uma	DET	0	8_pert_8	8	0	0	4	95	Como desempilhar elementos em uma tabela de dados pilha ?
+tabela	NOUN	0	8_pert_8	8	0	1	5	96	Como desempilhar elementos em uma tabela de dados pilha ?
+de	ADP	0	8_pert_8	8	0	0	6	97	Como desempilhar elementos em uma tabela de dados pilha ?
+dados	NOUN	0	8_pert_8	8	0	0	7	98	Como desempilhar elementos em uma tabela de dados pilha ?
+pilha	NOUN	0	8_pert_8	8	0	0	8	99	Como desempilhar elementos em uma tabela de dados pilha ?
+?	PUNCT	0	8_pert_8	8	0	0	9		Como desempilhar elementos em uma tabela de dados pilha ?
+Como	ADP	0	8_pert_9	8	0	0	0	101	Como desempilhar elementos em uma malha de dados pilha ?
+desempilhar	NOUN	1	8_pert_9	8	0	0	1	102	Como desempilhar elementos em uma malha de dados pilha ?
+elementos	NOUN	0	8_pert_9	8	0	0	2	103	Como desempilhar elementos em uma malha de dados pilha ?
+em	ADP	0	8_pert_9	8	0	0	3	104	Como desempilhar elementos em uma malha de dados pilha ?
+uma	DET	0	8_pert_9	8	0	0	4	105	Como desempilhar elementos em uma malha de dados pilha ?
+malha	NOUN	0	8_pert_9	8	0	1	5	106	Como desempilhar elementos em uma malha de dados pilha ?
+de	ADP	0	8_pert_9	8	0	0	6	107	Como desempilhar elementos em uma malha de dados pilha ?
+dados	NOUN	0	8_pert_9	8	0	0	7	108	Como desempilhar elementos em uma malha de dados pilha ?
+pilha	NOUN	0	8_pert_9	8	0	0	8	109	Como desempilhar elementos em uma malha de dados pilha ?
+?	PUNCT	0	8_pert_9	8	0	0	9		Como desempilhar elementos em uma malha de dados pilha ?
+Como	ADP	0	8_pert_10	8	0	0	0	111	Como desempilhar elementos em uma mineração de dados pilha ?
+desempilhar	NOUN	1	8_pert_10	8	0	0	1	112	Como desempilhar elementos em uma mineração de dados pilha ?
+elementos	NOUN	0	8_pert_10	8	0	0	2	113	Como desempilhar elementos em uma mineração de dados pilha ?
+em	ADP	0	8_pert_10	8	0	0	3	114	Como desempilhar elementos em uma mineração de dados pilha ?
+uma	DET	0	8_pert_10	8	0	0	4	115	Como desempilhar elementos em uma mineração de dados pilha ?
+mineração	NOUN	0	8_pert_10	8	0	1	5	116	Como desempilhar elementos em uma mineração de dados pilha ?
+de	ADP	0	8_pert_10	8	0	0	6	117	Como desempilhar elementos em uma mineração de dados pilha ?
+dados	NOUN	0	8_pert_10	8	0	0	7	118	Como desempilhar elementos em uma mineração de dados pilha ?
+pilha	NOUN	0	8_pert_10	8	0	0	8	119	Como desempilhar elementos em uma mineração de dados pilha ?
+?	PUNCT	0	8_pert_10	8	0	0	9		Como desempilhar elementos em uma mineração de dados pilha ?
+Como	ADP	0	8_pert_11	8	0	0	0	121	Como desempilhar elementos em uma folha de dados pilha ?
+desempilhar	NOUN	1	8_pert_11	8	0	0	1	122	Como desempilhar elementos em uma folha de dados pilha ?
+elementos	NOUN	0	8_pert_11	8	0	0	2	123	Como desempilhar elementos em uma folha de dados pilha ?
+em	ADP	0	8_pert_11	8	0	0	3	124	Como desempilhar elementos em uma folha de dados pilha ?
+uma	DET	0	8_pert_11	8	0	0	4	125	Como desempilhar elementos em uma folha de dados pilha ?
+folha	NOUN	0	8_pert_11	8	0	1	5	126	Como desempilhar elementos em uma folha de dados pilha ?
+de	ADP	0	8_pert_11	8	0	0	6	127	Como desempilhar elementos em uma folha de dados pilha ?
+dados	NOUN	0	8_pert_11	8	0	0	7	128	Como desempilhar elementos em uma folha de dados pilha ?
+pilha	NOUN	0	8_pert_11	8	0	0	8	129	Como desempilhar elementos em uma folha de dados pilha ?
+?	PUNCT	0	8_pert_11	8	0	0	9		Como desempilhar elementos em uma folha de dados pilha ?
+Como	ADP	0	8_pert_12	8	0	0	0	131	Como desempilhar elementos em uma camada de dados pilha ?
+desempilhar	NOUN	1	8_pert_12	8	0	0	1	132	Como desempilhar elementos em uma camada de dados pilha ?
+elementos	NOUN	0	8_pert_12	8	0	0	2	133	Como desempilhar elementos em uma camada de dados pilha ?
+em	ADP	0	8_pert_12	8	0	0	3	134	Como desempilhar elementos em uma camada de dados pilha ?
+uma	DET	0	8_pert_12	8	0	0	4	135	Como desempilhar elementos em uma camada de dados pilha ?
+camada	NOUN	0	8_pert_12	8	0	1	5	136	Como desempilhar elementos em uma camada de dados pilha ?
+de	ADP	0	8_pert_12	8	0	0	6	137	Como desempilhar elementos em uma camada de dados pilha ?
+dados	NOUN	0	8_pert_12	8	0	0	7	138	Como desempilhar elementos em uma camada de dados pilha ?
+pilha	NOUN	0	8_pert_12	8	0	0	8	139	Como desempilhar elementos em uma camada de dados pilha ?
+?	PUNCT	0	8_pert_12	8	0	0	9		Como desempilhar elementos em uma camada de dados pilha ?
+Como	ADP	0	8_pert_13	8	0	0	0	141	Como desempilhar elementos em uma arquitetura de dados pilha ?
+desempilhar	NOUN	1	8_pert_13	8	0	0	1	142	Como desempilhar elementos em uma arquitetura de dados pilha ?
+elementos	NOUN	0	8_pert_13	8	0	0	2	143	Como desempilhar elementos em uma arquitetura de dados pilha ?
+em	ADP	0	8_pert_13	8	0	0	3	144	Como desempilhar elementos em uma arquitetura de dados pilha ?
+uma	DET	0	8_pert_13	8	0	0	4	145	Como desempilhar elementos em uma arquitetura de dados pilha ?
+arquitetura	NOUN	0	8_pert_13	8	0	1	5	146	Como desempilhar elementos em uma arquitetura de dados pilha ?
+de	ADP	0	8_pert_13	8	0	0	6	147	Como desempilhar elementos em uma arquitetura de dados pilha ?
+dados	NOUN	0	8_pert_13	8	0	0	7	148	Como desempilhar elementos em uma arquitetura de dados pilha ?
+pilha	NOUN	0	8_pert_13	8	0	0	8	149	Como desempilhar elementos em uma arquitetura de dados pilha ?
+?	PUNCT	0	8_pert_13	8	0	0	9		Como desempilhar elementos em uma arquitetura de dados pilha ?
+Como	ADP	0	8_pert_14	8	0	0	0	151	Como desempilhar elementos em uma memória de dados pilha ?
+desempilhar	NOUN	1	8_pert_14	8	0	0	1	152	Como desempilhar elementos em uma memória de dados pilha ?
+elementos	NOUN	0	8_pert_14	8	0	0	2	153	Como desempilhar elementos em uma memória de dados pilha ?
+em	ADP	0	8_pert_14	8	0	0	3	154	Como desempilhar elementos em uma memória de dados pilha ?
+uma	DET	0	8_pert_14	8	0	0	4	155	Como desempilhar elementos em uma memória de dados pilha ?
+memória	NOUN	0	8_pert_14	8	0	1	5	156	Como desempilhar elementos em uma memória de dados pilha ?
+de	ADP	0	8_pert_14	8	0	0	6	157	Como desempilhar elementos em uma memória de dados pilha ?
+dados	NOUN	0	8_pert_14	8	0	0	7	158	Como desempilhar elementos em uma memória de dados pilha ?
+pilha	NOUN	0	8_pert_14	8	0	0	8	159	Como desempilhar elementos em uma memória de dados pilha ?
+?	PUNCT	0	8_pert_14	8	0	0	9		Como desempilhar elementos em uma memória de dados pilha ?
+Como	ADP	0	8_pert_15	8	0	0	0	161	Como desempilhar elementos em uma representação de dados pilha ?
+desempilhar	NOUN	1	8_pert_15	8	0	0	1	162	Como desempilhar elementos em uma representação de dados pilha ?
+elementos	NOUN	0	8_pert_15	8	0	0	2	163	Como desempilhar elementos em uma representação de dados pilha ?
+em	ADP	0	8_pert_15	8	0	0	3	164	Como desempilhar elementos em uma representação de dados pilha ?
+uma	DET	0	8_pert_15	8	0	0	4	165	Como desempilhar elementos em uma representação de dados pilha ?
+representação	NOUN	0	8_pert_15	8	0	1	5	166	Como desempilhar elementos em uma representação de dados pilha ?
+de	ADP	0	8_pert_15	8	0	0	6	167	Como desempilhar elementos em uma representação de dados pilha ?
+dados	NOUN	0	8_pert_15	8	0	0	7	168	Como desempilhar elementos em uma representação de dados pilha ?
+pilha	NOUN	0	8_pert_15	8	0	0	8	169	Como desempilhar elementos em uma representação de dados pilha ?
+?	PUNCT	0	8_pert_15	8	0	0	9		Como desempilhar elementos em uma representação de dados pilha ?
+Como	ADP	0	8_pert_16	8	0	0	0	171	Como desempilhar elementos em uma banco de dados pilha ?
+desempilhar	NOUN	1	8_pert_16	8	0	0	1	172	Como desempilhar elementos em uma banco de dados pilha ?
+elementos	NOUN	0	8_pert_16	8	0	0	2	173	Como desempilhar elementos em uma banco de dados pilha ?
+em	ADP	0	8_pert_16	8	0	0	3	174	Como desempilhar elementos em uma banco de dados pilha ?
+uma	DET	0	8_pert_16	8	0	0	4	175	Como desempilhar elementos em uma banco de dados pilha ?
+banco	NOUN	0	8_pert_16	8	0	1	5	176	Como desempilhar elementos em uma banco de dados pilha ?
+de	ADP	0	8_pert_16	8	0	0	6	177	Como desempilhar elementos em uma banco de dados pilha ?
+dados	NOUN	0	8_pert_16	8	0	0	7	178	Como desempilhar elementos em uma banco de dados pilha ?
+pilha	NOUN	0	8_pert_16	8	0	0	8	179	Como desempilhar elementos em uma banco de dados pilha ?
+?	PUNCT	0	8_pert_16	8	0	0	9		Como desempilhar elementos em uma banco de dados pilha ?
+Como	ADP	0	8_pert_17	8	0	0	0	181	Como desempilhar elementos em uma pilha de dados pilha ?
+desempilhar	NOUN	1	8_pert_17	8	0	0	1	182	Como desempilhar elementos em uma pilha de dados pilha ?
+elementos	NOUN	0	8_pert_17	8	0	0	2	183	Como desempilhar elementos em uma pilha de dados pilha ?
+em	ADP	0	8_pert_17	8	0	0	3	184	Como desempilhar elementos em uma pilha de dados pilha ?
+uma	DET	0	8_pert_17	8	0	0	4	185	Como desempilhar elementos em uma pilha de dados pilha ?
+pilha	NOUN	0	8_pert_17	8	0	0	5	186	Como desempilhar elementos em uma pilha de dados pilha ?
+de	ADP	0	8_pert_17	8	0	0	6	187	Como desempilhar elementos em uma pilha de dados pilha ?
+dados	NOUN	0	8_pert_17	8	0	0	7	188	Como desempilhar elementos em uma pilha de dados pilha ?
+pilha	NOUN	0	8_pert_17	8	0	0	8	189	Como desempilhar elementos em uma pilha de dados pilha ?
+?	PUNCT	0	8_pert_17	8	0	0	9		Como desempilhar elementos em uma pilha de dados pilha ?
+Como	ADP	0	8_pert_18	8	0	0	0	191	Como desempilhar elementos em uma análise de dados pilha ?
+desempilhar	NOUN	1	8_pert_18	8	0	0	1	192	Como desempilhar elementos em uma análise de dados pilha ?
+elementos	NOUN	0	8_pert_18	8	0	0	2	193	Como desempilhar elementos em uma análise de dados pilha ?
+em	ADP	0	8_pert_18	8	0	0	3	194	Como desempilhar elementos em uma análise de dados pilha ?
+uma	DET	0	8_pert_18	8	0	0	4	195	Como desempilhar elementos em uma análise de dados pilha ?
+análise	NOUN	0	8_pert_18	8	0	1	5	196	Como desempilhar elementos em uma análise de dados pilha ?
+de	ADP	0	8_pert_18	8	0	0	6	197	Como desempilhar elementos em uma análise de dados pilha ?
+dados	NOUN	0	8_pert_18	8	0	0	7	198	Como desempilhar elementos em uma análise de dados pilha ?
+pilha	NOUN	0	8_pert_18	8	0	0	8	199	Como desempilhar elementos em uma análise de dados pilha ?
+?	PUNCT	0	8_pert_18	8	0	0	9		Como desempilhar elementos em uma análise de dados pilha ?
+Como	ADP	0	8_pert_19	8	0	0	0	201	Como desempilhar elementos em uma área de dados pilha ?
+desempilhar	NOUN	1	8_pert_19	8	0	0	1	202	Como desempilhar elementos em uma área de dados pilha ?
+elementos	NOUN	0	8_pert_19	8	0	0	2	203	Como desempilhar elementos em uma área de dados pilha ?
+em	ADP	0	8_pert_19	8	0	0	3	204	Como desempilhar elementos em uma área de dados pilha ?
+uma	DET	0	8_pert_19	8	0	0	4	205	Como desempilhar elementos em uma área de dados pilha ?
+área	NOUN	0	8_pert_19	8	0	1	5	206	Como desempilhar elementos em uma área de dados pilha ?
+de	ADP	0	8_pert_19	8	0	0	6	207	Como desempilhar elementos em uma área de dados pilha ?
+dados	NOUN	0	8_pert_19	8	0	0	7	208	Como desempilhar elementos em uma área de dados pilha ?
+pilha	NOUN	0	8_pert_19	8	0	0	8	209	Como desempilhar elementos em uma área de dados pilha ?
+?	PUNCT	0	8_pert_19	8	0	0	9		Como desempilhar elementos em uma área de dados pilha ?

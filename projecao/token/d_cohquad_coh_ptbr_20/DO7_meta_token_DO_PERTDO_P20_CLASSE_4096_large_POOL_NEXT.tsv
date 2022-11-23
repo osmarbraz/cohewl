@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADP	0	7	7	1	0	0	1	Como desempilhar elementos em uma pilha ?
+desempilhar	NOUN	1	7	7	1	1	1	2	Como desempilhar elementos em uma pilha ?
+elementos	NOUN	0	7	7	1	0	2	3	Como desempilhar elementos em uma pilha ?
+em	ADP	0	7	7	1	0	3	4	Como desempilhar elementos em uma pilha ?
+uma	DET	0	7	7	1	0	4	5	Como desempilhar elementos em uma pilha ?
+pilha	NOUN	0	7	7	1	0	5	6	Como desempilhar elementos em uma pilha ?
+?	PUNCT	0	7	7	1	0	6		Como desempilhar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_0	7	0	0	0	8	Como colocar elementos em uma pilha ?
+colocar	VERB	0	7_pert_0	7	0	1	1	9	Como colocar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_0	7	0	0	2	10	Como colocar elementos em uma pilha ?
+em	ADP	0	7_pert_0	7	0	0	3	11	Como colocar elementos em uma pilha ?
+uma	DET	0	7_pert_0	7	0	0	4	12	Como colocar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_0	7	0	0	5	13	Como colocar elementos em uma pilha ?
+?	PUNCT	0	7_pert_0	7	0	0	6		Como colocar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_1	7	0	0	0	15	Como adicionar elementos em uma pilha ?
+adicionar	VERB	0	7_pert_1	7	0	1	1	16	Como adicionar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_1	7	0	0	2	17	Como adicionar elementos em uma pilha ?
+em	ADP	0	7_pert_1	7	0	0	3	18	Como adicionar elementos em uma pilha ?
+uma	DET	0	7_pert_1	7	0	0	4	19	Como adicionar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_1	7	0	0	5	20	Como adicionar elementos em uma pilha ?
+?	PUNCT	0	7_pert_1	7	0	0	6		Como adicionar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_2	7	0	0	0	22	Como organizar elementos em uma pilha ?
+organizar	VERB	0	7_pert_2	7	0	1	1	23	Como organizar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_2	7	0	0	2	24	Como organizar elementos em uma pilha ?
+em	ADP	0	7_pert_2	7	0	0	3	25	Como organizar elementos em uma pilha ?
+uma	DET	0	7_pert_2	7	0	0	4	26	Como organizar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_2	7	0	0	5	27	Como organizar elementos em uma pilha ?
+?	PUNCT	0	7_pert_2	7	0	0	6		Como organizar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_3	7	0	0	0	29	Como identificar elementos em uma pilha ?
+identificar	VERB	0	7_pert_3	7	0	1	1	30	Como identificar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_3	7	0	0	2	31	Como identificar elementos em uma pilha ?
+em	ADP	0	7_pert_3	7	0	0	3	32	Como identificar elementos em uma pilha ?
+uma	DET	0	7_pert_3	7	0	0	4	33	Como identificar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_3	7	0	0	5	34	Como identificar elementos em uma pilha ?
+?	PUNCT	0	7_pert_3	7	0	0	6		Como identificar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_4	7	0	0	0	36	Como encontrar elementos em uma pilha ?
+encontrar	VERB	0	7_pert_4	7	0	1	1	37	Como encontrar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_4	7	0	0	2	38	Como encontrar elementos em uma pilha ?
+em	ADP	0	7_pert_4	7	0	0	3	39	Como encontrar elementos em uma pilha ?
+uma	DET	0	7_pert_4	7	0	0	4	40	Como encontrar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_4	7	0	0	5	41	Como encontrar elementos em uma pilha ?
+?	PUNCT	0	7_pert_4	7	0	0	6		Como encontrar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_5	7	0	0	0	43	Como localizar elementos em uma pilha ?
+localizar	VERB	0	7_pert_5	7	0	1	1	44	Como localizar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_5	7	0	0	2	45	Como localizar elementos em uma pilha ?
+em	ADP	0	7_pert_5	7	0	0	3	46	Como localizar elementos em uma pilha ?
+uma	DET	0	7_pert_5	7	0	0	4	47	Como localizar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_5	7	0	0	5	48	Como localizar elementos em uma pilha ?
+?	PUNCT	0	7_pert_5	7	0	0	6		Como localizar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_6	7	0	0	0	50	Como ligar elementos em uma pilha ?
+ligar	VERB	0	7_pert_6	7	0	1	1	51	Como ligar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_6	7	0	0	2	52	Como ligar elementos em uma pilha ?
+em	ADP	0	7_pert_6	7	0	0	3	53	Como ligar elementos em uma pilha ?
+uma	DET	0	7_pert_6	7	0	0	4	54	Como ligar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_6	7	0	0	5	55	Como ligar elementos em uma pilha ?
+?	PUNCT	0	7_pert_6	7	0	0	6		Como ligar elementos em uma pilha ?
+Como	ADV	0	7_pert_7	7	0	0	0	57	Como separar elementos em uma pilha ?
+separar	VERB	0	7_pert_7	7	0	1	1	58	Como separar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_7	7	0	0	2	59	Como separar elementos em uma pilha ?
+em	ADP	0	7_pert_7	7	0	0	3	60	Como separar elementos em uma pilha ?
+uma	DET	0	7_pert_7	7	0	0	4	61	Como separar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_7	7	0	0	5	62	Como separar elementos em uma pilha ?
+?	PUNCT	0	7_pert_7	7	0	0	6		Como separar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_8	7	0	0	0	64	Como obter elementos em uma pilha ?
+obter	VERB	0	7_pert_8	7	0	1	1	65	Como obter elementos em uma pilha ?
+elementos	NOUN	0	7_pert_8	7	0	0	2	66	Como obter elementos em uma pilha ?
+em	ADP	0	7_pert_8	7	0	0	3	67	Como obter elementos em uma pilha ?
+uma	DET	0	7_pert_8	7	0	0	4	68	Como obter elementos em uma pilha ?
+pilha	NOUN	0	7_pert_8	7	0	0	5	69	Como obter elementos em uma pilha ?
+?	PUNCT	0	7_pert_8	7	0	0	6		Como obter elementos em uma pilha ?
+Como	SCONJ	0	7_pert_9	7	0	0	0	71	Como introduzir elementos em uma pilha ?
+introduzir	VERB	0	7_pert_9	7	0	1	1	72	Como introduzir elementos em uma pilha ?
+elementos	NOUN	0	7_pert_9	7	0	0	2	73	Como introduzir elementos em uma pilha ?
+em	ADP	0	7_pert_9	7	0	0	3	74	Como introduzir elementos em uma pilha ?
+uma	DET	0	7_pert_9	7	0	0	4	75	Como introduzir elementos em uma pilha ?
+pilha	NOUN	0	7_pert_9	7	0	0	5	76	Como introduzir elementos em uma pilha ?
+?	PUNCT	0	7_pert_9	7	0	0	6		Como introduzir elementos em uma pilha ?
+Como	SCONJ	0	7_pert_10	7	0	0	0	78	Como incluir elementos em uma pilha ?
+incluir	VERB	0	7_pert_10	7	0	1	1	79	Como incluir elementos em uma pilha ?
+elementos	NOUN	0	7_pert_10	7	0	0	2	80	Como incluir elementos em uma pilha ?
+em	ADP	0	7_pert_10	7	0	0	3	81	Como incluir elementos em uma pilha ?
+uma	DET	0	7_pert_10	7	0	0	4	82	Como incluir elementos em uma pilha ?
+pilha	NOUN	0	7_pert_10	7	0	0	5	83	Como incluir elementos em uma pilha ?
+?	PUNCT	0	7_pert_10	7	0	0	6		Como incluir elementos em uma pilha ?
+Como	SCONJ	0	7_pert_11	7	0	0	0	85	Como juntar elementos em uma pilha ?
+juntar	VERB	0	7_pert_11	7	0	1	1	86	Como juntar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_11	7	0	0	2	87	Como juntar elementos em uma pilha ?
+em	ADP	0	7_pert_11	7	0	0	3	88	Como juntar elementos em uma pilha ?
+uma	DET	0	7_pert_11	7	0	0	4	89	Como juntar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_11	7	0	0	5	90	Como juntar elementos em uma pilha ?
+?	PUNCT	0	7_pert_11	7	0	0	6		Como juntar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_12	7	0	0	0	92	Como procurar elementos em uma pilha ?
+procurar	VERB	0	7_pert_12	7	0	1	1	93	Como procurar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_12	7	0	0	2	94	Como procurar elementos em uma pilha ?
+em	ADP	0	7_pert_12	7	0	0	3	95	Como procurar elementos em uma pilha ?
+uma	DET	0	7_pert_12	7	0	0	4	96	Como procurar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_12	7	0	0	5	97	Como procurar elementos em uma pilha ?
+?	PUNCT	0	7_pert_12	7	0	0	6		Como procurar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_13	7	0	0	0	99	Como reconhecer elementos em uma pilha ?
+reconhecer	VERB	0	7_pert_13	7	0	1	1	100	Como reconhecer elementos em uma pilha ?
+elementos	NOUN	0	7_pert_13	7	0	0	2	101	Como reconhecer elementos em uma pilha ?
+em	ADP	0	7_pert_13	7	0	0	3	102	Como reconhecer elementos em uma pilha ?
+uma	DET	0	7_pert_13	7	0	0	4	103	Como reconhecer elementos em uma pilha ?
+pilha	NOUN	0	7_pert_13	7	0	0	5	104	Como reconhecer elementos em uma pilha ?
+?	PUNCT	0	7_pert_13	7	0	0	6		Como reconhecer elementos em uma pilha ?
+Como	SCONJ	0	7_pert_14	7	0	0	0	106	Como reunir elementos em uma pilha ?
+reunir	VERB	0	7_pert_14	7	0	1	1	107	Como reunir elementos em uma pilha ?
+elementos	NOUN	0	7_pert_14	7	0	0	2	108	Como reunir elementos em uma pilha ?
+em	ADP	0	7_pert_14	7	0	0	3	109	Como reunir elementos em uma pilha ?
+uma	DET	0	7_pert_14	7	0	0	4	110	Como reunir elementos em uma pilha ?
+pilha	NOUN	0	7_pert_14	7	0	0	5	111	Como reunir elementos em uma pilha ?
+?	PUNCT	0	7_pert_14	7	0	0	6		Como reunir elementos em uma pilha ?
+Como	SCONJ	0	7_pert_15	7	0	0	0	113	Como achar elementos em uma pilha ?
+achar	VERB	0	7_pert_15	7	0	1	1	114	Como achar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_15	7	0	0	2	115	Como achar elementos em uma pilha ?
+em	ADP	0	7_pert_15	7	0	0	3	116	Como achar elementos em uma pilha ?
+uma	DET	0	7_pert_15	7	0	0	4	117	Como achar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_15	7	0	0	5	118	Como achar elementos em uma pilha ?
+?	PUNCT	0	7_pert_15	7	0	0	6		Como achar elementos em uma pilha ?
+Como	ADV	0	7_pert_16	7	0	0	0	120	Como descobrir elementos em uma pilha ?
+descobrir	VERB	0	7_pert_16	7	0	1	1	121	Como descobrir elementos em uma pilha ?
+elementos	NOUN	0	7_pert_16	7	0	0	2	122	Como descobrir elementos em uma pilha ?
+em	ADP	0	7_pert_16	7	0	0	3	123	Como descobrir elementos em uma pilha ?
+uma	DET	0	7_pert_16	7	0	0	4	124	Como descobrir elementos em uma pilha ?
+pilha	NOUN	0	7_pert_16	7	0	0	5	125	Como descobrir elementos em uma pilha ?
+?	PUNCT	0	7_pert_16	7	0	0	6		Como descobrir elementos em uma pilha ?
+Como	ADV	0	7_pert_17	7	0	0	0	127	Como transformar elementos em uma pilha ?
+transformar	VERB	0	7_pert_17	7	0	1	1	128	Como transformar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_17	7	0	0	2	129	Como transformar elementos em uma pilha ?
+em	ADP	0	7_pert_17	7	0	0	3	130	Como transformar elementos em uma pilha ?
+uma	DET	0	7_pert_17	7	0	0	4	131	Como transformar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_17	7	0	0	5	132	Como transformar elementos em uma pilha ?
+?	PUNCT	0	7_pert_17	7	0	0	6		Como transformar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_18	7	0	0	0	134	Como classificar elementos em uma pilha ?
+classificar	VERB	0	7_pert_18	7	0	1	1	135	Como classificar elementos em uma pilha ?
+elementos	NOUN	0	7_pert_18	7	0	0	2	136	Como classificar elementos em uma pilha ?
+em	ADP	0	7_pert_18	7	0	0	3	137	Como classificar elementos em uma pilha ?
+uma	DET	0	7_pert_18	7	0	0	4	138	Como classificar elementos em uma pilha ?
+pilha	NOUN	0	7_pert_18	7	0	0	5	139	Como classificar elementos em uma pilha ?
+?	PUNCT	0	7_pert_18	7	0	0	6		Como classificar elementos em uma pilha ?
+Como	SCONJ	0	7_pert_19	7	0	0	0	141	Como escrever elementos em uma pilha ?
+escrever	VERB	0	7_pert_19	7	0	1	1	142	Como escrever elementos em uma pilha ?
+elementos	NOUN	0	7_pert_19	7	0	0	2	143	Como escrever elementos em uma pilha ?
+em	ADP	0	7_pert_19	7	0	0	3	144	Como escrever elementos em uma pilha ?
+uma	DET	0	7_pert_19	7	0	0	4	145	Como escrever elementos em uma pilha ?
+pilha	NOUN	0	7_pert_19	7	0	0	5	146	Como escrever elementos em uma pilha ?
+?	PUNCT	0	7_pert_19	7	0	0	6		Como escrever elementos em uma pilha ?

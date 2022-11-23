@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	0	1	0	1	How are the bit bytes transmitted ?
+are	AUX	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	1	2	0	1	How are the bit bytes transmitted ?
+the	DET	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	2	3	0	1	How are the bit bytes transmitted ?
+bit	NOUN	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	3	4	0	1	How are the bit bytes transmitted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	4	5	0	1	How are the bit bytes transmitted ?
+transmitted	VERB	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	1	5	6	0	1	How are the bit bytes transmitted ?
+?	PUNCT	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	6	7	0	1	How are the bit bytes transmitted ?
+How are the bit bytes transmitted ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	-1	-1		1	3	How are the bit bytes transmitted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	0	9	0	0	How are the bit bytes represented ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	1	10	0	0	How are the bit bytes represented ?
+the	DET	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	2	11	0	0	How are the bit bytes represented ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	3	12	0	0	How are the bit bytes represented ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	4	13	0	0	How are the bit bytes represented ?
+represented	VERB	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	1	5	14	0	0	How are the bit bytes represented ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	6	15	0	0	How are the bit bytes represented ?
+How are the bit bytes represented ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes represented ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	0	17	0	0	How are the bit bytes allocated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	1	18	0	0	How are the bit bytes allocated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	2	19	0	0	How are the bit bytes allocated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	3	20	0	0	How are the bit bytes allocated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	4	21	0	0	How are the bit bytes allocated ?
+allocated	VERB	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	1	5	22	0	0	How are the bit bytes allocated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	6	23	0	0	How are the bit bytes allocated ?
+How are the bit bytes allocated ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes allocated ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	0	25	0	0	How are the bit bytes encoded ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	1	26	0	0	How are the bit bytes encoded ?
+the	DET	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	2	27	0	0	How are the bit bytes encoded ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	3	28	0	0	How are the bit bytes encoded ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	4	29	0	0	How are the bit bytes encoded ?
+encoded	VERB	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	1	5	30	0	0	How are the bit bytes encoded ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	6	31	0	0	How are the bit bytes encoded ?
+How are the bit bytes encoded ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes encoded ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	0	33	0	0	How are the bit bytes calculated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	1	34	0	0	How are the bit bytes calculated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	2	35	0	0	How are the bit bytes calculated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	3	36	0	0	How are the bit bytes calculated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	4	37	0	0	How are the bit bytes calculated ?
+calculated	VERB	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	1	5	38	0	0	How are the bit bytes calculated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	6	39	0	0	How are the bit bytes calculated ?
+How are the bit bytes calculated ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes calculated ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	0	41	0	0	How are the bit bytes used ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	1	42	0	0	How are the bit bytes used ?
+the	DET	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	2	43	0	0	How are the bit bytes used ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	3	44	0	0	How are the bit bytes used ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	4	45	0	0	How are the bit bytes used ?
+used	VERB	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	1	5	46	0	0	How are the bit bytes used ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	6	47	0	0	How are the bit bytes used ?
+How are the bit bytes used ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes used ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	0	49	0	0	How are the bit bytes stored ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	1	50	0	0	How are the bit bytes stored ?
+the	DET	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	2	51	0	0	How are the bit bytes stored ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	3	52	0	0	How are the bit bytes stored ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	4	53	0	0	How are the bit bytes stored ?
+stored	VERB	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	1	5	54	0	0	How are the bit bytes stored ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	6	55	0	0	How are the bit bytes stored ?
+How are the bit bytes stored ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes stored ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	0	57	0	0	How are the bit bytes working ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	1	58	0	0	How are the bit bytes working ?
+the	DET	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	2	59	0	0	How are the bit bytes working ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	3	60	0	0	How are the bit bytes working ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	4	61	0	0	How are the bit bytes working ?
+working	VERB	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	1	5	62	0	0	How are the bit bytes working ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	6	63	0	0	How are the bit bytes working ?
+How are the bit bytes working ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes working ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	0	65	0	0	How are the bit bytes defined ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	1	66	0	0	How are the bit bytes defined ?
+the	DET	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	2	67	0	0	How are the bit bytes defined ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	3	68	0	0	How are the bit bytes defined ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	4	69	0	0	How are the bit bytes defined ?
+defined	VERB	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	1	5	70	0	0	How are the bit bytes defined ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	6	71	0	0	How are the bit bytes defined ?
+How are the bit bytes defined ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes defined ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	0	73	0	0	How are the bit bytes distributed ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	1	74	0	0	How are the bit bytes distributed ?
+the	DET	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	2	75	0	0	How are the bit bytes distributed ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	3	76	0	0	How are the bit bytes distributed ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	4	77	0	0	How are the bit bytes distributed ?
+distributed	VERB	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	1	5	78	0	0	How are the bit bytes distributed ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	6	79	0	0	How are the bit bytes distributed ?
+How are the bit bytes distributed ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes distributed ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	0	81	0	0	How are the bit bytes connected ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	1	82	0	0	How are the bit bytes connected ?
+the	DET	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	2	83	0	0	How are the bit bytes connected ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	3	84	0	0	How are the bit bytes connected ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	4	85	0	0	How are the bit bytes connected ?
+connected	VERB	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	1	5	86	0	0	How are the bit bytes connected ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	6	87	0	0	How are the bit bytes connected ?
+How are the bit bytes connected ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes connected ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	0	89	0	0	How are the bit bytes measured ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	1	90	0	0	How are the bit bytes measured ?
+the	DET	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	2	91	0	0	How are the bit bytes measured ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	3	92	0	0	How are the bit bytes measured ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	4	93	0	0	How are the bit bytes measured ?
+measured	VERB	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	1	5	94	0	0	How are the bit bytes measured ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	6	95	0	0	How are the bit bytes measured ?
+How are the bit bytes measured ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes measured ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	0	97	0	0	How are the bit bytes available ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	1	98	0	0	How are the bit bytes available ?
+the	DET	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	2	99	0	0	How are the bit bytes available ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	3	100	0	0	How are the bit bytes available ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	4	101	0	0	How are the bit bytes available ?
+available	ADJ	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	1	5	102	0	0	How are the bit bytes available ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	6	103	0	0	How are the bit bytes available ?
+How are the bit bytes available ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes available ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	0	105	0	0	How are the bit bytes interpreted ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	1	106	0	0	How are the bit bytes interpreted ?
+the	DET	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	2	107	0	0	How are the bit bytes interpreted ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	3	108	0	0	How are the bit bytes interpreted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	4	109	0	0	How are the bit bytes interpreted ?
+interpreted	VERB	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	1	5	110	0	0	How are the bit bytes interpreted ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	6	111	0	0	How are the bit bytes interpreted ?
+How are the bit bytes interpreted ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes interpreted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	0	113	0	0	How are the bit bytes sorted ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	1	114	0	0	How are the bit bytes sorted ?
+the	DET	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	2	115	0	0	How are the bit bytes sorted ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	3	116	0	0	How are the bit bytes sorted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	4	117	0	0	How are the bit bytes sorted ?
+sorted	VERB	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	1	5	118	0	0	How are the bit bytes sorted ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	6	119	0	0	How are the bit bytes sorted ?
+How are the bit bytes sorted ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes sorted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	0	121	0	0	How are the bit bytes handled ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	1	122	0	0	How are the bit bytes handled ?
+the	DET	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	2	123	0	0	How are the bit bytes handled ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	3	124	0	0	How are the bit bytes handled ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	4	125	0	0	How are the bit bytes handled ?
+handled	VERB	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	1	5	126	0	0	How are the bit bytes handled ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	6	127	0	0	How are the bit bytes handled ?
+How are the bit bytes handled ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes handled ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	0	129	0	0	How are the bit bytes coded ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	1	130	0	0	How are the bit bytes coded ?
+the	DET	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	2	131	0	0	How are the bit bytes coded ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	3	132	0	0	How are the bit bytes coded ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	4	133	0	0	How are the bit bytes coded ?
+coded	VERB	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	1	5	134	0	0	How are the bit bytes coded ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	6	135	0	0	How are the bit bytes coded ?
+How are the bit bytes coded ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes coded ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	0	137	0	0	How are the bit bytes changed ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	1	138	0	0	How are the bit bytes changed ?
+the	DET	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	2	139	0	0	How are the bit bytes changed ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	3	140	0	0	How are the bit bytes changed ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	4	141	0	0	How are the bit bytes changed ?
+changed	VERB	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	1	5	142	0	0	How are the bit bytes changed ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	6	143	0	0	How are the bit bytes changed ?
+How are the bit bytes changed ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes changed ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	0	145	0	0	How are the bit bytes written ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	1	146	0	0	How are the bit bytes written ?
+the	DET	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	2	147	0	0	How are the bit bytes written ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	3	148	0	0	How are the bit bytes written ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	4	149	0	0	How are the bit bytes written ?
+written	VERB	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	1	5	150	0	0	How are the bit bytes written ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	6	151	0	0	How are the bit bytes written ?
+How are the bit bytes written ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes written ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	0	153	0	0	How are the bit bytes related ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	1	154	0	0	How are the bit bytes related ?
+the	DET	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	2	155	0	0	How are the bit bytes related ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	3	156	0	0	How are the bit bytes related ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	4	157	0	0	How are the bit bytes related ?
+related	VERB	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	1	5	158	0	0	How are the bit bytes related ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	6	159	0	0	How are the bit bytes related ?
+How are the bit bytes related ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes related ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	0	161	0	0	How are the bit bytes generated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	1	162	0	0	How are the bit bytes generated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	2	163	0	0	How are the bit bytes generated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	3	164	0	0	How are the bit bytes generated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	4	165	0	0	How are the bit bytes generated ?
+generated	VERB	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	1	5	166	0	0	How are the bit bytes generated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	6	167	0	0	How are the bit bytes generated ?
+How are the bit bytes generated ?	['SCONJ', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0]	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	-1	-1		1	2	How are the bit bytes generated ?

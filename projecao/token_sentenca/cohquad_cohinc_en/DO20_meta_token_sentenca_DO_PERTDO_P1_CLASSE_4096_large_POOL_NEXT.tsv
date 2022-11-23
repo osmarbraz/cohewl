@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+In	ADP	0	20	20	1	0	0	1	0	1	In a queue does the enqueue operation occur at which end ?
+a	DET	0	20	20	1	0	1	2	0	1	In a queue does the enqueue operation occur at which end ?
+queue	NOUN	1	20	20	1	0	2	3	0	1	In a queue does the enqueue operation occur at which end ?
+does	AUX	0	20	20	1	0	3	4	0	1	In a queue does the enqueue operation occur at which end ?
+the	DET	0	20	20	1	0	4	5	0	1	In a queue does the enqueue operation occur at which end ?
+enqueue	NOUN	1	20	20	1	1	5	6	0	1	In a queue does the enqueue operation occur at which end ?
+operation	NOUN	0	20	20	1	0	6	7	0	1	In a queue does the enqueue operation occur at which end ?
+occur	VERB	0	20	20	1	0	7	8	0	1	In a queue does the enqueue operation occur at which end ?
+at	ADP	0	20	20	1	0	8	9	0	1	In a queue does the enqueue operation occur at which end ?
+which	DET	0	20	20	1	0	9	10	0	1	In a queue does the enqueue operation occur at which end ?
+end	NOUN	0	20	20	1	0	10	11	0	1	In a queue does the enqueue operation occur at which end ?
+?	PUNCT	0	20	20	1	0	11	12	0	1	In a queue does the enqueue operation occur at which end ?
+0	['ADP', 'DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]	20	20	1	-1	-1		1	3	In a queue does the enqueue operation occur at which end ?
+In	ADP	0	20_pert_0	20	0	0	0	14	0	0	In a queue does the push operation occur at which end ?
+a	DET	0	20_pert_0	20	0	0	1	15	0	0	In a queue does the push operation occur at which end ?
+queue	NOUN	1	20_pert_0	20	0	0	2	16	0	0	In a queue does the push operation occur at which end ?
+does	AUX	0	20_pert_0	20	0	0	3	17	0	0	In a queue does the push operation occur at which end ?
+the	DET	0	20_pert_0	20	0	0	4	18	0	0	In a queue does the push operation occur at which end ?
+push	NOUN	0	20_pert_0	20	0	1	5	19	0	0	In a queue does the push operation occur at which end ?
+operation	NOUN	0	20_pert_0	20	0	0	6	20	0	0	In a queue does the push operation occur at which end ?
+occur	VERB	0	20_pert_0	20	0	0	7	21	0	0	In a queue does the push operation occur at which end ?
+at	ADP	0	20_pert_0	20	0	0	8	22	0	0	In a queue does the push operation occur at which end ?
+which	DET	0	20_pert_0	20	0	0	9	23	0	0	In a queue does the push operation occur at which end ?
+end	NOUN	0	20_pert_0	20	0	0	10	24	0	0	In a queue does the push operation occur at which end ?
+?	PUNCT	0	20_pert_0	20	0	0	11	25	0	0	In a queue does the push operation occur at which end ?
+1	['ADP', 'DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]	20_pert_0	20	0	-1	-1		1	2	In a queue does the push operation occur at which end ?

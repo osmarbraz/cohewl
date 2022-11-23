@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+What	PRON	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	0	0	1	What was the Act of Mediation responsible for restoring ?
+was	AUX	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	1	0	1	What was the Act of Mediation responsible for restoring ?
+the	DET	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	2	0	1	What was the Act of Mediation responsible for restoring ?
+Act	PROPN	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	3	0	1	What was the Act of Mediation responsible for restoring ?
+of	ADP	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	4	0	1	What was the Act of Mediation responsible for restoring ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	5	0	1	What was the Act of Mediation responsible for restoring ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	6	0	1	What was the Act of Mediation responsible for restoring ?
+for	ADP	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	7	0	1	What was the Act of Mediation responsible for restoring ?
+restoring	VERB	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	1	8	0	1	What was the Act of Mediation responsible for restoring ?
+?	PUNCT	0	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	0	9	0	1	What was the Act of Mediation responsible for restoring ?
+What was the Act of Mediation responsible for restoring ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b	57277da6dd62a815002e9e8b	1	-1	-1	1	3	What was the Act of Mediation responsible for restoring ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for now ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for now ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for now ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for now ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for now ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for now ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for now ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for now ?
+now	ADV	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for now ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for now ?
+What was the Act of Mediation responsible for now ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_0	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for now ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for then ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for then ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for then ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for then ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for then ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for then ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for then ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for then ?
+then	ADV	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for then ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for then ?
+What was the Act of Mediation responsible for then ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_1	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for then ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for exactly ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for exactly ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for exactly ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for exactly ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for exactly ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for exactly ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for exactly ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for exactly ?
+exactly	ADV	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for exactly ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for exactly ?
+What was the Act of Mediation responsible for exactly ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_2	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for exactly ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for doing ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for doing ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for doing ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for doing ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for doing ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for doing ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for doing ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for doing ?
+doing	VERB	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for doing ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for doing ?
+What was the Act of Mediation responsible for doing ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_3	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for doing ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for here ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for here ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for here ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for here ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for here ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for here ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for here ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for here ?
+here	ADV	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for here ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for here ?
+What was the Act of Mediation responsible for here ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_4	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for here ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for anyway ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for anyway ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for anyway ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for anyway ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for anyway ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for anyway ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for anyway ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for anyway ?
+anyway	ADV	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for anyway ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for anyway ?
+What was the Act of Mediation responsible for anyway ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_5	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for anyway ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for that ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for that ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for that ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for that ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for that ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for that ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for that ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for that ?
+that	PRON	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for that ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for that ?
+What was the Act of Mediation responsible for that ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'PRON', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_6	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for that ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for this ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for this ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for this ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for this ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for this ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for this ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for this ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for this ?
+this	PRON	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for this ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for this ?
+What was the Act of Mediation responsible for this ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'PRON', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_7	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for this ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for too ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for too ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for too ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for too ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for too ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for too ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for too ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for too ?
+too	ADV	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for too ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for too ?
+What was the Act of Mediation responsible for too ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_8	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for too ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for today ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for today ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for today ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for today ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for today ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for today ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for today ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for today ?
+today	NOUN	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for today ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for today ?
+What was the Act of Mediation responsible for today ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_9	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for today ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for again ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for again ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for again ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for again ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for again ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for again ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for again ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for again ?
+again	ADV	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for again ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for again ?
+What was the Act of Mediation responsible for again ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_10	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for again ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for first ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for first ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for first ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for first ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for first ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for first ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for first ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for first ?
+first	ADV	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for first ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for first ?
+What was the Act of Mediation responsible for first ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_11	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for first ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for though ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for though ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for though ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for though ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for though ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for though ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for though ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for though ?
+though	ADV	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for though ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for though ?
+What was the Act of Mediation responsible for though ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_12	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for though ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for next ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for next ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for next ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for next ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for next ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for next ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for next ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for next ?
+next	ADJ	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for next ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for next ?
+What was the Act of Mediation responsible for next ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_13	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for next ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for there ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for there ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for there ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for there ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for there ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for there ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for there ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for there ?
+there	ADV	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for there ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for there ?
+What was the Act of Mediation responsible for there ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_14	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for there ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for instead ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for instead ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for instead ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for instead ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for instead ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for instead ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for instead ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for instead ?
+instead	ADV	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for instead ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for instead ?
+What was the Act of Mediation responsible for instead ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_15	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for instead ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for ? ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for ? ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for ? ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for ? ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for ? ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for ? ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for ? ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for ? ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	8	0	0	What was the Act of Mediation responsible for ? ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for ? ?
+What was the Act of Mediation responsible for ? ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'PUNCT', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_16	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for ? ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for precisely ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for precisely ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for precisely ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for precisely ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for precisely ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for precisely ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for precisely ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for precisely ?
+precisely	ADV	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for precisely ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for precisely ?
+What was the Act of Mediation responsible for precisely ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_17	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for precisely ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for saying ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for saying ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for saying ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for saying ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for saying ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for saying ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for saying ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for saying ?
+saying	VERB	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for saying ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for saying ?
+What was the Act of Mediation responsible for saying ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_18	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for saying ?
+What	PRON	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	0	0	0	What was the Act of Mediation responsible for really ?
+was	AUX	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	1	0	0	What was the Act of Mediation responsible for really ?
+the	DET	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	2	0	0	What was the Act of Mediation responsible for really ?
+Act	PROPN	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	3	0	0	What was the Act of Mediation responsible for really ?
+of	ADP	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	4	0	0	What was the Act of Mediation responsible for really ?
+Mediation	PROPN	1	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	5	0	0	What was the Act of Mediation responsible for really ?
+responsible	ADJ	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	6	0	0	What was the Act of Mediation responsible for really ?
+for	ADP	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	7	0	0	What was the Act of Mediation responsible for really ?
+really	ADV	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	1	8	0	0	What was the Act of Mediation responsible for really ?
+?	PUNCT	0	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	0	9	0	0	What was the Act of Mediation responsible for really ?
+What was the Act of Mediation responsible for really ?	['PRON', 'AUX', 'DET', 'PROPN', 'ADP', 'PROPN', 'ADJ', 'ADP', 'ADV', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	57277da6dd62a815002e9e8b_pert_19	57277da6dd62a815002e9e8b	0	-1	-1	1	2	What was the Act of Mediation responsible for really ?

@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	DET	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	0	1	What color were cartridges produced by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	1	2	What color were cartridges produced by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	2	3	What color were cartridges produced by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	3	4	What color were cartridges produced by Nintendo for internal use ?
+produced	VERB	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	1	4	5	What color were cartridges produced by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	5	6	What color were cartridges produced by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	6	7	What color were cartridges produced by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	7	8	What color were cartridges produced by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	8	9	What color were cartridges produced by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	9	10	What color were cartridges produced by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81	57111fd3b654c5140001fb81	1	0	10		What color were cartridges produced by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	0	12	What color were cartridges made by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	1	13	What color were cartridges made by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	2	14	What color were cartridges made by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	3	15	What color were cartridges made by Nintendo for internal use ?
+made	VERB	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	1	4	16	What color were cartridges made by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	5	17	What color were cartridges made by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	6	18	What color were cartridges made by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	7	19	What color were cartridges made by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	8	20	What color were cartridges made by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	9	21	What color were cartridges made by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_0	57111fd3b654c5140001fb81	0	0	10		What color were cartridges made by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	0	23	What color were cartridges manufactured by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	1	24	What color were cartridges manufactured by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	2	25	What color were cartridges manufactured by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	3	26	What color were cartridges manufactured by Nintendo for internal use ?
+manufactured	VERB	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	1	4	27	What color were cartridges manufactured by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	5	28	What color were cartridges manufactured by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	6	29	What color were cartridges manufactured by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	7	30	What color were cartridges manufactured by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	8	31	What color were cartridges manufactured by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	9	32	What color were cartridges manufactured by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_1	57111fd3b654c5140001fb81	0	0	10		What color were cartridges manufactured by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	0	34	What color were cartridges used by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	1	35	What color were cartridges used by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	2	36	What color were cartridges used by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	3	37	What color were cartridges used by Nintendo for internal use ?
+used	VERB	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	1	4	38	What color were cartridges used by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	5	39	What color were cartridges used by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	6	40	What color were cartridges used by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	7	41	What color were cartridges used by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	8	42	What color were cartridges used by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	9	43	What color were cartridges used by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_2	57111fd3b654c5140001fb81	0	0	10		What color were cartridges used by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	0	45	What color were cartridges produced by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	1	46	What color were cartridges produced by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	2	47	What color were cartridges produced by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	3	48	What color were cartridges produced by Nintendo for internal use ?
+produced	VERB	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	1	4	49	What color were cartridges produced by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	5	50	What color were cartridges produced by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	6	51	What color were cartridges produced by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	7	52	What color were cartridges produced by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	8	53	What color were cartridges produced by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	9	54	What color were cartridges produced by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_3	57111fd3b654c5140001fb81	0	0	10		What color were cartridges produced by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	0	56	What color were cartridges supplied by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	1	57	What color were cartridges supplied by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	2	58	What color were cartridges supplied by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	3	59	What color were cartridges supplied by Nintendo for internal use ?
+supplied	VERB	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	1	4	60	What color were cartridges supplied by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	5	61	What color were cartridges supplied by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	6	62	What color were cartridges supplied by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	7	63	What color were cartridges supplied by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	8	64	What color were cartridges supplied by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	9	65	What color were cartridges supplied by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_4	57111fd3b654c5140001fb81	0	0	10		What color were cartridges supplied by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	0	67	What color were cartridges designed by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	1	68	What color were cartridges designed by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	2	69	What color were cartridges designed by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	3	70	What color were cartridges designed by Nintendo for internal use ?
+designed	VERB	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	1	4	71	What color were cartridges designed by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	5	72	What color were cartridges designed by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	6	73	What color were cartridges designed by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	7	74	What color were cartridges designed by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	8	75	What color were cartridges designed by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	9	76	What color were cartridges designed by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_5	57111fd3b654c5140001fb81	0	0	10		What color were cartridges designed by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	0	78	What color were cartridges provided by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	1	79	What color were cartridges provided by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	2	80	What color were cartridges provided by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	3	81	What color were cartridges provided by Nintendo for internal use ?
+provided	VERB	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	1	4	82	What color were cartridges provided by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	5	83	What color were cartridges provided by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	6	84	What color were cartridges provided by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	7	85	What color were cartridges provided by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	8	86	What color were cartridges provided by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	9	87	What color were cartridges provided by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_6	57111fd3b654c5140001fb81	0	0	10		What color were cartridges provided by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	0	89	What color were cartridges sold by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	1	90	What color were cartridges sold by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	2	91	What color were cartridges sold by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	3	92	What color were cartridges sold by Nintendo for internal use ?
+sold	VERB	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	1	4	93	What color were cartridges sold by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	5	94	What color were cartridges sold by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	6	95	What color were cartridges sold by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	7	96	What color were cartridges sold by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	8	97	What color were cartridges sold by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	9	98	What color were cartridges sold by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_7	57111fd3b654c5140001fb81	0	0	10		What color were cartridges sold by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	0	100	What color were cartridges released by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	1	101	What color were cartridges released by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	2	102	What color were cartridges released by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	3	103	What color were cartridges released by Nintendo for internal use ?
+released	VERB	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	1	4	104	What color were cartridges released by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	5	105	What color were cartridges released by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	6	106	What color were cartridges released by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	7	107	What color were cartridges released by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	8	108	What color were cartridges released by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	9	109	What color were cartridges released by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_8	57111fd3b654c5140001fb81	0	0	10		What color were cartridges released by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	0	111	What color were cartridges offered by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	1	112	What color were cartridges offered by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	2	113	What color were cartridges offered by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	3	114	What color were cartridges offered by Nintendo for internal use ?
+offered	VERB	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	1	4	115	What color were cartridges offered by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	5	116	What color were cartridges offered by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	6	117	What color were cartridges offered by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	7	118	What color were cartridges offered by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	8	119	What color were cartridges offered by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	9	120	What color were cartridges offered by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_9	57111fd3b654c5140001fb81	0	0	10		What color were cartridges offered by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	0	122	What color were cartridges designated by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	1	123	What color were cartridges designated by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	2	124	What color were cartridges designated by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	3	125	What color were cartridges designated by Nintendo for internal use ?
+designated	VERB	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	1	4	126	What color were cartridges designated by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	5	127	What color were cartridges designated by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	6	128	What color were cartridges designated by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	7	129	What color were cartridges designated by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	8	130	What color were cartridges designated by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	9	131	What color were cartridges designated by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_10	57111fd3b654c5140001fb81	0	0	10		What color were cartridges designated by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	0	133	What color were cartridges developed by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	1	134	What color were cartridges developed by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	2	135	What color were cartridges developed by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	3	136	What color were cartridges developed by Nintendo for internal use ?
+developed	VERB	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	1	4	137	What color were cartridges developed by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	5	138	What color were cartridges developed by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	6	139	What color were cartridges developed by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	7	140	What color were cartridges developed by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	8	141	What color were cartridges developed by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	9	142	What color were cartridges developed by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_11	57111fd3b654c5140001fb81	0	0	10		What color were cartridges developed by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	0	144	What color were cartridges marketed by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	1	145	What color were cartridges marketed by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	2	146	What color were cartridges marketed by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	3	147	What color were cartridges marketed by Nintendo for internal use ?
+marketed	VERB	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	1	4	148	What color were cartridges marketed by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	5	149	What color were cartridges marketed by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	6	150	What color were cartridges marketed by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	7	151	What color were cartridges marketed by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	8	152	What color were cartridges marketed by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	9	153	What color were cartridges marketed by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_12	57111fd3b654c5140001fb81	0	0	10		What color were cartridges marketed by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	0	155	What color were cartridges licensed by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	1	156	What color were cartridges licensed by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	2	157	What color were cartridges licensed by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	3	158	What color were cartridges licensed by Nintendo for internal use ?
+licensed	VERB	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	1	4	159	What color were cartridges licensed by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	5	160	What color were cartridges licensed by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	6	161	What color were cartridges licensed by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	7	162	What color were cartridges licensed by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	8	163	What color were cartridges licensed by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	9	164	What color were cartridges licensed by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_13	57111fd3b654c5140001fb81	0	0	10		What color were cartridges licensed by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	0	166	What color were cartridges issued by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	1	167	What color were cartridges issued by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	2	168	What color were cartridges issued by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	3	169	What color were cartridges issued by Nintendo for internal use ?
+issued	VERB	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	1	4	170	What color were cartridges issued by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	5	171	What color were cartridges issued by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	6	172	What color were cartridges issued by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	7	173	What color were cartridges issued by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	8	174	What color were cartridges issued by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	9	175	What color were cartridges issued by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_14	57111fd3b654c5140001fb81	0	0	10		What color were cartridges issued by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	0	177	What color were cartridges available by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	1	178	What color were cartridges available by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	2	179	What color were cartridges available by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	3	180	What color were cartridges available by Nintendo for internal use ?
+available	ADJ	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	1	4	181	What color were cartridges available by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	5	182	What color were cartridges available by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	6	183	What color were cartridges available by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	7	184	What color were cartridges available by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	8	185	What color were cartridges available by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	9	186	What color were cartridges available by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_15	57111fd3b654c5140001fb81	0	0	10		What color were cartridges available by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	0	188	What color were cartridges created by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	1	189	What color were cartridges created by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	2	190	What color were cartridges created by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	3	191	What color were cartridges created by Nintendo for internal use ?
+created	VERB	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	1	4	192	What color were cartridges created by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	5	193	What color were cartridges created by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	6	194	What color were cartridges created by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	7	195	What color were cartridges created by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	8	196	What color were cartridges created by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	9	197	What color were cartridges created by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_16	57111fd3b654c5140001fb81	0	0	10		What color were cartridges created by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	0	199	What color were cartridges specified by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	1	200	What color were cartridges specified by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	2	201	What color were cartridges specified by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	3	202	What color were cartridges specified by Nintendo for internal use ?
+specified	VERB	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	1	4	203	What color were cartridges specified by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	5	204	What color were cartridges specified by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	6	205	What color were cartridges specified by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	7	206	What color were cartridges specified by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	8	207	What color were cartridges specified by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	9	208	What color were cartridges specified by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_17	57111fd3b654c5140001fb81	0	0	10		What color were cartridges specified by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	0	210	What color were cartridges painted by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	1	211	What color were cartridges painted by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	2	212	What color were cartridges painted by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	3	213	What color were cartridges painted by Nintendo for internal use ?
+painted	VERB	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	1	4	214	What color were cartridges painted by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	5	215	What color were cartridges painted by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	6	216	What color were cartridges painted by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	7	217	What color were cartridges painted by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	8	218	What color were cartridges painted by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	9	219	What color were cartridges painted by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_18	57111fd3b654c5140001fb81	0	0	10		What color were cartridges painted by Nintendo for internal use ?
+What	DET	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	0	221	What color were cartridges selected by Nintendo for internal use ?
+color	NOUN	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	1	222	What color were cartridges selected by Nintendo for internal use ?
+were	AUX	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	2	223	What color were cartridges selected by Nintendo for internal use ?
+cartridges	NOUN	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	3	224	What color were cartridges selected by Nintendo for internal use ?
+selected	VERB	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	1	4	225	What color were cartridges selected by Nintendo for internal use ?
+by	ADP	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	5	226	What color were cartridges selected by Nintendo for internal use ?
+Nintendo	PROPN	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	6	227	What color were cartridges selected by Nintendo for internal use ?
+for	ADP	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	7	228	What color were cartridges selected by Nintendo for internal use ?
+internal	ADJ	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	8	229	What color were cartridges selected by Nintendo for internal use ?
+use	NOUN	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	9	230	What color were cartridges selected by Nintendo for internal use ?
+?	PUNCT	0	57111fd3b654c5140001fb81_pert_19	57111fd3b654c5140001fb81	0	0	10		What color were cartridges selected by Nintendo for internal use ?

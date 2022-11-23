@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	11	11	1	0	0	1	What is a queue and how to dequeue an element in it ?
+is	AUX	0	11	11	1	0	1	2	What is a queue and how to dequeue an element in it ?
+a	DET	0	11	11	1	0	2	3	What is a queue and how to dequeue an element in it ?
+queue	NOUN	1	11	11	1	1	3	4	What is a queue and how to dequeue an element in it ?
+and	CCONJ	0	11	11	1	0	4	5	What is a queue and how to dequeue an element in it ?
+how	SCONJ	0	11	11	1	0	5	6	What is a queue and how to dequeue an element in it ?
+to	PART	0	11	11	1	0	6	7	What is a queue and how to dequeue an element in it ?
+dequeue	VERB	1	11	11	1	0	7	8	What is a queue and how to dequeue an element in it ?
+an	DET	0	11	11	1	0	8	9	What is a queue and how to dequeue an element in it ?
+element	NOUN	0	11	11	1	0	9	10	What is a queue and how to dequeue an element in it ?
+in	ADP	0	11	11	1	0	10	11	What is a queue and how to dequeue an element in it ?
+it	PRON	0	11	11	1	0	11	12	What is a queue and how to dequeue an element in it ?
+?	PUNCT	0	11	11	1	0	12		What is a queue and how to dequeue an element in it ?
+What	PRON	0	11_pert_0	11	0	0	0	14	What is a stack and how to dequeue an element in it ?
+is	AUX	0	11_pert_0	11	0	0	1	15	What is a stack and how to dequeue an element in it ?
+a	DET	0	11_pert_0	11	0	0	2	16	What is a stack and how to dequeue an element in it ?
+stack	NOUN	0	11_pert_0	11	0	1	3	17	What is a stack and how to dequeue an element in it ?
+and	CCONJ	0	11_pert_0	11	0	0	4	18	What is a stack and how to dequeue an element in it ?
+how	SCONJ	0	11_pert_0	11	0	0	5	19	What is a stack and how to dequeue an element in it ?
+to	PART	0	11_pert_0	11	0	0	6	20	What is a stack and how to dequeue an element in it ?
+dequeue	VERB	1	11_pert_0	11	0	0	7	21	What is a stack and how to dequeue an element in it ?
+an	DET	0	11_pert_0	11	0	0	8	22	What is a stack and how to dequeue an element in it ?
+element	NOUN	0	11_pert_0	11	0	0	9	23	What is a stack and how to dequeue an element in it ?
+in	ADP	0	11_pert_0	11	0	0	10	24	What is a stack and how to dequeue an element in it ?
+it	PRON	0	11_pert_0	11	0	0	11	25	What is a stack and how to dequeue an element in it ?
+?	PUNCT	0	11_pert_0	11	0	0	12		What is a stack and how to dequeue an element in it ?

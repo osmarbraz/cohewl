@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	0	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	1	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	2	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	3	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	4	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+conhecida	VERB	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	1	5	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	6	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	7	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	8	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	0	9	0	1	Qual foi a primeira ferramenta conhecida para a computação ?
+Qual foi a primeira ferramenta conhecida para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e	57437143c7f7495f95b8f52696c8865e	1	-1	-1	1	3	Qual foi a primeira ferramenta conhecida para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+desenvolvida	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta desenvolvida para a computação ?
+Qual foi a primeira ferramenta desenvolvida para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_0	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta desenvolvida para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta usada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta usada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta usada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta usada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta usada para a computação ?
+usada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta usada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta usada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta usada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta usada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta usada para a computação ?
+Qual foi a primeira ferramenta usada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_1	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta usada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+voltada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta voltada para a computação ?
+Qual foi a primeira ferramenta voltada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_2	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta voltada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+computacional	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta computacional para a computação ?
+Qual foi a primeira ferramenta computacional para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_3	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta computacional para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+utilizada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta utilizada para a computação ?
+Qual foi a primeira ferramenta utilizada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_4	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta utilizada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta criada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta criada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta criada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta criada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta criada para a computação ?
+criada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta criada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta criada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta criada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta criada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta criada para a computação ?
+Qual foi a primeira ferramenta criada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_5	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta criada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+disponível	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta disponível para a computação ?
+Qual foi a primeira ferramenta disponível para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_6	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta disponível para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+tecnológica	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta tecnológica para a computação ?
+Qual foi a primeira ferramenta tecnológica para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_7	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta tecnológica para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+projetada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta projetada para a computação ?
+Qual foi a primeira ferramenta projetada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_8	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta projetada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+empregada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta empregada para a computação ?
+Qual foi a primeira ferramenta empregada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_9	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta empregada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+desenhada	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta desenhada para a computação ?
+Qual foi a primeira ferramenta desenhada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_10	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta desenhada para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta específica para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta específica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta específica para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta específica para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta específica para a computação ?
+específica	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta específica para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta específica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta específica para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta específica para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta específica para a computação ?
+Qual foi a primeira ferramenta específica para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_11	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta específica para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta digital para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta digital para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta digital para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta digital para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta digital para a computação ?
+digital	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta digital para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta digital para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta digital para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta digital para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta digital para a computação ?
+Qual foi a primeira ferramenta digital para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_12	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta digital para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta científica para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta científica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta científica para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta científica para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta científica para a computação ?
+científica	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta científica para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta científica para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta científica para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta científica para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta científica para a computação ?
+Qual foi a primeira ferramenta científica para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_13	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta científica para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta construída para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta construída para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta construída para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta construída para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta construída para a computação ?
+construída	VERB	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta construída para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta construída para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta construída para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta construída para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta construída para a computação ?
+Qual foi a primeira ferramenta construída para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_14	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta construída para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+necessária	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta necessária para a computação ?
+Qual foi a primeira ferramenta necessária para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_15	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta necessária para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+ideal	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta ideal para a computação ?
+Qual foi a primeira ferramenta ideal para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_16	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta ideal para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta importante para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta importante para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta importante para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta importante para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta importante para a computação ?
+importante	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta importante para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta importante para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta importante para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta importante para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta importante para a computação ?
+Qual foi a primeira ferramenta importante para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_17	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta importante para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+moderna	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta moderna para a computação ?
+Qual foi a primeira ferramenta moderna para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_18	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta moderna para a computação ?
+Qual	PRON	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	0	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+foi	AUX	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	1	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	2	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+primeira	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	3	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+ferramenta	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	4	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+adequada	ADJ	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	1	5	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+para	ADP	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	6	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+a	DET	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	7	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+computação	NOUN	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	8	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+?	PUNCT	0	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	0	9	0	0	Qual foi a primeira ferramenta adequada para a computação ?
+Qual foi a primeira ferramenta adequada para a computação ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	57437143c7f7495f95b8f52696c8865e_pert_19	57437143c7f7495f95b8f52696c8865e	0	-1	-1	1	2	Qual foi a primeira ferramenta adequada para a computação ?

@@ -1,0 +1,17 @@
+{
+  "embeddings": [    	
+    {
+      "tensorName": "CohQuAD Inc+Coh (pt-br)",
+      "tensorShape": [40, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/cohquad_cohinc_ptbr/records_sentenca_DO_PERTDO_P1_CLASSE_4096_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/cohquad_cohinc_ptbr/meta_sentenca_DO_PERTDO_P1_CLASSE_4096_large_MEAN.tsv"  	                  
+    },
+	{
+      "tensorName": "CohQuAD Inc+Coh (pt-br) com Next",
+      "tensorShape": [40, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/cohquad_cohinc_ptbr/records_sentenca_DO_PERTDO_P1_CLASSE_4096_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/cohquad_cohinc_ptbr/meta_sentenca_DO_PERTDO_P1_CLASSE_4096_large_MEAN_NEXT.tsv"
+    }
+  ],
+  "modelCheckpointPath": "<b>CohQuAD Inc+Coh (pt-br) - Embeddings de Sentença"
+}

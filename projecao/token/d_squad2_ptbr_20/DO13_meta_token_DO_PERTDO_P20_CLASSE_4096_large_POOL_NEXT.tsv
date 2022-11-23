@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Quais	DET	1	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	0	1	Quais navios foram atacados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	1	2	Quais navios foram atacados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	2	3	Quais navios foram atacados em 1852 ?
+atacados	VERB	1	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	1	3	4	Quais navios foram atacados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	4	5	Quais navios foram atacados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	5	6	Quais navios foram atacados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260	56f799d2a6d7ea1400e17260	1	0	6		Quais navios foram atacados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	0	8	Quais navios foram construídos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	1	9	Quais navios foram construídos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	2	10	Quais navios foram construídos em 1852 ?
+construídos	VERB	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	1	3	11	Quais navios foram construídos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	4	12	Quais navios foram construídos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	5	13	Quais navios foram construídos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_0	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram construídos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	0	15	Quais navios foram lançados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	1	16	Quais navios foram lançados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	2	17	Quais navios foram lançados em 1852 ?
+lançados	VERB	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	1	3	18	Quais navios foram lançados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	4	19	Quais navios foram lançados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	5	20	Quais navios foram lançados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_1	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram lançados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	0	22	Quais navios foram fabricados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	1	23	Quais navios foram fabricados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	2	24	Quais navios foram fabricados em 1852 ?
+fabricados	VERB	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	1	3	25	Quais navios foram fabricados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	4	26	Quais navios foram fabricados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	5	27	Quais navios foram fabricados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_2	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram fabricados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	0	29	Quais navios foram vendidos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	1	30	Quais navios foram vendidos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	2	31	Quais navios foram vendidos em 1852 ?
+vendidos	VERB	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	1	3	32	Quais navios foram vendidos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	4	33	Quais navios foram vendidos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	5	34	Quais navios foram vendidos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_3	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram vendidos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	0	36	Quais navios foram adquiridos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	1	37	Quais navios foram adquiridos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	2	38	Quais navios foram adquiridos em 1852 ?
+adquiridos	VERB	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	1	3	39	Quais navios foram adquiridos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	4	40	Quais navios foram adquiridos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	5	41	Quais navios foram adquiridos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_4	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram adquiridos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	0	43	Quais navios foram usados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	1	44	Quais navios foram usados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	2	45	Quais navios foram usados em 1852 ?
+usados	VERB	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	1	3	46	Quais navios foram usados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	4	47	Quais navios foram usados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	5	48	Quais navios foram usados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_5	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram usados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	0	50	Quais navios foram utilizados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	1	51	Quais navios foram utilizados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	2	52	Quais navios foram utilizados em 1852 ?
+utilizados	VERB	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	1	3	53	Quais navios foram utilizados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	4	54	Quais navios foram utilizados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	5	55	Quais navios foram utilizados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_6	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram utilizados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	0	57	Quais navios foram feitos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	1	58	Quais navios foram feitos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	2	59	Quais navios foram feitos em 1852 ?
+feitos	VERB	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	1	3	60	Quais navios foram feitos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	4	61	Quais navios foram feitos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	5	62	Quais navios foram feitos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_7	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram feitos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	0	64	Quais navios foram descobertos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	1	65	Quais navios foram descobertos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	2	66	Quais navios foram descobertos em 1852 ?
+descobertos	VERB	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	1	3	67	Quais navios foram descobertos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	4	68	Quais navios foram descobertos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	5	69	Quais navios foram descobertos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_8	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram descobertos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	0	71	Quais navios foram entregues em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	1	72	Quais navios foram entregues em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	2	73	Quais navios foram entregues em 1852 ?
+entregues	VERB	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	1	3	74	Quais navios foram entregues em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	4	75	Quais navios foram entregues em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	5	76	Quais navios foram entregues em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_9	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram entregues em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	0	78	Quais navios foram produzidos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	1	79	Quais navios foram produzidos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	2	80	Quais navios foram produzidos em 1852 ?
+produzidos	VERB	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	1	3	81	Quais navios foram produzidos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	4	82	Quais navios foram produzidos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	5	83	Quais navios foram produzidos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_10	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram produzidos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	0	85	Quais navios foram contratados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	1	86	Quais navios foram contratados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	2	87	Quais navios foram contratados em 1852 ?
+contratados	VERB	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	1	3	88	Quais navios foram contratados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	4	89	Quais navios foram contratados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	5	90	Quais navios foram contratados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_11	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram contratados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	0	92	Quais navios foram adicionados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	1	93	Quais navios foram adicionados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	2	94	Quais navios foram adicionados em 1852 ?
+adicionados	VERB	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	1	3	95	Quais navios foram adicionados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	4	96	Quais navios foram adicionados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	5	97	Quais navios foram adicionados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_12	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram adicionados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	0	99	Quais navios foram destruídos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	1	100	Quais navios foram destruídos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	2	101	Quais navios foram destruídos em 1852 ?
+destruídos	VERB	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	1	3	102	Quais navios foram destruídos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	4	103	Quais navios foram destruídos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	5	104	Quais navios foram destruídos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_13	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram destruídos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	0	106	Quais navios foram recebidos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	1	107	Quais navios foram recebidos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	2	108	Quais navios foram recebidos em 1852 ?
+recebidos	VERB	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	1	3	109	Quais navios foram recebidos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	4	110	Quais navios foram recebidos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	5	111	Quais navios foram recebidos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_14	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram recebidos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	0	113	Quais navios foram substituídos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	1	114	Quais navios foram substituídos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	2	115	Quais navios foram substituídos em 1852 ?
+substituídos	VERB	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	1	3	116	Quais navios foram substituídos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	4	117	Quais navios foram substituídos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	5	118	Quais navios foram substituídos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_15	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram substituídos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	0	120	Quais navios foram encontrados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	1	121	Quais navios foram encontrados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	2	122	Quais navios foram encontrados em 1852 ?
+encontrados	VERB	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	1	3	123	Quais navios foram encontrados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	4	124	Quais navios foram encontrados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	5	125	Quais navios foram encontrados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_16	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram encontrados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	0	127	Quais navios foram perdidos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	1	128	Quais navios foram perdidos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	2	129	Quais navios foram perdidos em 1852 ?
+perdidos	VERB	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	1	3	130	Quais navios foram perdidos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	4	131	Quais navios foram perdidos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	5	132	Quais navios foram perdidos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_17	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram perdidos em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	0	134	Quais navios foram formados em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	1	135	Quais navios foram formados em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	2	136	Quais navios foram formados em 1852 ?
+formados	VERB	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	1	3	137	Quais navios foram formados em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	4	138	Quais navios foram formados em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	5	139	Quais navios foram formados em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_18	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram formados em 1852 ?
+Quais	DET	1	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	0	141	Quais navios foram transferidos em 1852 ?
+navios	NOUN	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	1	142	Quais navios foram transferidos em 1852 ?
+foram	AUX	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	2	143	Quais navios foram transferidos em 1852 ?
+transferidos	VERB	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	1	3	144	Quais navios foram transferidos em 1852 ?
+em	ADP	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	4	145	Quais navios foram transferidos em 1852 ?
+1852	NUM	1	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	5	146	Quais navios foram transferidos em 1852 ?
+?	PUNCT	0	56f799d2a6d7ea1400e17260_pert_19	56f799d2a6d7ea1400e17260	0	0	6		Quais navios foram transferidos em 1852 ?

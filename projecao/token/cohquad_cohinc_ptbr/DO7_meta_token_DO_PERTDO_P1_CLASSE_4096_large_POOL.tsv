@@ -1,0 +1,15 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+Como	ADP	0	7	7	1	0	0	Como desempilhar elementos em uma pilha ?
+desempilhar	NOUN	1	7	7	1	0	1	Como desempilhar elementos em uma pilha ?
+elementos	NOUN	0	7	7	1	0	2	Como desempilhar elementos em uma pilha ?
+em	ADP	0	7	7	1	0	3	Como desempilhar elementos em uma pilha ?
+uma	DET	0	7	7	1	0	4	Como desempilhar elementos em uma pilha ?
+pilha	NOUN	0	7	7	1	1	5	Como desempilhar elementos em uma pilha ?
+?	PUNCT	0	7	7	1	0	6	Como desempilhar elementos em uma pilha ?
+Como	ADP	0	7_pert_0	7	0	0	0	Como desempilhar elementos em uma fila ?
+desempilhar	NOUN	1	7_pert_0	7	0	0	1	Como desempilhar elementos em uma fila ?
+elementos	NOUN	0	7_pert_0	7	0	0	2	Como desempilhar elementos em uma fila ?
+em	ADP	0	7_pert_0	7	0	0	3	Como desempilhar elementos em uma fila ?
+uma	DET	0	7_pert_0	7	0	0	4	Como desempilhar elementos em uma fila ?
+fila	NOUN	1	7_pert_0	7	0	1	5	Como desempilhar elementos em uma fila ?
+?	PUNCT	0	7_pert_0	7	0	0	6	Como desempilhar elementos em uma fila ?

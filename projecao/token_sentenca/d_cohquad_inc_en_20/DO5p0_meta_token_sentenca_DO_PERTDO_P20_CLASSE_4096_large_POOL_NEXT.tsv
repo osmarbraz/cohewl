@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	5p0	5p0	1	0	0	1	0	1	How to push elements in a queue data structure ?
+to	PART	0	5p0	5p0	1	0	1	2	0	1	How to push elements in a queue data structure ?
+push	VERB	0	5p0	5p0	1	1	2	3	0	1	How to push elements in a queue data structure ?
+elements	NOUN	0	5p0	5p0	1	0	3	4	0	1	How to push elements in a queue data structure ?
+in	ADP	0	5p0	5p0	1	0	4	5	0	1	How to push elements in a queue data structure ?
+a	DET	0	5p0	5p0	1	0	5	6	0	1	How to push elements in a queue data structure ?
+queue	NOUN	1	5p0	5p0	1	0	6	7	0	1	How to push elements in a queue data structure ?
+data	NOUN	0	5p0	5p0	1	0	7	8	0	1	How to push elements in a queue data structure ?
+structure	NOUN	0	5p0	5p0	1	0	8	9	0	1	How to push elements in a queue data structure ?
+?	PUNCT	0	5p0	5p0	1	0	9	10	0	1	How to push elements in a queue data structure ?
+0	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0	5p0	1	-1	-1		1	3	How to push elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_0	5p0	0	0	0	12	0	0	How to manage elements in a queue data structure ?
+to	PART	0	5p0_pert_0	5p0	0	0	1	13	0	0	How to manage elements in a queue data structure ?
+manage	VERB	0	5p0_pert_0	5p0	0	1	2	14	0	0	How to manage elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_0	5p0	0	0	3	15	0	0	How to manage elements in a queue data structure ?
+in	ADP	0	5p0_pert_0	5p0	0	0	4	16	0	0	How to manage elements in a queue data structure ?
+a	DET	0	5p0_pert_0	5p0	0	0	5	17	0	0	How to manage elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_0	5p0	0	0	6	18	0	0	How to manage elements in a queue data structure ?
+data	NOUN	0	5p0_pert_0	5p0	0	0	7	19	0	0	How to manage elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_0	5p0	0	0	8	20	0	0	How to manage elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_0	5p0	0	0	9	21	0	0	How to manage elements in a queue data structure ?
+1	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_0	5p0	0	-1	-1		1	2	How to manage elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_1	5p0	0	0	0	23	0	0	How to organize elements in a queue data structure ?
+to	PART	0	5p0_pert_1	5p0	0	0	1	24	0	0	How to organize elements in a queue data structure ?
+organize	VERB	0	5p0_pert_1	5p0	0	1	2	25	0	0	How to organize elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_1	5p0	0	0	3	26	0	0	How to organize elements in a queue data structure ?
+in	ADP	0	5p0_pert_1	5p0	0	0	4	27	0	0	How to organize elements in a queue data structure ?
+a	DET	0	5p0_pert_1	5p0	0	0	5	28	0	0	How to organize elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_1	5p0	0	0	6	29	0	0	How to organize elements in a queue data structure ?
+data	NOUN	0	5p0_pert_1	5p0	0	0	7	30	0	0	How to organize elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_1	5p0	0	0	8	31	0	0	How to organize elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_1	5p0	0	0	9	32	0	0	How to organize elements in a queue data structure ?
+2	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_1	5p0	0	-1	-1		1	2	How to organize elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_2	5p0	0	0	0	34	0	0	How to store elements in a queue data structure ?
+to	PART	0	5p0_pert_2	5p0	0	0	1	35	0	0	How to store elements in a queue data structure ?
+store	VERB	0	5p0_pert_2	5p0	0	1	2	36	0	0	How to store elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_2	5p0	0	0	3	37	0	0	How to store elements in a queue data structure ?
+in	ADP	0	5p0_pert_2	5p0	0	0	4	38	0	0	How to store elements in a queue data structure ?
+a	DET	0	5p0_pert_2	5p0	0	0	5	39	0	0	How to store elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_2	5p0	0	0	6	40	0	0	How to store elements in a queue data structure ?
+data	NOUN	0	5p0_pert_2	5p0	0	0	7	41	0	0	How to store elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_2	5p0	0	0	8	42	0	0	How to store elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_2	5p0	0	0	9	43	0	0	How to store elements in a queue data structure ?
+3	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_2	5p0	0	-1	-1		1	2	How to store elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_3	5p0	0	0	0	45	0	0	How to represent elements in a queue data structure ?
+to	PART	0	5p0_pert_3	5p0	0	0	1	46	0	0	How to represent elements in a queue data structure ?
+represent	VERB	0	5p0_pert_3	5p0	0	1	2	47	0	0	How to represent elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_3	5p0	0	0	3	48	0	0	How to represent elements in a queue data structure ?
+in	ADP	0	5p0_pert_3	5p0	0	0	4	49	0	0	How to represent elements in a queue data structure ?
+a	DET	0	5p0_pert_3	5p0	0	0	5	50	0	0	How to represent elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_3	5p0	0	0	6	51	0	0	How to represent elements in a queue data structure ?
+data	NOUN	0	5p0_pert_3	5p0	0	0	7	52	0	0	How to represent elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_3	5p0	0	0	8	53	0	0	How to represent elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_3	5p0	0	0	9	54	0	0	How to represent elements in a queue data structure ?
+4	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_3	5p0	0	-1	-1		1	2	How to represent elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_4	5p0	0	0	0	56	0	0	How to handle elements in a queue data structure ?
+to	PART	0	5p0_pert_4	5p0	0	0	1	57	0	0	How to handle elements in a queue data structure ?
+handle	VERB	0	5p0_pert_4	5p0	0	1	2	58	0	0	How to handle elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_4	5p0	0	0	3	59	0	0	How to handle elements in a queue data structure ?
+in	ADP	0	5p0_pert_4	5p0	0	0	4	60	0	0	How to handle elements in a queue data structure ?
+a	DET	0	5p0_pert_4	5p0	0	0	5	61	0	0	How to handle elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_4	5p0	0	0	6	62	0	0	How to handle elements in a queue data structure ?
+data	NOUN	0	5p0_pert_4	5p0	0	0	7	63	0	0	How to handle elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_4	5p0	0	0	8	64	0	0	How to handle elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_4	5p0	0	0	9	65	0	0	How to handle elements in a queue data structure ?
+5	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_4	5p0	0	-1	-1		1	2	How to handle elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_5	5p0	0	0	0	67	0	0	How to define elements in a queue data structure ?
+to	PART	0	5p0_pert_5	5p0	0	0	1	68	0	0	How to define elements in a queue data structure ?
+define	VERB	0	5p0_pert_5	5p0	0	1	2	69	0	0	How to define elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_5	5p0	0	0	3	70	0	0	How to define elements in a queue data structure ?
+in	ADP	0	5p0_pert_5	5p0	0	0	4	71	0	0	How to define elements in a queue data structure ?
+a	DET	0	5p0_pert_5	5p0	0	0	5	72	0	0	How to define elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_5	5p0	0	0	6	73	0	0	How to define elements in a queue data structure ?
+data	NOUN	0	5p0_pert_5	5p0	0	0	7	74	0	0	How to define elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_5	5p0	0	0	8	75	0	0	How to define elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_5	5p0	0	0	9	76	0	0	How to define elements in a queue data structure ?
+6	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_5	5p0	0	-1	-1		1	2	How to define elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_6	5p0	0	0	0	78	0	0	How to use elements in a queue data structure ?
+to	PART	0	5p0_pert_6	5p0	0	0	1	79	0	0	How to use elements in a queue data structure ?
+use	VERB	0	5p0_pert_6	5p0	0	1	2	80	0	0	How to use elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_6	5p0	0	0	3	81	0	0	How to use elements in a queue data structure ?
+in	ADP	0	5p0_pert_6	5p0	0	0	4	82	0	0	How to use elements in a queue data structure ?
+a	DET	0	5p0_pert_6	5p0	0	0	5	83	0	0	How to use elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_6	5p0	0	0	6	84	0	0	How to use elements in a queue data structure ?
+data	NOUN	0	5p0_pert_6	5p0	0	0	7	85	0	0	How to use elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_6	5p0	0	0	8	86	0	0	How to use elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_6	5p0	0	0	9	87	0	0	How to use elements in a queue data structure ?
+7	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_6	5p0	0	-1	-1		1	2	How to use elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_7	5p0	0	0	0	89	0	0	How to arrange elements in a queue data structure ?
+to	PART	0	5p0_pert_7	5p0	0	0	1	90	0	0	How to arrange elements in a queue data structure ?
+arrange	VERB	0	5p0_pert_7	5p0	0	1	2	91	0	0	How to arrange elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_7	5p0	0	0	3	92	0	0	How to arrange elements in a queue data structure ?
+in	ADP	0	5p0_pert_7	5p0	0	0	4	93	0	0	How to arrange elements in a queue data structure ?
+a	DET	0	5p0_pert_7	5p0	0	0	5	94	0	0	How to arrange elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_7	5p0	0	0	6	95	0	0	How to arrange elements in a queue data structure ?
+data	NOUN	0	5p0_pert_7	5p0	0	0	7	96	0	0	How to arrange elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_7	5p0	0	0	8	97	0	0	How to arrange elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_7	5p0	0	0	9	98	0	0	How to arrange elements in a queue data structure ?
+8	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_7	5p0	0	-1	-1		1	2	How to arrange elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_8	5p0	0	0	0	100	0	0	How to manipulate elements in a queue data structure ?
+to	PART	0	5p0_pert_8	5p0	0	0	1	101	0	0	How to manipulate elements in a queue data structure ?
+manipulate	VERB	0	5p0_pert_8	5p0	0	1	2	102	0	0	How to manipulate elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_8	5p0	0	0	3	103	0	0	How to manipulate elements in a queue data structure ?
+in	ADP	0	5p0_pert_8	5p0	0	0	4	104	0	0	How to manipulate elements in a queue data structure ?
+a	DET	0	5p0_pert_8	5p0	0	0	5	105	0	0	How to manipulate elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_8	5p0	0	0	6	106	0	0	How to manipulate elements in a queue data structure ?
+data	NOUN	0	5p0_pert_8	5p0	0	0	7	107	0	0	How to manipulate elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_8	5p0	0	0	8	108	0	0	How to manipulate elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_8	5p0	0	0	9	109	0	0	How to manipulate elements in a queue data structure ?
+9	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_8	5p0	0	-1	-1		1	2	How to manipulate elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_9	5p0	0	0	0	111	0	0	How to sort elements in a queue data structure ?
+to	PART	0	5p0_pert_9	5p0	0	0	1	112	0	0	How to sort elements in a queue data structure ?
+sort	VERB	0	5p0_pert_9	5p0	0	1	2	113	0	0	How to sort elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_9	5p0	0	0	3	114	0	0	How to sort elements in a queue data structure ?
+in	ADP	0	5p0_pert_9	5p0	0	0	4	115	0	0	How to sort elements in a queue data structure ?
+a	DET	0	5p0_pert_9	5p0	0	0	5	116	0	0	How to sort elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_9	5p0	0	0	6	117	0	0	How to sort elements in a queue data structure ?
+data	NOUN	0	5p0_pert_9	5p0	0	0	7	118	0	0	How to sort elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_9	5p0	0	0	8	119	0	0	How to sort elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_9	5p0	0	0	9	120	0	0	How to sort elements in a queue data structure ?
+10	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_9	5p0	0	-1	-1		1	2	How to sort elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_10	5p0	0	0	0	122	0	0	How to describe elements in a queue data structure ?
+to	PART	0	5p0_pert_10	5p0	0	0	1	123	0	0	How to describe elements in a queue data structure ?
+describe	VERB	0	5p0_pert_10	5p0	0	1	2	124	0	0	How to describe elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_10	5p0	0	0	3	125	0	0	How to describe elements in a queue data structure ?
+in	ADP	0	5p0_pert_10	5p0	0	0	4	126	0	0	How to describe elements in a queue data structure ?
+a	DET	0	5p0_pert_10	5p0	0	0	5	127	0	0	How to describe elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_10	5p0	0	0	6	128	0	0	How to describe elements in a queue data structure ?
+data	NOUN	0	5p0_pert_10	5p0	0	0	7	129	0	0	How to describe elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_10	5p0	0	0	8	130	0	0	How to describe elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_10	5p0	0	0	9	131	0	0	How to describe elements in a queue data structure ?
+11	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_10	5p0	0	-1	-1		1	2	How to describe elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_11	5p0	0	0	0	133	0	0	How to separate elements in a queue data structure ?
+to	PART	0	5p0_pert_11	5p0	0	0	1	134	0	0	How to separate elements in a queue data structure ?
+separate	VERB	0	5p0_pert_11	5p0	0	1	2	135	0	0	How to separate elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_11	5p0	0	0	3	136	0	0	How to separate elements in a queue data structure ?
+in	ADP	0	5p0_pert_11	5p0	0	0	4	137	0	0	How to separate elements in a queue data structure ?
+a	DET	0	5p0_pert_11	5p0	0	0	5	138	0	0	How to separate elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_11	5p0	0	0	6	139	0	0	How to separate elements in a queue data structure ?
+data	NOUN	0	5p0_pert_11	5p0	0	0	7	140	0	0	How to separate elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_11	5p0	0	0	8	141	0	0	How to separate elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_11	5p0	0	0	9	142	0	0	How to separate elements in a queue data structure ?
+12	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_11	5p0	0	-1	-1		1	2	How to separate elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_12	5p0	0	0	0	144	0	0	How to place elements in a queue data structure ?
+to	PART	0	5p0_pert_12	5p0	0	0	1	145	0	0	How to place elements in a queue data structure ?
+place	VERB	0	5p0_pert_12	5p0	0	1	2	146	0	0	How to place elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_12	5p0	0	0	3	147	0	0	How to place elements in a queue data structure ?
+in	ADP	0	5p0_pert_12	5p0	0	0	4	148	0	0	How to place elements in a queue data structure ?
+a	DET	0	5p0_pert_12	5p0	0	0	5	149	0	0	How to place elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_12	5p0	0	0	6	150	0	0	How to place elements in a queue data structure ?
+data	NOUN	0	5p0_pert_12	5p0	0	0	7	151	0	0	How to place elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_12	5p0	0	0	8	152	0	0	How to place elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_12	5p0	0	0	9	153	0	0	How to place elements in a queue data structure ?
+13	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_12	5p0	0	-1	-1		1	2	How to place elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_13	5p0	0	0	0	155	0	0	How to find elements in a queue data structure ?
+to	PART	0	5p0_pert_13	5p0	0	0	1	156	0	0	How to find elements in a queue data structure ?
+find	VERB	0	5p0_pert_13	5p0	0	1	2	157	0	0	How to find elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_13	5p0	0	0	3	158	0	0	How to find elements in a queue data structure ?
+in	ADP	0	5p0_pert_13	5p0	0	0	4	159	0	0	How to find elements in a queue data structure ?
+a	DET	0	5p0_pert_13	5p0	0	0	5	160	0	0	How to find elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_13	5p0	0	0	6	161	0	0	How to find elements in a queue data structure ?
+data	NOUN	0	5p0_pert_13	5p0	0	0	7	162	0	0	How to find elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_13	5p0	0	0	8	163	0	0	How to find elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_13	5p0	0	0	9	164	0	0	How to find elements in a queue data structure ?
+14	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_13	5p0	0	-1	-1		1	2	How to find elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_14	5p0	0	0	0	166	0	0	How to create elements in a queue data structure ?
+to	PART	0	5p0_pert_14	5p0	0	0	1	167	0	0	How to create elements in a queue data structure ?
+create	VERB	0	5p0_pert_14	5p0	0	1	2	168	0	0	How to create elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_14	5p0	0	0	3	169	0	0	How to create elements in a queue data structure ?
+in	ADP	0	5p0_pert_14	5p0	0	0	4	170	0	0	How to create elements in a queue data structure ?
+a	DET	0	5p0_pert_14	5p0	0	0	5	171	0	0	How to create elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_14	5p0	0	0	6	172	0	0	How to create elements in a queue data structure ?
+data	NOUN	0	5p0_pert_14	5p0	0	0	7	173	0	0	How to create elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_14	5p0	0	0	8	174	0	0	How to create elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_14	5p0	0	0	9	175	0	0	How to create elements in a queue data structure ?
+15	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_14	5p0	0	-1	-1		1	2	How to create elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_15	5p0	0	0	0	177	0	0	How to identify elements in a queue data structure ?
+to	PART	0	5p0_pert_15	5p0	0	0	1	178	0	0	How to identify elements in a queue data structure ?
+identify	VERB	0	5p0_pert_15	5p0	0	1	2	179	0	0	How to identify elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_15	5p0	0	0	3	180	0	0	How to identify elements in a queue data structure ?
+in	ADP	0	5p0_pert_15	5p0	0	0	4	181	0	0	How to identify elements in a queue data structure ?
+a	DET	0	5p0_pert_15	5p0	0	0	5	182	0	0	How to identify elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_15	5p0	0	0	6	183	0	0	How to identify elements in a queue data structure ?
+data	NOUN	0	5p0_pert_15	5p0	0	0	7	184	0	0	How to identify elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_15	5p0	0	0	8	185	0	0	How to identify elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_15	5p0	0	0	9	186	0	0	How to identify elements in a queue data structure ?
+16	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_15	5p0	0	-1	-1		1	2	How to identify elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_16	5p0	0	0	0	188	0	0	How to process elements in a queue data structure ?
+to	PART	0	5p0_pert_16	5p0	0	0	1	189	0	0	How to process elements in a queue data structure ?
+process	VERB	0	5p0_pert_16	5p0	0	1	2	190	0	0	How to process elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_16	5p0	0	0	3	191	0	0	How to process elements in a queue data structure ?
+in	ADP	0	5p0_pert_16	5p0	0	0	4	192	0	0	How to process elements in a queue data structure ?
+a	DET	0	5p0_pert_16	5p0	0	0	5	193	0	0	How to process elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_16	5p0	0	0	6	194	0	0	How to process elements in a queue data structure ?
+data	NOUN	0	5p0_pert_16	5p0	0	0	7	195	0	0	How to process elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_16	5p0	0	0	8	196	0	0	How to process elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_16	5p0	0	0	9	197	0	0	How to process elements in a queue data structure ?
+17	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_16	5p0	0	-1	-1		1	2	How to process elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_17	5p0	0	0	0	199	0	0	How to access elements in a queue data structure ?
+to	PART	0	5p0_pert_17	5p0	0	0	1	200	0	0	How to access elements in a queue data structure ?
+access	VERB	0	5p0_pert_17	5p0	0	1	2	201	0	0	How to access elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_17	5p0	0	0	3	202	0	0	How to access elements in a queue data structure ?
+in	ADP	0	5p0_pert_17	5p0	0	0	4	203	0	0	How to access elements in a queue data structure ?
+a	DET	0	5p0_pert_17	5p0	0	0	5	204	0	0	How to access elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_17	5p0	0	0	6	205	0	0	How to access elements in a queue data structure ?
+data	NOUN	0	5p0_pert_17	5p0	0	0	7	206	0	0	How to access elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_17	5p0	0	0	8	207	0	0	How to access elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_17	5p0	0	0	9	208	0	0	How to access elements in a queue data structure ?
+18	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_17	5p0	0	-1	-1		1	2	How to access elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_18	5p0	0	0	0	210	0	0	How to order elements in a queue data structure ?
+to	PART	0	5p0_pert_18	5p0	0	0	1	211	0	0	How to order elements in a queue data structure ?
+order	VERB	0	5p0_pert_18	5p0	0	1	2	212	0	0	How to order elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_18	5p0	0	0	3	213	0	0	How to order elements in a queue data structure ?
+in	ADP	0	5p0_pert_18	5p0	0	0	4	214	0	0	How to order elements in a queue data structure ?
+a	DET	0	5p0_pert_18	5p0	0	0	5	215	0	0	How to order elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_18	5p0	0	0	6	216	0	0	How to order elements in a queue data structure ?
+data	NOUN	0	5p0_pert_18	5p0	0	0	7	217	0	0	How to order elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_18	5p0	0	0	8	218	0	0	How to order elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_18	5p0	0	0	9	219	0	0	How to order elements in a queue data structure ?
+19	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_18	5p0	0	-1	-1		1	2	How to order elements in a queue data structure ?
+How	SCONJ	0	5p0_pert_19	5p0	0	0	0	221	0	0	How to implement elements in a queue data structure ?
+to	PART	0	5p0_pert_19	5p0	0	0	1	222	0	0	How to implement elements in a queue data structure ?
+implement	VERB	0	5p0_pert_19	5p0	0	1	2	223	0	0	How to implement elements in a queue data structure ?
+elements	NOUN	0	5p0_pert_19	5p0	0	0	3	224	0	0	How to implement elements in a queue data structure ?
+in	ADP	0	5p0_pert_19	5p0	0	0	4	225	0	0	How to implement elements in a queue data structure ?
+a	DET	0	5p0_pert_19	5p0	0	0	5	226	0	0	How to implement elements in a queue data structure ?
+queue	NOUN	1	5p0_pert_19	5p0	0	0	6	227	0	0	How to implement elements in a queue data structure ?
+data	NOUN	0	5p0_pert_19	5p0	0	0	7	228	0	0	How to implement elements in a queue data structure ?
+structure	NOUN	0	5p0_pert_19	5p0	0	0	8	229	0	0	How to implement elements in a queue data structure ?
+?	PUNCT	0	5p0_pert_19	5p0	0	0	9	230	0	0	How to implement elements in a queue data structure ?
+20	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	5p0_pert_19	5p0	0	-1	-1		1	2	How to implement elements in a queue data structure ?

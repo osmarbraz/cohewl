@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+What	PRON	0	12	12	1	0	0	What is a stack and how to pop an element from it ?
+is	AUX	0	12	12	1	0	1	What is a stack and how to pop an element from it ?
+a	DET	0	12	12	1	0	2	What is a stack and how to pop an element from it ?
+stack	NOUN	0	12	12	1	1	3	What is a stack and how to pop an element from it ?
+and	CCONJ	0	12	12	1	0	4	What is a stack and how to pop an element from it ?
+how	SCONJ	0	12	12	1	0	5	What is a stack and how to pop an element from it ?
+to	PART	0	12	12	1	0	6	What is a stack and how to pop an element from it ?
+pop	VERB	0	12	12	1	0	7	What is a stack and how to pop an element from it ?
+an	DET	0	12	12	1	0	8	What is a stack and how to pop an element from it ?
+element	NOUN	0	12	12	1	0	9	What is a stack and how to pop an element from it ?
+from	ADP	0	12	12	1	0	10	What is a stack and how to pop an element from it ?
+it	PRON	0	12	12	1	0	11	What is a stack and how to pop an element from it ?
+?	PUNCT	0	12	12	1	0	12	What is a stack and how to pop an element from it ?
+What	PRON	0	12_pert_0	12	0	0	0	What is a queue and how to pop an element from it ?
+is	AUX	0	12_pert_0	12	0	0	1	What is a queue and how to pop an element from it ?
+a	DET	0	12_pert_0	12	0	0	2	What is a queue and how to pop an element from it ?
+queue	NOUN	1	12_pert_0	12	0	1	3	What is a queue and how to pop an element from it ?
+and	CCONJ	0	12_pert_0	12	0	0	4	What is a queue and how to pop an element from it ?
+how	SCONJ	0	12_pert_0	12	0	0	5	What is a queue and how to pop an element from it ?
+to	PART	0	12_pert_0	12	0	0	6	What is a queue and how to pop an element from it ?
+pop	VERB	0	12_pert_0	12	0	0	7	What is a queue and how to pop an element from it ?
+an	DET	0	12_pert_0	12	0	0	8	What is a queue and how to pop an element from it ?
+element	NOUN	0	12_pert_0	12	0	0	9	What is a queue and how to pop an element from it ?
+from	ADP	0	12_pert_0	12	0	0	10	What is a queue and how to pop an element from it ?
+it	PRON	0	12_pert_0	12	0	0	11	What is a queue and how to pop an element from it ?
+?	PUNCT	0	12_pert_0	12	0	0	12	What is a queue and how to pop an element from it ?

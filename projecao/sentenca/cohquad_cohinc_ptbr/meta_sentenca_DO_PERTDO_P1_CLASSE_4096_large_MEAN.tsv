@@ -1,0 +1,41 @@
+Sentença	Id	Origem	Classe
+Como enfileirar elementos em uma fila ?	1	1	1
+Como enfileirar elementos em uma pilha ?	1_pert_0	1	0
+Como desenfileirar elementos em uma fila ?	2	2	1
+Como desenfileirar elementos em uma pilha ?	2_pert_0	2	0
+Como empilhar elementos em uma pilha ?	3	3	1
+Como empilhar elementos em uma fila ?	3_pert_0	3	0
+Como empilhar e desempilhar elementos em uma pilha ?	4	4	1
+Como empilhar e desempilhar elementos em uma fila ?	4_pert_0	4	0
+Como empilhar elementos em uma estrutura de dados pilha ?	5	5	1
+Como empilhar elementos em uma estrutura de dados fila ?	5_pert_0	5	0
+Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?	6	6	1
+Como empilhar e desempilhar elementos em uma estrutura de dados fila ?	6_pert_0	6	0
+Como desempilhar elementos em uma pilha ?	7	7	1
+Como desempilhar elementos em uma fila ?	7_pert_0	7	0
+Como desempilhar elementos em uma estrutura de dados pilha ?	8	8	1
+Como desempilhar elementos em uma estrutura de dados fila ?	8_pert_0	8	0
+O que é uma pilha e como empilhar seu elemento ?	9	9	1
+O que é uma fila e como empilhar seu elemento ?	9_pert_0	9	0
+O que é uma fila e como enfileirar seu elemento ?	10	10	1
+O que é uma pilha e como enfileirar seu elemento ?	10_pert_0	10	0
+O que é uma fila e como desenfileirar um elemento nela ?	11	11	1
+O que é uma pilha e como desenfileirar um elemento nela ?	11_pert_0	11	0
+O que é uma pilha e como desempilhar um elemento nela ?	12	12	1
+O que é uma fila e como desempilhar um elemento nela ?	12_pert_0	12	0
+O que é uma fila e como enfileirar um elemento nela ?	13	13	1
+O que é uma pilha e como enfileirar um elemento nela ?	13_pert_0	13	0
+O que é uma pilha e como empilhar um elemento nela ?	14	14	1
+O que é uma fila e como empilhar um elemento nela ?	14_pert_0	14	0
+O que é uma pilha e como empilhar e desempilhar seus elementos ?	15	15	1
+O que é uma fila e como empilhar e desempilhar seus elementos ?	15_pert_0	15	0
+O que é uma fila e como enfileirar e desenfileirar seus elementos ?	16	16	1
+O que é uma pilha e como enfileirar e desenfileirar seus elementos ?	16_pert_0	16	0
+Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha ?	17	17	1
+Como são implementadas as operações de empilhar e desempilhar elementos em uma fila ?	17_pert_0	17	0
+Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?	18	18	1
+Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?	18_pert_0	18	0
+Em uma pilha a operação de empilhar ocorre em qual extremidade ?	19	19	1
+Em uma pilha a operação de enfileirar ocorre em qual extremidade ?	19_pert_0	19	0
+Em uma fila a operação de enfileirar ocorre em qual extremidade ?	20	20	1
+Em uma fila a operação de empilhar ocorre em qual extremidade ?	20_pert_0	20	0

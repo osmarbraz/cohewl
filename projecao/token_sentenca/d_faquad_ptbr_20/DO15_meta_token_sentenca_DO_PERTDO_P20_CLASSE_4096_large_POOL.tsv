@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	0	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	1	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	2	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+produzidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	1	3	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	4	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	5	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	6	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	0	7	0	1	Por quem eram produzidas as tabelas logarítmicas ?
+Por quem eram produzidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef	2c5c585eebcf49e1b6ceb926a85cceef	1	-1	-1	1	3	Por quem eram produzidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram feitas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram feitas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram feitas as tabelas logarítmicas ?
+feitas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram feitas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram feitas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram feitas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram feitas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram feitas as tabelas logarítmicas ?
+Por quem eram feitas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_0	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram feitas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram escritas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram escritas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram escritas as tabelas logarítmicas ?
+escritas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram escritas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram escritas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram escritas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram escritas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram escritas as tabelas logarítmicas ?
+Por quem eram escritas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_1	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram escritas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram usadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram usadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram usadas as tabelas logarítmicas ?
+usadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram usadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram usadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram usadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram usadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram usadas as tabelas logarítmicas ?
+Por quem eram usadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_2	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram usadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+utilizadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram utilizadas as tabelas logarítmicas ?
+Por quem eram utilizadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_3	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram utilizadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram criadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram criadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram criadas as tabelas logarítmicas ?
+criadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram criadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram criadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram criadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram criadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram criadas as tabelas logarítmicas ?
+Por quem eram criadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_4	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram criadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+produzidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram produzidas as tabelas logarítmicas ?
+Por quem eram produzidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_5	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram produzidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram construídas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram construídas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram construídas as tabelas logarítmicas ?
+construídas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram construídas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram construídas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram construídas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram construídas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram construídas as tabelas logarítmicas ?
+Por quem eram construídas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_6	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram construídas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+conhecidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram conhecidas as tabelas logarítmicas ?
+Por quem eram conhecidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_7	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram conhecidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+realizadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram realizadas as tabelas logarítmicas ?
+Por quem eram realizadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_8	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram realizadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+obtidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram obtidas as tabelas logarítmicas ?
+Por quem eram obtidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_9	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram obtidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram compostas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram compostas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram compostas as tabelas logarítmicas ?
+compostas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram compostas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram compostas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram compostas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram compostas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram compostas as tabelas logarítmicas ?
+Por quem eram compostas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_10	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram compostas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+apresentadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram apresentadas as tabelas logarítmicas ?
+Por quem eram apresentadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_11	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram apresentadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+desenvolvidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram desenvolvidas as tabelas logarítmicas ?
+Por quem eram desenvolvidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_12	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram desenvolvidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+organizadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram organizadas as tabelas logarítmicas ?
+Por quem eram organizadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_13	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram organizadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram formadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram formadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram formadas as tabelas logarítmicas ?
+formadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram formadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram formadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram formadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram formadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram formadas as tabelas logarítmicas ?
+Por quem eram formadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_14	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram formadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram executadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram executadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram executadas as tabelas logarítmicas ?
+executadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram executadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram executadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram executadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram executadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram executadas as tabelas logarítmicas ?
+Por quem eram executadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_15	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram executadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram dadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram dadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram dadas as tabelas logarítmicas ?
+dadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram dadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram dadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram dadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram dadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram dadas as tabelas logarítmicas ?
+Por quem eram dadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_16	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram dadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+enviadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram enviadas as tabelas logarítmicas ?
+Por quem eram enviadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_17	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram enviadas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+estabelecidas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram estabelecidas as tabelas logarítmicas ?
+Por quem eram estabelecidas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_18	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram estabelecidas as tabelas logarítmicas ?
+Por	ADP	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	0	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+quem	PRON	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	1	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+eram	AUX	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	2	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+publicadas	VERB	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	1	3	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+as	DET	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	4	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+tabelas	NOUN	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	5	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+logarítmicas	ADJ	1	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	6	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+?	PUNCT	0	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	0	7	0	0	Por quem eram publicadas as tabelas logarítmicas ?
+Por quem eram publicadas as tabelas logarítmicas ?	['ADP', 'PRON', 'AUX', 'VERB', 'DET', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	2c5c585eebcf49e1b6ceb926a85cceef_pert_19	2c5c585eebcf49e1b6ceb926a85cceef	0	-1	-1	1	2	Por quem eram publicadas as tabelas logarítmicas ?

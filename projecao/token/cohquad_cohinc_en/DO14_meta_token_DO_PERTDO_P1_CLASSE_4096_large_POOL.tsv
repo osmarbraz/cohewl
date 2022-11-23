@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+What	PRON	0	14	14	1	0	0	What is a stack and how to push an element on it ?
+is	AUX	0	14	14	1	0	1	What is a stack and how to push an element on it ?
+a	DET	0	14	14	1	0	2	What is a stack and how to push an element on it ?
+stack	NOUN	0	14	14	1	1	3	What is a stack and how to push an element on it ?
+and	CCONJ	0	14	14	1	0	4	What is a stack and how to push an element on it ?
+how	SCONJ	0	14	14	1	0	5	What is a stack and how to push an element on it ?
+to	PART	0	14	14	1	0	6	What is a stack and how to push an element on it ?
+push	VERB	0	14	14	1	0	7	What is a stack and how to push an element on it ?
+an	DET	0	14	14	1	0	8	What is a stack and how to push an element on it ?
+element	NOUN	0	14	14	1	0	9	What is a stack and how to push an element on it ?
+on	ADP	0	14	14	1	0	10	What is a stack and how to push an element on it ?
+it	PRON	0	14	14	1	0	11	What is a stack and how to push an element on it ?
+?	PUNCT	0	14	14	1	0	12	What is a stack and how to push an element on it ?
+What	PRON	0	14_pert_0	14	0	0	0	What is a queue and how to push an element on it ?
+is	AUX	0	14_pert_0	14	0	0	1	What is a queue and how to push an element on it ?
+a	DET	0	14_pert_0	14	0	0	2	What is a queue and how to push an element on it ?
+queue	NOUN	1	14_pert_0	14	0	1	3	What is a queue and how to push an element on it ?
+and	CCONJ	0	14_pert_0	14	0	0	4	What is a queue and how to push an element on it ?
+how	SCONJ	0	14_pert_0	14	0	0	5	What is a queue and how to push an element on it ?
+to	PART	0	14_pert_0	14	0	0	6	What is a queue and how to push an element on it ?
+push	VERB	0	14_pert_0	14	0	0	7	What is a queue and how to push an element on it ?
+an	DET	0	14_pert_0	14	0	0	8	What is a queue and how to push an element on it ?
+element	NOUN	0	14_pert_0	14	0	0	9	What is a queue and how to push an element on it ?
+on	ADP	0	14_pert_0	14	0	0	10	What is a queue and how to push an element on it ?
+it	PRON	0	14_pert_0	14	0	0	11	What is a queue and how to push an element on it ?
+?	PUNCT	0	14_pert_0	14	0	0	12	What is a queue and how to push an element on it ?

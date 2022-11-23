@@ -1,0 +1,15 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	SCONJ	0	1	1	1	0	0	1	Como enfileirar elementos em uma fila ?
+enfileirar	VERB	1	1	1	1	0	1	2	Como enfileirar elementos em uma fila ?
+elementos	NOUN	0	1	1	1	0	2	3	Como enfileirar elementos em uma fila ?
+em	ADP	0	1	1	1	0	3	4	Como enfileirar elementos em uma fila ?
+uma	DET	0	1	1	1	0	4	5	Como enfileirar elementos em uma fila ?
+fila	NOUN	1	1	1	1	1	5	6	Como enfileirar elementos em uma fila ?
+?	PUNCT	0	1	1	1	0	6		Como enfileirar elementos em uma fila ?
+Como	SCONJ	0	1_pert_0	1	0	0	0	8	Como enfileirar elementos em uma pilha ?
+enfileirar	VERB	1	1_pert_0	1	0	0	1	9	Como enfileirar elementos em uma pilha ?
+elementos	NOUN	0	1_pert_0	1	0	0	2	10	Como enfileirar elementos em uma pilha ?
+em	ADP	0	1_pert_0	1	0	0	3	11	Como enfileirar elementos em uma pilha ?
+uma	DET	0	1_pert_0	1	0	0	4	12	Como enfileirar elementos em uma pilha ?
+pilha	NOUN	0	1_pert_0	1	0	1	5	13	Como enfileirar elementos em uma pilha ?
+?	PUNCT	0	1_pert_0	1	0	0	6		Como enfileirar elementos em uma pilha ?

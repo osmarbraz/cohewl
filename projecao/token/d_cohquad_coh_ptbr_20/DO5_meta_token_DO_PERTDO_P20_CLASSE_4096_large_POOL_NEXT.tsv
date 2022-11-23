@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	SCONJ	0	5	5	1	0	0	1	Como empilhar elementos em uma estrutura de dados pilha ?
+empilhar	VERB	1	5	5	1	1	1	2	Como empilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5	5	1	0	2	3	Como empilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5	5	1	0	3	4	Como empilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5	5	1	0	4	5	Como empilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5	5	1	0	5	6	Como empilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5	5	1	0	6	7	Como empilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5	5	1	0	7	8	Como empilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5	5	1	0	8	9	Como empilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5	5	1	0	9		Como empilhar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_0	5	0	0	0	11	Como identificar elementos em uma estrutura de dados pilha ?
+identificar	VERB	0	5_pert_0	5	0	1	1	12	Como identificar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_0	5	0	0	2	13	Como identificar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_0	5	0	0	3	14	Como identificar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_0	5	0	0	4	15	Como identificar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_0	5	0	0	5	16	Como identificar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_0	5	0	0	6	17	Como identificar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_0	5	0	0	7	18	Como identificar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_0	5	0	0	8	19	Como identificar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_0	5	0	0	9		Como identificar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_1	5	0	0	0	21	Como adicionar elementos em uma estrutura de dados pilha ?
+adicionar	VERB	0	5_pert_1	5	0	1	1	22	Como adicionar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_1	5	0	0	2	23	Como adicionar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_1	5	0	0	3	24	Como adicionar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_1	5	0	0	4	25	Como adicionar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_1	5	0	0	5	26	Como adicionar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_1	5	0	0	6	27	Como adicionar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_1	5	0	0	7	28	Como adicionar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_1	5	0	0	8	29	Como adicionar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_1	5	0	0	9		Como adicionar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_2	5	0	0	0	31	Como obter elementos em uma estrutura de dados pilha ?
+obter	VERB	0	5_pert_2	5	0	1	1	32	Como obter elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_2	5	0	0	2	33	Como obter elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_2	5	0	0	3	34	Como obter elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_2	5	0	0	4	35	Como obter elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_2	5	0	0	5	36	Como obter elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_2	5	0	0	6	37	Como obter elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_2	5	0	0	7	38	Como obter elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_2	5	0	0	8	39	Como obter elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_2	5	0	0	9		Como obter elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_3	5	0	0	0	41	Como encontrar elementos em uma estrutura de dados pilha ?
+encontrar	VERB	0	5_pert_3	5	0	1	1	42	Como encontrar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_3	5	0	0	2	43	Como encontrar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_3	5	0	0	3	44	Como encontrar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_3	5	0	0	4	45	Como encontrar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_3	5	0	0	5	46	Como encontrar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_3	5	0	0	6	47	Como encontrar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_3	5	0	0	7	48	Como encontrar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_3	5	0	0	8	49	Como encontrar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_3	5	0	0	9		Como encontrar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_4	5	0	0	0	51	Como definir elementos em uma estrutura de dados pilha ?
+definir	VERB	0	5_pert_4	5	0	1	1	52	Como definir elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_4	5	0	0	2	53	Como definir elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_4	5	0	0	3	54	Como definir elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_4	5	0	0	4	55	Como definir elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_4	5	0	0	5	56	Como definir elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_4	5	0	0	6	57	Como definir elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_4	5	0	0	7	58	Como definir elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_4	5	0	0	8	59	Como definir elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_4	5	0	0	9		Como definir elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_5	5	0	0	0	61	Como introduzir elementos em uma estrutura de dados pilha ?
+introduzir	VERB	0	5_pert_5	5	0	1	1	62	Como introduzir elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_5	5	0	0	2	63	Como introduzir elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_5	5	0	0	3	64	Como introduzir elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_5	5	0	0	4	65	Como introduzir elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_5	5	0	0	5	66	Como introduzir elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_5	5	0	0	6	67	Como introduzir elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_5	5	0	0	7	68	Como introduzir elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_5	5	0	0	8	69	Como introduzir elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_5	5	0	0	9		Como introduzir elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_6	5	0	0	0	71	Como localizar elementos em uma estrutura de dados pilha ?
+localizar	VERB	0	5_pert_6	5	0	1	1	72	Como localizar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_6	5	0	0	2	73	Como localizar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_6	5	0	0	3	74	Como localizar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_6	5	0	0	4	75	Como localizar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_6	5	0	0	5	76	Como localizar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_6	5	0	0	6	77	Como localizar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_6	5	0	0	7	78	Como localizar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_6	5	0	0	8	79	Como localizar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_6	5	0	0	9		Como localizar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_7	5	0	0	0	81	Como reconhecer elementos em uma estrutura de dados pilha ?
+reconhecer	VERB	0	5_pert_7	5	0	1	1	82	Como reconhecer elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_7	5	0	0	2	83	Como reconhecer elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_7	5	0	0	3	84	Como reconhecer elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_7	5	0	0	4	85	Como reconhecer elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_7	5	0	0	5	86	Como reconhecer elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_7	5	0	0	6	87	Como reconhecer elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_7	5	0	0	7	88	Como reconhecer elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_7	5	0	0	8	89	Como reconhecer elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_7	5	0	0	9		Como reconhecer elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_8	5	0	0	0	91	Como incluir elementos em uma estrutura de dados pilha ?
+incluir	VERB	0	5_pert_8	5	0	1	1	92	Como incluir elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_8	5	0	0	2	93	Como incluir elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_8	5	0	0	3	94	Como incluir elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_8	5	0	0	4	95	Como incluir elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_8	5	0	0	5	96	Como incluir elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_8	5	0	0	6	97	Como incluir elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_8	5	0	0	7	98	Como incluir elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_8	5	0	0	8	99	Como incluir elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_8	5	0	0	9		Como incluir elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_9	5	0	0	0	101	Como organizar elementos em uma estrutura de dados pilha ?
+organizar	VERB	0	5_pert_9	5	0	1	1	102	Como organizar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_9	5	0	0	2	103	Como organizar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_9	5	0	0	3	104	Como organizar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_9	5	0	0	4	105	Como organizar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_9	5	0	0	5	106	Como organizar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_9	5	0	0	6	107	Como organizar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_9	5	0	0	7	108	Como organizar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_9	5	0	0	8	109	Como organizar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_9	5	0	0	9		Como organizar elementos em uma estrutura de dados pilha ?
+Como	ADV	0	5_pert_10	5	0	0	0	111	Como criar elementos em uma estrutura de dados pilha ?
+criar	VERB	0	5_pert_10	5	0	1	1	112	Como criar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_10	5	0	0	2	113	Como criar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_10	5	0	0	3	114	Como criar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_10	5	0	0	4	115	Como criar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_10	5	0	0	5	116	Como criar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_10	5	0	0	6	117	Como criar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_10	5	0	0	7	118	Como criar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_10	5	0	0	8	119	Como criar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_10	5	0	0	9		Como criar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_11	5	0	0	0	121	Como construir elementos em uma estrutura de dados pilha ?
+construir	VERB	0	5_pert_11	5	0	1	1	122	Como construir elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_11	5	0	0	2	123	Como construir elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_11	5	0	0	3	124	Como construir elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_11	5	0	0	4	125	Como construir elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_11	5	0	0	5	126	Como construir elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_11	5	0	0	6	127	Como construir elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_11	5	0	0	7	128	Como construir elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_11	5	0	0	8	129	Como construir elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_11	5	0	0	9		Como construir elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_12	5	0	0	0	131	Como colocar elementos em uma estrutura de dados pilha ?
+colocar	VERB	0	5_pert_12	5	0	1	1	132	Como colocar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_12	5	0	0	2	133	Como colocar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_12	5	0	0	3	134	Como colocar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_12	5	0	0	4	135	Como colocar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_12	5	0	0	5	136	Como colocar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_12	5	0	0	6	137	Como colocar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_12	5	0	0	7	138	Como colocar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_12	5	0	0	8	139	Como colocar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_12	5	0	0	9		Como colocar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_13	5	0	0	0	141	Como representar elementos em uma estrutura de dados pilha ?
+representar	VERB	0	5_pert_13	5	0	1	1	142	Como representar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_13	5	0	0	2	143	Como representar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_13	5	0	0	3	144	Como representar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_13	5	0	0	4	145	Como representar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_13	5	0	0	5	146	Como representar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_13	5	0	0	6	147	Como representar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_13	5	0	0	7	148	Como representar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_13	5	0	0	8	149	Como representar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_13	5	0	0	9		Como representar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_14	5	0	0	0	151	Como buscar elementos em uma estrutura de dados pilha ?
+buscar	VERB	0	5_pert_14	5	0	1	1	152	Como buscar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_14	5	0	0	2	153	Como buscar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_14	5	0	0	3	154	Como buscar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_14	5	0	0	4	155	Como buscar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_14	5	0	0	5	156	Como buscar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_14	5	0	0	6	157	Como buscar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_14	5	0	0	7	158	Como buscar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_14	5	0	0	8	159	Como buscar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_14	5	0	0	9		Como buscar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_15	5	0	0	0	161	Como escrever elementos em uma estrutura de dados pilha ?
+escrever	VERB	0	5_pert_15	5	0	1	1	162	Como escrever elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_15	5	0	0	2	163	Como escrever elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_15	5	0	0	3	164	Como escrever elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_15	5	0	0	4	165	Como escrever elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_15	5	0	0	5	166	Como escrever elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_15	5	0	0	6	167	Como escrever elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_15	5	0	0	7	168	Como escrever elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_15	5	0	0	8	169	Como escrever elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_15	5	0	0	9		Como escrever elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_16	5	0	0	0	171	Como classificar elementos em uma estrutura de dados pilha ?
+classificar	VERB	0	5_pert_16	5	0	1	1	172	Como classificar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_16	5	0	0	2	173	Como classificar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_16	5	0	0	3	174	Como classificar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_16	5	0	0	4	175	Como classificar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_16	5	0	0	5	176	Como classificar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_16	5	0	0	6	177	Como classificar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_16	5	0	0	7	178	Como classificar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_16	5	0	0	8	179	Como classificar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_16	5	0	0	9		Como classificar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_17	5	0	0	0	181	Como analisar elementos em uma estrutura de dados pilha ?
+analisar	VERB	0	5_pert_17	5	0	1	1	182	Como analisar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_17	5	0	0	2	183	Como analisar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_17	5	0	0	3	184	Como analisar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_17	5	0	0	4	185	Como analisar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_17	5	0	0	5	186	Como analisar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_17	5	0	0	6	187	Como analisar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_17	5	0	0	7	188	Como analisar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_17	5	0	0	8	189	Como analisar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_17	5	0	0	9		Como analisar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_18	5	0	0	0	191	Como procurar elementos em uma estrutura de dados pilha ?
+procurar	VERB	0	5_pert_18	5	0	1	1	192	Como procurar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_18	5	0	0	2	193	Como procurar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_18	5	0	0	3	194	Como procurar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_18	5	0	0	4	195	Como procurar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_18	5	0	0	5	196	Como procurar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_18	5	0	0	6	197	Como procurar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_18	5	0	0	7	198	Como procurar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_18	5	0	0	8	199	Como procurar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_18	5	0	0	9		Como procurar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	5_pert_19	5	0	0	0	201	Como utilizar elementos em uma estrutura de dados pilha ?
+utilizar	VERB	0	5_pert_19	5	0	1	1	202	Como utilizar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	5_pert_19	5	0	0	2	203	Como utilizar elementos em uma estrutura de dados pilha ?
+em	ADP	0	5_pert_19	5	0	0	3	204	Como utilizar elementos em uma estrutura de dados pilha ?
+uma	DET	0	5_pert_19	5	0	0	4	205	Como utilizar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	5_pert_19	5	0	0	5	206	Como utilizar elementos em uma estrutura de dados pilha ?
+de	ADP	0	5_pert_19	5	0	0	6	207	Como utilizar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	5_pert_19	5	0	0	7	208	Como utilizar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	5_pert_19	5	0	0	8	209	Como utilizar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	5_pert_19	5	0	0	9		Como utilizar elementos em uma estrutura de dados pilha ?

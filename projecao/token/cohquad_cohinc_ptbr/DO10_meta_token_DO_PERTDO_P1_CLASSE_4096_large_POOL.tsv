@@ -1,0 +1,23 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+O	PRON	0	10	10	1	0	0	O que é uma fila e como enfileirar seu elemento ?
+que	PRON	0	10	10	1	0	1	O que é uma fila e como enfileirar seu elemento ?
+é	AUX	0	10	10	1	0	2	O que é uma fila e como enfileirar seu elemento ?
+uma	DET	0	10	10	1	0	3	O que é uma fila e como enfileirar seu elemento ?
+fila	NOUN	1	10	10	1	1	4	O que é uma fila e como enfileirar seu elemento ?
+e	CCONJ	0	10	10	1	0	5	O que é uma fila e como enfileirar seu elemento ?
+como	ADV	0	10	10	1	0	6	O que é uma fila e como enfileirar seu elemento ?
+enfileirar	VERB	1	10	10	1	0	7	O que é uma fila e como enfileirar seu elemento ?
+seu	DET	0	10	10	1	0	8	O que é uma fila e como enfileirar seu elemento ?
+elemento	NOUN	0	10	10	1	0	9	O que é uma fila e como enfileirar seu elemento ?
+?	PUNCT	0	10	10	1	0	10	O que é uma fila e como enfileirar seu elemento ?
+O	PRON	0	10_pert_0	10	0	0	0	O que é uma pilha e como enfileirar seu elemento ?
+que	PRON	0	10_pert_0	10	0	0	1	O que é uma pilha e como enfileirar seu elemento ?
+é	AUX	0	10_pert_0	10	0	0	2	O que é uma pilha e como enfileirar seu elemento ?
+uma	DET	0	10_pert_0	10	0	0	3	O que é uma pilha e como enfileirar seu elemento ?
+pilha	NOUN	0	10_pert_0	10	0	1	4	O que é uma pilha e como enfileirar seu elemento ?
+e	CCONJ	0	10_pert_0	10	0	0	5	O que é uma pilha e como enfileirar seu elemento ?
+como	ADV	0	10_pert_0	10	0	0	6	O que é uma pilha e como enfileirar seu elemento ?
+enfileirar	VERB	1	10_pert_0	10	0	0	7	O que é uma pilha e como enfileirar seu elemento ?
+seu	DET	0	10_pert_0	10	0	0	8	O que é uma pilha e como enfileirar seu elemento ?
+elemento	NOUN	0	10_pert_0	10	0	0	9	O que é uma pilha e como enfileirar seu elemento ?
+?	PUNCT	0	10_pert_0	10	0	0	10	O que é uma pilha e como enfileirar seu elemento ?

@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	0	1	0	1	Quais órgãos centrais são comuns em universidades ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	1	2	0	1	Quais órgãos centrais são comuns em universidades ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	2	3	0	1	Quais órgãos centrais são comuns em universidades ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	3	4	0	1	Quais órgãos centrais são comuns em universidades ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	4	5	0	1	Quais órgãos centrais são comuns em universidades ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	5	6	0	1	Quais órgãos centrais são comuns em universidades ?
+universidades	NOUN	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	1	6	7	0	1	Quais órgãos centrais são comuns em universidades ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	0	7	8	0	1	Quais órgãos centrais são comuns em universidades ?
+Quais órgãos centrais são comuns em universidades ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf	483b327d3f80408fa56ffa3e3778aabf	1	-1	-1		1	3	Quais órgãos centrais são comuns em universidades ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	0	10	0	0	Quais órgãos centrais são comuns em animais ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	1	11	0	0	Quais órgãos centrais são comuns em animais ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	2	12	0	0	Quais órgãos centrais são comuns em animais ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	3	13	0	0	Quais órgãos centrais são comuns em animais ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	4	14	0	0	Quais órgãos centrais são comuns em animais ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	5	15	0	0	Quais órgãos centrais são comuns em animais ?
+animais	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	1	6	16	0	0	Quais órgãos centrais são comuns em animais ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	0	7	17	0	0	Quais órgãos centrais são comuns em animais ?
+Quais órgãos centrais são comuns em animais ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_0	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em animais ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	0	19	0	0	Quais órgãos centrais são comuns em humanos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	1	20	0	0	Quais órgãos centrais são comuns em humanos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	2	21	0	0	Quais órgãos centrais são comuns em humanos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	3	22	0	0	Quais órgãos centrais são comuns em humanos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	4	23	0	0	Quais órgãos centrais são comuns em humanos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	5	24	0	0	Quais órgãos centrais são comuns em humanos ?
+humanos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	1	6	25	0	0	Quais órgãos centrais são comuns em humanos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	0	7	26	0	0	Quais órgãos centrais são comuns em humanos ?
+Quais órgãos centrais são comuns em humanos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_1	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em humanos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	0	28	0	0	Quais órgãos centrais são comuns em cães ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	1	29	0	0	Quais órgãos centrais são comuns em cães ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	2	30	0	0	Quais órgãos centrais são comuns em cães ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	3	31	0	0	Quais órgãos centrais são comuns em cães ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	4	32	0	0	Quais órgãos centrais são comuns em cães ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	5	33	0	0	Quais órgãos centrais são comuns em cães ?
+cães	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	1	6	34	0	0	Quais órgãos centrais são comuns em cães ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	0	7	35	0	0	Quais órgãos centrais são comuns em cães ?
+Quais órgãos centrais são comuns em cães ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_2	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em cães ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	0	37	0	0	Quais órgãos centrais são comuns em crianças ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	1	38	0	0	Quais órgãos centrais são comuns em crianças ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	2	39	0	0	Quais órgãos centrais são comuns em crianças ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	3	40	0	0	Quais órgãos centrais são comuns em crianças ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	4	41	0	0	Quais órgãos centrais são comuns em crianças ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	5	42	0	0	Quais órgãos centrais são comuns em crianças ?
+crianças	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	1	6	43	0	0	Quais órgãos centrais são comuns em crianças ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	0	7	44	0	0	Quais órgãos centrais são comuns em crianças ?
+Quais órgãos centrais são comuns em crianças ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_3	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em crianças ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	0	46	0	0	Quais órgãos centrais são comuns em mamíferos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	1	47	0	0	Quais órgãos centrais são comuns em mamíferos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	2	48	0	0	Quais órgãos centrais são comuns em mamíferos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	3	49	0	0	Quais órgãos centrais são comuns em mamíferos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	4	50	0	0	Quais órgãos centrais são comuns em mamíferos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	5	51	0	0	Quais órgãos centrais são comuns em mamíferos ?
+mamíferos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	1	6	52	0	0	Quais órgãos centrais são comuns em mamíferos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	0	7	53	0	0	Quais órgãos centrais são comuns em mamíferos ?
+Quais órgãos centrais são comuns em mamíferos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_4	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em mamíferos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	0	55	0	0	Quais órgãos centrais são comuns em mulheres ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	1	56	0	0	Quais órgãos centrais são comuns em mulheres ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	2	57	0	0	Quais órgãos centrais são comuns em mulheres ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	3	58	0	0	Quais órgãos centrais são comuns em mulheres ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	4	59	0	0	Quais órgãos centrais são comuns em mulheres ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	5	60	0	0	Quais órgãos centrais são comuns em mulheres ?
+mulheres	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	1	6	61	0	0	Quais órgãos centrais são comuns em mulheres ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	0	7	62	0	0	Quais órgãos centrais são comuns em mulheres ?
+Quais órgãos centrais são comuns em mulheres ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_5	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em mulheres ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	0	64	0	0	Quais órgãos centrais são comuns em gatos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	1	65	0	0	Quais órgãos centrais são comuns em gatos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	2	66	0	0	Quais órgãos centrais são comuns em gatos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	3	67	0	0	Quais órgãos centrais são comuns em gatos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	4	68	0	0	Quais órgãos centrais são comuns em gatos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	5	69	0	0	Quais órgãos centrais são comuns em gatos ?
+gatos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	1	6	70	0	0	Quais órgãos centrais são comuns em gatos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	0	7	71	0	0	Quais órgãos centrais são comuns em gatos ?
+Quais órgãos centrais são comuns em gatos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_6	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em gatos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	0	73	0	0	Quais órgãos centrais são comuns em adultos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	1	74	0	0	Quais órgãos centrais são comuns em adultos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	2	75	0	0	Quais órgãos centrais são comuns em adultos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	3	76	0	0	Quais órgãos centrais são comuns em adultos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	4	77	0	0	Quais órgãos centrais são comuns em adultos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	5	78	0	0	Quais órgãos centrais são comuns em adultos ?
+adultos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	1	6	79	0	0	Quais órgãos centrais são comuns em adultos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	0	7	80	0	0	Quais órgãos centrais são comuns em adultos ?
+Quais órgãos centrais são comuns em adultos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_7	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em adultos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	0	82	0	0	Quais órgãos centrais são comuns em homens ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	1	83	0	0	Quais órgãos centrais são comuns em homens ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	2	84	0	0	Quais órgãos centrais são comuns em homens ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	3	85	0	0	Quais órgãos centrais são comuns em homens ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	4	86	0	0	Quais órgãos centrais são comuns em homens ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	5	87	0	0	Quais órgãos centrais são comuns em homens ?
+homens	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	1	6	88	0	0	Quais órgãos centrais são comuns em homens ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	0	7	89	0	0	Quais órgãos centrais são comuns em homens ?
+Quais órgãos centrais são comuns em homens ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_8	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em homens ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	0	91	0	0	Quais órgãos centrais são comuns em peixes ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	1	92	0	0	Quais órgãos centrais são comuns em peixes ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	2	93	0	0	Quais órgãos centrais são comuns em peixes ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	3	94	0	0	Quais órgãos centrais são comuns em peixes ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	4	95	0	0	Quais órgãos centrais são comuns em peixes ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	5	96	0	0	Quais órgãos centrais são comuns em peixes ?
+peixes	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	1	6	97	0	0	Quais órgãos centrais são comuns em peixes ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	0	7	98	0	0	Quais órgãos centrais são comuns em peixes ?
+Quais órgãos centrais são comuns em peixes ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_9	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em peixes ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	0	100	0	0	Quais órgãos centrais são comuns em gêmeos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	1	101	0	0	Quais órgãos centrais são comuns em gêmeos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	2	102	0	0	Quais órgãos centrais são comuns em gêmeos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	3	103	0	0	Quais órgãos centrais são comuns em gêmeos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	4	104	0	0	Quais órgãos centrais são comuns em gêmeos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	5	105	0	0	Quais órgãos centrais são comuns em gêmeos ?
+gêmeos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	1	6	106	0	0	Quais órgãos centrais são comuns em gêmeos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	0	7	107	0	0	Quais órgãos centrais são comuns em gêmeos ?
+Quais órgãos centrais são comuns em gêmeos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_10	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em gêmeos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	0	109	0	0	Quais órgãos centrais são comuns em plantas ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	1	110	0	0	Quais órgãos centrais são comuns em plantas ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	2	111	0	0	Quais órgãos centrais são comuns em plantas ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	3	112	0	0	Quais órgãos centrais são comuns em plantas ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	4	113	0	0	Quais órgãos centrais são comuns em plantas ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	5	114	0	0	Quais órgãos centrais são comuns em plantas ?
+plantas	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	1	6	115	0	0	Quais órgãos centrais são comuns em plantas ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	0	7	116	0	0	Quais órgãos centrais são comuns em plantas ?
+Quais órgãos centrais são comuns em plantas ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_11	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em plantas ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	0	118	0	0	Quais órgãos centrais são comuns em pessoas ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	1	119	0	0	Quais órgãos centrais são comuns em pessoas ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	2	120	0	0	Quais órgãos centrais são comuns em pessoas ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	3	121	0	0	Quais órgãos centrais são comuns em pessoas ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	4	122	0	0	Quais órgãos centrais são comuns em pessoas ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	5	123	0	0	Quais órgãos centrais são comuns em pessoas ?
+pessoas	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	1	6	124	0	0	Quais órgãos centrais são comuns em pessoas ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	0	7	125	0	0	Quais órgãos centrais são comuns em pessoas ?
+Quais órgãos centrais são comuns em pessoas ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_12	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em pessoas ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	0	127	0	0	Quais órgãos centrais são comuns em você ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	1	128	0	0	Quais órgãos centrais são comuns em você ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	2	129	0	0	Quais órgãos centrais são comuns em você ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	3	130	0	0	Quais órgãos centrais são comuns em você ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	4	131	0	0	Quais órgãos centrais são comuns em você ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	5	132	0	0	Quais órgãos centrais são comuns em você ?
+você	PRON	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	1	6	133	0	0	Quais órgãos centrais são comuns em você ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	0	7	134	0	0	Quais órgãos centrais são comuns em você ?
+Quais órgãos centrais são comuns em você ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'PRON', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_13	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em você ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	0	136	0	0	Quais órgãos centrais são comuns em aves ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	1	137	0	0	Quais órgãos centrais são comuns em aves ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	2	138	0	0	Quais órgãos centrais são comuns em aves ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	3	139	0	0	Quais órgãos centrais são comuns em aves ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	4	140	0	0	Quais órgãos centrais são comuns em aves ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	5	141	0	0	Quais órgãos centrais são comuns em aves ?
+aves	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	1	6	142	0	0	Quais órgãos centrais são comuns em aves ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	0	7	143	0	0	Quais órgãos centrais são comuns em aves ?
+Quais órgãos centrais são comuns em aves ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_14	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em aves ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	0	145	0	0	Quais órgãos centrais são comuns em idosos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	1	146	0	0	Quais órgãos centrais são comuns em idosos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	2	147	0	0	Quais órgãos centrais são comuns em idosos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	3	148	0	0	Quais órgãos centrais são comuns em idosos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	4	149	0	0	Quais órgãos centrais são comuns em idosos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	5	150	0	0	Quais órgãos centrais são comuns em idosos ?
+idosos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	1	6	151	0	0	Quais órgãos centrais são comuns em idosos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	0	7	152	0	0	Quais órgãos centrais são comuns em idosos ?
+Quais órgãos centrais são comuns em idosos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_15	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em idosos ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	0	154	0	0	Quais órgãos centrais são comuns em nós ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	1	155	0	0	Quais órgãos centrais são comuns em nós ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	2	156	0	0	Quais órgãos centrais são comuns em nós ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	3	157	0	0	Quais órgãos centrais são comuns em nós ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	4	158	0	0	Quais órgãos centrais são comuns em nós ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	5	159	0	0	Quais órgãos centrais são comuns em nós ?
+nós	PRON	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	1	6	160	0	0	Quais órgãos centrais são comuns em nós ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	0	7	161	0	0	Quais órgãos centrais são comuns em nós ?
+Quais órgãos centrais são comuns em nós ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'PRON', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_16	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em nós ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	0	163	0	0	Quais órgãos centrais são comuns em atletas ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	1	164	0	0	Quais órgãos centrais são comuns em atletas ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	2	165	0	0	Quais órgãos centrais são comuns em atletas ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	3	166	0	0	Quais órgãos centrais são comuns em atletas ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	4	167	0	0	Quais órgãos centrais são comuns em atletas ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	5	168	0	0	Quais órgãos centrais são comuns em atletas ?
+atletas	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	1	6	169	0	0	Quais órgãos centrais são comuns em atletas ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	0	7	170	0	0	Quais órgãos centrais são comuns em atletas ?
+Quais órgãos centrais são comuns em atletas ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_17	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em atletas ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	0	172	0	0	Quais órgãos centrais são comuns em árvores ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	1	173	0	0	Quais órgãos centrais são comuns em árvores ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	2	174	0	0	Quais órgãos centrais são comuns em árvores ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	3	175	0	0	Quais órgãos centrais são comuns em árvores ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	4	176	0	0	Quais órgãos centrais são comuns em árvores ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	5	177	0	0	Quais órgãos centrais são comuns em árvores ?
+árvores	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	1	6	178	0	0	Quais órgãos centrais são comuns em árvores ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	0	7	179	0	0	Quais órgãos centrais são comuns em árvores ?
+Quais órgãos centrais são comuns em árvores ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_18	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em árvores ?
+Quais	DET	1	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	0	181	0	0	Quais órgãos centrais são comuns em cavalos ?
+órgãos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	1	182	0	0	Quais órgãos centrais são comuns em cavalos ?
+centrais	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	2	183	0	0	Quais órgãos centrais são comuns em cavalos ?
+são	AUX	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	3	184	0	0	Quais órgãos centrais são comuns em cavalos ?
+comuns	ADJ	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	4	185	0	0	Quais órgãos centrais são comuns em cavalos ?
+em	ADP	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	5	186	0	0	Quais órgãos centrais são comuns em cavalos ?
+cavalos	NOUN	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	1	6	187	0	0	Quais órgãos centrais são comuns em cavalos ?
+?	PUNCT	0	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	0	7	188	0	0	Quais órgãos centrais são comuns em cavalos ?
+Quais órgãos centrais são comuns em cavalos ?	['DET', 'NOUN', 'ADJ', 'AUX', 'ADJ', 'ADP', 'NOUN', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 0]	483b327d3f80408fa56ffa3e3778aabf_pert_19	483b327d3f80408fa56ffa3e3778aabf	0	-1	-1		1	2	Quais órgãos centrais são comuns em cavalos ?

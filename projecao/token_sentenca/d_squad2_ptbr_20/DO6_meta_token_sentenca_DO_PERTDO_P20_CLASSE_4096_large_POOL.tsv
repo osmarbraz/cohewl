@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Onde	ADV	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	0	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	1	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	2	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	3	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	4	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	5	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+eliminada	VERB	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	1	6	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+do	ADP	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	7	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	8	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	0	9	0	1	Onde estava Christina Christian quando foi eliminada do show ?
+Onde estava Christina Christian quando foi eliminada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2	56d370aa59d6e414001463c2	1	-1	-1	1	3	Onde estava Christina Christian quando foi eliminada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi embora do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi embora do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi embora do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi embora do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi embora do show ?
+foi	VERB	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi embora do show ?
+embora	SCONJ	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi embora do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi embora do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi embora do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi embora do show ?
+Onde estava Christina Christian quando foi embora do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'VERB', 'SCONJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_0	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi embora do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi retirada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi retirada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi retirada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi retirada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi retirada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi retirada do show ?
+retirada	NOUN	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi retirada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi retirada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi retirada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi retirada do show ?
+Onde estava Christina Christian quando foi retirada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_1	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi retirada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi sair do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi sair do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi sair do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi sair do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi sair do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi sair do show ?
+sair	VERB	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi sair do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi sair do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi sair do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi sair do show ?
+Onde estava Christina Christian quando foi sair do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_2	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi sair do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi chamada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi chamada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi chamada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi chamada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi chamada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi chamada do show ?
+chamada	VERB	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi chamada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi chamada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi chamada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi chamada do show ?
+Onde estava Christina Christian quando foi chamada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_3	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi chamada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi cortada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi cortada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi cortada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi cortada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi cortada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi cortada do show ?
+cortada	VERB	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi cortada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi cortada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi cortada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi cortada do show ?
+Onde estava Christina Christian quando foi cortada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_4	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi cortada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi transferida do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi transferida do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi transferida do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi transferida do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi transferida do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi transferida do show ?
+transferida	VERB	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi transferida do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi transferida do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi transferida do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi transferida do show ?
+Onde estava Christina Christian quando foi transferida do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_5	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi transferida do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi participar do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi participar do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi participar do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi participar do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi participar do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi participar do show ?
+participar	VERB	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi participar do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi participar do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi participar do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi participar do show ?
+Onde estava Christina Christian quando foi participar do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_6	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi participar do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi convidada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi convidada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi convidada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi convidada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi convidada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi convidada do show ?
+convidada	VERB	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi convidada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi convidada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi convidada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi convidada do show ?
+Onde estava Christina Christian quando foi convidada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_7	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi convidada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+eliminada	VERB	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi eliminada do show ?
+Onde estava Christina Christian quando foi eliminada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_8	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi eliminada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi expulso do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi expulso do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi expulso do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi expulso do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi expulso do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi expulso do show ?
+expulso	VERB	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi expulso do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi expulso do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi expulso do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi expulso do show ?
+Onde estava Christina Christian quando foi expulso do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_9	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi expulso do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi depois do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi depois do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi depois do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi depois do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi depois do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi depois do show ?
+depois	ADV	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi depois do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi depois do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi depois do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi depois do show ?
+Onde estava Christina Christian quando foi depois do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'ADV', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_10	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi depois do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi antes do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi antes do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi antes do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi antes do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi antes do show ?
+foi	VERB	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi antes do show ?
+antes	ADV	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi antes do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi antes do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi antes do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi antes do show ?
+Onde estava Christina Christian quando foi antes do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'VERB', 'ADV', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_11	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi antes do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+anunciada	VERB	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi anunciada do show ?
+Onde estava Christina Christian quando foi anunciada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_12	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi anunciada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi atrás do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi atrás do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi atrás do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi atrás do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi atrás do show ?
+foi	VERB	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi atrás do show ?
+atrás	ADV	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi atrás do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi atrás do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi atrás do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi atrás do show ?
+Onde estava Christina Christian quando foi atrás do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'VERB', 'ADV', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_13	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi atrás do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+cancelada	VERB	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi cancelada do show ?
+Onde estava Christina Christian quando foi cancelada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_14	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi cancelada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi contratada do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi contratada do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi contratada do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi contratada do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi contratada do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi contratada do show ?
+contratada	VERB	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi contratada do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi contratada do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi contratada do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi contratada do show ?
+Onde estava Christina Christian quando foi contratada do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_15	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi contratada do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi saída do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi saída do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi saída do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi saída do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi saída do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi saída do show ?
+saída	NOUN	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi saída do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi saída do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi saída do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi saída do show ?
+Onde estava Christina Christian quando foi saída do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_16	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi saída do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi desistir do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi desistir do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi desistir do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi desistir do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi desistir do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi desistir do show ?
+desistir	VERB	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi desistir do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi desistir do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi desistir do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi desistir do show ?
+Onde estava Christina Christian quando foi desistir do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_17	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi desistir do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi retirado do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi retirado do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi retirado do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi retirado do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi retirado do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi retirado do show ?
+retirado	VERB	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi retirado do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi retirado do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi retirado do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi retirado do show ?
+Onde estava Christina Christian quando foi retirado do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_18	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi retirado do show ?
+Onde	ADV	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	0	0	0	Onde estava Christina Christian quando foi despedida do show ?
+estava	VERB	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	1	0	0	Onde estava Christina Christian quando foi despedida do show ?
+Christina	PROPN	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	2	0	0	Onde estava Christina Christian quando foi despedida do show ?
+Christian	PROPN	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	3	0	0	Onde estava Christina Christian quando foi despedida do show ?
+quando	ADV	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	4	0	0	Onde estava Christina Christian quando foi despedida do show ?
+foi	AUX	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	5	0	0	Onde estava Christina Christian quando foi despedida do show ?
+despedida	VERB	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	1	6	0	0	Onde estava Christina Christian quando foi despedida do show ?
+do	ADP	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	7	0	0	Onde estava Christina Christian quando foi despedida do show ?
+show	NOUN	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	8	0	0	Onde estava Christina Christian quando foi despedida do show ?
+?	PUNCT	0	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	0	9	0	0	Onde estava Christina Christian quando foi despedida do show ?
+Onde estava Christina Christian quando foi despedida do show ?	['ADV', 'VERB', 'PROPN', 'PROPN', 'ADV', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	56d370aa59d6e414001463c2_pert_19	56d370aa59d6e414001463c2	0	-1	-1	1	2	Onde estava Christina Christian quando foi despedida do show ?

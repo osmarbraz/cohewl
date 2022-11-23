@@ -1,0 +1,41 @@
+Sentença	Id	Origem	__next__	Classe
+How to enqueue elements in a queue ?	1	1	1	1
+How to enqueue elements in a stack ?	1_pert_0	1		0
+How to dequeue elements in a queue ?	2	2	3	1
+How to dequeue elements in a stack ?	2_pert_0	2		0
+How to push elements in a stack ?	3	3	5	1
+How to push elements in a queue ?	3_pert_0	3		0
+How to push and pop elements in a stack ?	4	4	7	1
+How to push and pop elements in a queue ?	4_pert_0	4		0
+How to push elements in a stack data structure ?	5	5	9	1
+How to push elements in a queue data structure ?	5_pert_0	5		0
+How to push and pop elements in a stack data structure ?	6	6	11	1
+How to push and pop elements in a queue data structure ?	6_pert_0	6		0
+How to pop elements from a stack ?	7	7	13	1
+How to pop elements from a queue ?	7_pert_0	7		0
+How to pop elements in a stack data structure ?	8	8	15	1
+How to pop elements in a queue data structure ?	8_pert_0	8		0
+What is a stack and how to push its element ?	9	9	17	1
+What is a queue and how to push its element ?	9_pert_0	9		0
+What is a queue and how to enqueue its element ?	10	10	19	1
+What is a stack and how to enqueue its element ?	10_pert_0	10		0
+What is a queue and how to dequeue an element in it ?	11	11	21	1
+What is a stack and how to dequeue an element in it ?	11_pert_0	11		0
+What is a stack and how to pop an element from it ?	12	12	23	1
+What is a queue and how to pop an element from it ?	12_pert_0	12		0
+What is a queue and how to enqueue an element in it ?	13	13	25	1
+What is a stack and how to enqueue an element in it ?	13_pert_0	13		0
+What is a stack and how to push an element on it ?	14	14	27	1
+What is a queue and how to push an element on it ?	14_pert_0	14		0
+What is a stack and how to push and pop its elements ?	15	15	29	1
+What is a queue and how to push and pop its elements ?	15_pert_0	15		0
+What is a queue and how to enqueue and dequeue its elements ?	16	16	31	1
+What is a stack and how to enqueue and dequeue its elements ?	16_pert_0	16		0
+How are the operations to push and pop elements in a stack implemented ?	17	17	33	1
+How are the operations to push and pop elements in a queue implemented ?	17_pert_0	17		0
+How are the operations to enqueue and dequeue elements in a queue implemented ?	18	18	35	1
+How are the operations to enqueue and dequeue elements in a stack implemented ?	18_pert_0	18		0
+In a stack does the pop operation occur at which end ?	19	19	37	1
+In a stack does the enqueue operation occur at which end ?	19_pert_0	19		0
+In a queue does the enqueue operation occur at which end ?	20	20	39	1
+In a queue does the push operation occur at which end ?	20_pert_0	20		0

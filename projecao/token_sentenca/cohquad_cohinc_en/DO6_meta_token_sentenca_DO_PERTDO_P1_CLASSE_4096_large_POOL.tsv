@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	6	6	1	0	0	0	1	How to push and pop elements in a stack data structure ?
+to	PART	0	6	6	1	0	1	0	1	How to push and pop elements in a stack data structure ?
+push	VERB	0	6	6	1	0	2	0	1	How to push and pop elements in a stack data structure ?
+and	CCONJ	0	6	6	1	0	3	0	1	How to push and pop elements in a stack data structure ?
+pop	NOUN	0	6	6	1	0	4	0	1	How to push and pop elements in a stack data structure ?
+elements	NOUN	0	6	6	1	0	5	0	1	How to push and pop elements in a stack data structure ?
+in	ADP	0	6	6	1	0	6	0	1	How to push and pop elements in a stack data structure ?
+a	DET	0	6	6	1	0	7	0	1	How to push and pop elements in a stack data structure ?
+stack	NOUN	0	6	6	1	1	8	0	1	How to push and pop elements in a stack data structure ?
+data	NOUN	0	6	6	1	0	9	0	1	How to push and pop elements in a stack data structure ?
+structure	NOUN	0	6	6	1	0	10	0	1	How to push and pop elements in a stack data structure ?
+?	PUNCT	0	6	6	1	0	11	0	1	How to push and pop elements in a stack data structure ?
+0	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	6	6	1	-1	-1	1	3	How to push and pop elements in a stack data structure ?
+How	SCONJ	0	6_pert_0	6	0	0	0	0	0	How to push and pop elements in a queue data structure ?
+to	PART	0	6_pert_0	6	0	0	1	0	0	How to push and pop elements in a queue data structure ?
+push	VERB	0	6_pert_0	6	0	0	2	0	0	How to push and pop elements in a queue data structure ?
+and	CCONJ	0	6_pert_0	6	0	0	3	0	0	How to push and pop elements in a queue data structure ?
+pop	NOUN	0	6_pert_0	6	0	0	4	0	0	How to push and pop elements in a queue data structure ?
+elements	NOUN	0	6_pert_0	6	0	0	5	0	0	How to push and pop elements in a queue data structure ?
+in	ADP	0	6_pert_0	6	0	0	6	0	0	How to push and pop elements in a queue data structure ?
+a	DET	0	6_pert_0	6	0	0	7	0	0	How to push and pop elements in a queue data structure ?
+queue	NOUN	1	6_pert_0	6	0	1	8	0	0	How to push and pop elements in a queue data structure ?
+data	NOUN	0	6_pert_0	6	0	0	9	0	0	How to push and pop elements in a queue data structure ?
+structure	NOUN	0	6_pert_0	6	0	0	10	0	0	How to push and pop elements in a queue data structure ?
+?	PUNCT	0	6_pert_0	6	0	0	11	0	0	How to push and pop elements in a queue data structure ?
+1	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	6_pert_0	6	0	-1	-1	1	2	How to push and pop elements in a queue data structure ?

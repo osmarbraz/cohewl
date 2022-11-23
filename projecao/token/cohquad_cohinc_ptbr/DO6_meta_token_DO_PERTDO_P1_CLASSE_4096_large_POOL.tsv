@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+Como	SCONJ	0	6	6	1	0	0	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+empilhar	VERB	1	6	6	1	0	1	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+e	CCONJ	0	6	6	1	0	2	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+desempilhar	VERB	1	6	6	1	0	3	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+elementos	NOUN	0	6	6	1	0	4	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+em	ADP	0	6	6	1	0	5	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+uma	DET	0	6	6	1	0	6	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+estrutura	NOUN	0	6	6	1	0	7	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+de	ADP	0	6	6	1	0	8	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+dados	NOUN	0	6	6	1	0	9	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+pilha	NOUN	0	6	6	1	1	10	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+?	PUNCT	0	6	6	1	0	11	Como empilhar e desempilhar elementos em uma estrutura de dados pilha ?
+Como	SCONJ	0	6_pert_0	6	0	0	0	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+empilhar	VERB	1	6_pert_0	6	0	0	1	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+e	CCONJ	0	6_pert_0	6	0	0	2	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+desempilhar	VERB	1	6_pert_0	6	0	0	3	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+elementos	NOUN	0	6_pert_0	6	0	0	4	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+em	ADP	0	6_pert_0	6	0	0	5	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+uma	DET	0	6_pert_0	6	0	0	6	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+estrutura	NOUN	0	6_pert_0	6	0	0	7	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+de	ADP	0	6_pert_0	6	0	0	8	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+dados	NOUN	0	6_pert_0	6	0	0	9	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+fila	NOUN	1	6_pert_0	6	0	1	10	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?
+?	PUNCT	0	6_pert_0	6	0	0	11	Como empilhar e desempilhar elementos em uma estrutura de dados fila ?

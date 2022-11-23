@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	8	8	1	0	0	0	1	How to pop elements in a stack data structure ?
+to	PART	0	8	8	1	0	1	0	1	How to pop elements in a stack data structure ?
+pop	VERB	0	8	8	1	1	2	0	1	How to pop elements in a stack data structure ?
+elements	NOUN	0	8	8	1	0	3	0	1	How to pop elements in a stack data structure ?
+in	ADP	0	8	8	1	0	4	0	1	How to pop elements in a stack data structure ?
+a	DET	0	8	8	1	0	5	0	1	How to pop elements in a stack data structure ?
+stack	NOUN	0	8	8	1	0	6	0	1	How to pop elements in a stack data structure ?
+data	NOUN	0	8	8	1	0	7	0	1	How to pop elements in a stack data structure ?
+structure	NOUN	0	8	8	1	0	8	0	1	How to pop elements in a stack data structure ?
+?	PUNCT	0	8	8	1	0	9	0	1	How to pop elements in a stack data structure ?
+0	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8	8	1	-1	-1	1	3	How to pop elements in a stack data structure ?
+How	SCONJ	0	8_pert_0	8	0	0	0	0	0	How to store elements in a stack data structure ?
+to	PART	0	8_pert_0	8	0	0	1	0	0	How to store elements in a stack data structure ?
+store	VERB	0	8_pert_0	8	0	1	2	0	0	How to store elements in a stack data structure ?
+elements	NOUN	0	8_pert_0	8	0	0	3	0	0	How to store elements in a stack data structure ?
+in	ADP	0	8_pert_0	8	0	0	4	0	0	How to store elements in a stack data structure ?
+a	DET	0	8_pert_0	8	0	0	5	0	0	How to store elements in a stack data structure ?
+stack	NOUN	0	8_pert_0	8	0	0	6	0	0	How to store elements in a stack data structure ?
+data	NOUN	0	8_pert_0	8	0	0	7	0	0	How to store elements in a stack data structure ?
+structure	NOUN	0	8_pert_0	8	0	0	8	0	0	How to store elements in a stack data structure ?
+?	PUNCT	0	8_pert_0	8	0	0	9	0	0	How to store elements in a stack data structure ?
+1	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_0	8	0	-1	-1	1	2	How to store elements in a stack data structure ?
+How	SCONJ	0	8_pert_1	8	0	0	0	0	0	How to organize elements in a stack data structure ?
+to	PART	0	8_pert_1	8	0	0	1	0	0	How to organize elements in a stack data structure ?
+organize	VERB	0	8_pert_1	8	0	1	2	0	0	How to organize elements in a stack data structure ?
+elements	NOUN	0	8_pert_1	8	0	0	3	0	0	How to organize elements in a stack data structure ?
+in	ADP	0	8_pert_1	8	0	0	4	0	0	How to organize elements in a stack data structure ?
+a	DET	0	8_pert_1	8	0	0	5	0	0	How to organize elements in a stack data structure ?
+stack	NOUN	0	8_pert_1	8	0	0	6	0	0	How to organize elements in a stack data structure ?
+data	NOUN	0	8_pert_1	8	0	0	7	0	0	How to organize elements in a stack data structure ?
+structure	NOUN	0	8_pert_1	8	0	0	8	0	0	How to organize elements in a stack data structure ?
+?	PUNCT	0	8_pert_1	8	0	0	9	0	0	How to organize elements in a stack data structure ?
+2	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_1	8	0	-1	-1	1	2	How to organize elements in a stack data structure ?
+How	SCONJ	0	8_pert_2	8	0	0	0	0	0	How to manage elements in a stack data structure ?
+to	PART	0	8_pert_2	8	0	0	1	0	0	How to manage elements in a stack data structure ?
+manage	VERB	0	8_pert_2	8	0	1	2	0	0	How to manage elements in a stack data structure ?
+elements	NOUN	0	8_pert_2	8	0	0	3	0	0	How to manage elements in a stack data structure ?
+in	ADP	0	8_pert_2	8	0	0	4	0	0	How to manage elements in a stack data structure ?
+a	DET	0	8_pert_2	8	0	0	5	0	0	How to manage elements in a stack data structure ?
+stack	NOUN	0	8_pert_2	8	0	0	6	0	0	How to manage elements in a stack data structure ?
+data	NOUN	0	8_pert_2	8	0	0	7	0	0	How to manage elements in a stack data structure ?
+structure	NOUN	0	8_pert_2	8	0	0	8	0	0	How to manage elements in a stack data structure ?
+?	PUNCT	0	8_pert_2	8	0	0	9	0	0	How to manage elements in a stack data structure ?
+3	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_2	8	0	-1	-1	1	2	How to manage elements in a stack data structure ?
+How	SCONJ	0	8_pert_3	8	0	0	0	0	0	How to represent elements in a stack data structure ?
+to	PART	0	8_pert_3	8	0	0	1	0	0	How to represent elements in a stack data structure ?
+represent	VERB	0	8_pert_3	8	0	1	2	0	0	How to represent elements in a stack data structure ?
+elements	NOUN	0	8_pert_3	8	0	0	3	0	0	How to represent elements in a stack data structure ?
+in	ADP	0	8_pert_3	8	0	0	4	0	0	How to represent elements in a stack data structure ?
+a	DET	0	8_pert_3	8	0	0	5	0	0	How to represent elements in a stack data structure ?
+stack	NOUN	0	8_pert_3	8	0	0	6	0	0	How to represent elements in a stack data structure ?
+data	NOUN	0	8_pert_3	8	0	0	7	0	0	How to represent elements in a stack data structure ?
+structure	NOUN	0	8_pert_3	8	0	0	8	0	0	How to represent elements in a stack data structure ?
+?	PUNCT	0	8_pert_3	8	0	0	9	0	0	How to represent elements in a stack data structure ?
+4	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_3	8	0	-1	-1	1	2	How to represent elements in a stack data structure ?
+How	SCONJ	0	8_pert_4	8	0	0	0	0	0	How to define elements in a stack data structure ?
+to	PART	0	8_pert_4	8	0	0	1	0	0	How to define elements in a stack data structure ?
+define	VERB	0	8_pert_4	8	0	1	2	0	0	How to define elements in a stack data structure ?
+elements	NOUN	0	8_pert_4	8	0	0	3	0	0	How to define elements in a stack data structure ?
+in	ADP	0	8_pert_4	8	0	0	4	0	0	How to define elements in a stack data structure ?
+a	DET	0	8_pert_4	8	0	0	5	0	0	How to define elements in a stack data structure ?
+stack	NOUN	0	8_pert_4	8	0	0	6	0	0	How to define elements in a stack data structure ?
+data	NOUN	0	8_pert_4	8	0	0	7	0	0	How to define elements in a stack data structure ?
+structure	NOUN	0	8_pert_4	8	0	0	8	0	0	How to define elements in a stack data structure ?
+?	PUNCT	0	8_pert_4	8	0	0	9	0	0	How to define elements in a stack data structure ?
+5	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_4	8	0	-1	-1	1	2	How to define elements in a stack data structure ?
+How	SCONJ	0	8_pert_5	8	0	0	0	0	0	How to use elements in a stack data structure ?
+to	PART	0	8_pert_5	8	0	0	1	0	0	How to use elements in a stack data structure ?
+use	VERB	0	8_pert_5	8	0	1	2	0	0	How to use elements in a stack data structure ?
+elements	NOUN	0	8_pert_5	8	0	0	3	0	0	How to use elements in a stack data structure ?
+in	ADP	0	8_pert_5	8	0	0	4	0	0	How to use elements in a stack data structure ?
+a	DET	0	8_pert_5	8	0	0	5	0	0	How to use elements in a stack data structure ?
+stack	NOUN	0	8_pert_5	8	0	0	6	0	0	How to use elements in a stack data structure ?
+data	NOUN	0	8_pert_5	8	0	0	7	0	0	How to use elements in a stack data structure ?
+structure	NOUN	0	8_pert_5	8	0	0	8	0	0	How to use elements in a stack data structure ?
+?	PUNCT	0	8_pert_5	8	0	0	9	0	0	How to use elements in a stack data structure ?
+6	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_5	8	0	-1	-1	1	2	How to use elements in a stack data structure ?
+How	SCONJ	0	8_pert_6	8	0	0	0	0	0	How to handle elements in a stack data structure ?
+to	PART	0	8_pert_6	8	0	0	1	0	0	How to handle elements in a stack data structure ?
+handle	VERB	0	8_pert_6	8	0	1	2	0	0	How to handle elements in a stack data structure ?
+elements	NOUN	0	8_pert_6	8	0	0	3	0	0	How to handle elements in a stack data structure ?
+in	ADP	0	8_pert_6	8	0	0	4	0	0	How to handle elements in a stack data structure ?
+a	DET	0	8_pert_6	8	0	0	5	0	0	How to handle elements in a stack data structure ?
+stack	NOUN	0	8_pert_6	8	0	0	6	0	0	How to handle elements in a stack data structure ?
+data	NOUN	0	8_pert_6	8	0	0	7	0	0	How to handle elements in a stack data structure ?
+structure	NOUN	0	8_pert_6	8	0	0	8	0	0	How to handle elements in a stack data structure ?
+?	PUNCT	0	8_pert_6	8	0	0	9	0	0	How to handle elements in a stack data structure ?
+7	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_6	8	0	-1	-1	1	2	How to handle elements in a stack data structure ?
+How	SCONJ	0	8_pert_7	8	0	0	0	0	0	How to stack elements in a stack data structure ?
+to	PART	0	8_pert_7	8	0	0	1	0	0	How to stack elements in a stack data structure ?
+stack	VERB	0	8_pert_7	8	0	0	2	0	0	How to stack elements in a stack data structure ?
+elements	NOUN	0	8_pert_7	8	0	0	3	0	0	How to stack elements in a stack data structure ?
+in	ADP	0	8_pert_7	8	0	0	4	0	0	How to stack elements in a stack data structure ?
+a	DET	0	8_pert_7	8	0	0	5	0	0	How to stack elements in a stack data structure ?
+stack	NOUN	0	8_pert_7	8	0	0	6	0	0	How to stack elements in a stack data structure ?
+data	NOUN	0	8_pert_7	8	0	0	7	0	0	How to stack elements in a stack data structure ?
+structure	NOUN	0	8_pert_7	8	0	0	8	0	0	How to stack elements in a stack data structure ?
+?	PUNCT	0	8_pert_7	8	0	0	9	0	0	How to stack elements in a stack data structure ?
+8	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_7	8	0	-1	-1	1	2	How to stack elements in a stack data structure ?
+How	SCONJ	0	8_pert_8	8	0	0	0	0	0	How to implement elements in a stack data structure ?
+to	PART	0	8_pert_8	8	0	0	1	0	0	How to implement elements in a stack data structure ?
+implement	VERB	0	8_pert_8	8	0	1	2	0	0	How to implement elements in a stack data structure ?
+elements	NOUN	0	8_pert_8	8	0	0	3	0	0	How to implement elements in a stack data structure ?
+in	ADP	0	8_pert_8	8	0	0	4	0	0	How to implement elements in a stack data structure ?
+a	DET	0	8_pert_8	8	0	0	5	0	0	How to implement elements in a stack data structure ?
+stack	NOUN	0	8_pert_8	8	0	0	6	0	0	How to implement elements in a stack data structure ?
+data	NOUN	0	8_pert_8	8	0	0	7	0	0	How to implement elements in a stack data structure ?
+structure	NOUN	0	8_pert_8	8	0	0	8	0	0	How to implement elements in a stack data structure ?
+?	PUNCT	0	8_pert_8	8	0	0	9	0	0	How to implement elements in a stack data structure ?
+9	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_8	8	0	-1	-1	1	2	How to implement elements in a stack data structure ?
+How	SCONJ	0	8_pert_9	8	0	0	0	0	0	How to write elements in a stack data structure ?
+to	PART	0	8_pert_9	8	0	0	1	0	0	How to write elements in a stack data structure ?
+write	VERB	0	8_pert_9	8	0	1	2	0	0	How to write elements in a stack data structure ?
+elements	NOUN	0	8_pert_9	8	0	0	3	0	0	How to write elements in a stack data structure ?
+in	ADP	0	8_pert_9	8	0	0	4	0	0	How to write elements in a stack data structure ?
+a	DET	0	8_pert_9	8	0	0	5	0	0	How to write elements in a stack data structure ?
+stack	NOUN	0	8_pert_9	8	0	0	6	0	0	How to write elements in a stack data structure ?
+data	NOUN	0	8_pert_9	8	0	0	7	0	0	How to write elements in a stack data structure ?
+structure	NOUN	0	8_pert_9	8	0	0	8	0	0	How to write elements in a stack data structure ?
+?	PUNCT	0	8_pert_9	8	0	0	9	0	0	How to write elements in a stack data structure ?
+10	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_9	8	0	-1	-1	1	2	How to write elements in a stack data structure ?
+How	SCONJ	0	8_pert_10	8	0	0	0	0	0	How to describe elements in a stack data structure ?
+to	PART	0	8_pert_10	8	0	0	1	0	0	How to describe elements in a stack data structure ?
+describe	VERB	0	8_pert_10	8	0	1	2	0	0	How to describe elements in a stack data structure ?
+elements	NOUN	0	8_pert_10	8	0	0	3	0	0	How to describe elements in a stack data structure ?
+in	ADP	0	8_pert_10	8	0	0	4	0	0	How to describe elements in a stack data structure ?
+a	DET	0	8_pert_10	8	0	0	5	0	0	How to describe elements in a stack data structure ?
+stack	NOUN	0	8_pert_10	8	0	0	6	0	0	How to describe elements in a stack data structure ?
+data	NOUN	0	8_pert_10	8	0	0	7	0	0	How to describe elements in a stack data structure ?
+structure	NOUN	0	8_pert_10	8	0	0	8	0	0	How to describe elements in a stack data structure ?
+?	PUNCT	0	8_pert_10	8	0	0	9	0	0	How to describe elements in a stack data structure ?
+11	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_10	8	0	-1	-1	1	2	How to describe elements in a stack data structure ?
+How	SCONJ	0	8_pert_11	8	0	0	0	0	0	How to manipulate elements in a stack data structure ?
+to	PART	0	8_pert_11	8	0	0	1	0	0	How to manipulate elements in a stack data structure ?
+manipulate	VERB	0	8_pert_11	8	0	1	2	0	0	How to manipulate elements in a stack data structure ?
+elements	NOUN	0	8_pert_11	8	0	0	3	0	0	How to manipulate elements in a stack data structure ?
+in	ADP	0	8_pert_11	8	0	0	4	0	0	How to manipulate elements in a stack data structure ?
+a	DET	0	8_pert_11	8	0	0	5	0	0	How to manipulate elements in a stack data structure ?
+stack	NOUN	0	8_pert_11	8	0	0	6	0	0	How to manipulate elements in a stack data structure ?
+data	NOUN	0	8_pert_11	8	0	0	7	0	0	How to manipulate elements in a stack data structure ?
+structure	NOUN	0	8_pert_11	8	0	0	8	0	0	How to manipulate elements in a stack data structure ?
+?	PUNCT	0	8_pert_11	8	0	0	9	0	0	How to manipulate elements in a stack data structure ?
+12	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_11	8	0	-1	-1	1	2	How to manipulate elements in a stack data structure ?
+How	SCONJ	0	8_pert_12	8	0	0	0	0	0	How to arrange elements in a stack data structure ?
+to	PART	0	8_pert_12	8	0	0	1	0	0	How to arrange elements in a stack data structure ?
+arrange	VERB	0	8_pert_12	8	0	1	2	0	0	How to arrange elements in a stack data structure ?
+elements	NOUN	0	8_pert_12	8	0	0	3	0	0	How to arrange elements in a stack data structure ?
+in	ADP	0	8_pert_12	8	0	0	4	0	0	How to arrange elements in a stack data structure ?
+a	DET	0	8_pert_12	8	0	0	5	0	0	How to arrange elements in a stack data structure ?
+stack	NOUN	0	8_pert_12	8	0	0	6	0	0	How to arrange elements in a stack data structure ?
+data	NOUN	0	8_pert_12	8	0	0	7	0	0	How to arrange elements in a stack data structure ?
+structure	NOUN	0	8_pert_12	8	0	0	8	0	0	How to arrange elements in a stack data structure ?
+?	PUNCT	0	8_pert_12	8	0	0	9	0	0	How to arrange elements in a stack data structure ?
+13	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_12	8	0	-1	-1	1	2	How to arrange elements in a stack data structure ?
+How	SCONJ	0	8_pert_13	8	0	0	0	0	0	How to separate elements in a stack data structure ?
+to	PART	0	8_pert_13	8	0	0	1	0	0	How to separate elements in a stack data structure ?
+separate	VERB	0	8_pert_13	8	0	1	2	0	0	How to separate elements in a stack data structure ?
+elements	NOUN	0	8_pert_13	8	0	0	3	0	0	How to separate elements in a stack data structure ?
+in	ADP	0	8_pert_13	8	0	0	4	0	0	How to separate elements in a stack data structure ?
+a	DET	0	8_pert_13	8	0	0	5	0	0	How to separate elements in a stack data structure ?
+stack	NOUN	0	8_pert_13	8	0	0	6	0	0	How to separate elements in a stack data structure ?
+data	NOUN	0	8_pert_13	8	0	0	7	0	0	How to separate elements in a stack data structure ?
+structure	NOUN	0	8_pert_13	8	0	0	8	0	0	How to separate elements in a stack data structure ?
+?	PUNCT	0	8_pert_13	8	0	0	9	0	0	How to separate elements in a stack data structure ?
+14	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_13	8	0	-1	-1	1	2	How to separate elements in a stack data structure ?
+How	SCONJ	0	8_pert_14	8	0	0	0	0	0	How to create elements in a stack data structure ?
+to	PART	0	8_pert_14	8	0	0	1	0	0	How to create elements in a stack data structure ?
+create	VERB	0	8_pert_14	8	0	1	2	0	0	How to create elements in a stack data structure ?
+elements	NOUN	0	8_pert_14	8	0	0	3	0	0	How to create elements in a stack data structure ?
+in	ADP	0	8_pert_14	8	0	0	4	0	0	How to create elements in a stack data structure ?
+a	DET	0	8_pert_14	8	0	0	5	0	0	How to create elements in a stack data structure ?
+stack	NOUN	0	8_pert_14	8	0	0	6	0	0	How to create elements in a stack data structure ?
+data	NOUN	0	8_pert_14	8	0	0	7	0	0	How to create elements in a stack data structure ?
+structure	NOUN	0	8_pert_14	8	0	0	8	0	0	How to create elements in a stack data structure ?
+?	PUNCT	0	8_pert_14	8	0	0	9	0	0	How to create elements in a stack data structure ?
+15	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_14	8	0	-1	-1	1	2	How to create elements in a stack data structure ?
+How	SCONJ	0	8_pert_15	8	0	0	0	0	0	How to sort elements in a stack data structure ?
+to	PART	0	8_pert_15	8	0	0	1	0	0	How to sort elements in a stack data structure ?
+sort	VERB	0	8_pert_15	8	0	1	2	0	0	How to sort elements in a stack data structure ?
+elements	NOUN	0	8_pert_15	8	0	0	3	0	0	How to sort elements in a stack data structure ?
+in	ADP	0	8_pert_15	8	0	0	4	0	0	How to sort elements in a stack data structure ?
+a	DET	0	8_pert_15	8	0	0	5	0	0	How to sort elements in a stack data structure ?
+stack	NOUN	0	8_pert_15	8	0	0	6	0	0	How to sort elements in a stack data structure ?
+data	NOUN	0	8_pert_15	8	0	0	7	0	0	How to sort elements in a stack data structure ?
+structure	NOUN	0	8_pert_15	8	0	0	8	0	0	How to sort elements in a stack data structure ?
+?	PUNCT	0	8_pert_15	8	0	0	9	0	0	How to sort elements in a stack data structure ?
+16	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_15	8	0	-1	-1	1	2	How to sort elements in a stack data structure ?
+How	SCONJ	0	8_pert_16	8	0	0	0	0	0	How to put elements in a stack data structure ?
+to	PART	0	8_pert_16	8	0	0	1	0	0	How to put elements in a stack data structure ?
+put	VERB	0	8_pert_16	8	0	1	2	0	0	How to put elements in a stack data structure ?
+elements	NOUN	0	8_pert_16	8	0	0	3	0	0	How to put elements in a stack data structure ?
+in	ADP	0	8_pert_16	8	0	0	4	0	0	How to put elements in a stack data structure ?
+a	DET	0	8_pert_16	8	0	0	5	0	0	How to put elements in a stack data structure ?
+stack	NOUN	0	8_pert_16	8	0	0	6	0	0	How to put elements in a stack data structure ?
+data	NOUN	0	8_pert_16	8	0	0	7	0	0	How to put elements in a stack data structure ?
+structure	NOUN	0	8_pert_16	8	0	0	8	0	0	How to put elements in a stack data structure ?
+?	PUNCT	0	8_pert_16	8	0	0	9	0	0	How to put elements in a stack data structure ?
+17	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_16	8	0	-1	-1	1	2	How to put elements in a stack data structure ?
+How	SCONJ	0	8_pert_17	8	0	0	0	0	0	How to place elements in a stack data structure ?
+to	PART	0	8_pert_17	8	0	0	1	0	0	How to place elements in a stack data structure ?
+place	VERB	0	8_pert_17	8	0	1	2	0	0	How to place elements in a stack data structure ?
+elements	NOUN	0	8_pert_17	8	0	0	3	0	0	How to place elements in a stack data structure ?
+in	ADP	0	8_pert_17	8	0	0	4	0	0	How to place elements in a stack data structure ?
+a	DET	0	8_pert_17	8	0	0	5	0	0	How to place elements in a stack data structure ?
+stack	NOUN	0	8_pert_17	8	0	0	6	0	0	How to place elements in a stack data structure ?
+data	NOUN	0	8_pert_17	8	0	0	7	0	0	How to place elements in a stack data structure ?
+structure	NOUN	0	8_pert_17	8	0	0	8	0	0	How to place elements in a stack data structure ?
+?	PUNCT	0	8_pert_17	8	0	0	9	0	0	How to place elements in a stack data structure ?
+18	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_17	8	0	-1	-1	1	2	How to place elements in a stack data structure ?
+How	SCONJ	0	8_pert_18	8	0	0	0	0	0	How to view elements in a stack data structure ?
+to	PART	0	8_pert_18	8	0	0	1	0	0	How to view elements in a stack data structure ?
+view	VERB	0	8_pert_18	8	0	1	2	0	0	How to view elements in a stack data structure ?
+elements	NOUN	0	8_pert_18	8	0	0	3	0	0	How to view elements in a stack data structure ?
+in	ADP	0	8_pert_18	8	0	0	4	0	0	How to view elements in a stack data structure ?
+a	DET	0	8_pert_18	8	0	0	5	0	0	How to view elements in a stack data structure ?
+stack	NOUN	0	8_pert_18	8	0	0	6	0	0	How to view elements in a stack data structure ?
+data	NOUN	0	8_pert_18	8	0	0	7	0	0	How to view elements in a stack data structure ?
+structure	NOUN	0	8_pert_18	8	0	0	8	0	0	How to view elements in a stack data structure ?
+?	PUNCT	0	8_pert_18	8	0	0	9	0	0	How to view elements in a stack data structure ?
+19	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_18	8	0	-1	-1	1	2	How to view elements in a stack data structure ?
+How	SCONJ	0	8_pert_19	8	0	0	0	0	0	How to index elements in a stack data structure ?
+to	PART	0	8_pert_19	8	0	0	1	0	0	How to index elements in a stack data structure ?
+index	NOUN	0	8_pert_19	8	0	1	2	0	0	How to index elements in a stack data structure ?
+elements	NOUN	0	8_pert_19	8	0	0	3	0	0	How to index elements in a stack data structure ?
+in	ADP	0	8_pert_19	8	0	0	4	0	0	How to index elements in a stack data structure ?
+a	DET	0	8_pert_19	8	0	0	5	0	0	How to index elements in a stack data structure ?
+stack	NOUN	0	8_pert_19	8	0	0	6	0	0	How to index elements in a stack data structure ?
+data	NOUN	0	8_pert_19	8	0	0	7	0	0	How to index elements in a stack data structure ?
+structure	NOUN	0	8_pert_19	8	0	0	8	0	0	How to index elements in a stack data structure ?
+?	PUNCT	0	8_pert_19	8	0	0	9	0	0	How to index elements in a stack data structure ?
+20	['SCONJ', 'PART', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8_pert_19	8	0	-1	-1	1	2	How to index elements in a stack data structure ?

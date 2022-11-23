@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	0	1	What are dynamic wide range neurons ?
+are	AUX	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	1	2	What are dynamic wide range neurons ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	2	3	What are dynamic wide range neurons ?
+wide	ADJ	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	3	4	What are dynamic wide range neurons ?
+range	NOUN	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	4	5	What are dynamic wide range neurons ?
+neurons	NOUN	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	1	5	6	What are dynamic wide range neurons ?
+?	PUNCT	0	5acd38ac07355d001abf3981	5acd38ac07355d001abf3981	1	0	6		What are dynamic wide range neurons ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	0	8	What are dynamic wide range systems ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	1	9	What are dynamic wide range systems ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	2	10	What are dynamic wide range systems ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	3	11	What are dynamic wide range systems ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	4	12	What are dynamic wide range systems ?
+systems	NOUN	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	1	5	13	What are dynamic wide range systems ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_0	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range systems ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	0	15	What are dynamic wide range signals ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	1	16	What are dynamic wide range signals ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	2	17	What are dynamic wide range signals ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	3	18	What are dynamic wide range signals ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	4	19	What are dynamic wide range signals ?
+signals	NOUN	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	1	5	20	What are dynamic wide range signals ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_1	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range signals ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	0	22	What are dynamic wide range effects ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	1	23	What are dynamic wide range effects ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	2	24	What are dynamic wide range effects ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	3	25	What are dynamic wide range effects ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	4	26	What are dynamic wide range effects ?
+effects	NOUN	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	1	5	27	What are dynamic wide range effects ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_2	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range effects ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	0	29	What are dynamic wide range frequencies ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	1	30	What are dynamic wide range frequencies ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	2	31	What are dynamic wide range frequencies ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	3	32	What are dynamic wide range frequencies ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	4	33	What are dynamic wide range frequencies ?
+frequencies	NOUN	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	1	5	34	What are dynamic wide range frequencies ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_3	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range frequencies ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	0	36	What are dynamic wide range applications ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	1	37	What are dynamic wide range applications ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	2	38	What are dynamic wide range applications ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	3	39	What are dynamic wide range applications ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	4	40	What are dynamic wide range applications ?
+applications	NOUN	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	1	5	41	What are dynamic wide range applications ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_4	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range applications ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	0	43	What are dynamic wide range techniques ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	1	44	What are dynamic wide range techniques ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	2	45	What are dynamic wide range techniques ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	3	46	What are dynamic wide range techniques ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	4	47	What are dynamic wide range techniques ?
+techniques	NOUN	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	1	5	48	What are dynamic wide range techniques ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_5	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range techniques ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	0	50	What are dynamic wide range filters ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	1	51	What are dynamic wide range filters ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	2	52	What are dynamic wide range filters ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	3	53	What are dynamic wide range filters ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	4	54	What are dynamic wide range filters ?
+filters	NOUN	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	1	5	55	What are dynamic wide range filters ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_6	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range filters ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	0	57	What are dynamic wide range problems ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	1	58	What are dynamic wide range problems ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	2	59	What are dynamic wide range problems ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	3	60	What are dynamic wide range problems ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	4	61	What are dynamic wide range problems ?
+problems	NOUN	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	1	5	62	What are dynamic wide range problems ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_7	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range problems ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	0	64	What are dynamic wide range measurements ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	1	65	What are dynamic wide range measurements ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	2	66	What are dynamic wide range measurements ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	3	67	What are dynamic wide range measurements ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	4	68	What are dynamic wide range measurements ?
+measurements	NOUN	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	1	5	69	What are dynamic wide range measurements ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_8	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range measurements ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	0	71	What are dynamic wide range models ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	1	72	What are dynamic wide range models ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	2	73	What are dynamic wide range models ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	3	74	What are dynamic wide range models ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	4	75	What are dynamic wide range models ?
+models	NOUN	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	1	5	76	What are dynamic wide range models ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_9	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range models ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	0	78	What are dynamic wide range dynamics ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	1	79	What are dynamic wide range dynamics ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	2	80	What are dynamic wide range dynamics ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	3	81	What are dynamic wide range dynamics ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	4	82	What are dynamic wide range dynamics ?
+dynamics	NOUN	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	1	5	83	What are dynamic wide range dynamics ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_10	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range dynamics ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	0	85	What are dynamic wide range modes ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	1	86	What are dynamic wide range modes ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	2	87	What are dynamic wide range modes ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	3	88	What are dynamic wide range modes ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	4	89	What are dynamic wide range modes ?
+modes	NOUN	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	1	5	90	What are dynamic wide range modes ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_11	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range modes ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	0	92	What are dynamic wide range functions ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	1	93	What are dynamic wide range functions ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	2	94	What are dynamic wide range functions ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	3	95	What are dynamic wide range functions ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	4	96	What are dynamic wide range functions ?
+functions	NOUN	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	1	5	97	What are dynamic wide range functions ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_12	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range functions ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	0	99	What are dynamic wide range instruments ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	1	100	What are dynamic wide range instruments ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	2	101	What are dynamic wide range instruments ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	3	102	What are dynamic wide range instruments ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	4	103	What are dynamic wide range instruments ?
+instruments	NOUN	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	1	5	104	What are dynamic wide range instruments ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_13	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range instruments ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	0	106	What are dynamic wide range methods ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	1	107	What are dynamic wide range methods ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	2	108	What are dynamic wide range methods ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	3	109	What are dynamic wide range methods ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	4	110	What are dynamic wide range methods ?
+methods	NOUN	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	1	5	111	What are dynamic wide range methods ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_14	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range methods ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	0	113	What are dynamic wide range networks ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	1	114	What are dynamic wide range networks ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	2	115	What are dynamic wide range networks ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	3	116	What are dynamic wide range networks ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	4	117	What are dynamic wide range networks ?
+networks	NOUN	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	1	5	118	What are dynamic wide range networks ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_15	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range networks ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	0	120	What are dynamic wide range phenomena ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	1	121	What are dynamic wide range phenomena ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	2	122	What are dynamic wide range phenomena ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	3	123	What are dynamic wide range phenomena ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	4	124	What are dynamic wide range phenomena ?
+phenomena	NOUN	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	1	5	125	What are dynamic wide range phenomena ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_16	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range phenomena ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	0	127	What are dynamic wide range technologies ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	1	128	What are dynamic wide range technologies ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	2	129	What are dynamic wide range technologies ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	3	130	What are dynamic wide range technologies ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	4	131	What are dynamic wide range technologies ?
+technologies	NOUN	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	1	5	132	What are dynamic wide range technologies ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_17	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range technologies ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	0	134	What are dynamic wide range operations ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	1	135	What are dynamic wide range operations ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	2	136	What are dynamic wide range operations ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	3	137	What are dynamic wide range operations ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	4	138	What are dynamic wide range operations ?
+operations	NOUN	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	1	5	139	What are dynamic wide range operations ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_18	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range operations ?
+What	PRON	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	0	141	What are dynamic wide range devices ?
+are	AUX	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	1	142	What are dynamic wide range devices ?
+dynamic	ADJ	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	2	143	What are dynamic wide range devices ?
+wide	ADJ	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	3	144	What are dynamic wide range devices ?
+range	NOUN	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	4	145	What are dynamic wide range devices ?
+devices	NOUN	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	1	5	146	What are dynamic wide range devices ?
+?	PUNCT	0	5acd38ac07355d001abf3981_pert_19	5acd38ac07355d001abf3981	0	0	6		What are dynamic wide range devices ?

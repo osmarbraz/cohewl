@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+What	DET	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	0	1	0	1	What questions corresponds to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	1	2	0	1	What questions corresponds to the homosexual ones ?
+corresponds	VERB	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	1	2	3	0	1	What questions corresponds to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	3	4	0	1	What questions corresponds to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	4	5	0	1	What questions corresponds to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	5	6	0	1	What questions corresponds to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	6	7	0	1	What questions corresponds to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	0	7	8	0	1	What questions corresponds to the homosexual ones ?
+What questions corresponds to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6	57101890b654c5140001f7d6	1	-1	-1		1	3	What questions corresponds to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	0	10	0	0	What questions apply to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	1	11	0	0	What questions apply to the homosexual ones ?
+apply	VERB	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	1	2	12	0	0	What questions apply to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	3	13	0	0	What questions apply to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	4	14	0	0	What questions apply to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	5	15	0	0	What questions apply to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	6	16	0	0	What questions apply to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	0	7	17	0	0	What questions apply to the homosexual ones ?
+What questions apply to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_0	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions apply to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	0	19	0	0	What questions related to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	1	20	0	0	What questions related to the homosexual ones ?
+related	VERB	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	1	2	21	0	0	What questions related to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	3	22	0	0	What questions related to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	4	23	0	0	What questions related to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	5	24	0	0	What questions related to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	6	25	0	0	What questions related to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	0	7	26	0	0	What questions related to the homosexual ones ?
+What questions related to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_1	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions related to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	0	28	0	0	What questions applied to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	1	29	0	0	What questions applied to the homosexual ones ?
+applied	VERB	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	1	2	30	0	0	What questions applied to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	3	31	0	0	What questions applied to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	4	32	0	0	What questions applied to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	5	33	0	0	What questions applied to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	6	34	0	0	What questions applied to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	0	7	35	0	0	What questions applied to the homosexual ones ?
+What questions applied to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_2	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions applied to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	0	37	0	0	What questions belong to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	1	38	0	0	What questions belong to the homosexual ones ?
+belong	VERB	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	1	2	39	0	0	What questions belong to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	3	40	0	0	What questions belong to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	4	41	0	0	What questions belong to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	5	42	0	0	What questions belong to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	6	43	0	0	What questions belong to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	0	7	44	0	0	What questions belong to the homosexual ones ?
+What questions belong to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_3	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions belong to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	0	46	0	0	What questions relate to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	1	47	0	0	What questions relate to the homosexual ones ?
+relate	VERB	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	1	2	48	0	0	What questions relate to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	3	49	0	0	What questions relate to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	4	50	0	0	What questions relate to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	5	51	0	0	What questions relate to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	6	52	0	0	What questions relate to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	0	7	53	0	0	What questions relate to the homosexual ones ?
+What questions relate to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_4	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions relate to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	0	55	0	0	What questions relevant to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	1	56	0	0	What questions relevant to the homosexual ones ?
+relevant	ADJ	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	1	2	57	0	0	What questions relevant to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	3	58	0	0	What questions relevant to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	4	59	0	0	What questions relevant to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	5	60	0	0	What questions relevant to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	6	61	0	0	What questions relevant to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	0	7	62	0	0	What questions relevant to the homosexual ones ?
+What questions relevant to the homosexual ones ?	['DET', 'NOUN', 'ADJ', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_5	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions relevant to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	0	64	0	0	What questions pertaining to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	1	65	0	0	What questions pertaining to the homosexual ones ?
+pertaining	VERB	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	1	2	66	0	0	What questions pertaining to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	3	67	0	0	What questions pertaining to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	4	68	0	0	What questions pertaining to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	5	69	0	0	What questions pertaining to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	6	70	0	0	What questions pertaining to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	0	7	71	0	0	What questions pertaining to the homosexual ones ?
+What questions pertaining to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_6	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions pertaining to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	0	73	0	0	What questions relating to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	1	74	0	0	What questions relating to the homosexual ones ?
+relating	VERB	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	1	2	75	0	0	What questions relating to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	3	76	0	0	What questions relating to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	4	77	0	0	What questions relating to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	5	78	0	0	What questions relating to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	6	79	0	0	What questions relating to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	0	7	80	0	0	What questions relating to the homosexual ones ?
+What questions relating to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_7	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions relating to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	0	82	0	0	What questions happen to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	1	83	0	0	What questions happen to the homosexual ones ?
+happen	VERB	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	1	2	84	0	0	What questions happen to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	3	85	0	0	What questions happen to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	4	86	0	0	What questions happen to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	5	87	0	0	What questions happen to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	6	88	0	0	What questions happen to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	0	7	89	0	0	What questions happen to the homosexual ones ?
+What questions happen to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_8	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions happen to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	0	91	0	0	What questions refer to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	1	92	0	0	What questions refer to the homosexual ones ?
+refer	VERB	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	1	2	93	0	0	What questions refer to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	3	94	0	0	What questions refer to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	4	95	0	0	What questions refer to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	5	96	0	0	What questions refer to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	6	97	0	0	What questions refer to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	0	7	98	0	0	What questions refer to the homosexual ones ?
+What questions refer to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_9	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions refer to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	0	100	0	0	What questions correspond to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	1	101	0	0	What questions correspond to the homosexual ones ?
+correspond	VERB	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	1	2	102	0	0	What questions correspond to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	3	103	0	0	What questions correspond to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	4	104	0	0	What questions correspond to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	5	105	0	0	What questions correspond to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	6	106	0	0	What questions correspond to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	0	7	107	0	0	What questions correspond to the homosexual ones ?
+What questions correspond to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_10	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions correspond to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	0	109	0	0	What questions applies to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	1	110	0	0	What questions applies to the homosexual ones ?
+applies	VERB	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	1	2	111	0	0	What questions applies to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	3	112	0	0	What questions applies to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	4	113	0	0	What questions applies to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	5	114	0	0	What questions applies to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	6	115	0	0	What questions applies to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	0	7	116	0	0	What questions applies to the homosexual ones ?
+What questions applies to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_11	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions applies to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	0	118	0	0	What questions arise to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	1	119	0	0	What questions arise to the homosexual ones ?
+arise	VERB	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	1	2	120	0	0	What questions arise to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	3	121	0	0	What questions arise to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	4	122	0	0	What questions arise to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	5	123	0	0	What questions arise to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	6	124	0	0	What questions arise to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	0	7	125	0	0	What questions arise to the homosexual ones ?
+What questions arise to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_12	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions arise to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	0	127	0	0	What questions occur to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	1	128	0	0	What questions occur to the homosexual ones ?
+occur	VERB	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	1	2	129	0	0	What questions occur to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	3	130	0	0	What questions occur to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	4	131	0	0	What questions occur to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	5	132	0	0	What questions occur to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	6	133	0	0	What questions occur to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	0	7	134	0	0	What questions occur to the homosexual ones ?
+What questions occur to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_13	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions occur to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	0	136	0	0	What questions come to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	1	137	0	0	What questions come to the homosexual ones ?
+come	VERB	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	1	2	138	0	0	What questions come to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	3	139	0	0	What questions come to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	4	140	0	0	What questions come to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	5	141	0	0	What questions come to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	6	142	0	0	What questions come to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	0	7	143	0	0	What questions come to the homosexual ones ?
+What questions come to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_14	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions come to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	0	145	0	0	What questions matter to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	1	146	0	0	What questions matter to the homosexual ones ?
+matter	VERB	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	1	2	147	0	0	What questions matter to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	3	148	0	0	What questions matter to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	4	149	0	0	What questions matter to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	5	150	0	0	What questions matter to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	6	151	0	0	What questions matter to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	0	7	152	0	0	What questions matter to the homosexual ones ?
+What questions matter to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_15	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions matter to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	0	154	0	0	What questions happened to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	1	155	0	0	What questions happened to the homosexual ones ?
+happened	VERB	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	1	2	156	0	0	What questions happened to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	3	157	0	0	What questions happened to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	4	158	0	0	What questions happened to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	5	159	0	0	What questions happened to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	6	160	0	0	What questions happened to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	0	7	161	0	0	What questions happened to the homosexual ones ?
+What questions happened to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_16	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions happened to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	0	163	0	0	What questions applicable to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	1	164	0	0	What questions applicable to the homosexual ones ?
+applicable	ADJ	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	1	2	165	0	0	What questions applicable to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	3	166	0	0	What questions applicable to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	4	167	0	0	What questions applicable to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	5	168	0	0	What questions applicable to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	6	169	0	0	What questions applicable to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	0	7	170	0	0	What questions applicable to the homosexual ones ?
+What questions applicable to the homosexual ones ?	['DET', 'NOUN', 'ADJ', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_17	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions applicable to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	0	172	0	0	What questions remain to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	1	173	0	0	What questions remain to the homosexual ones ?
+remain	VERB	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	1	2	174	0	0	What questions remain to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	3	175	0	0	What questions remain to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	4	176	0	0	What questions remain to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	5	177	0	0	What questions remain to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	6	178	0	0	What questions remain to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	0	7	179	0	0	What questions remain to the homosexual ones ?
+What questions remain to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_18	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions remain to the homosexual ones ?
+What	DET	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	0	181	0	0	What questions referred to the homosexual ones ?
+questions	NOUN	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	1	182	0	0	What questions referred to the homosexual ones ?
+referred	VERB	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	1	2	183	0	0	What questions referred to the homosexual ones ?
+to	ADP	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	3	184	0	0	What questions referred to the homosexual ones ?
+the	DET	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	4	185	0	0	What questions referred to the homosexual ones ?
+homosexual	ADJ	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	5	186	0	0	What questions referred to the homosexual ones ?
+ones	NOUN	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	6	187	0	0	What questions referred to the homosexual ones ?
+?	PUNCT	0	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	0	7	188	0	0	What questions referred to the homosexual ones ?
+What questions referred to the homosexual ones ?	['DET', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	57101890b654c5140001f7d6_pert_19	57101890b654c5140001f7d6	0	-1	-1		1	2	What questions referred to the homosexual ones ?

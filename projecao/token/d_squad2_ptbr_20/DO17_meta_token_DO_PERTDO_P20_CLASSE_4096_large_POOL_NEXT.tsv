@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Que	SCONJ	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	0	1	Que tratado trata de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	1	2	Que tratado trata de armas nucleares ?
+trata	VERB	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	1	2	3	Que tratado trata de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	3	4	Que tratado trata de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	4	5	Que tratado trata de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	5	6	Que tratado trata de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66	573121fca5e9cc1400cdbc66	1	0	6		Que tratado trata de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	0	8	Que tratado temos de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	1	9	Que tratado temos de armas nucleares ?
+temos	VERB	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	1	2	10	Que tratado temos de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	3	11	Que tratado temos de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	4	12	Que tratado temos de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	5	13	Que tratado temos de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_0	573121fca5e9cc1400cdbc66	0	0	6		Que tratado temos de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	0	15	Que tratado tem de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	1	16	Que tratado tem de armas nucleares ?
+tem	VERB	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	1	2	17	Que tratado tem de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	3	18	Que tratado tem de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	4	19	Que tratado tem de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	5	20	Que tratado tem de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_1	573121fca5e9cc1400cdbc66	0	0	6		Que tratado tem de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	0	22	Que tratado é de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	1	23	Que tratado é de armas nucleares ?
+é	AUX	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	1	2	24	Que tratado é de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	3	25	Que tratado é de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	4	26	Que tratado é de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	5	27	Que tratado é de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_2	573121fca5e9cc1400cdbc66	0	0	6		Que tratado é de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	0	29	Que tratado existe de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	1	30	Que tratado existe de armas nucleares ?
+existe	VERB	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	1	2	31	Que tratado existe de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	3	32	Que tratado existe de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	4	33	Que tratado existe de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	5	34	Que tratado existe de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_3	573121fca5e9cc1400cdbc66	0	0	6		Que tratado existe de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	0	36	Que tratado há de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	1	37	Que tratado há de armas nucleares ?
+há	VERB	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	1	2	38	Que tratado há de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	3	39	Que tratado há de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	4	40	Que tratado há de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	5	41	Que tratado há de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_4	573121fca5e9cc1400cdbc66	0	0	6		Que tratado há de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	0	43	Que tratado trata de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	1	44	Que tratado trata de armas nucleares ?
+trata	VERB	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	1	2	45	Que tratado trata de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	3	46	Que tratado trata de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	4	47	Que tratado trata de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	5	48	Que tratado trata de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_5	573121fca5e9cc1400cdbc66	0	0	6		Que tratado trata de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	0	50	Que tratado o de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	1	51	Que tratado o de armas nucleares ?
+o	PRON	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	1	2	52	Que tratado o de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	3	53	Que tratado o de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	4	54	Que tratado o de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	5	55	Que tratado o de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_6	573121fca5e9cc1400cdbc66	0	0	6		Que tratado o de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	0	57	Que tratado têm de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	1	58	Que tratado têm de armas nucleares ?
+têm	VERB	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	1	2	59	Que tratado têm de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	3	60	Que tratado têm de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	4	61	Que tratado têm de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	5	62	Que tratado têm de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_7	573121fca5e9cc1400cdbc66	0	0	6		Que tratado têm de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	0	64	Que tratado fala de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	1	65	Que tratado fala de armas nucleares ?
+fala	VERB	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	1	2	66	Que tratado fala de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	3	67	Que tratado fala de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	4	68	Que tratado fala de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	5	69	Que tratado fala de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_8	573121fca5e9cc1400cdbc66	0	0	6		Que tratado fala de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	0	71	Que tratado seria de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	1	72	Que tratado seria de armas nucleares ?
+seria	AUX	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	1	2	73	Que tratado seria de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	3	74	Que tratado seria de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	4	75	Que tratado seria de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	5	76	Que tratado seria de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_9	573121fca5e9cc1400cdbc66	0	0	6		Que tratado seria de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	0	78	Que tratado faz de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	1	79	Que tratado faz de armas nucleares ?
+faz	VERB	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	1	2	80	Que tratado faz de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	3	81	Que tratado faz de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	4	82	Que tratado faz de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	5	83	Que tratado faz de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_10	573121fca5e9cc1400cdbc66	0	0	6		Que tratado faz de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	0	85	Que tratado quer de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	1	86	Que tratado quer de armas nucleares ?
+quer	CCONJ	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	1	2	87	Que tratado quer de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	3	88	Que tratado quer de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	4	89	Que tratado quer de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	5	90	Que tratado quer de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_11	573121fca5e9cc1400cdbc66	0	0	6		Que tratado quer de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	0	92	Que tratado querem de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	1	93	Que tratado querem de armas nucleares ?
+querem	VERB	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	1	2	94	Que tratado querem de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	3	95	Que tratado querem de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	4	96	Que tratado querem de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	5	97	Que tratado querem de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_12	573121fca5e9cc1400cdbc66	0	0	6		Que tratado querem de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	0	99	Que tratado fazer de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	1	100	Que tratado fazer de armas nucleares ?
+fazer	VERB	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	1	2	101	Que tratado fazer de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	3	102	Que tratado fazer de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	4	103	Que tratado fazer de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	5	104	Que tratado fazer de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_13	573121fca5e9cc1400cdbc66	0	0	6		Que tratado fazer de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	0	106	Que tratado fizeram de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	1	107	Que tratado fizeram de armas nucleares ?
+fizeram	VERB	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	1	2	108	Que tratado fizeram de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	3	109	Que tratado fizeram de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	4	110	Que tratado fizeram de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	5	111	Que tratado fizeram de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_14	573121fca5e9cc1400cdbc66	0	0	6		Que tratado fizeram de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	0	113	Que tratado fez de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	1	114	Que tratado fez de armas nucleares ?
+fez	VERB	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	1	2	115	Que tratado fez de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	3	116	Que tratado fez de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	4	117	Que tratado fez de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	5	118	Que tratado fez de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_15	573121fca5e9cc1400cdbc66	0	0	6		Que tratado fez de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	0	120	Que tratado teria de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	1	121	Que tratado teria de armas nucleares ?
+teria	AUX	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	1	2	122	Que tratado teria de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	3	123	Que tratado teria de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	4	124	Que tratado teria de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	5	125	Que tratado teria de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_16	573121fca5e9cc1400cdbc66	0	0	6		Que tratado teria de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	0	127	Que tratado fazem de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	1	128	Que tratado fazem de armas nucleares ?
+fazem	VERB	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	1	2	129	Que tratado fazem de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	3	130	Que tratado fazem de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	4	131	Que tratado fazem de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	5	132	Que tratado fazem de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_17	573121fca5e9cc1400cdbc66	0	0	6		Que tratado fazem de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	0	134	Que tratado haverá de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	1	135	Que tratado haverá de armas nucleares ?
+haverá	VERB	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	1	2	136	Que tratado haverá de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	3	137	Que tratado haverá de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	4	138	Que tratado haverá de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	5	139	Que tratado haverá de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_18	573121fca5e9cc1400cdbc66	0	0	6		Que tratado haverá de armas nucleares ?
+Que	SCONJ	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	0	141	Que tratado será de armas nucleares ?
+tratado	NOUN	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	1	142	Que tratado será de armas nucleares ?
+será	AUX	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	1	2	143	Que tratado será de armas nucleares ?
+de	ADP	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	3	144	Que tratado será de armas nucleares ?
+armas	NOUN	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	4	145	Que tratado será de armas nucleares ?
+nucleares	ADJ	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	5	146	Que tratado será de armas nucleares ?
+?	PUNCT	0	573121fca5e9cc1400cdbc66_pert_19	573121fca5e9cc1400cdbc66	0	0	6		Que tratado será de armas nucleares ?

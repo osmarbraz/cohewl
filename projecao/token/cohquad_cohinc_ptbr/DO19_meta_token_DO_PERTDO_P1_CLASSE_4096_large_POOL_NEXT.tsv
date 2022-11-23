@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Em	ADP	0	19	19	1	0	0	1	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+uma	DET	0	19	19	1	0	1	2	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+pilha	NOUN	0	19	19	1	0	2	3	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+a	DET	0	19	19	1	0	3	4	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+operação	NOUN	0	19	19	1	0	4	5	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+de	SCONJ	0	19	19	1	0	5	6	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+empilhar	VERB	1	19	19	1	1	6	7	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+ocorre	VERB	0	19	19	1	0	7	8	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+em	ADP	0	19	19	1	0	8	9	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+qual	DET	0	19	19	1	0	9	10	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+extremidade	NOUN	0	19	19	1	0	10	11	Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+?	PUNCT	0	19	19	1	0	11		Em uma pilha a operação de empilhar ocorre em qual extremidade ?
+Em	ADP	0	19_pert_0	19	0	0	0	13	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+uma	DET	0	19_pert_0	19	0	0	1	14	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+pilha	NOUN	0	19_pert_0	19	0	0	2	15	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+a	DET	0	19_pert_0	19	0	0	3	16	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+operação	NOUN	0	19_pert_0	19	0	0	4	17	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+de	SCONJ	0	19_pert_0	19	0	0	5	18	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+enfileirar	VERB	1	19_pert_0	19	0	1	6	19	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+ocorre	VERB	0	19_pert_0	19	0	0	7	20	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+em	ADP	0	19_pert_0	19	0	0	8	21	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+qual	DET	0	19_pert_0	19	0	0	9	22	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+extremidade	NOUN	0	19_pert_0	19	0	0	10	23	Em uma pilha a operação de enfileirar ocorre em qual extremidade ?
+?	PUNCT	0	19_pert_0	19	0	0	11		Em uma pilha a operação de enfileirar ocorre em qual extremidade ?

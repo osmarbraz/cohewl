@@ -1,0 +1,19 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	SCONJ	0	4	4	1	0	0	1	Como empilhar e desempilhar elementos em uma pilha ?
+empilhar	VERB	1	4	4	1	0	1	2	Como empilhar e desempilhar elementos em uma pilha ?
+e	CCONJ	0	4	4	1	0	2	3	Como empilhar e desempilhar elementos em uma pilha ?
+desempilhar	VERB	1	4	4	1	0	3	4	Como empilhar e desempilhar elementos em uma pilha ?
+elementos	NOUN	0	4	4	1	0	4	5	Como empilhar e desempilhar elementos em uma pilha ?
+em	ADP	0	4	4	1	0	5	6	Como empilhar e desempilhar elementos em uma pilha ?
+uma	DET	0	4	4	1	0	6	7	Como empilhar e desempilhar elementos em uma pilha ?
+pilha	NOUN	0	4	4	1	1	7	8	Como empilhar e desempilhar elementos em uma pilha ?
+?	PUNCT	0	4	4	1	0	8		Como empilhar e desempilhar elementos em uma pilha ?
+Como	SCONJ	0	4_pert_0	4	0	0	0	10	Como empilhar e desempilhar elementos em uma fila ?
+empilhar	VERB	1	4_pert_0	4	0	0	1	11	Como empilhar e desempilhar elementos em uma fila ?
+e	CCONJ	0	4_pert_0	4	0	0	2	12	Como empilhar e desempilhar elementos em uma fila ?
+desempilhar	VERB	1	4_pert_0	4	0	0	3	13	Como empilhar e desempilhar elementos em uma fila ?
+elementos	NOUN	0	4_pert_0	4	0	0	4	14	Como empilhar e desempilhar elementos em uma fila ?
+em	ADP	0	4_pert_0	4	0	0	5	15	Como empilhar e desempilhar elementos em uma fila ?
+uma	DET	0	4_pert_0	4	0	0	6	16	Como empilhar e desempilhar elementos em uma fila ?
+fila	NOUN	1	4_pert_0	4	0	1	7	17	Como empilhar e desempilhar elementos em uma fila ?
+?	PUNCT	0	4_pert_0	4	0	0	8		Como empilhar e desempilhar elementos em uma fila ?

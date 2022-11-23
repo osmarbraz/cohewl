@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+What	PRON	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	0	1	What uses an internal memory state ?
+uses	VERB	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	1	1	2	What uses an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	2	3	What uses an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	3	4	What uses an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	4	5	What uses an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	5	6	What uses an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100	572679a5f1498d1400e8e100	1	0	6		What uses an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	0	8	What is an internal memory state ?
+is	AUX	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	1	1	9	What is an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	2	10	What is an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	3	11	What is an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	4	12	What is an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	5	13	What is an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_0	572679a5f1498d1400e8e100	0	0	6		What is an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	0	15	What was an internal memory state ?
+was	AUX	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	1	1	16	What was an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	2	17	What was an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	3	18	What was an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	4	19	What was an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	5	20	What was an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_1	572679a5f1498d1400e8e100	0	0	6		What was an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	0	22	What about an internal memory state ?
+about	ADP	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	1	1	23	What about an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	2	24	What about an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	3	25	What about an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	4	26	What about an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	5	27	What about an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_2	572679a5f1498d1400e8e100	0	0	6		What about an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	0	29	What constitutes an internal memory state ?
+constitutes	VERB	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	1	1	30	What constitutes an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	2	31	What constitutes an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	3	32	What constitutes an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	4	33	What constitutes an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	5	34	What constitutes an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_3	572679a5f1498d1400e8e100	0	0	6		What constitutes an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	0	36	What constituted an internal memory state ?
+constituted	VERB	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	1	1	37	What constituted an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	2	38	What constituted an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	3	39	What constituted an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	4	40	What constituted an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	5	41	What constituted an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_4	572679a5f1498d1400e8e100	0	0	6		What constituted an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	0	43	What became an internal memory state ?
+became	VERB	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	1	1	44	What became an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	2	45	What became an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	3	46	What became an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	4	47	What became an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	5	48	What became an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_5	572679a5f1498d1400e8e100	0	0	6		What became an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	0	50	What of an internal memory state ?
+of	ADP	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	1	1	51	What of an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	2	52	What of an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	3	53	What of an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	4	54	What of an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	5	55	What of an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_6	572679a5f1498d1400e8e100	0	0	6		What of an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	0	57	What defines an internal memory state ?
+defines	VERB	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	1	1	58	What defines an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	2	59	What defines an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	3	60	What defines an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	4	61	What defines an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	5	62	What defines an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_7	572679a5f1498d1400e8e100	0	0	6		What defines an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	0	64	What becomes an internal memory state ?
+becomes	VERB	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	1	1	65	What becomes an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	2	66	What becomes an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	3	67	What becomes an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	4	68	What becomes an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	5	69	What becomes an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_8	572679a5f1498d1400e8e100	0	0	6		What becomes an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	0	71	What makes an internal memory state ?
+makes	VERB	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	1	1	72	What makes an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	2	73	What makes an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	3	74	What makes an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	4	75	What makes an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	5	76	What makes an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_9	572679a5f1498d1400e8e100	0	0	6		What makes an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	0	78	What made an internal memory state ?
+made	VERB	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	1	1	79	What made an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	2	80	What made an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	3	81	What made an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	4	82	What made an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	5	83	What made an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_10	572679a5f1498d1400e8e100	0	0	6		What made an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	0	85	What created an internal memory state ?
+created	VERB	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	1	1	86	What created an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	2	87	What created an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	3	88	What created an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	4	89	What created an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	5	90	What created an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_11	572679a5f1498d1400e8e100	0	0	6		What created an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	0	92	What defined an internal memory state ?
+defined	VERB	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	1	1	93	What defined an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	2	94	What defined an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	3	95	What defined an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	4	96	What defined an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	5	97	What defined an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_12	572679a5f1498d1400e8e100	0	0	6		What defined an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	0	99	What IS an internal memory state ?
+IS	AUX	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	1	1	100	What IS an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	2	101	What IS an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	3	102	What IS an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	4	103	What IS an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	5	104	What IS an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_13	572679a5f1498d1400e8e100	0	0	6		What IS an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	0	106	What , an internal memory state ?
+,	PUNCT	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	1	1	107	What , an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	2	108	What , an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	3	109	What , an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	4	110	What , an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	5	111	What , an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_14	572679a5f1498d1400e8e100	0	0	6		What , an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	0	113	What formed an internal memory state ?
+formed	VERB	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	1	1	114	What formed an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	2	115	What formed an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	3	116	What formed an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	4	117	What formed an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	5	118	What formed an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_15	572679a5f1498d1400e8e100	0	0	6		What formed an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	0	120	What described an internal memory state ?
+described	VERB	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	1	1	121	What described an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	2	122	What described an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	3	123	What described an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	4	124	What described an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	5	125	What described an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_16	572679a5f1498d1400e8e100	0	0	6		What described an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	0	127	What causes an internal memory state ?
+causes	VERB	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	1	1	128	What causes an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	2	129	What causes an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	3	130	What causes an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	4	131	What causes an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	5	132	What causes an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_17	572679a5f1498d1400e8e100	0	0	6		What causes an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	0	134	What describes an internal memory state ?
+describes	VERB	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	1	1	135	What describes an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	2	136	What describes an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	3	137	What describes an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	4	138	What describes an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	5	139	What describes an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_18	572679a5f1498d1400e8e100	0	0	6		What describes an internal memory state ?
+What	PRON	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	0	141	What caused an internal memory state ?
+caused	VERB	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	1	1	142	What caused an internal memory state ?
+an	DET	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	2	143	What caused an internal memory state ?
+internal	ADJ	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	3	144	What caused an internal memory state ?
+memory	NOUN	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	4	145	What caused an internal memory state ?
+state	NOUN	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	5	146	What caused an internal memory state ?
+?	PUNCT	0	572679a5f1498d1400e8e100_pert_19	572679a5f1498d1400e8e100	0	0	6		What caused an internal memory state ?

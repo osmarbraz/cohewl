@@ -1,0 +1,127 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	0	0	1	Como é conhecido Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	0	1	2	Como é conhecido Alan Turing ?
+conhecido	VERB	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	1	2	3	Como é conhecido Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	0	3	4	Como é conhecido Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	0	4	5	Como é conhecido Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180	56b4eba75fdf48af9900529219a9b180	1	0	5		Como é conhecido Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	0	0	7	Como é o Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	0	1	8	Como é o Alan Turing ?
+o	DET	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	1	2	9	Como é o Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	0	3	10	Como é o Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	0	4	11	Como é o Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_0	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é o Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	0	0	13	Como é possível Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	0	1	14	Como é possível Alan Turing ?
+possível	ADJ	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	1	2	15	Como é possível Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	0	3	16	Como é possível Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	0	4	17	Como é possível Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_1	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é possível Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	0	0	19	Como é que Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	0	1	20	Como é que Alan Turing ?
+que	SCONJ	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	1	2	21	Como é que Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	0	3	22	Como é que Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	0	4	23	Como é que Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_2	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é que Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	0	0	25	Como é um Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	0	1	26	Como é um Alan Turing ?
+um	DET	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	1	2	27	Como é um Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	0	3	28	Como é um Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	0	4	29	Como é um Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_3	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é um Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	0	0	31	Como é conhecido Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	0	1	32	Como é conhecido Alan Turing ?
+conhecido	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	1	2	33	Como é conhecido Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	0	3	34	Como é conhecido Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	0	4	35	Como é conhecido Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_4	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é conhecido Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	0	0	37	Como é , Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	0	1	38	Como é , Alan Turing ?
+,	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	1	2	39	Como é , Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	0	3	40	Como é , Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	0	4	41	Como é , Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_5	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é , Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	0	0	43	Como é chamado Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	0	1	44	Como é chamado Alan Turing ?
+chamado	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	1	2	45	Como é chamado Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	0	3	46	Como é chamado Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	0	4	47	Como é chamado Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_6	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é chamado Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	0	0	49	Como é esse Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	0	1	50	Como é esse Alan Turing ?
+esse	DET	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	1	2	51	Como é esse Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	0	3	52	Como é esse Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	0	4	53	Como é esse Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_7	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é esse Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	0	0	55	Como é mesmo Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	0	1	56	Como é mesmo Alan Turing ?
+mesmo	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	1	2	57	Como é mesmo Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	0	3	58	Como é mesmo Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	0	4	59	Como é mesmo Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_8	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é mesmo Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	0	0	61	Como é estudar Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	0	1	62	Como é estudar Alan Turing ?
+estudar	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	1	2	63	Como é estudar Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	0	3	64	Como é estudar Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	0	4	65	Como é estudar Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_9	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é estudar Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	0	0	67	Como é isso Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	0	1	68	Como é isso Alan Turing ?
+isso	PRON	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	1	2	69	Como é isso Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	0	3	70	Como é isso Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	0	4	71	Como é isso Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_10	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é isso Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	0	0	73	Como é conhecer Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	0	1	74	Como é conhecer Alan Turing ?
+conhecer	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	1	2	75	Como é conhecer Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	0	3	76	Como é conhecer Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	0	4	77	Como é conhecer Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_11	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é conhecer Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	0	0	79	Como é ler Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	0	1	80	Como é ler Alan Turing ?
+ler	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	1	2	81	Como é ler Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	0	3	82	Como é ler Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	0	4	83	Como é ler Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_12	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é ler Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	0	0	85	Como é ser Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	0	1	86	Como é ser Alan Turing ?
+ser	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	1	2	87	Como é ser Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	0	3	88	Como é ser Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	0	4	89	Como é ser Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_13	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é ser Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	0	0	91	Como é de Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	0	1	92	Como é de Alan Turing ?
+de	ADP	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	1	2	93	Como é de Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	0	3	94	Como é de Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	0	4	95	Como é de Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_14	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é de Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	0	0	97	Como é feito Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	0	1	98	Como é feito Alan Turing ?
+feito	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	1	2	99	Como é feito Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	0	3	100	Como é feito Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	0	4	101	Como é feito Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_15	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é feito Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	0	0	103	Como é você Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	0	1	104	Como é você Alan Turing ?
+você	PRON	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	1	2	105	Como é você Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	0	3	106	Como é você Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	0	4	107	Como é você Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_16	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é você Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	0	0	109	Como é este Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	0	1	110	Como é este Alan Turing ?
+este	DET	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	1	2	111	Como é este Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	0	3	112	Como é este Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	0	4	113	Como é este Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_17	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é este Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	0	0	115	Como é parar Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	0	1	116	Como é parar Alan Turing ?
+parar	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	1	2	117	Como é parar Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	0	3	118	Como é parar Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	0	4	119	Como é parar Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_18	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é parar Alan Turing ?
+Como	ADV	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	0	0	121	Como é viver Alan Turing ?
+é	AUX	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	0	1	122	Como é viver Alan Turing ?
+viver	VERB	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	1	2	123	Como é viver Alan Turing ?
+Alan	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	0	3	124	Como é viver Alan Turing ?
+Turing	PROPN	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	0	4	125	Como é viver Alan Turing ?
+?	PUNCT	0	56b4eba75fdf48af9900529219a9b180_pert_19	56b4eba75fdf48af9900529219a9b180	0	0	5		Como é viver Alan Turing ?

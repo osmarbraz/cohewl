@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	PRON	0	10	10	1	0	0	1	O que é uma fila e como enfileirar seu elemento ?
+que	PRON	0	10	10	1	0	1	2	O que é uma fila e como enfileirar seu elemento ?
+é	AUX	0	10	10	1	0	2	3	O que é uma fila e como enfileirar seu elemento ?
+uma	DET	0	10	10	1	0	3	4	O que é uma fila e como enfileirar seu elemento ?
+fila	NOUN	1	10	10	1	0	4	5	O que é uma fila e como enfileirar seu elemento ?
+e	CCONJ	0	10	10	1	0	5	6	O que é uma fila e como enfileirar seu elemento ?
+como	ADV	0	10	10	1	0	6	7	O que é uma fila e como enfileirar seu elemento ?
+enfileirar	VERB	1	10	10	1	1	7	8	O que é uma fila e como enfileirar seu elemento ?
+seu	DET	0	10	10	1	0	8	9	O que é uma fila e como enfileirar seu elemento ?
+elemento	NOUN	0	10	10	1	0	9	10	O que é uma fila e como enfileirar seu elemento ?
+?	PUNCT	0	10	10	1	0	10		O que é uma fila e como enfileirar seu elemento ?
+O	PRON	0	10_pert_0	10	0	0	0	12	O que é uma fila e como identificar seu elemento ?
+que	PRON	0	10_pert_0	10	0	0	1	13	O que é uma fila e como identificar seu elemento ?
+é	AUX	0	10_pert_0	10	0	0	2	14	O que é uma fila e como identificar seu elemento ?
+uma	DET	0	10_pert_0	10	0	0	3	15	O que é uma fila e como identificar seu elemento ?
+fila	NOUN	1	10_pert_0	10	0	0	4	16	O que é uma fila e como identificar seu elemento ?
+e	CCONJ	0	10_pert_0	10	0	0	5	17	O que é uma fila e como identificar seu elemento ?
+como	ADV	0	10_pert_0	10	0	0	6	18	O que é uma fila e como identificar seu elemento ?
+identificar	VERB	0	10_pert_0	10	0	1	7	19	O que é uma fila e como identificar seu elemento ?
+seu	DET	0	10_pert_0	10	0	0	8	20	O que é uma fila e como identificar seu elemento ?
+elemento	NOUN	0	10_pert_0	10	0	0	9	21	O que é uma fila e como identificar seu elemento ?
+?	PUNCT	0	10_pert_0	10	0	0	10		O que é uma fila e como identificar seu elemento ?
+O	PRON	0	10_pert_1	10	0	0	0	23	O que é uma fila e como é seu elemento ?
+que	PRON	0	10_pert_1	10	0	0	1	24	O que é uma fila e como é seu elemento ?
+é	AUX	0	10_pert_1	10	0	0	2	25	O que é uma fila e como é seu elemento ?
+uma	DET	0	10_pert_1	10	0	0	3	26	O que é uma fila e como é seu elemento ?
+fila	NOUN	1	10_pert_1	10	0	0	4	27	O que é uma fila e como é seu elemento ?
+e	CCONJ	0	10_pert_1	10	0	0	5	28	O que é uma fila e como é seu elemento ?
+como	ADV	0	10_pert_1	10	0	0	6	29	O que é uma fila e como é seu elemento ?
+é	AUX	0	10_pert_1	10	0	0	7	30	O que é uma fila e como é seu elemento ?
+seu	DET	0	10_pert_1	10	0	0	8	31	O que é uma fila e como é seu elemento ?
+elemento	NOUN	0	10_pert_1	10	0	0	9	32	O que é uma fila e como é seu elemento ?
+?	PUNCT	0	10_pert_1	10	0	0	10		O que é uma fila e como é seu elemento ?
+O	PRON	0	10_pert_2	10	0	0	0	34	O que é uma fila e como definir seu elemento ?
+que	PRON	0	10_pert_2	10	0	0	1	35	O que é uma fila e como definir seu elemento ?
+é	AUX	0	10_pert_2	10	0	0	2	36	O que é uma fila e como definir seu elemento ?
+uma	DET	0	10_pert_2	10	0	0	3	37	O que é uma fila e como definir seu elemento ?
+fila	NOUN	1	10_pert_2	10	0	0	4	38	O que é uma fila e como definir seu elemento ?
+e	CCONJ	0	10_pert_2	10	0	0	5	39	O que é uma fila e como definir seu elemento ?
+como	ADV	0	10_pert_2	10	0	0	6	40	O que é uma fila e como definir seu elemento ?
+definir	VERB	0	10_pert_2	10	0	1	7	41	O que é uma fila e como definir seu elemento ?
+seu	DET	0	10_pert_2	10	0	0	8	42	O que é uma fila e como definir seu elemento ?
+elemento	NOUN	0	10_pert_2	10	0	0	9	43	O que é uma fila e como definir seu elemento ?
+?	PUNCT	0	10_pert_2	10	0	0	10		O que é uma fila e como definir seu elemento ?
+O	PRON	0	10_pert_3	10	0	0	0	45	O que é uma fila e como localizar seu elemento ?
+que	PRON	0	10_pert_3	10	0	0	1	46	O que é uma fila e como localizar seu elemento ?
+é	AUX	0	10_pert_3	10	0	0	2	47	O que é uma fila e como localizar seu elemento ?
+uma	DET	0	10_pert_3	10	0	0	3	48	O que é uma fila e como localizar seu elemento ?
+fila	NOUN	1	10_pert_3	10	0	0	4	49	O que é uma fila e como localizar seu elemento ?
+e	CCONJ	0	10_pert_3	10	0	0	5	50	O que é uma fila e como localizar seu elemento ?
+como	ADV	0	10_pert_3	10	0	0	6	51	O que é uma fila e como localizar seu elemento ?
+localizar	VERB	0	10_pert_3	10	0	1	7	52	O que é uma fila e como localizar seu elemento ?
+seu	DET	0	10_pert_3	10	0	0	8	53	O que é uma fila e como localizar seu elemento ?
+elemento	NOUN	0	10_pert_3	10	0	0	9	54	O que é uma fila e como localizar seu elemento ?
+?	PUNCT	0	10_pert_3	10	0	0	10		O que é uma fila e como localizar seu elemento ?
+O	PRON	0	10_pert_4	10	0	0	0	56	O que é uma fila e como organizar seu elemento ?
+que	PRON	0	10_pert_4	10	0	0	1	57	O que é uma fila e como organizar seu elemento ?
+é	AUX	0	10_pert_4	10	0	0	2	58	O que é uma fila e como organizar seu elemento ?
+uma	DET	0	10_pert_4	10	0	0	3	59	O que é uma fila e como organizar seu elemento ?
+fila	NOUN	1	10_pert_4	10	0	0	4	60	O que é uma fila e como organizar seu elemento ?
+e	CCONJ	0	10_pert_4	10	0	0	5	61	O que é uma fila e como organizar seu elemento ?
+como	ADV	0	10_pert_4	10	0	0	6	62	O que é uma fila e como organizar seu elemento ?
+organizar	VERB	0	10_pert_4	10	0	1	7	63	O que é uma fila e como organizar seu elemento ?
+seu	DET	0	10_pert_4	10	0	0	8	64	O que é uma fila e como organizar seu elemento ?
+elemento	NOUN	0	10_pert_4	10	0	0	9	65	O que é uma fila e como organizar seu elemento ?
+?	PUNCT	0	10_pert_4	10	0	0	10		O que é uma fila e como organizar seu elemento ?
+O	PRON	0	10_pert_5	10	0	0	0	67	O que é uma fila e como classificar seu elemento ?
+que	PRON	0	10_pert_5	10	0	0	1	68	O que é uma fila e como classificar seu elemento ?
+é	AUX	0	10_pert_5	10	0	0	2	69	O que é uma fila e como classificar seu elemento ?
+uma	DET	0	10_pert_5	10	0	0	3	70	O que é uma fila e como classificar seu elemento ?
+fila	NOUN	1	10_pert_5	10	0	0	4	71	O que é uma fila e como classificar seu elemento ?
+e	CCONJ	0	10_pert_5	10	0	0	5	72	O que é uma fila e como classificar seu elemento ?
+como	SCONJ	0	10_pert_5	10	0	0	6	73	O que é uma fila e como classificar seu elemento ?
+classificar	VERB	0	10_pert_5	10	0	1	7	74	O que é uma fila e como classificar seu elemento ?
+seu	DET	0	10_pert_5	10	0	0	8	75	O que é uma fila e como classificar seu elemento ?
+elemento	NOUN	0	10_pert_5	10	0	0	9	76	O que é uma fila e como classificar seu elemento ?
+?	PUNCT	0	10_pert_5	10	0	0	10		O que é uma fila e como classificar seu elemento ?
+O	PRON	0	10_pert_6	10	0	0	0	78	O que é uma fila e como formar seu elemento ?
+que	PRON	0	10_pert_6	10	0	0	1	79	O que é uma fila e como formar seu elemento ?
+é	AUX	0	10_pert_6	10	0	0	2	80	O que é uma fila e como formar seu elemento ?
+uma	DET	0	10_pert_6	10	0	0	3	81	O que é uma fila e como formar seu elemento ?
+fila	NOUN	1	10_pert_6	10	0	0	4	82	O que é uma fila e como formar seu elemento ?
+e	CCONJ	0	10_pert_6	10	0	0	5	83	O que é uma fila e como formar seu elemento ?
+como	ADV	0	10_pert_6	10	0	0	6	84	O que é uma fila e como formar seu elemento ?
+formar	VERB	0	10_pert_6	10	0	1	7	85	O que é uma fila e como formar seu elemento ?
+seu	DET	0	10_pert_6	10	0	0	8	86	O que é uma fila e como formar seu elemento ?
+elemento	NOUN	0	10_pert_6	10	0	0	9	87	O que é uma fila e como formar seu elemento ?
+?	PUNCT	0	10_pert_6	10	0	0	10		O que é uma fila e como formar seu elemento ?
+O	PRON	0	10_pert_7	10	0	0	0	89	O que é uma fila e como reconhecer seu elemento ?
+que	PRON	0	10_pert_7	10	0	0	1	90	O que é uma fila e como reconhecer seu elemento ?
+é	AUX	0	10_pert_7	10	0	0	2	91	O que é uma fila e como reconhecer seu elemento ?
+uma	DET	0	10_pert_7	10	0	0	3	92	O que é uma fila e como reconhecer seu elemento ?
+fila	NOUN	1	10_pert_7	10	0	0	4	93	O que é uma fila e como reconhecer seu elemento ?
+e	CCONJ	0	10_pert_7	10	0	0	5	94	O que é uma fila e como reconhecer seu elemento ?
+como	ADV	0	10_pert_7	10	0	0	6	95	O que é uma fila e como reconhecer seu elemento ?
+reconhecer	VERB	0	10_pert_7	10	0	1	7	96	O que é uma fila e como reconhecer seu elemento ?
+seu	DET	0	10_pert_7	10	0	0	8	97	O que é uma fila e como reconhecer seu elemento ?
+elemento	NOUN	0	10_pert_7	10	0	0	9	98	O que é uma fila e como reconhecer seu elemento ?
+?	PUNCT	0	10_pert_7	10	0	0	10		O que é uma fila e como reconhecer seu elemento ?
+O	PRON	0	10_pert_8	10	0	0	0	100	O que é uma fila e como funciona seu elemento ?
+que	PRON	0	10_pert_8	10	0	0	1	101	O que é uma fila e como funciona seu elemento ?
+é	AUX	0	10_pert_8	10	0	0	2	102	O que é uma fila e como funciona seu elemento ?
+uma	DET	0	10_pert_8	10	0	0	3	103	O que é uma fila e como funciona seu elemento ?
+fila	NOUN	1	10_pert_8	10	0	0	4	104	O que é uma fila e como funciona seu elemento ?
+e	CCONJ	0	10_pert_8	10	0	0	5	105	O que é uma fila e como funciona seu elemento ?
+como	ADV	0	10_pert_8	10	0	0	6	106	O que é uma fila e como funciona seu elemento ?
+funciona	VERB	0	10_pert_8	10	0	1	7	107	O que é uma fila e como funciona seu elemento ?
+seu	DET	0	10_pert_8	10	0	0	8	108	O que é uma fila e como funciona seu elemento ?
+elemento	NOUN	0	10_pert_8	10	0	0	9	109	O que é uma fila e como funciona seu elemento ?
+?	PUNCT	0	10_pert_8	10	0	0	10		O que é uma fila e como funciona seu elemento ?
+O	PRON	0	10_pert_9	10	0	0	0	111	O que é uma fila e como representar seu elemento ?
+que	PRON	0	10_pert_9	10	0	0	1	112	O que é uma fila e como representar seu elemento ?
+é	AUX	0	10_pert_9	10	0	0	2	113	O que é uma fila e como representar seu elemento ?
+uma	DET	0	10_pert_9	10	0	0	3	114	O que é uma fila e como representar seu elemento ?
+fila	NOUN	1	10_pert_9	10	0	0	4	115	O que é uma fila e como representar seu elemento ?
+e	CCONJ	0	10_pert_9	10	0	0	5	116	O que é uma fila e como representar seu elemento ?
+como	ADV	0	10_pert_9	10	0	0	6	117	O que é uma fila e como representar seu elemento ?
+representar	VERB	0	10_pert_9	10	0	1	7	118	O que é uma fila e como representar seu elemento ?
+seu	DET	0	10_pert_9	10	0	0	8	119	O que é uma fila e como representar seu elemento ?
+elemento	NOUN	0	10_pert_9	10	0	0	9	120	O que é uma fila e como representar seu elemento ?
+?	PUNCT	0	10_pert_9	10	0	0	10		O que é uma fila e como representar seu elemento ?
+O	PRON	0	10_pert_10	10	0	0	0	122	O que é uma fila e como determinar seu elemento ?
+que	PRON	0	10_pert_10	10	0	0	1	123	O que é uma fila e como determinar seu elemento ?
+é	AUX	0	10_pert_10	10	0	0	2	124	O que é uma fila e como determinar seu elemento ?
+uma	DET	0	10_pert_10	10	0	0	3	125	O que é uma fila e como determinar seu elemento ?
+fila	NOUN	1	10_pert_10	10	0	0	4	126	O que é uma fila e como determinar seu elemento ?
+e	CCONJ	0	10_pert_10	10	0	0	5	127	O que é uma fila e como determinar seu elemento ?
+como	ADV	0	10_pert_10	10	0	0	6	128	O que é uma fila e como determinar seu elemento ?
+determinar	VERB	0	10_pert_10	10	0	1	7	129	O que é uma fila e como determinar seu elemento ?
+seu	DET	0	10_pert_10	10	0	0	8	130	O que é uma fila e como determinar seu elemento ?
+elemento	NOUN	0	10_pert_10	10	0	0	9	131	O que é uma fila e como determinar seu elemento ?
+?	PUNCT	0	10_pert_10	10	0	0	10		O que é uma fila e como determinar seu elemento ?
+O	PRON	0	10_pert_11	10	0	0	0	133	O que é uma fila e como distinguir seu elemento ?
+que	PRON	0	10_pert_11	10	0	0	1	134	O que é uma fila e como distinguir seu elemento ?
+é	AUX	0	10_pert_11	10	0	0	2	135	O que é uma fila e como distinguir seu elemento ?
+uma	DET	0	10_pert_11	10	0	0	3	136	O que é uma fila e como distinguir seu elemento ?
+fila	NOUN	1	10_pert_11	10	0	0	4	137	O que é uma fila e como distinguir seu elemento ?
+e	CCONJ	0	10_pert_11	10	0	0	5	138	O que é uma fila e como distinguir seu elemento ?
+como	ADV	0	10_pert_11	10	0	0	6	139	O que é uma fila e como distinguir seu elemento ?
+distinguir	VERB	0	10_pert_11	10	0	1	7	140	O que é uma fila e como distinguir seu elemento ?
+seu	DET	0	10_pert_11	10	0	0	8	141	O que é uma fila e como distinguir seu elemento ?
+elemento	NOUN	0	10_pert_11	10	0	0	9	142	O que é uma fila e como distinguir seu elemento ?
+?	PUNCT	0	10_pert_11	10	0	0	10		O que é uma fila e como distinguir seu elemento ?
+O	PRON	0	10_pert_12	10	0	0	0	144	O que é uma fila e como encontrar seu elemento ?
+que	PRON	0	10_pert_12	10	0	0	1	145	O que é uma fila e como encontrar seu elemento ?
+é	AUX	0	10_pert_12	10	0	0	2	146	O que é uma fila e como encontrar seu elemento ?
+uma	DET	0	10_pert_12	10	0	0	3	147	O que é uma fila e como encontrar seu elemento ?
+fila	NOUN	1	10_pert_12	10	0	0	4	148	O que é uma fila e como encontrar seu elemento ?
+e	CCONJ	0	10_pert_12	10	0	0	5	149	O que é uma fila e como encontrar seu elemento ?
+como	ADV	0	10_pert_12	10	0	0	6	150	O que é uma fila e como encontrar seu elemento ?
+encontrar	VERB	0	10_pert_12	10	0	1	7	151	O que é uma fila e como encontrar seu elemento ?
+seu	DET	0	10_pert_12	10	0	0	8	152	O que é uma fila e como encontrar seu elemento ?
+elemento	NOUN	0	10_pert_12	10	0	0	9	153	O que é uma fila e como encontrar seu elemento ?
+?	PUNCT	0	10_pert_12	10	0	0	10		O que é uma fila e como encontrar seu elemento ?
+O	PRON	0	10_pert_13	10	0	0	0	155	O que é uma fila e como calcular seu elemento ?
+que	PRON	0	10_pert_13	10	0	0	1	156	O que é uma fila e como calcular seu elemento ?
+é	AUX	0	10_pert_13	10	0	0	2	157	O que é uma fila e como calcular seu elemento ?
+uma	DET	0	10_pert_13	10	0	0	3	158	O que é uma fila e como calcular seu elemento ?
+fila	NOUN	1	10_pert_13	10	0	0	4	159	O que é uma fila e como calcular seu elemento ?
+e	CCONJ	0	10_pert_13	10	0	0	5	160	O que é uma fila e como calcular seu elemento ?
+como	ADV	0	10_pert_13	10	0	0	6	161	O que é uma fila e como calcular seu elemento ?
+calcular	VERB	0	10_pert_13	10	0	1	7	162	O que é uma fila e como calcular seu elemento ?
+seu	DET	0	10_pert_13	10	0	0	8	163	O que é uma fila e como calcular seu elemento ?
+elemento	NOUN	0	10_pert_13	10	0	0	9	164	O que é uma fila e como calcular seu elemento ?
+?	PUNCT	0	10_pert_13	10	0	0	10		O que é uma fila e como calcular seu elemento ?
+O	PRON	0	10_pert_14	10	0	0	0	166	O que é uma fila e como escolher seu elemento ?
+que	PRON	0	10_pert_14	10	0	0	1	167	O que é uma fila e como escolher seu elemento ?
+é	AUX	0	10_pert_14	10	0	0	2	168	O que é uma fila e como escolher seu elemento ?
+uma	DET	0	10_pert_14	10	0	0	3	169	O que é uma fila e como escolher seu elemento ?
+fila	NOUN	1	10_pert_14	10	0	0	4	170	O que é uma fila e como escolher seu elemento ?
+e	CCONJ	0	10_pert_14	10	0	0	5	171	O que é uma fila e como escolher seu elemento ?
+como	ADV	0	10_pert_14	10	0	0	6	172	O que é uma fila e como escolher seu elemento ?
+escolher	VERB	0	10_pert_14	10	0	1	7	173	O que é uma fila e como escolher seu elemento ?
+seu	DET	0	10_pert_14	10	0	0	8	174	O que é uma fila e como escolher seu elemento ?
+elemento	NOUN	0	10_pert_14	10	0	0	9	175	O que é uma fila e como escolher seu elemento ?
+?	PUNCT	0	10_pert_14	10	0	0	10		O que é uma fila e como escolher seu elemento ?
+O	PRON	0	10_pert_15	10	0	0	0	177	O que é uma fila e como surge seu elemento ?
+que	PRON	0	10_pert_15	10	0	0	1	178	O que é uma fila e como surge seu elemento ?
+é	AUX	0	10_pert_15	10	0	0	2	179	O que é uma fila e como surge seu elemento ?
+uma	DET	0	10_pert_15	10	0	0	3	180	O que é uma fila e como surge seu elemento ?
+fila	NOUN	1	10_pert_15	10	0	0	4	181	O que é uma fila e como surge seu elemento ?
+e	CCONJ	0	10_pert_15	10	0	0	5	182	O que é uma fila e como surge seu elemento ?
+como	ADV	0	10_pert_15	10	0	0	6	183	O que é uma fila e como surge seu elemento ?
+surge	VERB	0	10_pert_15	10	0	1	7	184	O que é uma fila e como surge seu elemento ?
+seu	DET	0	10_pert_15	10	0	0	8	185	O que é uma fila e como surge seu elemento ?
+elemento	NOUN	0	10_pert_15	10	0	0	9	186	O que é uma fila e como surge seu elemento ?
+?	PUNCT	0	10_pert_15	10	0	0	10		O que é uma fila e como surge seu elemento ?
+O	PRON	0	10_pert_16	10	0	0	0	188	O que é uma fila e como surgiu seu elemento ?
+que	PRON	0	10_pert_16	10	0	0	1	189	O que é uma fila e como surgiu seu elemento ?
+é	AUX	0	10_pert_16	10	0	0	2	190	O que é uma fila e como surgiu seu elemento ?
+uma	DET	0	10_pert_16	10	0	0	3	191	O que é uma fila e como surgiu seu elemento ?
+fila	NOUN	1	10_pert_16	10	0	0	4	192	O que é uma fila e como surgiu seu elemento ?
+e	CCONJ	0	10_pert_16	10	0	0	5	193	O que é uma fila e como surgiu seu elemento ?
+como	ADV	0	10_pert_16	10	0	0	6	194	O que é uma fila e como surgiu seu elemento ?
+surgiu	VERB	0	10_pert_16	10	0	1	7	195	O que é uma fila e como surgiu seu elemento ?
+seu	DET	0	10_pert_16	10	0	0	8	196	O que é uma fila e como surgiu seu elemento ?
+elemento	NOUN	0	10_pert_16	10	0	0	9	197	O que é uma fila e como surgiu seu elemento ?
+?	PUNCT	0	10_pert_16	10	0	0	10		O que é uma fila e como surgiu seu elemento ?
+O	PRON	0	10_pert_17	10	0	0	0	199	O que é uma fila e como seria seu elemento ?
+que	PRON	0	10_pert_17	10	0	0	1	200	O que é uma fila e como seria seu elemento ?
+é	AUX	0	10_pert_17	10	0	0	2	201	O que é uma fila e como seria seu elemento ?
+uma	DET	0	10_pert_17	10	0	0	3	202	O que é uma fila e como seria seu elemento ?
+fila	NOUN	1	10_pert_17	10	0	0	4	203	O que é uma fila e como seria seu elemento ?
+e	CCONJ	0	10_pert_17	10	0	0	5	204	O que é uma fila e como seria seu elemento ?
+como	SCONJ	0	10_pert_17	10	0	0	6	205	O que é uma fila e como seria seu elemento ?
+seria	AUX	0	10_pert_17	10	0	1	7	206	O que é uma fila e como seria seu elemento ?
+seu	DET	0	10_pert_17	10	0	0	8	207	O que é uma fila e como seria seu elemento ?
+elemento	NOUN	0	10_pert_17	10	0	0	9	208	O que é uma fila e como seria seu elemento ?
+?	PUNCT	0	10_pert_17	10	0	0	10		O que é uma fila e como seria seu elemento ?
+O	PRON	0	10_pert_18	10	0	0	0	210	O que é uma fila e como ocorre seu elemento ?
+que	PRON	0	10_pert_18	10	0	0	1	211	O que é uma fila e como ocorre seu elemento ?
+é	AUX	0	10_pert_18	10	0	0	2	212	O que é uma fila e como ocorre seu elemento ?
+uma	DET	0	10_pert_18	10	0	0	3	213	O que é uma fila e como ocorre seu elemento ?
+fila	NOUN	1	10_pert_18	10	0	0	4	214	O que é uma fila e como ocorre seu elemento ?
+e	CCONJ	0	10_pert_18	10	0	0	5	215	O que é uma fila e como ocorre seu elemento ?
+como	ADV	0	10_pert_18	10	0	0	6	216	O que é uma fila e como ocorre seu elemento ?
+ocorre	VERB	0	10_pert_18	10	0	1	7	217	O que é uma fila e como ocorre seu elemento ?
+seu	DET	0	10_pert_18	10	0	0	8	218	O que é uma fila e como ocorre seu elemento ?
+elemento	NOUN	0	10_pert_18	10	0	0	9	219	O que é uma fila e como ocorre seu elemento ?
+?	PUNCT	0	10_pert_18	10	0	0	10		O que é uma fila e como ocorre seu elemento ?
+O	PRON	0	10_pert_19	10	0	0	0	221	O que é uma fila e como dividir seu elemento ?
+que	PRON	0	10_pert_19	10	0	0	1	222	O que é uma fila e como dividir seu elemento ?
+é	AUX	0	10_pert_19	10	0	0	2	223	O que é uma fila e como dividir seu elemento ?
+uma	DET	0	10_pert_19	10	0	0	3	224	O que é uma fila e como dividir seu elemento ?
+fila	NOUN	1	10_pert_19	10	0	0	4	225	O que é uma fila e como dividir seu elemento ?
+e	CCONJ	0	10_pert_19	10	0	0	5	226	O que é uma fila e como dividir seu elemento ?
+como	ADV	0	10_pert_19	10	0	0	6	227	O que é uma fila e como dividir seu elemento ?
+dividir	VERB	0	10_pert_19	10	0	1	7	228	O que é uma fila e como dividir seu elemento ?
+seu	DET	0	10_pert_19	10	0	0	8	229	O que é uma fila e como dividir seu elemento ?
+elemento	NOUN	0	10_pert_19	10	0	0	9	230	O que é uma fila e como dividir seu elemento ?
+?	PUNCT	0	10_pert_19	10	0	0	10		O que é uma fila e como dividir seu elemento ?

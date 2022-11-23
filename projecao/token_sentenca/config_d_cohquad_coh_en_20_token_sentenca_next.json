@@ -1,0 +1,127 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "01-DO/20 DM com Next",
+      "tensorShape": [189, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO1_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO1_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv",
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/D_COHQUAD_COH_EN_DO1.txt"
+    },
+	{
+      "tensorName": "02-DO/20 DM com Next",
+      "tensorShape": [189, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO2_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO2_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "03-DO/20 DM com Next",
+      "tensorShape": [189, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO3_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO3_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv",
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/D_COHQUAD_COH_EN_DO3.txt"
+    },
+	{
+      "tensorName": "04-DO/20 DM com Next",
+      "tensorShape": [231, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO4_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO4_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "05-DO/20 DM com Next",
+      "tensorShape": [231, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO5_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO5_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "06-DO/20 DM com Next",
+      "tensorShape": [273, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO6_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO6_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "07-DO/20 DM com Next",
+      "tensorShape": [189, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO7_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO7_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "08-DO/20 DM com Next",
+      "tensorShape": [231, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO8_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO8_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "09-DO/20 DM com Next",
+      "tensorShape": [252, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO9_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO9_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "10-DO/20 DM com Next",
+      "tensorShape": [252, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO10_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO10_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "11-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO11_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO11_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "12-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO12_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO12_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "13-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO13_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO13_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "14-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO14_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO14_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "15-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO15_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO15_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "16-DO/20 DM com Next",
+      "tensorShape": [294, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO16_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO16_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "17-DO/20 DM com Next",
+      "tensorShape": [315, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO17_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO17_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "18-DO/20 DM com Next",
+      "tensorShape": [315, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO18_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO18_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "19-DO/20 DM com Next",
+      "tensorShape": [273, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO19_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO19_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    },
+	{
+      "tensorName": "20-DO/20 DM com Next",
+      "tensorShape": [273, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO20_records_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/d_cohquad_coh_en_20/DO20_meta_token_sentenca_DO_PERTDO_P20_CLASSE_4096_large_POOL_NEXT.tsv"
+    }	
+  ],
+  "modelCheckpointPath": "<b>CohQuAD Coh (en) - Embeddings de Palavras e Sentença"
+}

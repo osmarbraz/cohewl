@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	1	1	1	0	0	0	1	How to enqueue elements in a queue ?
+to	PART	0	1	1	1	0	1	0	1	How to enqueue elements in a queue ?
+enqueue	VERB	1	1	1	1	1	2	0	1	How to enqueue elements in a queue ?
+elements	NOUN	0	1	1	1	0	3	0	1	How to enqueue elements in a queue ?
+in	ADP	0	1	1	1	0	4	0	1	How to enqueue elements in a queue ?
+a	DET	0	1	1	1	0	5	0	1	How to enqueue elements in a queue ?
+queue	NOUN	1	1	1	1	0	6	0	1	How to enqueue elements in a queue ?
+?	PUNCT	0	1	1	1	0	7	0	1	How to enqueue elements in a queue ?
+0	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 1, 0]	1	1	1	-1	-1	1	3	How to enqueue elements in a queue ?
+How	SCONJ	0	1_pert_0	1	0	0	0	0	0	How to place elements in a queue ?
+to	PART	0	1_pert_0	1	0	0	1	0	0	How to place elements in a queue ?
+place	VERB	0	1_pert_0	1	0	1	2	0	0	How to place elements in a queue ?
+elements	NOUN	0	1_pert_0	1	0	0	3	0	0	How to place elements in a queue ?
+in	ADP	0	1_pert_0	1	0	0	4	0	0	How to place elements in a queue ?
+a	DET	0	1_pert_0	1	0	0	5	0	0	How to place elements in a queue ?
+queue	NOUN	1	1_pert_0	1	0	0	6	0	0	How to place elements in a queue ?
+?	PUNCT	0	1_pert_0	1	0	0	7	0	0	How to place elements in a queue ?
+1	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_0	1	0	-1	-1	1	2	How to place elements in a queue ?
+How	SCONJ	0	1_pert_1	1	0	0	0	0	0	How to arrange elements in a queue ?
+to	PART	0	1_pert_1	1	0	0	1	0	0	How to arrange elements in a queue ?
+arrange	VERB	0	1_pert_1	1	0	1	2	0	0	How to arrange elements in a queue ?
+elements	NOUN	0	1_pert_1	1	0	0	3	0	0	How to arrange elements in a queue ?
+in	ADP	0	1_pert_1	1	0	0	4	0	0	How to arrange elements in a queue ?
+a	DET	0	1_pert_1	1	0	0	5	0	0	How to arrange elements in a queue ?
+queue	NOUN	1	1_pert_1	1	0	0	6	0	0	How to arrange elements in a queue ?
+?	PUNCT	0	1_pert_1	1	0	0	7	0	0	How to arrange elements in a queue ?
+2	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_1	1	0	-1	-1	1	2	How to arrange elements in a queue ?
+How	SCONJ	0	1_pert_2	1	0	0	0	0	0	How to organize elements in a queue ?
+to	PART	0	1_pert_2	1	0	0	1	0	0	How to organize elements in a queue ?
+organize	VERB	0	1_pert_2	1	0	1	2	0	0	How to organize elements in a queue ?
+elements	NOUN	0	1_pert_2	1	0	0	3	0	0	How to organize elements in a queue ?
+in	ADP	0	1_pert_2	1	0	0	4	0	0	How to organize elements in a queue ?
+a	DET	0	1_pert_2	1	0	0	5	0	0	How to organize elements in a queue ?
+queue	NOUN	1	1_pert_2	1	0	0	6	0	0	How to organize elements in a queue ?
+?	PUNCT	0	1_pert_2	1	0	0	7	0	0	How to organize elements in a queue ?
+3	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_2	1	0	-1	-1	1	2	How to organize elements in a queue ?
+How	SCONJ	0	1_pert_3	1	0	0	0	0	0	How to manage elements in a queue ?
+to	PART	0	1_pert_3	1	0	0	1	0	0	How to manage elements in a queue ?
+manage	VERB	0	1_pert_3	1	0	1	2	0	0	How to manage elements in a queue ?
+elements	NOUN	0	1_pert_3	1	0	0	3	0	0	How to manage elements in a queue ?
+in	ADP	0	1_pert_3	1	0	0	4	0	0	How to manage elements in a queue ?
+a	DET	0	1_pert_3	1	0	0	5	0	0	How to manage elements in a queue ?
+queue	NOUN	1	1_pert_3	1	0	0	6	0	0	How to manage elements in a queue ?
+?	PUNCT	0	1_pert_3	1	0	0	7	0	0	How to manage elements in a queue ?
+4	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_3	1	0	-1	-1	1	2	How to manage elements in a queue ?
+How	SCONJ	0	1_pert_4	1	0	0	0	0	0	How to put elements in a queue ?
+to	PART	0	1_pert_4	1	0	0	1	0	0	How to put elements in a queue ?
+put	VERB	0	1_pert_4	1	0	1	2	0	0	How to put elements in a queue ?
+elements	NOUN	0	1_pert_4	1	0	0	3	0	0	How to put elements in a queue ?
+in	ADP	0	1_pert_4	1	0	0	4	0	0	How to put elements in a queue ?
+a	DET	0	1_pert_4	1	0	0	5	0	0	How to put elements in a queue ?
+queue	NOUN	1	1_pert_4	1	0	0	6	0	0	How to put elements in a queue ?
+?	PUNCT	0	1_pert_4	1	0	0	7	0	0	How to put elements in a queue ?
+5	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_4	1	0	-1	-1	1	2	How to put elements in a queue ?
+How	SCONJ	0	1_pert_5	1	0	0	0	0	0	How to sort elements in a queue ?
+to	PART	0	1_pert_5	1	0	0	1	0	0	How to sort elements in a queue ?
+sort	VERB	0	1_pert_5	1	0	1	2	0	0	How to sort elements in a queue ?
+elements	NOUN	0	1_pert_5	1	0	0	3	0	0	How to sort elements in a queue ?
+in	ADP	0	1_pert_5	1	0	0	4	0	0	How to sort elements in a queue ?
+a	DET	0	1_pert_5	1	0	0	5	0	0	How to sort elements in a queue ?
+queue	NOUN	1	1_pert_5	1	0	0	6	0	0	How to sort elements in a queue ?
+?	PUNCT	0	1_pert_5	1	0	0	7	0	0	How to sort elements in a queue ?
+6	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_5	1	0	-1	-1	1	2	How to sort elements in a queue ?
+How	SCONJ	0	1_pert_6	1	0	0	0	0	0	How to store elements in a queue ?
+to	PART	0	1_pert_6	1	0	0	1	0	0	How to store elements in a queue ?
+store	VERB	0	1_pert_6	1	0	1	2	0	0	How to store elements in a queue ?
+elements	NOUN	0	1_pert_6	1	0	0	3	0	0	How to store elements in a queue ?
+in	ADP	0	1_pert_6	1	0	0	4	0	0	How to store elements in a queue ?
+a	DET	0	1_pert_6	1	0	0	5	0	0	How to store elements in a queue ?
+queue	NOUN	1	1_pert_6	1	0	0	6	0	0	How to store elements in a queue ?
+?	PUNCT	0	1_pert_6	1	0	0	7	0	0	How to store elements in a queue ?
+7	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_6	1	0	-1	-1	1	2	How to store elements in a queue ?
+How	SCONJ	0	1_pert_7	1	0	0	0	0	0	How to find elements in a queue ?
+to	PART	0	1_pert_7	1	0	0	1	0	0	How to find elements in a queue ?
+find	VERB	0	1_pert_7	1	0	1	2	0	0	How to find elements in a queue ?
+elements	NOUN	0	1_pert_7	1	0	0	3	0	0	How to find elements in a queue ?
+in	ADP	0	1_pert_7	1	0	0	4	0	0	How to find elements in a queue ?
+a	DET	0	1_pert_7	1	0	0	5	0	0	How to find elements in a queue ?
+queue	NOUN	1	1_pert_7	1	0	0	6	0	0	How to find elements in a queue ?
+?	PUNCT	0	1_pert_7	1	0	0	7	0	0	How to find elements in a queue ?
+8	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_7	1	0	-1	-1	1	2	How to find elements in a queue ?
+How	SCONJ	0	1_pert_8	1	0	0	0	0	0	How to separate elements in a queue ?
+to	PART	0	1_pert_8	1	0	0	1	0	0	How to separate elements in a queue ?
+separate	VERB	0	1_pert_8	1	0	1	2	0	0	How to separate elements in a queue ?
+elements	NOUN	0	1_pert_8	1	0	0	3	0	0	How to separate elements in a queue ?
+in	ADP	0	1_pert_8	1	0	0	4	0	0	How to separate elements in a queue ?
+a	DET	0	1_pert_8	1	0	0	5	0	0	How to separate elements in a queue ?
+queue	NOUN	1	1_pert_8	1	0	0	6	0	0	How to separate elements in a queue ?
+?	PUNCT	0	1_pert_8	1	0	0	7	0	0	How to separate elements in a queue ?
+9	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_8	1	0	-1	-1	1	2	How to separate elements in a queue ?
+How	SCONJ	0	1_pert_9	1	0	0	0	0	0	How to identify elements in a queue ?
+to	PART	0	1_pert_9	1	0	0	1	0	0	How to identify elements in a queue ?
+identify	VERB	0	1_pert_9	1	0	1	2	0	0	How to identify elements in a queue ?
+elements	NOUN	0	1_pert_9	1	0	0	3	0	0	How to identify elements in a queue ?
+in	ADP	0	1_pert_9	1	0	0	4	0	0	How to identify elements in a queue ?
+a	DET	0	1_pert_9	1	0	0	5	0	0	How to identify elements in a queue ?
+queue	NOUN	1	1_pert_9	1	0	0	6	0	0	How to identify elements in a queue ?
+?	PUNCT	0	1_pert_9	1	0	0	7	0	0	How to identify elements in a queue ?
+10	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_9	1	0	-1	-1	1	2	How to identify elements in a queue ?
+How	SCONJ	0	1_pert_10	1	0	0	0	0	0	How to order elements in a queue ?
+to	PART	0	1_pert_10	1	0	0	1	0	0	How to order elements in a queue ?
+order	VERB	0	1_pert_10	1	0	1	2	0	0	How to order elements in a queue ?
+elements	NOUN	0	1_pert_10	1	0	0	3	0	0	How to order elements in a queue ?
+in	ADP	0	1_pert_10	1	0	0	4	0	0	How to order elements in a queue ?
+a	DET	0	1_pert_10	1	0	0	5	0	0	How to order elements in a queue ?
+queue	NOUN	1	1_pert_10	1	0	0	6	0	0	How to order elements in a queue ?
+?	PUNCT	0	1_pert_10	1	0	0	7	0	0	How to order elements in a queue ?
+11	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_10	1	0	-1	-1	1	2	How to order elements in a queue ?
+How	SCONJ	0	1_pert_11	1	0	0	0	0	0	How to position elements in a queue ?
+to	PART	0	1_pert_11	1	0	0	1	0	0	How to position elements in a queue ?
+position	VERB	0	1_pert_11	1	0	1	2	0	0	How to position elements in a queue ?
+elements	NOUN	0	1_pert_11	1	0	0	3	0	0	How to position elements in a queue ?
+in	ADP	0	1_pert_11	1	0	0	4	0	0	How to position elements in a queue ?
+a	DET	0	1_pert_11	1	0	0	5	0	0	How to position elements in a queue ?
+queue	NOUN	1	1_pert_11	1	0	0	6	0	0	How to position elements in a queue ?
+?	PUNCT	0	1_pert_11	1	0	0	7	0	0	How to position elements in a queue ?
+12	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_11	1	0	-1	-1	1	2	How to position elements in a queue ?
+How	SCONJ	0	1_pert_12	1	0	0	0	0	0	How to connect elements in a queue ?
+to	PART	0	1_pert_12	1	0	0	1	0	0	How to connect elements in a queue ?
+connect	VERB	0	1_pert_12	1	0	1	2	0	0	How to connect elements in a queue ?
+elements	NOUN	0	1_pert_12	1	0	0	3	0	0	How to connect elements in a queue ?
+in	ADP	0	1_pert_12	1	0	0	4	0	0	How to connect elements in a queue ?
+a	DET	0	1_pert_12	1	0	0	5	0	0	How to connect elements in a queue ?
+queue	NOUN	1	1_pert_12	1	0	0	6	0	0	How to connect elements in a queue ?
+?	PUNCT	0	1_pert_12	1	0	0	7	0	0	How to connect elements in a queue ?
+13	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_12	1	0	-1	-1	1	2	How to connect elements in a queue ?
+How	SCONJ	0	1_pert_13	1	0	0	0	0	0	How to handle elements in a queue ?
+to	PART	0	1_pert_13	1	0	0	1	0	0	How to handle elements in a queue ?
+handle	VERB	0	1_pert_13	1	0	1	2	0	0	How to handle elements in a queue ?
+elements	NOUN	0	1_pert_13	1	0	0	3	0	0	How to handle elements in a queue ?
+in	ADP	0	1_pert_13	1	0	0	4	0	0	How to handle elements in a queue ?
+a	DET	0	1_pert_13	1	0	0	5	0	0	How to handle elements in a queue ?
+queue	NOUN	1	1_pert_13	1	0	0	6	0	0	How to handle elements in a queue ?
+?	PUNCT	0	1_pert_13	1	0	0	7	0	0	How to handle elements in a queue ?
+14	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_13	1	0	-1	-1	1	2	How to handle elements in a queue ?
+How	SCONJ	0	1_pert_14	1	0	0	0	0	0	How to use elements in a queue ?
+to	PART	0	1_pert_14	1	0	0	1	0	0	How to use elements in a queue ?
+use	VERB	0	1_pert_14	1	0	1	2	0	0	How to use elements in a queue ?
+elements	NOUN	0	1_pert_14	1	0	0	3	0	0	How to use elements in a queue ?
+in	ADP	0	1_pert_14	1	0	0	4	0	0	How to use elements in a queue ?
+a	DET	0	1_pert_14	1	0	0	5	0	0	How to use elements in a queue ?
+queue	NOUN	1	1_pert_14	1	0	0	6	0	0	How to use elements in a queue ?
+?	PUNCT	0	1_pert_14	1	0	0	7	0	0	How to use elements in a queue ?
+15	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_14	1	0	-1	-1	1	2	How to use elements in a queue ?
+How	SCONJ	0	1_pert_15	1	0	0	0	0	0	How to rank elements in a queue ?
+to	PART	0	1_pert_15	1	0	0	1	0	0	How to rank elements in a queue ?
+rank	VERB	0	1_pert_15	1	0	1	2	0	0	How to rank elements in a queue ?
+elements	NOUN	0	1_pert_15	1	0	0	3	0	0	How to rank elements in a queue ?
+in	ADP	0	1_pert_15	1	0	0	4	0	0	How to rank elements in a queue ?
+a	DET	0	1_pert_15	1	0	0	5	0	0	How to rank elements in a queue ?
+queue	NOUN	1	1_pert_15	1	0	0	6	0	0	How to rank elements in a queue ?
+?	PUNCT	0	1_pert_15	1	0	0	7	0	0	How to rank elements in a queue ?
+16	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_15	1	0	-1	-1	1	2	How to rank elements in a queue ?
+How	SCONJ	0	1_pert_16	1	0	0	0	0	0	How to move elements in a queue ?
+to	PART	0	1_pert_16	1	0	0	1	0	0	How to move elements in a queue ?
+move	VERB	0	1_pert_16	1	0	1	2	0	0	How to move elements in a queue ?
+elements	NOUN	0	1_pert_16	1	0	0	3	0	0	How to move elements in a queue ?
+in	ADP	0	1_pert_16	1	0	0	4	0	0	How to move elements in a queue ?
+a	DET	0	1_pert_16	1	0	0	5	0	0	How to move elements in a queue ?
+queue	NOUN	1	1_pert_16	1	0	0	6	0	0	How to move elements in a queue ?
+?	PUNCT	0	1_pert_16	1	0	0	7	0	0	How to move elements in a queue ?
+17	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_16	1	0	-1	-1	1	2	How to move elements in a queue ?
+How	SCONJ	0	1_pert_17	1	0	0	0	0	0	How to group elements in a queue ?
+to	PART	0	1_pert_17	1	0	0	1	0	0	How to group elements in a queue ?
+group	NOUN	0	1_pert_17	1	0	1	2	0	0	How to group elements in a queue ?
+elements	NOUN	0	1_pert_17	1	0	0	3	0	0	How to group elements in a queue ?
+in	ADP	0	1_pert_17	1	0	0	4	0	0	How to group elements in a queue ?
+a	DET	0	1_pert_17	1	0	0	5	0	0	How to group elements in a queue ?
+queue	NOUN	1	1_pert_17	1	0	0	6	0	0	How to group elements in a queue ?
+?	PUNCT	0	1_pert_17	1	0	0	7	0	0	How to group elements in a queue ?
+18	['SCONJ', 'PART', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_17	1	0	-1	-1	1	2	How to group elements in a queue ?
+How	SCONJ	0	1_pert_18	1	0	0	0	0	0	How to create elements in a queue ?
+to	PART	0	1_pert_18	1	0	0	1	0	0	How to create elements in a queue ?
+create	VERB	0	1_pert_18	1	0	1	2	0	0	How to create elements in a queue ?
+elements	NOUN	0	1_pert_18	1	0	0	3	0	0	How to create elements in a queue ?
+in	ADP	0	1_pert_18	1	0	0	4	0	0	How to create elements in a queue ?
+a	DET	0	1_pert_18	1	0	0	5	0	0	How to create elements in a queue ?
+queue	NOUN	1	1_pert_18	1	0	0	6	0	0	How to create elements in a queue ?
+?	PUNCT	0	1_pert_18	1	0	0	7	0	0	How to create elements in a queue ?
+19	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_18	1	0	-1	-1	1	2	How to create elements in a queue ?
+How	SCONJ	0	1_pert_19	1	0	0	0	0	0	How to process elements in a queue ?
+to	PART	0	1_pert_19	1	0	0	1	0	0	How to process elements in a queue ?
+process	VERB	0	1_pert_19	1	0	1	2	0	0	How to process elements in a queue ?
+elements	NOUN	0	1_pert_19	1	0	0	3	0	0	How to process elements in a queue ?
+in	ADP	0	1_pert_19	1	0	0	4	0	0	How to process elements in a queue ?
+a	DET	0	1_pert_19	1	0	0	5	0	0	How to process elements in a queue ?
+queue	NOUN	1	1_pert_19	1	0	0	6	0	0	How to process elements in a queue ?
+?	PUNCT	0	1_pert_19	1	0	0	7	0	0	How to process elements in a queue ?
+20	['SCONJ', 'PART', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0]	1_pert_19	1	0	-1	-1	1	2	How to process elements in a queue ?

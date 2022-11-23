@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+In	ADP	0	19	19	1	0	0	1	In a stack does the pop operation occur at which end ?
+a	DET	0	19	19	1	0	1	2	In a stack does the pop operation occur at which end ?
+stack	NOUN	0	19	19	1	0	2	3	In a stack does the pop operation occur at which end ?
+does	AUX	0	19	19	1	0	3	4	In a stack does the pop operation occur at which end ?
+the	DET	0	19	19	1	0	4	5	In a stack does the pop operation occur at which end ?
+pop	NOUN	0	19	19	1	1	5	6	In a stack does the pop operation occur at which end ?
+operation	NOUN	0	19	19	1	0	6	7	In a stack does the pop operation occur at which end ?
+occur	VERB	0	19	19	1	0	7	8	In a stack does the pop operation occur at which end ?
+at	ADP	0	19	19	1	0	8	9	In a stack does the pop operation occur at which end ?
+which	DET	0	19	19	1	0	9	10	In a stack does the pop operation occur at which end ?
+end	NOUN	0	19	19	1	0	10	11	In a stack does the pop operation occur at which end ?
+?	PUNCT	0	19	19	1	0	11		In a stack does the pop operation occur at which end ?
+In	ADP	0	19_pert_0	19	0	0	0	13	In a stack does the enqueue operation occur at which end ?
+a	DET	0	19_pert_0	19	0	0	1	14	In a stack does the enqueue operation occur at which end ?
+stack	NOUN	0	19_pert_0	19	0	0	2	15	In a stack does the enqueue operation occur at which end ?
+does	AUX	0	19_pert_0	19	0	0	3	16	In a stack does the enqueue operation occur at which end ?
+the	DET	0	19_pert_0	19	0	0	4	17	In a stack does the enqueue operation occur at which end ?
+enqueue	NOUN	1	19_pert_0	19	0	1	5	18	In a stack does the enqueue operation occur at which end ?
+operation	NOUN	0	19_pert_0	19	0	0	6	19	In a stack does the enqueue operation occur at which end ?
+occur	VERB	0	19_pert_0	19	0	0	7	20	In a stack does the enqueue operation occur at which end ?
+at	ADP	0	19_pert_0	19	0	0	8	21	In a stack does the enqueue operation occur at which end ?
+which	DET	0	19_pert_0	19	0	0	9	22	In a stack does the enqueue operation occur at which end ?
+end	NOUN	0	19_pert_0	19	0	0	10	23	In a stack does the enqueue operation occur at which end ?
+?	PUNCT	0	19_pert_0	19	0	0	11		In a stack does the enqueue operation occur at which end ?

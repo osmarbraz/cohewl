@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Como	ADP	0	7p0	7p0	1	0	0	1	Como desempilhar elementos em uma fila ?
+desempilhar	NOUN	1	7p0	7p0	1	0	1	2	Como desempilhar elementos em uma fila ?
+elementos	NOUN	0	7p0	7p0	1	0	2	3	Como desempilhar elementos em uma fila ?
+em	ADP	0	7p0	7p0	1	0	3	4	Como desempilhar elementos em uma fila ?
+uma	DET	0	7p0	7p0	1	0	4	5	Como desempilhar elementos em uma fila ?
+fila	NOUN	1	7p0	7p0	1	1	5	6	Como desempilhar elementos em uma fila ?
+?	PUNCT	0	7p0	7p0	1	0	6		Como desempilhar elementos em uma fila ?
+Como	ADP	0	7p0_pert_0	7p0	0	0	0	8	Como desempilhar elementos em uma imagem ?
+desempilhar	NOUN	1	7p0_pert_0	7p0	0	0	1	9	Como desempilhar elementos em uma imagem ?
+elementos	NOUN	0	7p0_pert_0	7p0	0	0	2	10	Como desempilhar elementos em uma imagem ?
+em	ADP	0	7p0_pert_0	7p0	0	0	3	11	Como desempilhar elementos em uma imagem ?
+uma	DET	0	7p0_pert_0	7p0	0	0	4	12	Como desempilhar elementos em uma imagem ?
+imagem	NOUN	0	7p0_pert_0	7p0	0	1	5	13	Como desempilhar elementos em uma imagem ?
+?	PUNCT	0	7p0_pert_0	7p0	0	0	6		Como desempilhar elementos em uma imagem ?
+Como	ADP	0	7p0_pert_1	7p0	0	0	0	15	Como desempilhar elementos em uma pintura ?
+desempilhar	NOUN	1	7p0_pert_1	7p0	0	0	1	16	Como desempilhar elementos em uma pintura ?
+elementos	NOUN	0	7p0_pert_1	7p0	0	0	2	17	Como desempilhar elementos em uma pintura ?
+em	ADP	0	7p0_pert_1	7p0	0	0	3	18	Como desempilhar elementos em uma pintura ?
+uma	DET	0	7p0_pert_1	7p0	0	0	4	19	Como desempilhar elementos em uma pintura ?
+pintura	NOUN	0	7p0_pert_1	7p0	0	1	5	20	Como desempilhar elementos em uma pintura ?
+?	PUNCT	0	7p0_pert_1	7p0	0	0	6		Como desempilhar elementos em uma pintura ?
+Como	ADP	0	7p0_pert_2	7p0	0	0	0	22	Como desempilhar elementos em uma construção ?
+desempilhar	NOUN	1	7p0_pert_2	7p0	0	0	1	23	Como desempilhar elementos em uma construção ?
+elementos	NOUN	0	7p0_pert_2	7p0	0	0	2	24	Como desempilhar elementos em uma construção ?
+em	ADP	0	7p0_pert_2	7p0	0	0	3	25	Como desempilhar elementos em uma construção ?
+uma	DET	0	7p0_pert_2	7p0	0	0	4	26	Como desempilhar elementos em uma construção ?
+construção	NOUN	0	7p0_pert_2	7p0	0	1	5	27	Como desempilhar elementos em uma construção ?
+?	PUNCT	0	7p0_pert_2	7p0	0	0	6		Como desempilhar elementos em uma construção ?
+Como	ADP	0	7p0_pert_3	7p0	0	0	0	29	Como desempilhar elementos em uma composição ?
+desempilhar	NOUN	1	7p0_pert_3	7p0	0	0	1	30	Como desempilhar elementos em uma composição ?
+elementos	NOUN	0	7p0_pert_3	7p0	0	0	2	31	Como desempilhar elementos em uma composição ?
+em	ADP	0	7p0_pert_3	7p0	0	0	3	32	Como desempilhar elementos em uma composição ?
+uma	DET	0	7p0_pert_3	7p0	0	0	4	33	Como desempilhar elementos em uma composição ?
+composição	NOUN	0	7p0_pert_3	7p0	0	1	5	34	Como desempilhar elementos em uma composição ?
+?	PUNCT	0	7p0_pert_3	7p0	0	0	6		Como desempilhar elementos em uma composição ?
+Como	ADP	0	7p0_pert_4	7p0	0	0	0	36	Como desempilhar elementos em uma peça ?
+desempilhar	NOUN	1	7p0_pert_4	7p0	0	0	1	37	Como desempilhar elementos em uma peça ?
+elementos	NOUN	0	7p0_pert_4	7p0	0	0	2	38	Como desempilhar elementos em uma peça ?
+em	ADP	0	7p0_pert_4	7p0	0	0	3	39	Como desempilhar elementos em uma peça ?
+uma	DET	0	7p0_pert_4	7p0	0	0	4	40	Como desempilhar elementos em uma peça ?
+peça	NOUN	0	7p0_pert_4	7p0	0	1	5	41	Como desempilhar elementos em uma peça ?
+?	PUNCT	0	7p0_pert_4	7p0	0	0	6		Como desempilhar elementos em uma peça ?
+Como	ADP	0	7p0_pert_5	7p0	0	0	0	43	Como desempilhar elementos em uma fotografia ?
+desempilhar	NOUN	1	7p0_pert_5	7p0	0	0	1	44	Como desempilhar elementos em uma fotografia ?
+elementos	NOUN	0	7p0_pert_5	7p0	0	0	2	45	Como desempilhar elementos em uma fotografia ?
+em	ADP	0	7p0_pert_5	7p0	0	0	3	46	Como desempilhar elementos em uma fotografia ?
+uma	DET	0	7p0_pert_5	7p0	0	0	4	47	Como desempilhar elementos em uma fotografia ?
+fotografia	NOUN	0	7p0_pert_5	7p0	0	1	5	48	Como desempilhar elementos em uma fotografia ?
+?	PUNCT	0	7p0_pert_5	7p0	0	0	6		Como desempilhar elementos em uma fotografia ?
+Como	ADP	0	7p0_pert_6	7p0	0	0	0	50	Como desempilhar elementos em uma cena ?
+desempilhar	NOUN	1	7p0_pert_6	7p0	0	0	1	51	Como desempilhar elementos em uma cena ?
+elementos	NOUN	0	7p0_pert_6	7p0	0	0	2	52	Como desempilhar elementos em uma cena ?
+em	ADP	0	7p0_pert_6	7p0	0	0	3	53	Como desempilhar elementos em uma cena ?
+uma	DET	0	7p0_pert_6	7p0	0	0	4	54	Como desempilhar elementos em uma cena ?
+cena	NOUN	0	7p0_pert_6	7p0	0	1	5	55	Como desempilhar elementos em uma cena ?
+?	PUNCT	0	7p0_pert_6	7p0	0	0	6		Como desempilhar elementos em uma cena ?
+Como	ADP	0	7p0_pert_7	7p0	0	0	0	57	Como desempilhar elementos em uma caixa ?
+desempilhar	NOUN	1	7p0_pert_7	7p0	0	0	1	58	Como desempilhar elementos em uma caixa ?
+elementos	NOUN	0	7p0_pert_7	7p0	0	0	2	59	Como desempilhar elementos em uma caixa ?
+em	ADP	0	7p0_pert_7	7p0	0	0	3	60	Como desempilhar elementos em uma caixa ?
+uma	DET	0	7p0_pert_7	7p0	0	0	4	61	Como desempilhar elementos em uma caixa ?
+caixa	NOUN	0	7p0_pert_7	7p0	0	1	5	62	Como desempilhar elementos em uma caixa ?
+?	PUNCT	0	7p0_pert_7	7p0	0	0	6		Como desempilhar elementos em uma caixa ?
+Como	ADP	0	7p0_pert_8	7p0	0	0	0	64	Como desempilhar elementos em uma planta ?
+desempilhar	NOUN	1	7p0_pert_8	7p0	0	0	1	65	Como desempilhar elementos em uma planta ?
+elementos	NOUN	0	7p0_pert_8	7p0	0	0	2	66	Como desempilhar elementos em uma planta ?
+em	ADP	0	7p0_pert_8	7p0	0	0	3	67	Como desempilhar elementos em uma planta ?
+uma	DET	0	7p0_pert_8	7p0	0	0	4	68	Como desempilhar elementos em uma planta ?
+planta	NOUN	0	7p0_pert_8	7p0	0	1	5	69	Como desempilhar elementos em uma planta ?
+?	PUNCT	0	7p0_pert_8	7p0	0	0	6		Como desempilhar elementos em uma planta ?
+Como	ADP	0	7p0_pert_9	7p0	0	0	0	71	Como desempilhar elementos em uma foto ?
+desempilhar	NOUN	1	7p0_pert_9	7p0	0	0	1	72	Como desempilhar elementos em uma foto ?
+elementos	NOUN	0	7p0_pert_9	7p0	0	0	2	73	Como desempilhar elementos em uma foto ?
+em	ADP	0	7p0_pert_9	7p0	0	0	3	74	Como desempilhar elementos em uma foto ?
+uma	DET	0	7p0_pert_9	7p0	0	0	4	75	Como desempilhar elementos em uma foto ?
+foto	NOUN	0	7p0_pert_9	7p0	0	1	5	76	Como desempilhar elementos em uma foto ?
+?	PUNCT	0	7p0_pert_9	7p0	0	0	6		Como desempilhar elementos em uma foto ?
+Como	ADP	0	7p0_pert_10	7p0	0	0	0	78	Como desempilhar elementos em uma estrutura ?
+desempilhar	NOUN	1	7p0_pert_10	7p0	0	0	1	79	Como desempilhar elementos em uma estrutura ?
+elementos	NOUN	0	7p0_pert_10	7p0	0	0	2	80	Como desempilhar elementos em uma estrutura ?
+em	ADP	0	7p0_pert_10	7p0	0	0	3	81	Como desempilhar elementos em uma estrutura ?
+uma	DET	0	7p0_pert_10	7p0	0	0	4	82	Como desempilhar elementos em uma estrutura ?
+estrutura	NOUN	0	7p0_pert_10	7p0	0	1	5	83	Como desempilhar elementos em uma estrutura ?
+?	PUNCT	0	7p0_pert_10	7p0	0	0	6		Como desempilhar elementos em uma estrutura ?
+Como	ADP	0	7p0_pert_11	7p0	0	0	0	85	Como desempilhar elementos em uma tabela ?
+desempilhar	NOUN	1	7p0_pert_11	7p0	0	0	1	86	Como desempilhar elementos em uma tabela ?
+elementos	NOUN	0	7p0_pert_11	7p0	0	0	2	87	Como desempilhar elementos em uma tabela ?
+em	ADP	0	7p0_pert_11	7p0	0	0	3	88	Como desempilhar elementos em uma tabela ?
+uma	DET	0	7p0_pert_11	7p0	0	0	4	89	Como desempilhar elementos em uma tabela ?
+tabela	NOUN	0	7p0_pert_11	7p0	0	1	5	90	Como desempilhar elementos em uma tabela ?
+?	PUNCT	0	7p0_pert_11	7p0	0	0	6		Como desempilhar elementos em uma tabela ?
+Como	ADP	0	7p0_pert_12	7p0	0	0	0	92	Como desempilhar elementos em uma tela ?
+desempilhar	NOUN	1	7p0_pert_12	7p0	0	0	1	93	Como desempilhar elementos em uma tela ?
+elementos	NOUN	0	7p0_pert_12	7p0	0	0	2	94	Como desempilhar elementos em uma tela ?
+em	ADP	0	7p0_pert_12	7p0	0	0	3	95	Como desempilhar elementos em uma tela ?
+uma	DET	0	7p0_pert_12	7p0	0	0	4	96	Como desempilhar elementos em uma tela ?
+tela	NOUN	0	7p0_pert_12	7p0	0	1	5	97	Como desempilhar elementos em uma tela ?
+?	PUNCT	0	7p0_pert_12	7p0	0	0	6		Como desempilhar elementos em uma tela ?
+Como	ADP	0	7p0_pert_13	7p0	0	0	0	99	Como desempilhar elementos em uma montagem ?
+desempilhar	NOUN	1	7p0_pert_13	7p0	0	0	1	100	Como desempilhar elementos em uma montagem ?
+elementos	NOUN	0	7p0_pert_13	7p0	0	0	2	101	Como desempilhar elementos em uma montagem ?
+em	ADP	0	7p0_pert_13	7p0	0	0	3	102	Como desempilhar elementos em uma montagem ?
+uma	DET	0	7p0_pert_13	7p0	0	0	4	103	Como desempilhar elementos em uma montagem ?
+montagem	NOUN	0	7p0_pert_13	7p0	0	1	5	104	Como desempilhar elementos em uma montagem ?
+?	PUNCT	0	7p0_pert_13	7p0	0	0	6		Como desempilhar elementos em uma montagem ?
+Como	ADP	0	7p0_pert_14	7p0	0	0	0	106	Como desempilhar elementos em uma folha ?
+desempilhar	NOUN	1	7p0_pert_14	7p0	0	0	1	107	Como desempilhar elementos em uma folha ?
+elementos	NOUN	0	7p0_pert_14	7p0	0	0	2	108	Como desempilhar elementos em uma folha ?
+em	ADP	0	7p0_pert_14	7p0	0	0	3	109	Como desempilhar elementos em uma folha ?
+uma	DET	0	7p0_pert_14	7p0	0	0	4	110	Como desempilhar elementos em uma folha ?
+folha	NOUN	0	7p0_pert_14	7p0	0	1	5	111	Como desempilhar elementos em uma folha ?
+?	PUNCT	0	7p0_pert_14	7p0	0	0	6		Como desempilhar elementos em uma folha ?
+Como	ADP	0	7p0_pert_15	7p0	0	0	0	113	Como desempilhar elementos em uma lista ?
+desempilhar	NOUN	1	7p0_pert_15	7p0	0	0	1	114	Como desempilhar elementos em uma lista ?
+elementos	NOUN	0	7p0_pert_15	7p0	0	0	2	115	Como desempilhar elementos em uma lista ?
+em	ADP	0	7p0_pert_15	7p0	0	0	3	116	Como desempilhar elementos em uma lista ?
+uma	DET	0	7p0_pert_15	7p0	0	0	4	117	Como desempilhar elementos em uma lista ?
+lista	NOUN	0	7p0_pert_15	7p0	0	1	5	118	Como desempilhar elementos em uma lista ?
+?	PUNCT	0	7p0_pert_15	7p0	0	0	6		Como desempilhar elementos em uma lista ?
+Como	ADP	0	7p0_pert_16	7p0	0	0	0	120	Como desempilhar elementos em uma coleção ?
+desempilhar	NOUN	1	7p0_pert_16	7p0	0	0	1	121	Como desempilhar elementos em uma coleção ?
+elementos	NOUN	0	7p0_pert_16	7p0	0	0	2	122	Como desempilhar elementos em uma coleção ?
+em	ADP	0	7p0_pert_16	7p0	0	0	3	123	Como desempilhar elementos em uma coleção ?
+uma	DET	0	7p0_pert_16	7p0	0	0	4	124	Como desempilhar elementos em uma coleção ?
+coleção	NOUN	0	7p0_pert_16	7p0	0	1	5	125	Como desempilhar elementos em uma coleção ?
+?	PUNCT	0	7p0_pert_16	7p0	0	0	6		Como desempilhar elementos em uma coleção ?
+Como	ADP	0	7p0_pert_17	7p0	0	0	0	127	Como desempilhar elementos em uma página ?
+desempilhar	NOUN	1	7p0_pert_17	7p0	0	0	1	128	Como desempilhar elementos em uma página ?
+elementos	NOUN	0	7p0_pert_17	7p0	0	0	2	129	Como desempilhar elementos em uma página ?
+em	ADP	0	7p0_pert_17	7p0	0	0	3	130	Como desempilhar elementos em uma página ?
+uma	DET	0	7p0_pert_17	7p0	0	0	4	131	Como desempilhar elementos em uma página ?
+página	NOUN	0	7p0_pert_17	7p0	0	1	5	132	Como desempilhar elementos em uma página ?
+?	PUNCT	0	7p0_pert_17	7p0	0	0	6		Como desempilhar elementos em uma página ?
+Como	ADP	0	7p0_pert_18	7p0	0	0	0	134	Como desempilhar elementos em uma escultura ?
+desempilhar	NOUN	1	7p0_pert_18	7p0	0	0	1	135	Como desempilhar elementos em uma escultura ?
+elementos	NOUN	0	7p0_pert_18	7p0	0	0	2	136	Como desempilhar elementos em uma escultura ?
+em	ADP	0	7p0_pert_18	7p0	0	0	3	137	Como desempilhar elementos em uma escultura ?
+uma	DET	0	7p0_pert_18	7p0	0	0	4	138	Como desempilhar elementos em uma escultura ?
+escultura	NOUN	0	7p0_pert_18	7p0	0	1	5	139	Como desempilhar elementos em uma escultura ?
+?	PUNCT	0	7p0_pert_18	7p0	0	0	6		Como desempilhar elementos em uma escultura ?
+Como	ADP	0	7p0_pert_19	7p0	0	0	0	141	Como desempilhar elementos em uma parede ?
+desempilhar	NOUN	1	7p0_pert_19	7p0	0	0	1	142	Como desempilhar elementos em uma parede ?
+elementos	NOUN	0	7p0_pert_19	7p0	0	0	2	143	Como desempilhar elementos em uma parede ?
+em	ADP	0	7p0_pert_19	7p0	0	0	3	144	Como desempilhar elementos em uma parede ?
+uma	DET	0	7p0_pert_19	7p0	0	0	4	145	Como desempilhar elementos em uma parede ?
+parede	NOUN	0	7p0_pert_19	7p0	0	1	5	146	Como desempilhar elementos em uma parede ?
+?	PUNCT	0	7p0_pert_19	7p0	0	0	6		Como desempilhar elementos em uma parede ?

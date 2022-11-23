@@ -1,0 +1,25 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+Em	ADP	0	20	20	1	0	0	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+uma	DET	0	20	20	1	0	1	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+fila	NOUN	1	20	20	1	0	2	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+a	DET	0	20	20	1	0	3	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+operação	NOUN	0	20	20	1	0	4	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+de	SCONJ	0	20	20	1	0	5	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+enfileirar	VERB	1	20	20	1	1	6	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+ocorre	VERB	0	20	20	1	0	7	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+em	ADP	0	20	20	1	0	8	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+qual	DET	0	20	20	1	0	9	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+extremidade	NOUN	0	20	20	1	0	10	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+?	PUNCT	0	20	20	1	0	11	Em uma fila a operação de enfileirar ocorre em qual extremidade ?
+Em	ADP	0	20_pert_0	20	0	0	0	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+uma	DET	0	20_pert_0	20	0	0	1	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+fila	NOUN	1	20_pert_0	20	0	0	2	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+a	DET	0	20_pert_0	20	0	0	3	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+operação	NOUN	0	20_pert_0	20	0	0	4	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+de	SCONJ	0	20_pert_0	20	0	0	5	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+empilhar	VERB	1	20_pert_0	20	0	1	6	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+ocorre	VERB	0	20_pert_0	20	0	0	7	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+em	ADP	0	20_pert_0	20	0	0	8	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+qual	DET	0	20_pert_0	20	0	0	9	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+extremidade	NOUN	0	20_pert_0	20	0	0	10	Em uma fila a operação de empilhar ocorre em qual extremidade ?
+?	PUNCT	0	20_pert_0	20	0	0	11	Em uma fila a operação de empilhar ocorre em qual extremidade ?

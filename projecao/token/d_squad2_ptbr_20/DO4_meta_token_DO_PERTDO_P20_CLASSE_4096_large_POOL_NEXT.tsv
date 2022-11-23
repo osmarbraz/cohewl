@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	PRON	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	0	1	O que terminou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	1	2	O que terminou o início da diferenciação de classe ?
+terminou	VERB	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	1	2	3	O que terminou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	3	4	O que terminou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	4	5	O que terminou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	5	6	O que terminou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	6	7	O que terminou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	7	8	O que terminou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	8	9	O que terminou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	9		O que terminou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	0	11	O que é o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	1	12	O que é o início da diferenciação de classe ?
+é	AUX	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	1	2	13	O que é o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	3	14	O que é o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	4	15	O que é o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	5	16	O que é o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	6	17	O que é o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	7	18	O que é o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	8	19	O que é o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	9		O que é o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	0	21	O que foi o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	1	22	O que foi o início da diferenciação de classe ?
+foi	AUX	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	1	2	23	O que foi o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	3	24	O que foi o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	4	25	O que foi o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	5	26	O que foi o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	6	27	O que foi o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	7	28	O que foi o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	8	29	O que foi o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	9		O que foi o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	0	31	O que marca o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	1	32	O que marca o início da diferenciação de classe ?
+marca	VERB	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	1	2	33	O que marca o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	3	34	O que marca o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	4	35	O que marca o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	5	36	O que marca o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	6	37	O que marca o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	7	38	O que marca o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	8	39	O que marca o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	9		O que marca o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	0	41	O que significa o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	1	42	O que significa o início da diferenciação de classe ?
+significa	VERB	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	1	2	43	O que significa o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	3	44	O que significa o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	4	45	O que significa o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	5	46	O que significa o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	6	47	O que significa o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	7	48	O que significa o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	8	49	O que significa o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	9		O que significa o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	0	51	O que representa o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	1	52	O que representa o início da diferenciação de classe ?
+representa	VERB	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	1	2	53	O que representa o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	3	54	O que representa o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	4	55	O que representa o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	5	56	O que representa o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	6	57	O que representa o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	7	58	O que representa o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	8	59	O que representa o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	9		O que representa o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	0	61	O que seria o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	1	62	O que seria o início da diferenciação de classe ?
+seria	AUX	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	1	2	63	O que seria o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	3	64	O que seria o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	4	65	O que seria o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	5	66	O que seria o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	6	67	O que seria o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	7	68	O que seria o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	8	69	O que seria o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	9		O que seria o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	0	71	O que marcou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	1	72	O que marcou o início da diferenciação de classe ?
+marcou	VERB	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	1	2	73	O que marcou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	3	74	O que marcou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	4	75	O que marcou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	5	76	O que marcou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	6	77	O que marcou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	7	78	O que marcou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	8	79	O que marcou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	9		O que marcou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	0	81	O que explica o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	1	82	O que explica o início da diferenciação de classe ?
+explica	VERB	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	1	2	83	O que explica o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	3	84	O que explica o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	4	85	O que explica o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	5	86	O que explica o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	6	87	O que explica o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	7	88	O que explica o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	8	89	O que explica o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	9		O que explica o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	0	91	O que determina o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	1	92	O que determina o início da diferenciação de classe ?
+determina	VERB	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	1	2	93	O que determina o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	3	94	O que determina o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	4	95	O que determina o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	5	96	O que determina o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	6	97	O que determina o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	7	98	O que determina o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	8	99	O que determina o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	9		O que determina o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	0	101	O que representou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	1	102	O que representou o início da diferenciação de classe ?
+representou	VERB	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	1	2	103	O que representou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	3	104	O que representou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	4	105	O que representou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	5	106	O que representou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	6	107	O que representou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	7	108	O que representou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	8	109	O que representou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	9		O que representou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	0	111	O que caracteriza o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	1	112	O que caracteriza o início da diferenciação de classe ?
+caracteriza	VERB	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	1	2	113	O que caracteriza o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	3	114	O que caracteriza o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	4	115	O que caracteriza o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	5	116	O que caracteriza o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	6	117	O que caracteriza o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	7	118	O que caracteriza o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	8	119	O que caracteriza o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	9		O que caracteriza o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	0	121	O que constitui o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	1	122	O que constitui o início da diferenciação de classe ?
+constitui	VERB	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	1	2	123	O que constitui o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	3	124	O que constitui o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	4	125	O que constitui o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	5	126	O que constitui o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	6	127	O que constitui o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	7	128	O que constitui o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	8	129	O que constitui o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	9		O que constitui o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	0	131	O que permitiu o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	1	132	O que permitiu o início da diferenciação de classe ?
+permitiu	VERB	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	1	2	133	O que permitiu o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	3	134	O que permitiu o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	4	135	O que permitiu o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	5	136	O que permitiu o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	6	137	O que permitiu o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	7	138	O que permitiu o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	8	139	O que permitiu o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	9		O que permitiu o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	0	141	O que determinou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	1	142	O que determinou o início da diferenciação de classe ?
+determinou	VERB	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	1	2	143	O que determinou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	3	144	O que determinou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	4	145	O que determinou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	5	146	O que determinou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	6	147	O que determinou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	7	148	O que determinou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	8	149	O que determinou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	9		O que determinou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	0	151	O que provocou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	1	152	O que provocou o início da diferenciação de classe ?
+provocou	VERB	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	1	2	153	O que provocou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	3	154	O que provocou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	4	155	O que provocou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	5	156	O que provocou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	6	157	O que provocou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	7	158	O que provocou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	8	159	O que provocou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	9		O que provocou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	0	161	O que causou o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	1	162	O que causou o início da diferenciação de classe ?
+causou	VERB	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	1	2	163	O que causou o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	3	164	O que causou o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	4	165	O que causou o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	5	166	O que causou o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	6	167	O que causou o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	7	168	O que causou o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	8	169	O que causou o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	9		O que causou o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	0	171	O que define o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	1	172	O que define o início da diferenciação de classe ?
+define	VERB	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	1	2	173	O que define o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	3	174	O que define o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	4	175	O que define o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	5	176	O que define o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	6	177	O que define o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	7	178	O que define o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	8	179	O que define o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	9		O que define o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	0	181	O que indica o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	1	182	O que indica o início da diferenciação de classe ?
+indica	VERB	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	1	2	183	O que indica o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	3	184	O que indica o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	4	185	O que indica o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	5	186	O que indica o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	6	187	O que indica o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	7	188	O que indica o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	8	189	O que indica o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	9		O que indica o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	0	191	O que mostra o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	1	192	O que mostra o início da diferenciação de classe ?
+mostra	VERB	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	1	2	193	O que mostra o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	3	194	O que mostra o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	4	195	O que mostra o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	5	196	O que mostra o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	6	197	O que mostra o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	7	198	O que mostra o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	8	199	O que mostra o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	9		O que mostra o início da diferenciação de classe ?
+O	PRON	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	0	201	O que provoca o início da diferenciação de classe ?
+que	PRON	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	1	202	O que provoca o início da diferenciação de classe ?
+provoca	VERB	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	1	2	203	O que provoca o início da diferenciação de classe ?
+o	DET	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	3	204	O que provoca o início da diferenciação de classe ?
+início	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	4	205	O que provoca o início da diferenciação de classe ?
+da	ADP	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	5	206	O que provoca o início da diferenciação de classe ?
+diferenciação	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	6	207	O que provoca o início da diferenciação de classe ?
+de	ADP	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	7	208	O que provoca o início da diferenciação de classe ?
+classe	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	8	209	O que provoca o início da diferenciação de classe ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	9		O que provoca o início da diferenciação de classe ?

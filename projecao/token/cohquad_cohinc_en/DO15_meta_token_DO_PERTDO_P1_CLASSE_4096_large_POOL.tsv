@@ -1,0 +1,27 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Sentença
+What	PRON	0	15	15	1	0	0	What is a stack and how to push and pop its elements ?
+is	AUX	0	15	15	1	0	1	What is a stack and how to push and pop its elements ?
+a	DET	0	15	15	1	0	2	What is a stack and how to push and pop its elements ?
+stack	NOUN	0	15	15	1	1	3	What is a stack and how to push and pop its elements ?
+and	CCONJ	0	15	15	1	0	4	What is a stack and how to push and pop its elements ?
+how	SCONJ	0	15	15	1	0	5	What is a stack and how to push and pop its elements ?
+to	PART	0	15	15	1	0	6	What is a stack and how to push and pop its elements ?
+push	VERB	0	15	15	1	0	7	What is a stack and how to push and pop its elements ?
+and	CCONJ	0	15	15	1	0	8	What is a stack and how to push and pop its elements ?
+pop	VERB	0	15	15	1	0	9	What is a stack and how to push and pop its elements ?
+its	PRON	0	15	15	1	0	10	What is a stack and how to push and pop its elements ?
+elements	NOUN	0	15	15	1	0	11	What is a stack and how to push and pop its elements ?
+?	PUNCT	0	15	15	1	0	12	What is a stack and how to push and pop its elements ?
+What	PRON	0	15_pert_0	15	0	0	0	What is a queue and how to push and pop its elements ?
+is	AUX	0	15_pert_0	15	0	0	1	What is a queue and how to push and pop its elements ?
+a	DET	0	15_pert_0	15	0	0	2	What is a queue and how to push and pop its elements ?
+queue	NOUN	1	15_pert_0	15	0	1	3	What is a queue and how to push and pop its elements ?
+and	CCONJ	0	15_pert_0	15	0	0	4	What is a queue and how to push and pop its elements ?
+how	SCONJ	0	15_pert_0	15	0	0	5	What is a queue and how to push and pop its elements ?
+to	PART	0	15_pert_0	15	0	0	6	What is a queue and how to push and pop its elements ?
+push	VERB	0	15_pert_0	15	0	0	7	What is a queue and how to push and pop its elements ?
+and	CCONJ	0	15_pert_0	15	0	0	8	What is a queue and how to push and pop its elements ?
+pop	VERB	0	15_pert_0	15	0	0	9	What is a queue and how to push and pop its elements ?
+its	PRON	0	15_pert_0	15	0	0	10	What is a queue and how to push and pop its elements ?
+elements	NOUN	0	15_pert_0	15	0	0	11	What is a queue and how to push and pop its elements ?
+?	PUNCT	0	15_pert_0	15	0	0	12	What is a queue and how to push and pop its elements ?

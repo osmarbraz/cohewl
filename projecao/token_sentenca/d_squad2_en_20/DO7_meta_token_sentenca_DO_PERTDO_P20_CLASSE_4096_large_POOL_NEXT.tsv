@@ -1,0 +1,127 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+What	PRON	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	0	1	0	1	What replaced metal objects ?
+replaced	VERB	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	1	1	2	0	1	What replaced metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	2	3	0	1	What replaced metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	3	4	0	1	What replaced metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	4	5	0	1	What replaced metal objects ?
+What replaced metal objects ?	['PRON', 'VERB', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	-1	-1		1	3	What replaced metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	0	7	0	0	What about metal objects ?
+about	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	1	1	8	0	0	What about metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	2	9	0	0	What about metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	3	10	0	0	What about metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	4	11	0	0	What about metal objects ?
+What about metal objects ?	['PRON', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What about metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	0	13	0	0	What are metal objects ?
+are	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	1	1	14	0	0	What are metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	2	15	0	0	What are metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	3	16	0	0	What are metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	4	17	0	0	What are metal objects ?
+What are metal objects ?	['PRON', 'AUX', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What are metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	0	19	0	0	What were metal objects ?
+were	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	1	1	20	0	0	What were metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	2	21	0	0	What were metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	3	22	0	0	What were metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	4	23	0	0	What were metal objects ?
+What were metal objects ?	['PRON', 'AUX', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What were metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	0	25	0	0	What of metal objects ?
+of	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	1	1	26	0	0	What of metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	2	27	0	0	What of metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	3	28	0	0	What of metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	4	29	0	0	What of metal objects ?
+What of metal objects ?	['PRON', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What of metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	0	31	0	0	What other metal objects ?
+other	ADJ	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	1	1	32	0	0	What other metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	2	33	0	0	What other metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	3	34	0	0	What other metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	4	35	0	0	What other metal objects ?
+What other metal objects ?	['PRON', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What other metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	0	37	0	0	What is metal objects ?
+is	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	1	1	38	0	0	What is metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	2	39	0	0	What is metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	3	40	0	0	What is metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	4	41	0	0	What is metal objects ?
+What is metal objects ?	['PRON', 'AUX', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What is metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	0	43	0	0	What with metal objects ?
+with	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	1	1	44	0	0	What with metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	2	45	0	0	What with metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	3	46	0	0	What with metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	4	47	0	0	What with metal objects ?
+What with metal objects ?	['PRON', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What with metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	0	49	0	0	What was metal objects ?
+was	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	1	1	50	0	0	What was metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	2	51	0	0	What was metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	3	52	0	0	What was metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	4	53	0	0	What was metal objects ?
+What was metal objects ?	['PRON', 'AUX', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What was metal objects ?
+What	DET	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	0	55	0	0	What big metal objects ?
+big	ADJ	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	1	1	56	0	0	What big metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	2	57	0	0	What big metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	3	58	0	0	What big metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	4	59	0	0	What big metal objects ?
+What big metal objects ?	['DET', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What big metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	0	61	0	0	What , metal objects ?
+,	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	1	1	62	0	0	What , metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	2	63	0	0	What , metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	3	64	0	0	What , metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	4	65	0	0	What , metal objects ?
+What , metal objects ?	['PRON', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What , metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	0	67	0	0	What made metal objects ?
+made	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	1	1	68	0	0	What made metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	2	69	0	0	What made metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	3	70	0	0	What made metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	4	71	0	0	What made metal objects ?
+What made metal objects ?	['PRON', 'VERB', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What made metal objects ?
+What	DET	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	0	73	0	0	What size metal objects ?
+size	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	1	1	74	0	0	What size metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	2	75	0	0	What size metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	3	76	0	0	What size metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	4	77	0	0	What size metal objects ?
+What size metal objects ?	['DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What size metal objects ?
+What	DET	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	0	79	0	0	What small metal objects ?
+small	ADJ	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	1	1	80	0	0	What small metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	2	81	0	0	What small metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	3	82	0	0	What small metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	4	83	0	0	What small metal objects ?
+What small metal objects ?	['DET', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What small metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	0	85	0	0	What About metal objects ?
+About	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	1	1	86	0	0	What About metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	2	87	0	0	What About metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	3	88	0	0	What About metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	4	89	0	0	What About metal objects ?
+What About metal objects ?	['PRON', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What About metal objects ?
+What	DET	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	0	91	0	0	What little metal objects ?
+little	ADJ	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	1	1	92	0	0	What little metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	2	93	0	0	What little metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	3	94	0	0	What little metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	4	95	0	0	What little metal objects ?
+What little metal objects ?	['DET', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What little metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	0	97	0	0	What on metal objects ?
+on	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	1	1	98	0	0	What on metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	2	99	0	0	What on metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	3	100	0	0	What on metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	4	101	0	0	What on metal objects ?
+What on metal objects ?	['PRON', 'ADP', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What on metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	0	103	0	0	What if metal objects ?
+if	SCONJ	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	1	1	104	0	0	What if metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	2	105	0	0	What if metal objects ?
+objects	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	3	106	0	0	What if metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	4	107	0	0	What if metal objects ?
+What if metal objects ?	['PRON', 'SCONJ', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What if metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	0	109	0	0	What makes metal objects ?
+makes	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	1	1	110	0	0	What makes metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	2	111	0	0	What makes metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	3	112	0	0	What makes metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	4	113	0	0	What makes metal objects ?
+What makes metal objects ?	['PRON', 'VERB', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What makes metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	0	115	0	0	What became metal objects ?
+became	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	1	1	116	0	0	What became metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	2	117	0	0	What became metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	3	118	0	0	What became metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	4	119	0	0	What became metal objects ?
+What became metal objects ?	['PRON', 'VERB', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What became metal objects ?
+What	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	0	121	0	0	What else metal objects ?
+else	ADV	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	1	1	122	0	0	What else metal objects ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	2	123	0	0	What else metal objects ?
+objects	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	3	124	0	0	What else metal objects ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	4	125	0	0	What else metal objects ?
+What else metal objects ?	['PRON', 'ADV', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	-1	-1		1	2	What else metal objects ?

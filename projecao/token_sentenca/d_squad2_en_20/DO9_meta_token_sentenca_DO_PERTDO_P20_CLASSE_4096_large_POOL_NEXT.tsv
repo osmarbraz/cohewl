@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+What	PRON	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	0	1	0	1	What did the beginnings of class differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	1	2	0	1	What did the beginnings of class differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	2	3	0	1	What did the beginnings of class differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	3	4	0	1	What did the beginnings of class differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	4	5	0	1	What did the beginnings of class differentiation end ?
+class	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	1	5	6	0	1	What did the beginnings of class differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	6	7	0	1	What did the beginnings of class differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	7	8	0	1	What did the beginnings of class differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	0	8	9	0	1	What did the beginnings of class differentiation end ?
+What did the beginnings of class differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20	5ad4a8225b96ef001a109d20	1	-1	-1		1	3	What did the beginnings of class differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	0	11	0	0	What did the beginnings of that differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	1	12	0	0	What did the beginnings of that differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	2	13	0	0	What did the beginnings of that differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	3	14	0	0	What did the beginnings of that differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	4	15	0	0	What did the beginnings of that differentiation end ?
+that	DET	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	1	5	16	0	0	What did the beginnings of that differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	6	17	0	0	What did the beginnings of that differentiation end ?
+end	VERB	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	7	18	0	0	What did the beginnings of that differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	0	8	19	0	0	What did the beginnings of that differentiation end ?
+What did the beginnings of that differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_0	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of that differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	0	21	0	0	What did the beginnings of the differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	1	22	0	0	What did the beginnings of the differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	2	23	0	0	What did the beginnings of the differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	3	24	0	0	What did the beginnings of the differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	4	25	0	0	What did the beginnings of the differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	5	26	0	0	What did the beginnings of the differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	6	27	0	0	What did the beginnings of the differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	7	28	0	0	What did the beginnings of the differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	0	8	29	0	0	What did the beginnings of the differentiation end ?
+What did the beginnings of the differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_1	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of the differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	0	31	0	0	What did the beginnings of this differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	1	32	0	0	What did the beginnings of this differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	2	33	0	0	What did the beginnings of this differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	3	34	0	0	What did the beginnings of this differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	4	35	0	0	What did the beginnings of this differentiation end ?
+this	DET	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	1	5	36	0	0	What did the beginnings of this differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	6	37	0	0	What did the beginnings of this differentiation end ?
+end	VERB	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	7	38	0	0	What did the beginnings of this differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	0	8	39	0	0	What did the beginnings of this differentiation end ?
+What did the beginnings of this differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_2	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of this differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	0	41	0	0	What did the beginnings of human differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	1	42	0	0	What did the beginnings of human differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	2	43	0	0	What did the beginnings of human differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	3	44	0	0	What did the beginnings of human differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	4	45	0	0	What did the beginnings of human differentiation end ?
+human	ADJ	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	1	5	46	0	0	What did the beginnings of human differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	6	47	0	0	What did the beginnings of human differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	7	48	0	0	What did the beginnings of human differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	0	8	49	0	0	What did the beginnings of human differentiation end ?
+What did the beginnings of human differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_3	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of human differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	0	51	0	0	What did the beginnings of genetic differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	1	52	0	0	What did the beginnings of genetic differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	2	53	0	0	What did the beginnings of genetic differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	3	54	0	0	What did the beginnings of genetic differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	4	55	0	0	What did the beginnings of genetic differentiation end ?
+genetic	ADJ	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	1	5	56	0	0	What did the beginnings of genetic differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	6	57	0	0	What did the beginnings of genetic differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	7	58	0	0	What did the beginnings of genetic differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	0	8	59	0	0	What did the beginnings of genetic differentiation end ?
+What did the beginnings of genetic differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_4	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of genetic differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	0	61	0	0	What did the beginnings of their differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	1	62	0	0	What did the beginnings of their differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	2	63	0	0	What did the beginnings of their differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	3	64	0	0	What did the beginnings of their differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	4	65	0	0	What did the beginnings of their differentiation end ?
+their	PRON	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	1	5	66	0	0	What did the beginnings of their differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	6	67	0	0	What did the beginnings of their differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	7	68	0	0	What did the beginnings of their differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	0	8	69	0	0	What did the beginnings of their differentiation end ?
+What did the beginnings of their differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_5	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of their differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	0	71	0	0	What did the beginnings of such differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	1	72	0	0	What did the beginnings of such differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	2	73	0	0	What did the beginnings of such differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	3	74	0	0	What did the beginnings of such differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	4	75	0	0	What did the beginnings of such differentiation end ?
+such	ADJ	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	1	5	76	0	0	What did the beginnings of such differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	6	77	0	0	What did the beginnings of such differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	7	78	0	0	What did the beginnings of such differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	0	8	79	0	0	What did the beginnings of such differentiation end ?
+What did the beginnings of such differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_6	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of such differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	0	81	0	0	What did the beginnings of biological differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	1	82	0	0	What did the beginnings of biological differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	2	83	0	0	What did the beginnings of biological differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	3	84	0	0	What did the beginnings of biological differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	4	85	0	0	What did the beginnings of biological differentiation end ?
+biological	ADJ	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	1	5	86	0	0	What did the beginnings of biological differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	6	87	0	0	What did the beginnings of biological differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	7	88	0	0	What did the beginnings of biological differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	0	8	89	0	0	What did the beginnings of biological differentiation end ?
+What did the beginnings of biological differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_7	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of biological differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	0	91	0	0	What did the beginnings of a differentiation end ?
+did	VERB	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	1	92	0	0	What did the beginnings of a differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	2	93	0	0	What did the beginnings of a differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	3	94	0	0	What did the beginnings of a differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	4	95	0	0	What did the beginnings of a differentiation end ?
+a	DET	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	1	5	96	0	0	What did the beginnings of a differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	6	97	0	0	What did the beginnings of a differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	7	98	0	0	What did the beginnings of a differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	0	8	99	0	0	What did the beginnings of a differentiation end ?
+What did the beginnings of a differentiation end ?	['PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_8	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of a differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	0	101	0	0	What did the beginnings of social differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	1	102	0	0	What did the beginnings of social differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	2	103	0	0	What did the beginnings of social differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	3	104	0	0	What did the beginnings of social differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	4	105	0	0	What did the beginnings of social differentiation end ?
+social	ADJ	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	1	5	106	0	0	What did the beginnings of social differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	6	107	0	0	What did the beginnings of social differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	7	108	0	0	What did the beginnings of social differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	0	8	109	0	0	What did the beginnings of social differentiation end ?
+What did the beginnings of social differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_9	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of social differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	0	111	0	0	What did the beginnings of sexual differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	1	112	0	0	What did the beginnings of sexual differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	2	113	0	0	What did the beginnings of sexual differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	3	114	0	0	What did the beginnings of sexual differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	4	115	0	0	What did the beginnings of sexual differentiation end ?
+sexual	ADJ	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	1	5	116	0	0	What did the beginnings of sexual differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	6	117	0	0	What did the beginnings of sexual differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	7	118	0	0	What did the beginnings of sexual differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	0	8	119	0	0	What did the beginnings of sexual differentiation end ?
+What did the beginnings of sexual differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_10	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of sexual differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	0	121	0	0	What did the beginnings of our differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	1	122	0	0	What did the beginnings of our differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	2	123	0	0	What did the beginnings of our differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	3	124	0	0	What did the beginnings of our differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	4	125	0	0	What did the beginnings of our differentiation end ?
+our	PRON	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	1	5	126	0	0	What did the beginnings of our differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	6	127	0	0	What did the beginnings of our differentiation end ?
+end	VERB	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	7	128	0	0	What did the beginnings of our differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	0	8	129	0	0	What did the beginnings of our differentiation end ?
+What did the beginnings of our differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_11	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of our differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	0	131	0	0	What did the beginnings of true differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	1	132	0	0	What did the beginnings of true differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	2	133	0	0	What did the beginnings of true differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	3	134	0	0	What did the beginnings of true differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	4	135	0	0	What did the beginnings of true differentiation end ?
+true	ADJ	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	1	5	136	0	0	What did the beginnings of true differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	6	137	0	0	What did the beginnings of true differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	7	138	0	0	What did the beginnings of true differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	0	8	139	0	0	What did the beginnings of true differentiation end ?
+What did the beginnings of true differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_12	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of true differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	0	141	0	0	What did the beginnings of his differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	1	142	0	0	What did the beginnings of his differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	2	143	0	0	What did the beginnings of his differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	3	144	0	0	What did the beginnings of his differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	4	145	0	0	What did the beginnings of his differentiation end ?
+his	PRON	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	1	5	146	0	0	What did the beginnings of his differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	6	147	0	0	What did the beginnings of his differentiation end ?
+end	VERB	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	7	148	0	0	What did the beginnings of his differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	0	8	149	0	0	What did the beginnings of his differentiation end ?
+What did the beginnings of his differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'VERB', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_13	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of his differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	0	151	0	0	What did the beginnings of evolutionary differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	1	152	0	0	What did the beginnings of evolutionary differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	2	153	0	0	What did the beginnings of evolutionary differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	3	154	0	0	What did the beginnings of evolutionary differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	4	155	0	0	What did the beginnings of evolutionary differentiation end ?
+evolutionary	ADJ	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	1	5	156	0	0	What did the beginnings of evolutionary differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	6	157	0	0	What did the beginnings of evolutionary differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	7	158	0	0	What did the beginnings of evolutionary differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	0	8	159	0	0	What did the beginnings of evolutionary differentiation end ?
+What did the beginnings of evolutionary differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_14	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of evolutionary differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	0	161	0	0	What did the beginnings of its differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	1	162	0	0	What did the beginnings of its differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	2	163	0	0	What did the beginnings of its differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	3	164	0	0	What did the beginnings of its differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	4	165	0	0	What did the beginnings of its differentiation end ?
+its	PRON	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	1	5	166	0	0	What did the beginnings of its differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	6	167	0	0	What did the beginnings of its differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	7	168	0	0	What did the beginnings of its differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	0	8	169	0	0	What did the beginnings of its differentiation end ?
+What did the beginnings of its differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_15	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of its differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	0	171	0	0	What did the beginnings of racial differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	1	172	0	0	What did the beginnings of racial differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	2	173	0	0	What did the beginnings of racial differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	3	174	0	0	What did the beginnings of racial differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	4	175	0	0	What did the beginnings of racial differentiation end ?
+racial	ADJ	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	1	5	176	0	0	What did the beginnings of racial differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	6	177	0	0	What did the beginnings of racial differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	7	178	0	0	What did the beginnings of racial differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	0	8	179	0	0	What did the beginnings of racial differentiation end ?
+What did the beginnings of racial differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_16	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of racial differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	0	181	0	0	What did the beginnings of personal differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	1	182	0	0	What did the beginnings of personal differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	2	183	0	0	What did the beginnings of personal differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	3	184	0	0	What did the beginnings of personal differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	4	185	0	0	What did the beginnings of personal differentiation end ?
+personal	ADJ	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	1	5	186	0	0	What did the beginnings of personal differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	6	187	0	0	What did the beginnings of personal differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	7	188	0	0	What did the beginnings of personal differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	0	8	189	0	0	What did the beginnings of personal differentiation end ?
+What did the beginnings of personal differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_17	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of personal differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	0	191	0	0	What did the beginnings of all differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	1	192	0	0	What did the beginnings of all differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	2	193	0	0	What did the beginnings of all differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	3	194	0	0	What did the beginnings of all differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	4	195	0	0	What did the beginnings of all differentiation end ?
+all	DET	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	1	5	196	0	0	What did the beginnings of all differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	6	197	0	0	What did the beginnings of all differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	7	198	0	0	What did the beginnings of all differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	0	8	199	0	0	What did the beginnings of all differentiation end ?
+What did the beginnings of all differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_18	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of all differentiation end ?
+What	PRON	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	0	201	0	0	What did the beginnings of her differentiation end ?
+did	AUX	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	1	202	0	0	What did the beginnings of her differentiation end ?
+the	DET	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	2	203	0	0	What did the beginnings of her differentiation end ?
+beginnings	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	3	204	0	0	What did the beginnings of her differentiation end ?
+of	ADP	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	4	205	0	0	What did the beginnings of her differentiation end ?
+her	PRON	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	1	5	206	0	0	What did the beginnings of her differentiation end ?
+differentiation	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	6	207	0	0	What did the beginnings of her differentiation end ?
+end	NOUN	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	7	208	0	0	What did the beginnings of her differentiation end ?
+?	PUNCT	0	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	0	8	209	0	0	What did the beginnings of her differentiation end ?
+What did the beginnings of her differentiation end ?	['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad4a8225b96ef001a109d20_pert_19	5ad4a8225b96ef001a109d20	0	-1	-1		1	2	What did the beginnings of her differentiation end ?

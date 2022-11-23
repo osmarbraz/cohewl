@@ -1,0 +1,127 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Qual	PRON	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	0	1	Qual foi a intensidade escalada ?
+foi	AUX	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	1	2	Qual foi a intensidade escalada ?
+a	DET	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	2	3	Qual foi a intensidade escalada ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	3	4	Qual foi a intensidade escalada ?
+escalada	VERB	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	1	4	5	Qual foi a intensidade escalada ?
+?	PUNCT	0	56cdd21562d2951400fa68b2	56cdd21562d2951400fa68b2	1	0	5		Qual foi a intensidade escalada ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	0	7	Qual foi a intensidade dela ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	1	8	Qual foi a intensidade dela ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	2	9	Qual foi a intensidade dela ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	3	10	Qual foi a intensidade dela ?
+dela	PRON	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	1	4	11	Qual foi a intensidade dela ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_0	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade dela ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	0	13	Qual foi a intensidade dele ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	1	14	Qual foi a intensidade dele ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	2	15	Qual foi a intensidade dele ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	3	16	Qual foi a intensidade dele ?
+dele	PRON	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	1	4	17	Qual foi a intensidade dele ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_1	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade dele ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	0	19	Qual foi a intensidade delas ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	1	20	Qual foi a intensidade delas ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	2	21	Qual foi a intensidade delas ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	3	22	Qual foi a intensidade delas ?
+delas	PRON	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	1	4	23	Qual foi a intensidade delas ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_2	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade delas ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	0	25	Qual foi a intensidade disso ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	1	26	Qual foi a intensidade disso ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	2	27	Qual foi a intensidade disso ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	3	28	Qual foi a intensidade disso ?
+disso	PRON	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	1	4	29	Qual foi a intensidade disso ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_3	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade disso ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	0	31	Qual foi a intensidade deles ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	1	32	Qual foi a intensidade deles ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	2	33	Qual foi a intensidade deles ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	3	34	Qual foi a intensidade deles ?
+deles	PRON	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	1	4	35	Qual foi a intensidade deles ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_4	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade deles ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	0	37	Qual foi a intensidade maior ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	1	38	Qual foi a intensidade maior ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	2	39	Qual foi a intensidade maior ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	3	40	Qual foi a intensidade maior ?
+maior	ADJ	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	1	4	41	Qual foi a intensidade maior ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_5	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade maior ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	0	43	Qual foi a intensidade atingida ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	1	44	Qual foi a intensidade atingida ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	2	45	Qual foi a intensidade atingida ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	3	46	Qual foi a intensidade atingida ?
+atingida	VERB	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	1	4	47	Qual foi a intensidade atingida ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_6	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade atingida ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	0	49	Qual foi a intensidade utilizada ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	1	50	Qual foi a intensidade utilizada ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	2	51	Qual foi a intensidade utilizada ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	3	52	Qual foi a intensidade utilizada ?
+utilizada	VERB	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	1	4	53	Qual foi a intensidade utilizada ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_7	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade utilizada ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	0	55	Qual foi a intensidade máxima ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	1	56	Qual foi a intensidade máxima ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	2	57	Qual foi a intensidade máxima ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	3	58	Qual foi a intensidade máxima ?
+máxima	ADJ	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	1	4	59	Qual foi a intensidade máxima ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_8	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade máxima ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	0	61	Qual foi a intensidade desta ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	1	62	Qual foi a intensidade desta ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	2	63	Qual foi a intensidade desta ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	3	64	Qual foi a intensidade desta ?
+desta	PRON	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	1	4	65	Qual foi a intensidade desta ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_9	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade desta ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	0	67	Qual foi a intensidade disto ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	1	68	Qual foi a intensidade disto ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	2	69	Qual foi a intensidade disto ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	3	70	Qual foi a intensidade disto ?
+disto	PRON	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	1	4	71	Qual foi a intensidade disto ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_10	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade disto ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	0	73	Qual foi a intensidade usada ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	1	74	Qual foi a intensidade usada ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	2	75	Qual foi a intensidade usada ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	3	76	Qual foi a intensidade usada ?
+usada	VERB	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	1	4	77	Qual foi a intensidade usada ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_11	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade usada ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	0	79	Qual foi a intensidade dessa ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	1	80	Qual foi a intensidade dessa ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	2	81	Qual foi a intensidade dessa ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	3	82	Qual foi a intensidade dessa ?
+dessa	PRON	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	1	4	83	Qual foi a intensidade dessa ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_12	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade dessa ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	0	85	Qual foi a intensidade média ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	1	86	Qual foi a intensidade média ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	2	87	Qual foi a intensidade média ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	3	88	Qual foi a intensidade média ?
+média	ADJ	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	1	4	89	Qual foi a intensidade média ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_13	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade média ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	0	91	Qual foi a intensidade aplicada ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	1	92	Qual foi a intensidade aplicada ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	2	93	Qual foi a intensidade aplicada ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	3	94	Qual foi a intensidade aplicada ?
+aplicada	VERB	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	1	4	95	Qual foi a intensidade aplicada ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_14	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade aplicada ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	0	97	Qual foi a intensidade escolhida ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	1	98	Qual foi a intensidade escolhida ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	2	99	Qual foi a intensidade escolhida ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	3	100	Qual foi a intensidade escolhida ?
+escolhida	VERB	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	1	4	101	Qual foi a intensidade escolhida ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_15	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade escolhida ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	0	103	Qual foi a intensidade total ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	1	104	Qual foi a intensidade total ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	2	105	Qual foi a intensidade total ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	3	106	Qual foi a intensidade total ?
+total	ADJ	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	1	4	107	Qual foi a intensidade total ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_16	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade total ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	0	109	Qual foi a intensidade inicial ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	1	110	Qual foi a intensidade inicial ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	2	111	Qual foi a intensidade inicial ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	3	112	Qual foi a intensidade inicial ?
+inicial	ADJ	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	1	4	113	Qual foi a intensidade inicial ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_17	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade inicial ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	0	115	Qual foi a intensidade ? ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	1	116	Qual foi a intensidade ? ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	2	117	Qual foi a intensidade ? ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	3	118	Qual foi a intensidade ? ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	4	119	Qual foi a intensidade ? ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_18	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade ? ?
+Qual	PRON	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	0	121	Qual foi a intensidade deste ?
+foi	AUX	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	1	122	Qual foi a intensidade deste ?
+a	DET	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	2	123	Qual foi a intensidade deste ?
+intensidade	NOUN	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	3	124	Qual foi a intensidade deste ?
+deste	ADP	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	1	4	125	Qual foi a intensidade deste ?
+?	PUNCT	0	56cdd21562d2951400fa68b2_pert_19	56cdd21562d2951400fa68b2	0	0	5		Qual foi a intensidade deste ?

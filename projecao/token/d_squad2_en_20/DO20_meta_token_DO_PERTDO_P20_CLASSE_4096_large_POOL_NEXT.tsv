@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+How	SCONJ	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	0	1	How are the bit bytes transmitted ?
+are	AUX	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	1	2	How are the bit bytes transmitted ?
+the	DET	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	2	3	How are the bit bytes transmitted ?
+bit	NOUN	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	3	4	How are the bit bytes transmitted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	4	5	How are the bit bytes transmitted ?
+transmitted	VERB	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	1	5	6	How are the bit bytes transmitted ?
+?	PUNCT	0	5728046cff5b5019007d9b05	5728046cff5b5019007d9b05	1	0	6		How are the bit bytes transmitted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	0	8	How are the bit bytes represented ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	1	9	How are the bit bytes represented ?
+the	DET	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	2	10	How are the bit bytes represented ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	3	11	How are the bit bytes represented ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	4	12	How are the bit bytes represented ?
+represented	VERB	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	1	5	13	How are the bit bytes represented ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_0	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes represented ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	0	15	How are the bit bytes allocated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	1	16	How are the bit bytes allocated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	2	17	How are the bit bytes allocated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	3	18	How are the bit bytes allocated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	4	19	How are the bit bytes allocated ?
+allocated	VERB	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	1	5	20	How are the bit bytes allocated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_1	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes allocated ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	0	22	How are the bit bytes encoded ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	1	23	How are the bit bytes encoded ?
+the	DET	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	2	24	How are the bit bytes encoded ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	3	25	How are the bit bytes encoded ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	4	26	How are the bit bytes encoded ?
+encoded	VERB	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	1	5	27	How are the bit bytes encoded ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_2	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes encoded ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	0	29	How are the bit bytes calculated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	1	30	How are the bit bytes calculated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	2	31	How are the bit bytes calculated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	3	32	How are the bit bytes calculated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	4	33	How are the bit bytes calculated ?
+calculated	VERB	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	1	5	34	How are the bit bytes calculated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_3	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes calculated ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	0	36	How are the bit bytes used ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	1	37	How are the bit bytes used ?
+the	DET	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	2	38	How are the bit bytes used ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	3	39	How are the bit bytes used ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	4	40	How are the bit bytes used ?
+used	VERB	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	1	5	41	How are the bit bytes used ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_4	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes used ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	0	43	How are the bit bytes stored ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	1	44	How are the bit bytes stored ?
+the	DET	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	2	45	How are the bit bytes stored ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	3	46	How are the bit bytes stored ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	4	47	How are the bit bytes stored ?
+stored	VERB	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	1	5	48	How are the bit bytes stored ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_5	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes stored ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	0	50	How are the bit bytes working ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	1	51	How are the bit bytes working ?
+the	DET	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	2	52	How are the bit bytes working ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	3	53	How are the bit bytes working ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	4	54	How are the bit bytes working ?
+working	VERB	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	1	5	55	How are the bit bytes working ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_6	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes working ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	0	57	How are the bit bytes defined ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	1	58	How are the bit bytes defined ?
+the	DET	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	2	59	How are the bit bytes defined ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	3	60	How are the bit bytes defined ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	4	61	How are the bit bytes defined ?
+defined	VERB	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	1	5	62	How are the bit bytes defined ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_7	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes defined ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	0	64	How are the bit bytes distributed ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	1	65	How are the bit bytes distributed ?
+the	DET	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	2	66	How are the bit bytes distributed ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	3	67	How are the bit bytes distributed ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	4	68	How are the bit bytes distributed ?
+distributed	VERB	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	1	5	69	How are the bit bytes distributed ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_8	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes distributed ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	0	71	How are the bit bytes connected ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	1	72	How are the bit bytes connected ?
+the	DET	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	2	73	How are the bit bytes connected ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	3	74	How are the bit bytes connected ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	4	75	How are the bit bytes connected ?
+connected	VERB	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	1	5	76	How are the bit bytes connected ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_9	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes connected ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	0	78	How are the bit bytes measured ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	1	79	How are the bit bytes measured ?
+the	DET	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	2	80	How are the bit bytes measured ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	3	81	How are the bit bytes measured ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	4	82	How are the bit bytes measured ?
+measured	VERB	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	1	5	83	How are the bit bytes measured ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_10	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes measured ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	0	85	How are the bit bytes available ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	1	86	How are the bit bytes available ?
+the	DET	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	2	87	How are the bit bytes available ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	3	88	How are the bit bytes available ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	4	89	How are the bit bytes available ?
+available	ADJ	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	1	5	90	How are the bit bytes available ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_11	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes available ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	0	92	How are the bit bytes interpreted ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	1	93	How are the bit bytes interpreted ?
+the	DET	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	2	94	How are the bit bytes interpreted ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	3	95	How are the bit bytes interpreted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	4	96	How are the bit bytes interpreted ?
+interpreted	VERB	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	1	5	97	How are the bit bytes interpreted ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_12	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes interpreted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	0	99	How are the bit bytes sorted ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	1	100	How are the bit bytes sorted ?
+the	DET	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	2	101	How are the bit bytes sorted ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	3	102	How are the bit bytes sorted ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	4	103	How are the bit bytes sorted ?
+sorted	VERB	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	1	5	104	How are the bit bytes sorted ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_13	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes sorted ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	0	106	How are the bit bytes handled ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	1	107	How are the bit bytes handled ?
+the	DET	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	2	108	How are the bit bytes handled ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	3	109	How are the bit bytes handled ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	4	110	How are the bit bytes handled ?
+handled	VERB	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	1	5	111	How are the bit bytes handled ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_14	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes handled ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	0	113	How are the bit bytes coded ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	1	114	How are the bit bytes coded ?
+the	DET	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	2	115	How are the bit bytes coded ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	3	116	How are the bit bytes coded ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	4	117	How are the bit bytes coded ?
+coded	VERB	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	1	5	118	How are the bit bytes coded ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_15	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes coded ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	0	120	How are the bit bytes changed ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	1	121	How are the bit bytes changed ?
+the	DET	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	2	122	How are the bit bytes changed ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	3	123	How are the bit bytes changed ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	4	124	How are the bit bytes changed ?
+changed	VERB	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	1	5	125	How are the bit bytes changed ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_16	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes changed ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	0	127	How are the bit bytes written ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	1	128	How are the bit bytes written ?
+the	DET	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	2	129	How are the bit bytes written ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	3	130	How are the bit bytes written ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	4	131	How are the bit bytes written ?
+written	VERB	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	1	5	132	How are the bit bytes written ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_17	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes written ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	0	134	How are the bit bytes related ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	1	135	How are the bit bytes related ?
+the	DET	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	2	136	How are the bit bytes related ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	3	137	How are the bit bytes related ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	4	138	How are the bit bytes related ?
+related	VERB	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	1	5	139	How are the bit bytes related ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_18	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes related ?
+How	SCONJ	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	0	141	How are the bit bytes generated ?
+are	AUX	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	1	142	How are the bit bytes generated ?
+the	DET	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	2	143	How are the bit bytes generated ?
+bit	NOUN	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	3	144	How are the bit bytes generated ?
+bytes	NOUN	1	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	4	145	How are the bit bytes generated ?
+generated	VERB	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	1	5	146	How are the bit bytes generated ?
+?	PUNCT	0	5728046cff5b5019007d9b05_pert_19	5728046cff5b5019007d9b05	0	0	6		How are the bit bytes generated ?

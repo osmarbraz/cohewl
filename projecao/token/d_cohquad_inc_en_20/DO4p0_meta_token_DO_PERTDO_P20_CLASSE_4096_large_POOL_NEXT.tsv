@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+How	SCONJ	0	4p0	4p0	1	0	0	1	How to push and pop elements in a queue ?
+to	PART	0	4p0	4p0	1	0	1	2	How to push and pop elements in a queue ?
+push	VERB	0	4p0	4p0	1	1	2	3	How to push and pop elements in a queue ?
+and	CCONJ	0	4p0	4p0	1	0	3	4	How to push and pop elements in a queue ?
+pop	NOUN	0	4p0	4p0	1	0	4	5	How to push and pop elements in a queue ?
+elements	NOUN	0	4p0	4p0	1	0	5	6	How to push and pop elements in a queue ?
+in	ADP	0	4p0	4p0	1	0	6	7	How to push and pop elements in a queue ?
+a	DET	0	4p0	4p0	1	0	7	8	How to push and pop elements in a queue ?
+queue	NOUN	1	4p0	4p0	1	0	8	9	How to push and pop elements in a queue ?
+?	PUNCT	0	4p0	4p0	1	0	9		How to push and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_0	4p0	0	0	0	11	How to rock and pop elements in a queue ?
+to	PART	0	4p0_pert_0	4p0	0	0	1	12	How to rock and pop elements in a queue ?
+rock	VERB	0	4p0_pert_0	4p0	0	1	2	13	How to rock and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_0	4p0	0	0	3	14	How to rock and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_0	4p0	0	0	4	15	How to rock and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_0	4p0	0	0	5	16	How to rock and pop elements in a queue ?
+in	ADP	0	4p0_pert_0	4p0	0	0	6	17	How to rock and pop elements in a queue ?
+a	DET	0	4p0_pert_0	4p0	0	0	7	18	How to rock and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_0	4p0	0	0	8	19	How to rock and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_0	4p0	0	0	9		How to rock and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_1	4p0	0	0	0	21	How to sing and pop elements in a queue ?
+to	PART	0	4p0_pert_1	4p0	0	0	1	22	How to sing and pop elements in a queue ?
+sing	VERB	0	4p0_pert_1	4p0	0	1	2	23	How to sing and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_1	4p0	0	0	3	24	How to sing and pop elements in a queue ?
+pop	VERB	0	4p0_pert_1	4p0	0	0	4	25	How to sing and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_1	4p0	0	0	5	26	How to sing and pop elements in a queue ?
+in	ADP	0	4p0_pert_1	4p0	0	0	6	27	How to sing and pop elements in a queue ?
+a	DET	0	4p0_pert_1	4p0	0	0	7	28	How to sing and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_1	4p0	0	0	8	29	How to sing and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_1	4p0	0	0	9		How to sing and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_2	4p0	0	0	0	31	How to mix and pop elements in a queue ?
+to	PART	0	4p0_pert_2	4p0	0	0	1	32	How to mix and pop elements in a queue ?
+mix	VERB	0	4p0_pert_2	4p0	0	1	2	33	How to mix and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_2	4p0	0	0	3	34	How to mix and pop elements in a queue ?
+pop	VERB	0	4p0_pert_2	4p0	0	0	4	35	How to mix and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_2	4p0	0	0	5	36	How to mix and pop elements in a queue ?
+in	ADP	0	4p0_pert_2	4p0	0	0	6	37	How to mix and pop elements in a queue ?
+a	DET	0	4p0_pert_2	4p0	0	0	7	38	How to mix and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_2	4p0	0	0	8	39	How to mix and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_2	4p0	0	0	9		How to mix and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_3	4p0	0	0	0	41	How to dance and pop elements in a queue ?
+to	PART	0	4p0_pert_3	4p0	0	0	1	42	How to dance and pop elements in a queue ?
+dance	VERB	0	4p0_pert_3	4p0	0	1	2	43	How to dance and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_3	4p0	0	0	3	44	How to dance and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_3	4p0	0	0	4	45	How to dance and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_3	4p0	0	0	5	46	How to dance and pop elements in a queue ?
+in	ADP	0	4p0_pert_3	4p0	0	0	6	47	How to dance and pop elements in a queue ?
+a	DET	0	4p0_pert_3	4p0	0	0	7	48	How to dance and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_3	4p0	0	0	8	49	How to dance and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_3	4p0	0	0	9		How to dance and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_4	4p0	0	0	0	51	How to trap and pop elements in a queue ?
+to	PART	0	4p0_pert_4	4p0	0	0	1	52	How to trap and pop elements in a queue ?
+trap	VERB	0	4p0_pert_4	4p0	0	1	2	53	How to trap and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_4	4p0	0	0	3	54	How to trap and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_4	4p0	0	0	4	55	How to trap and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_4	4p0	0	0	5	56	How to trap and pop elements in a queue ?
+in	ADP	0	4p0_pert_4	4p0	0	0	6	57	How to trap and pop elements in a queue ?
+a	DET	0	4p0_pert_4	4p0	0	0	7	58	How to trap and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_4	4p0	0	0	8	59	How to trap and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_4	4p0	0	0	9		How to trap and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_5	4p0	0	0	0	61	How to play and pop elements in a queue ?
+to	PART	0	4p0_pert_5	4p0	0	0	1	62	How to play and pop elements in a queue ?
+play	VERB	0	4p0_pert_5	4p0	0	1	2	63	How to play and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_5	4p0	0	0	3	64	How to play and pop elements in a queue ?
+pop	VERB	0	4p0_pert_5	4p0	0	0	4	65	How to play and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_5	4p0	0	0	5	66	How to play and pop elements in a queue ?
+in	ADP	0	4p0_pert_5	4p0	0	0	6	67	How to play and pop elements in a queue ?
+a	DET	0	4p0_pert_5	4p0	0	0	7	68	How to play and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_5	4p0	0	0	8	69	How to play and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_5	4p0	0	0	9		How to play and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_6	4p0	0	0	0	71	How to go and pop elements in a queue ?
+to	PART	0	4p0_pert_6	4p0	0	0	1	72	How to go and pop elements in a queue ?
+go	VERB	0	4p0_pert_6	4p0	0	1	2	73	How to go and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_6	4p0	0	0	3	74	How to go and pop elements in a queue ?
+pop	VERB	0	4p0_pert_6	4p0	0	0	4	75	How to go and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_6	4p0	0	0	5	76	How to go and pop elements in a queue ?
+in	ADP	0	4p0_pert_6	4p0	0	0	6	77	How to go and pop elements in a queue ?
+a	DET	0	4p0_pert_6	4p0	0	0	7	78	How to go and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_6	4p0	0	0	8	79	How to go and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_6	4p0	0	0	9		How to go and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_7	4p0	0	0	0	81	How to jazz and pop elements in a queue ?
+to	PART	0	4p0_pert_7	4p0	0	0	1	82	How to jazz and pop elements in a queue ?
+jazz	VERB	0	4p0_pert_7	4p0	0	1	2	83	How to jazz and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_7	4p0	0	0	3	84	How to jazz and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_7	4p0	0	0	4	85	How to jazz and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_7	4p0	0	0	5	86	How to jazz and pop elements in a queue ?
+in	ADP	0	4p0_pert_7	4p0	0	0	6	87	How to jazz and pop elements in a queue ?
+a	DET	0	4p0_pert_7	4p0	0	0	7	88	How to jazz and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_7	4p0	0	0	8	89	How to jazz and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_7	4p0	0	0	9		How to jazz and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_8	4p0	0	0	0	91	How to jam and pop elements in a queue ?
+to	PART	0	4p0_pert_8	4p0	0	0	1	92	How to jam and pop elements in a queue ?
+jam	VERB	0	4p0_pert_8	4p0	0	1	2	93	How to jam and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_8	4p0	0	0	3	94	How to jam and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_8	4p0	0	0	4	95	How to jam and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_8	4p0	0	0	5	96	How to jam and pop elements in a queue ?
+in	ADP	0	4p0_pert_8	4p0	0	0	6	97	How to jam and pop elements in a queue ?
+a	DET	0	4p0_pert_8	4p0	0	0	7	98	How to jam and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_8	4p0	0	0	8	99	How to jam and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_8	4p0	0	0	9		How to jam and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_9	4p0	0	0	0	101	How to throw and pop elements in a queue ?
+to	PART	0	4p0_pert_9	4p0	0	0	1	102	How to throw and pop elements in a queue ?
+throw	VERB	0	4p0_pert_9	4p0	0	1	2	103	How to throw and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_9	4p0	0	0	3	104	How to throw and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_9	4p0	0	0	4	105	How to throw and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_9	4p0	0	0	5	106	How to throw and pop elements in a queue ?
+in	ADP	0	4p0_pert_9	4p0	0	0	6	107	How to throw and pop elements in a queue ?
+a	DET	0	4p0_pert_9	4p0	0	0	7	108	How to throw and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_9	4p0	0	0	8	109	How to throw and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_9	4p0	0	0	9		How to throw and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_10	4p0	0	0	0	111	How to record and pop elements in a queue ?
+to	PART	0	4p0_pert_10	4p0	0	0	1	112	How to record and pop elements in a queue ?
+record	VERB	0	4p0_pert_10	4p0	0	1	2	113	How to record and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_10	4p0	0	0	3	114	How to record and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_10	4p0	0	0	4	115	How to record and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_10	4p0	0	0	5	116	How to record and pop elements in a queue ?
+in	ADP	0	4p0_pert_10	4p0	0	0	6	117	How to record and pop elements in a queue ?
+a	DET	0	4p0_pert_10	4p0	0	0	7	118	How to record and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_10	4p0	0	0	8	119	How to record and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_10	4p0	0	0	9		How to record and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_11	4p0	0	0	0	121	How to pop and pop elements in a queue ?
+to	PART	0	4p0_pert_11	4p0	0	0	1	122	How to pop and pop elements in a queue ?
+pop	VERB	0	4p0_pert_11	4p0	0	0	2	123	How to pop and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_11	4p0	0	0	3	124	How to pop and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_11	4p0	0	0	4	125	How to pop and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_11	4p0	0	0	5	126	How to pop and pop elements in a queue ?
+in	ADP	0	4p0_pert_11	4p0	0	0	6	127	How to pop and pop elements in a queue ?
+a	DET	0	4p0_pert_11	4p0	0	0	7	128	How to pop and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_11	4p0	0	0	8	129	How to pop and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_11	4p0	0	0	9		How to pop and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_12	4p0	0	0	0	131	How to perform and pop elements in a queue ?
+to	PART	0	4p0_pert_12	4p0	0	0	1	132	How to perform and pop elements in a queue ?
+perform	VERB	0	4p0_pert_12	4p0	0	1	2	133	How to perform and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_12	4p0	0	0	3	134	How to perform and pop elements in a queue ?
+pop	VERB	0	4p0_pert_12	4p0	0	0	4	135	How to perform and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_12	4p0	0	0	5	136	How to perform and pop elements in a queue ?
+in	ADP	0	4p0_pert_12	4p0	0	0	6	137	How to perform and pop elements in a queue ?
+a	DET	0	4p0_pert_12	4p0	0	0	7	138	How to perform and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_12	4p0	0	0	8	139	How to perform and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_12	4p0	0	0	9		How to perform and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_13	4p0	0	0	0	141	How to music and pop elements in a queue ?
+to	PART	0	4p0_pert_13	4p0	0	0	1	142	How to music and pop elements in a queue ?
+music	VERB	0	4p0_pert_13	4p0	0	1	2	143	How to music and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_13	4p0	0	0	3	144	How to music and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_13	4p0	0	0	4	145	How to music and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_13	4p0	0	0	5	146	How to music and pop elements in a queue ?
+in	ADP	0	4p0_pert_13	4p0	0	0	6	147	How to music and pop elements in a queue ?
+a	DET	0	4p0_pert_13	4p0	0	0	7	148	How to music and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_13	4p0	0	0	8	149	How to music and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_13	4p0	0	0	9		How to music and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_14	4p0	0	0	0	151	How to groove and pop elements in a queue ?
+to	PART	0	4p0_pert_14	4p0	0	0	1	152	How to groove and pop elements in a queue ?
+groove	VERB	0	4p0_pert_14	4p0	0	1	2	153	How to groove and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_14	4p0	0	0	3	154	How to groove and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_14	4p0	0	0	4	155	How to groove and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_14	4p0	0	0	5	156	How to groove and pop elements in a queue ?
+in	ADP	0	4p0_pert_14	4p0	0	0	6	157	How to groove and pop elements in a queue ?
+a	DET	0	4p0_pert_14	4p0	0	0	7	158	How to groove and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_14	4p0	0	0	8	159	How to groove and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_14	4p0	0	0	9		How to groove and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_15	4p0	0	0	0	161	How to put and pop elements in a queue ?
+to	PART	0	4p0_pert_15	4p0	0	0	1	162	How to put and pop elements in a queue ?
+put	VERB	0	4p0_pert_15	4p0	0	1	2	163	How to put and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_15	4p0	0	0	3	164	How to put and pop elements in a queue ?
+pop	VERB	0	4p0_pert_15	4p0	0	0	4	165	How to put and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_15	4p0	0	0	5	166	How to put and pop elements in a queue ?
+in	ADP	0	4p0_pert_15	4p0	0	0	6	167	How to put and pop elements in a queue ?
+a	DET	0	4p0_pert_15	4p0	0	0	7	168	How to put and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_15	4p0	0	0	8	169	How to put and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_15	4p0	0	0	9		How to put and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_16	4p0	0	0	0	171	How to do and pop elements in a queue ?
+to	PART	0	4p0_pert_16	4p0	0	0	1	172	How to do and pop elements in a queue ?
+do	VERB	0	4p0_pert_16	4p0	0	1	2	173	How to do and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_16	4p0	0	0	3	174	How to do and pop elements in a queue ?
+pop	VERB	0	4p0_pert_16	4p0	0	0	4	175	How to do and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_16	4p0	0	0	5	176	How to do and pop elements in a queue ?
+in	ADP	0	4p0_pert_16	4p0	0	0	6	177	How to do and pop elements in a queue ?
+a	DET	0	4p0_pert_16	4p0	0	0	7	178	How to do and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_16	4p0	0	0	8	179	How to do and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_16	4p0	0	0	9		How to do and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_17	4p0	0	0	0	181	How to rap and pop elements in a queue ?
+to	PART	0	4p0_pert_17	4p0	0	0	1	182	How to rap and pop elements in a queue ?
+rap	VERB	0	4p0_pert_17	4p0	0	1	2	183	How to rap and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_17	4p0	0	0	3	184	How to rap and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_17	4p0	0	0	4	185	How to rap and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_17	4p0	0	0	5	186	How to rap and pop elements in a queue ?
+in	ADP	0	4p0_pert_17	4p0	0	0	6	187	How to rap and pop elements in a queue ?
+a	DET	0	4p0_pert_17	4p0	0	0	7	188	How to rap and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_17	4p0	0	0	8	189	How to rap and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_17	4p0	0	0	9		How to rap and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_18	4p0	0	0	0	191	How to write and pop elements in a queue ?
+to	PART	0	4p0_pert_18	4p0	0	0	1	192	How to write and pop elements in a queue ?
+write	VERB	0	4p0_pert_18	4p0	0	1	2	193	How to write and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_18	4p0	0	0	3	194	How to write and pop elements in a queue ?
+pop	VERB	0	4p0_pert_18	4p0	0	0	4	195	How to write and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_18	4p0	0	0	5	196	How to write and pop elements in a queue ?
+in	ADP	0	4p0_pert_18	4p0	0	0	6	197	How to write and pop elements in a queue ?
+a	DET	0	4p0_pert_18	4p0	0	0	7	198	How to write and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_18	4p0	0	0	8	199	How to write and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_18	4p0	0	0	9		How to write and pop elements in a queue ?
+How	SCONJ	0	4p0_pert_19	4p0	0	0	0	201	How to blend and pop elements in a queue ?
+to	PART	0	4p0_pert_19	4p0	0	0	1	202	How to blend and pop elements in a queue ?
+blend	VERB	0	4p0_pert_19	4p0	0	1	2	203	How to blend and pop elements in a queue ?
+and	CCONJ	0	4p0_pert_19	4p0	0	0	3	204	How to blend and pop elements in a queue ?
+pop	NOUN	0	4p0_pert_19	4p0	0	0	4	205	How to blend and pop elements in a queue ?
+elements	NOUN	0	4p0_pert_19	4p0	0	0	5	206	How to blend and pop elements in a queue ?
+in	ADP	0	4p0_pert_19	4p0	0	0	6	207	How to blend and pop elements in a queue ?
+a	DET	0	4p0_pert_19	4p0	0	0	7	208	How to blend and pop elements in a queue ?
+queue	NOUN	1	4p0_pert_19	4p0	0	0	8	209	How to blend and pop elements in a queue ?
+?	PUNCT	0	4p0_pert_19	4p0	0	0	9		How to blend and pop elements in a queue ?

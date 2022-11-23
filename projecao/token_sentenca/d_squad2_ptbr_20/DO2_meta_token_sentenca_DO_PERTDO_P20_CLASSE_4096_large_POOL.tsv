@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+O	PRON	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	0	0	1	O que substituiu objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	1	0	1	O que substituiu objetos de metal ?
+substituiu	VERB	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	1	2	0	1	O que substituiu objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	3	0	1	O que substituiu objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	4	0	1	O que substituiu objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	5	0	1	O que substituiu objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	0	6	0	1	O que substituiu objetos de metal ?
+O que substituiu objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c	5a611ac3e9e1cc001a33cf1c	1	-1	-1	1	3	O que substituiu objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que são objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que são objetos de metal ?
+são	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que são objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que são objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que são objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que são objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que são objetos de metal ?
+O que são objetos de metal ?	['PRON', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_0	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que são objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que seriam objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que seriam objetos de metal ?
+seriam	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que seriam objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que seriam objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que seriam objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que seriam objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que seriam objetos de metal ?
+O que seriam objetos de metal ?	['PRON', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_1	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que seriam objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que é objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que é objetos de metal ?
+é	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que é objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que é objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que é objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que é objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que é objetos de metal ?
+O que é objetos de metal ?	['PRON', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_2	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que é objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que significa objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que significa objetos de metal ?
+significa	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que significa objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que significa objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que significa objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que significa objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que significa objetos de metal ?
+O que significa objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_3	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que significa objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que eram objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que eram objetos de metal ?
+eram	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que eram objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que eram objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que eram objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que eram objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que eram objetos de metal ?
+O que eram objetos de metal ?	['PRON', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_4	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que eram objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que os objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que os objetos de metal ?
+os	DET	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que os objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que os objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que os objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que os objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que os objetos de metal ?
+O que os objetos de metal ?	['PRON', 'PRON', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_5	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que os objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que inclui objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que inclui objetos de metal ?
+inclui	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que inclui objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que inclui objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que inclui objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que inclui objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que inclui objetos de metal ?
+O que inclui objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_6	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que inclui objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que representam objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que representam objetos de metal ?
+representam	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que representam objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que representam objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que representam objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que representam objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que representam objetos de metal ?
+O que representam objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_7	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que representam objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que fazem objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que fazem objetos de metal ?
+fazem	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que fazem objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que fazem objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que fazem objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que fazem objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que fazem objetos de metal ?
+O que fazem objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_8	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que fazem objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que faz objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que faz objetos de metal ?
+faz	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que faz objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que faz objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que faz objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que faz objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que faz objetos de metal ?
+O que faz objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_9	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que faz objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que caracteriza objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que caracteriza objetos de metal ?
+caracteriza	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que caracteriza objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que caracteriza objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que caracteriza objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que caracteriza objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que caracteriza objetos de metal ?
+O que caracteriza objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_10	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que caracteriza objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que São objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que São objetos de metal ?
+São	PROPN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que São objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que São objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que São objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que São objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que São objetos de metal ?
+O que São objetos de metal ?	['PRON', 'PRON', 'PROPN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_11	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que São objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que diferencia objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que diferencia objetos de metal ?
+diferencia	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que diferencia objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que diferencia objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que diferencia objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que diferencia objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que diferencia objetos de metal ?
+O que diferencia objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_12	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que diferencia objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que sejam objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que sejam objetos de metal ?
+sejam	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que sejam objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que sejam objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que sejam objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que sejam objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que sejam objetos de metal ?
+O que sejam objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_13	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que sejam objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que seria objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que seria objetos de metal ?
+seria	AUX	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que seria objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que seria objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que seria objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que seria objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que seria objetos de metal ?
+O que seria objetos de metal ?	['PRON', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_14	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que seria objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que envolve objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que envolve objetos de metal ?
+envolve	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que envolve objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que envolve objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que envolve objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que envolve objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que envolve objetos de metal ?
+O que envolve objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_15	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que envolve objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que representa objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que representa objetos de metal ?
+representa	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que representa objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que representa objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que representa objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que representa objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que representa objetos de metal ?
+O que representa objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_16	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que representa objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que define objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que define objetos de metal ?
+define	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que define objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que define objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que define objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que define objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que define objetos de metal ?
+O que define objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_17	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que define objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que parecem objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que parecem objetos de metal ?
+parecem	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que parecem objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que parecem objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que parecem objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que parecem objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que parecem objetos de metal ?
+O que parecem objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_18	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que parecem objetos de metal ?
+O	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	0	0	0	O que tem objetos de metal ?
+que	PRON	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	1	0	0	O que tem objetos de metal ?
+tem	VERB	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	1	2	0	0	O que tem objetos de metal ?
+objetos	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	3	0	0	O que tem objetos de metal ?
+de	ADP	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	4	0	0	O que tem objetos de metal ?
+metal	NOUN	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	5	0	0	O que tem objetos de metal ?
+?	PUNCT	0	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	0	6	0	0	O que tem objetos de metal ?
+O que tem objetos de metal ?	['PRON', 'PRON', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0]	5a611ac3e9e1cc001a33cf1c_pert_19	5a611ac3e9e1cc001a33cf1c	0	-1	-1	1	2	O que tem objetos de metal ?

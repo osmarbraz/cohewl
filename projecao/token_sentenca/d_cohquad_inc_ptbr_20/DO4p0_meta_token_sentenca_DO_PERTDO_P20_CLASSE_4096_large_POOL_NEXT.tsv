@@ -1,0 +1,211 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Como	SCONJ	0	4p0	4p0	1	0	0	1	0	1	Como empilhar e desempilhar elementos em uma fila ?
+empilhar	VERB	1	4p0	4p0	1	0	1	2	0	1	Como empilhar e desempilhar elementos em uma fila ?
+e	CCONJ	0	4p0	4p0	1	0	2	3	0	1	Como empilhar e desempilhar elementos em uma fila ?
+desempilhar	VERB	1	4p0	4p0	1	1	3	4	0	1	Como empilhar e desempilhar elementos em uma fila ?
+elementos	NOUN	0	4p0	4p0	1	0	4	5	0	1	Como empilhar e desempilhar elementos em uma fila ?
+em	ADP	0	4p0	4p0	1	0	5	6	0	1	Como empilhar e desempilhar elementos em uma fila ?
+uma	DET	0	4p0	4p0	1	0	6	7	0	1	Como empilhar e desempilhar elementos em uma fila ?
+fila	NOUN	1	4p0	4p0	1	0	7	8	0	1	Como empilhar e desempilhar elementos em uma fila ?
+?	PUNCT	0	4p0	4p0	1	0	8	9	0	1	Como empilhar e desempilhar elementos em uma fila ?
+0	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 1, 0, 0, 0, 1, 0]	4p0	4p0	1	-1	-1		1	3	Como empilhar e desempilhar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_0	4p0	0	0	0	11	0	0	Como empilhar e organizar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_0	4p0	0	0	1	12	0	0	Como empilhar e organizar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_0	4p0	0	0	2	13	0	0	Como empilhar e organizar elementos em uma fila ?
+organizar	VERB	0	4p0_pert_0	4p0	0	1	3	14	0	0	Como empilhar e organizar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_0	4p0	0	0	4	15	0	0	Como empilhar e organizar elementos em uma fila ?
+em	ADP	0	4p0_pert_0	4p0	0	0	5	16	0	0	Como empilhar e organizar elementos em uma fila ?
+uma	DET	0	4p0_pert_0	4p0	0	0	6	17	0	0	Como empilhar e organizar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_0	4p0	0	0	7	18	0	0	Como empilhar e organizar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_0	4p0	0	0	8	19	0	0	Como empilhar e organizar elementos em uma fila ?
+1	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_0	4p0	0	-1	-1		1	2	Como empilhar e organizar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_1	4p0	0	0	0	21	0	0	Como empilhar e colocar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_1	4p0	0	0	1	22	0	0	Como empilhar e colocar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_1	4p0	0	0	2	23	0	0	Como empilhar e colocar elementos em uma fila ?
+colocar	VERB	0	4p0_pert_1	4p0	0	1	3	24	0	0	Como empilhar e colocar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_1	4p0	0	0	4	25	0	0	Como empilhar e colocar elementos em uma fila ?
+em	ADP	0	4p0_pert_1	4p0	0	0	5	26	0	0	Como empilhar e colocar elementos em uma fila ?
+uma	DET	0	4p0_pert_1	4p0	0	0	6	27	0	0	Como empilhar e colocar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_1	4p0	0	0	7	28	0	0	Como empilhar e colocar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_1	4p0	0	0	8	29	0	0	Como empilhar e colocar elementos em uma fila ?
+2	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_1	4p0	0	-1	-1		1	2	Como empilhar e colocar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_2	4p0	0	0	0	31	0	0	Como empilhar e distribuir elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_2	4p0	0	0	1	32	0	0	Como empilhar e distribuir elementos em uma fila ?
+e	CCONJ	0	4p0_pert_2	4p0	0	0	2	33	0	0	Como empilhar e distribuir elementos em uma fila ?
+distribuir	VERB	0	4p0_pert_2	4p0	0	1	3	34	0	0	Como empilhar e distribuir elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_2	4p0	0	0	4	35	0	0	Como empilhar e distribuir elementos em uma fila ?
+em	ADP	0	4p0_pert_2	4p0	0	0	5	36	0	0	Como empilhar e distribuir elementos em uma fila ?
+uma	DET	0	4p0_pert_2	4p0	0	0	6	37	0	0	Como empilhar e distribuir elementos em uma fila ?
+fila	NOUN	1	4p0_pert_2	4p0	0	0	7	38	0	0	Como empilhar e distribuir elementos em uma fila ?
+?	PUNCT	0	4p0_pert_2	4p0	0	0	8	39	0	0	Como empilhar e distribuir elementos em uma fila ?
+3	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_2	4p0	0	-1	-1		1	2	Como empilhar e distribuir elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_3	4p0	0	0	0	41	0	0	Como empilhar e juntar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_3	4p0	0	0	1	42	0	0	Como empilhar e juntar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_3	4p0	0	0	2	43	0	0	Como empilhar e juntar elementos em uma fila ?
+juntar	VERB	0	4p0_pert_3	4p0	0	1	3	44	0	0	Como empilhar e juntar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_3	4p0	0	0	4	45	0	0	Como empilhar e juntar elementos em uma fila ?
+em	ADP	0	4p0_pert_3	4p0	0	0	5	46	0	0	Como empilhar e juntar elementos em uma fila ?
+uma	DET	0	4p0_pert_3	4p0	0	0	6	47	0	0	Como empilhar e juntar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_3	4p0	0	0	7	48	0	0	Como empilhar e juntar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_3	4p0	0	0	8	49	0	0	Como empilhar e juntar elementos em uma fila ?
+4	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_3	4p0	0	-1	-1		1	2	Como empilhar e juntar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_4	4p0	0	0	0	51	0	0	Como empilhar e separar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_4	4p0	0	0	1	52	0	0	Como empilhar e separar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_4	4p0	0	0	2	53	0	0	Como empilhar e separar elementos em uma fila ?
+separar	VERB	0	4p0_pert_4	4p0	0	1	3	54	0	0	Como empilhar e separar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_4	4p0	0	0	4	55	0	0	Como empilhar e separar elementos em uma fila ?
+em	ADP	0	4p0_pert_4	4p0	0	0	5	56	0	0	Como empilhar e separar elementos em uma fila ?
+uma	DET	0	4p0_pert_4	4p0	0	0	6	57	0	0	Como empilhar e separar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_4	4p0	0	0	7	58	0	0	Como empilhar e separar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_4	4p0	0	0	8	59	0	0	Como empilhar e separar elementos em uma fila ?
+5	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_4	4p0	0	-1	-1		1	2	Como empilhar e separar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_5	4p0	0	0	0	61	0	0	Como empilhar e reunir elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_5	4p0	0	0	1	62	0	0	Como empilhar e reunir elementos em uma fila ?
+e	CCONJ	0	4p0_pert_5	4p0	0	0	2	63	0	0	Como empilhar e reunir elementos em uma fila ?
+reunir	VERB	0	4p0_pert_5	4p0	0	1	3	64	0	0	Como empilhar e reunir elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_5	4p0	0	0	4	65	0	0	Como empilhar e reunir elementos em uma fila ?
+em	ADP	0	4p0_pert_5	4p0	0	0	5	66	0	0	Como empilhar e reunir elementos em uma fila ?
+uma	DET	0	4p0_pert_5	4p0	0	0	6	67	0	0	Como empilhar e reunir elementos em uma fila ?
+fila	NOUN	1	4p0_pert_5	4p0	0	0	7	68	0	0	Como empilhar e reunir elementos em uma fila ?
+?	PUNCT	0	4p0_pert_5	4p0	0	0	8	69	0	0	Como empilhar e reunir elementos em uma fila ?
+6	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_5	4p0	0	-1	-1		1	2	Como empilhar e reunir elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_6	4p0	0	0	0	71	0	0	Como empilhar e dividir elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_6	4p0	0	0	1	72	0	0	Como empilhar e dividir elementos em uma fila ?
+e	CCONJ	0	4p0_pert_6	4p0	0	0	2	73	0	0	Como empilhar e dividir elementos em uma fila ?
+dividir	VERB	0	4p0_pert_6	4p0	0	1	3	74	0	0	Como empilhar e dividir elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_6	4p0	0	0	4	75	0	0	Como empilhar e dividir elementos em uma fila ?
+em	ADP	0	4p0_pert_6	4p0	0	0	5	76	0	0	Como empilhar e dividir elementos em uma fila ?
+uma	DET	0	4p0_pert_6	4p0	0	0	6	77	0	0	Como empilhar e dividir elementos em uma fila ?
+fila	NOUN	1	4p0_pert_6	4p0	0	0	7	78	0	0	Como empilhar e dividir elementos em uma fila ?
+?	PUNCT	0	4p0_pert_6	4p0	0	0	8	79	0	0	Como empilhar e dividir elementos em uma fila ?
+7	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_6	4p0	0	-1	-1		1	2	Como empilhar e dividir elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_7	4p0	0	0	0	81	0	0	Como empilhar e colar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_7	4p0	0	0	1	82	0	0	Como empilhar e colar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_7	4p0	0	0	2	83	0	0	Como empilhar e colar elementos em uma fila ?
+colar	VERB	0	4p0_pert_7	4p0	0	1	3	84	0	0	Como empilhar e colar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_7	4p0	0	0	4	85	0	0	Como empilhar e colar elementos em uma fila ?
+em	ADP	0	4p0_pert_7	4p0	0	0	5	86	0	0	Como empilhar e colar elementos em uma fila ?
+uma	DET	0	4p0_pert_7	4p0	0	0	6	87	0	0	Como empilhar e colar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_7	4p0	0	0	7	88	0	0	Como empilhar e colar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_7	4p0	0	0	8	89	0	0	Como empilhar e colar elementos em uma fila ?
+8	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_7	4p0	0	-1	-1		1	2	Como empilhar e colar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_8	4p0	0	0	0	91	0	0	Como empilhar e unir elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_8	4p0	0	0	1	92	0	0	Como empilhar e unir elementos em uma fila ?
+e	CCONJ	0	4p0_pert_8	4p0	0	0	2	93	0	0	Como empilhar e unir elementos em uma fila ?
+unir	VERB	0	4p0_pert_8	4p0	0	1	3	94	0	0	Como empilhar e unir elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_8	4p0	0	0	4	95	0	0	Como empilhar e unir elementos em uma fila ?
+em	ADP	0	4p0_pert_8	4p0	0	0	5	96	0	0	Como empilhar e unir elementos em uma fila ?
+uma	DET	0	4p0_pert_8	4p0	0	0	6	97	0	0	Como empilhar e unir elementos em uma fila ?
+fila	NOUN	1	4p0_pert_8	4p0	0	0	7	98	0	0	Como empilhar e unir elementos em uma fila ?
+?	PUNCT	0	4p0_pert_8	4p0	0	0	8	99	0	0	Como empilhar e unir elementos em uma fila ?
+9	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_8	4p0	0	-1	-1		1	2	Como empilhar e unir elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_9	4p0	0	0	0	101	0	0	Como empilhar e classificar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_9	4p0	0	0	1	102	0	0	Como empilhar e classificar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_9	4p0	0	0	2	103	0	0	Como empilhar e classificar elementos em uma fila ?
+classificar	VERB	0	4p0_pert_9	4p0	0	1	3	104	0	0	Como empilhar e classificar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_9	4p0	0	0	4	105	0	0	Como empilhar e classificar elementos em uma fila ?
+em	ADP	0	4p0_pert_9	4p0	0	0	5	106	0	0	Como empilhar e classificar elementos em uma fila ?
+uma	DET	0	4p0_pert_9	4p0	0	0	6	107	0	0	Como empilhar e classificar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_9	4p0	0	0	7	108	0	0	Como empilhar e classificar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_9	4p0	0	0	8	109	0	0	Como empilhar e classificar elementos em uma fila ?
+10	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_9	4p0	0	-1	-1		1	2	Como empilhar e classificar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_10	4p0	0	0	0	111	0	0	Como empilhar e concentrar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_10	4p0	0	0	1	112	0	0	Como empilhar e concentrar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_10	4p0	0	0	2	113	0	0	Como empilhar e concentrar elementos em uma fila ?
+concentrar	VERB	0	4p0_pert_10	4p0	0	1	3	114	0	0	Como empilhar e concentrar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_10	4p0	0	0	4	115	0	0	Como empilhar e concentrar elementos em uma fila ?
+em	ADP	0	4p0_pert_10	4p0	0	0	5	116	0	0	Como empilhar e concentrar elementos em uma fila ?
+uma	DET	0	4p0_pert_10	4p0	0	0	6	117	0	0	Como empilhar e concentrar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_10	4p0	0	0	7	118	0	0	Como empilhar e concentrar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_10	4p0	0	0	8	119	0	0	Como empilhar e concentrar elementos em uma fila ?
+11	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_10	4p0	0	-1	-1		1	2	Como empilhar e concentrar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_11	4p0	0	0	0	121	0	0	Como empilhar e acomodar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_11	4p0	0	0	1	122	0	0	Como empilhar e acomodar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_11	4p0	0	0	2	123	0	0	Como empilhar e acomodar elementos em uma fila ?
+acomodar	VERB	0	4p0_pert_11	4p0	0	1	3	124	0	0	Como empilhar e acomodar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_11	4p0	0	0	4	125	0	0	Como empilhar e acomodar elementos em uma fila ?
+em	ADP	0	4p0_pert_11	4p0	0	0	5	126	0	0	Como empilhar e acomodar elementos em uma fila ?
+uma	DET	0	4p0_pert_11	4p0	0	0	6	127	0	0	Como empilhar e acomodar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_11	4p0	0	0	7	128	0	0	Como empilhar e acomodar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_11	4p0	0	0	8	129	0	0	Como empilhar e acomodar elementos em uma fila ?
+12	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_11	4p0	0	-1	-1		1	2	Como empilhar e acomodar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_12	4p0	0	0	0	131	0	0	Como empilhar e adicionar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_12	4p0	0	0	1	132	0	0	Como empilhar e adicionar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_12	4p0	0	0	2	133	0	0	Como empilhar e adicionar elementos em uma fila ?
+adicionar	VERB	0	4p0_pert_12	4p0	0	1	3	134	0	0	Como empilhar e adicionar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_12	4p0	0	0	4	135	0	0	Como empilhar e adicionar elementos em uma fila ?
+em	ADP	0	4p0_pert_12	4p0	0	0	5	136	0	0	Como empilhar e adicionar elementos em uma fila ?
+uma	DET	0	4p0_pert_12	4p0	0	0	6	137	0	0	Como empilhar e adicionar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_12	4p0	0	0	7	138	0	0	Como empilhar e adicionar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_12	4p0	0	0	8	139	0	0	Como empilhar e adicionar elementos em uma fila ?
+13	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_12	4p0	0	-1	-1		1	2	Como empilhar e adicionar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_13	4p0	0	0	0	141	0	0	Como empilhar e manter elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_13	4p0	0	0	1	142	0	0	Como empilhar e manter elementos em uma fila ?
+e	CCONJ	0	4p0_pert_13	4p0	0	0	2	143	0	0	Como empilhar e manter elementos em uma fila ?
+manter	VERB	0	4p0_pert_13	4p0	0	1	3	144	0	0	Como empilhar e manter elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_13	4p0	0	0	4	145	0	0	Como empilhar e manter elementos em uma fila ?
+em	ADP	0	4p0_pert_13	4p0	0	0	5	146	0	0	Como empilhar e manter elementos em uma fila ?
+uma	DET	0	4p0_pert_13	4p0	0	0	6	147	0	0	Como empilhar e manter elementos em uma fila ?
+fila	NOUN	1	4p0_pert_13	4p0	0	0	7	148	0	0	Como empilhar e manter elementos em uma fila ?
+?	PUNCT	0	4p0_pert_13	4p0	0	0	8	149	0	0	Como empilhar e manter elementos em uma fila ?
+14	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_13	4p0	0	-1	-1		1	2	Como empilhar e manter elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_14	4p0	0	0	0	151	0	0	Como empilhar e mover elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_14	4p0	0	0	1	152	0	0	Como empilhar e mover elementos em uma fila ?
+e	CCONJ	0	4p0_pert_14	4p0	0	0	2	153	0	0	Como empilhar e mover elementos em uma fila ?
+mover	VERB	0	4p0_pert_14	4p0	0	1	3	154	0	0	Como empilhar e mover elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_14	4p0	0	0	4	155	0	0	Como empilhar e mover elementos em uma fila ?
+em	ADP	0	4p0_pert_14	4p0	0	0	5	156	0	0	Como empilhar e mover elementos em uma fila ?
+uma	DET	0	4p0_pert_14	4p0	0	0	6	157	0	0	Como empilhar e mover elementos em uma fila ?
+fila	NOUN	1	4p0_pert_14	4p0	0	0	7	158	0	0	Como empilhar e mover elementos em uma fila ?
+?	PUNCT	0	4p0_pert_14	4p0	0	0	8	159	0	0	Como empilhar e mover elementos em uma fila ?
+15	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_14	4p0	0	-1	-1		1	2	Como empilhar e mover elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_15	4p0	0	0	0	161	0	0	Como empilhar e lançar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_15	4p0	0	0	1	162	0	0	Como empilhar e lançar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_15	4p0	0	0	2	163	0	0	Como empilhar e lançar elementos em uma fila ?
+lançar	VERB	0	4p0_pert_15	4p0	0	1	3	164	0	0	Como empilhar e lançar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_15	4p0	0	0	4	165	0	0	Como empilhar e lançar elementos em uma fila ?
+em	ADP	0	4p0_pert_15	4p0	0	0	5	166	0	0	Como empilhar e lançar elementos em uma fila ?
+uma	DET	0	4p0_pert_15	4p0	0	0	6	167	0	0	Como empilhar e lançar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_15	4p0	0	0	7	168	0	0	Como empilhar e lançar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_15	4p0	0	0	8	169	0	0	Como empilhar e lançar elementos em uma fila ?
+16	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_15	4p0	0	-1	-1		1	2	Como empilhar e lançar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_16	4p0	0	0	0	171	0	0	Como empilhar e jogar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_16	4p0	0	0	1	172	0	0	Como empilhar e jogar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_16	4p0	0	0	2	173	0	0	Como empilhar e jogar elementos em uma fila ?
+jogar	VERB	0	4p0_pert_16	4p0	0	1	3	174	0	0	Como empilhar e jogar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_16	4p0	0	0	4	175	0	0	Como empilhar e jogar elementos em uma fila ?
+em	ADP	0	4p0_pert_16	4p0	0	0	5	176	0	0	Como empilhar e jogar elementos em uma fila ?
+uma	DET	0	4p0_pert_16	4p0	0	0	6	177	0	0	Como empilhar e jogar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_16	4p0	0	0	7	178	0	0	Como empilhar e jogar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_16	4p0	0	0	8	179	0	0	Como empilhar e jogar elementos em uma fila ?
+17	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_16	4p0	0	-1	-1		1	2	Como empilhar e jogar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_17	4p0	0	0	0	181	0	0	Como empilhar e carregar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_17	4p0	0	0	1	182	0	0	Como empilhar e carregar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_17	4p0	0	0	2	183	0	0	Como empilhar e carregar elementos em uma fila ?
+carregar	VERB	0	4p0_pert_17	4p0	0	1	3	184	0	0	Como empilhar e carregar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_17	4p0	0	0	4	185	0	0	Como empilhar e carregar elementos em uma fila ?
+em	ADP	0	4p0_pert_17	4p0	0	0	5	186	0	0	Como empilhar e carregar elementos em uma fila ?
+uma	DET	0	4p0_pert_17	4p0	0	0	6	187	0	0	Como empilhar e carregar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_17	4p0	0	0	7	188	0	0	Como empilhar e carregar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_17	4p0	0	0	8	189	0	0	Como empilhar e carregar elementos em uma fila ?
+18	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_17	4p0	0	-1	-1		1	2	Como empilhar e carregar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_18	4p0	0	0	0	191	0	0	Como empilhar e montar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_18	4p0	0	0	1	192	0	0	Como empilhar e montar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_18	4p0	0	0	2	193	0	0	Como empilhar e montar elementos em uma fila ?
+montar	VERB	0	4p0_pert_18	4p0	0	1	3	194	0	0	Como empilhar e montar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_18	4p0	0	0	4	195	0	0	Como empilhar e montar elementos em uma fila ?
+em	ADP	0	4p0_pert_18	4p0	0	0	5	196	0	0	Como empilhar e montar elementos em uma fila ?
+uma	DET	0	4p0_pert_18	4p0	0	0	6	197	0	0	Como empilhar e montar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_18	4p0	0	0	7	198	0	0	Como empilhar e montar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_18	4p0	0	0	8	199	0	0	Como empilhar e montar elementos em uma fila ?
+19	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_18	4p0	0	-1	-1		1	2	Como empilhar e montar elementos em uma fila ?
+Como	SCONJ	0	4p0_pert_19	4p0	0	0	0	201	0	0	Como empilhar e localizar elementos em uma fila ?
+empilhar	VERB	1	4p0_pert_19	4p0	0	0	1	202	0	0	Como empilhar e localizar elementos em uma fila ?
+e	CCONJ	0	4p0_pert_19	4p0	0	0	2	203	0	0	Como empilhar e localizar elementos em uma fila ?
+localizar	VERB	0	4p0_pert_19	4p0	0	1	3	204	0	0	Como empilhar e localizar elementos em uma fila ?
+elementos	NOUN	0	4p0_pert_19	4p0	0	0	4	205	0	0	Como empilhar e localizar elementos em uma fila ?
+em	ADP	0	4p0_pert_19	4p0	0	0	5	206	0	0	Como empilhar e localizar elementos em uma fila ?
+uma	DET	0	4p0_pert_19	4p0	0	0	6	207	0	0	Como empilhar e localizar elementos em uma fila ?
+fila	NOUN	1	4p0_pert_19	4p0	0	0	7	208	0	0	Como empilhar e localizar elementos em uma fila ?
+?	PUNCT	0	4p0_pert_19	4p0	0	0	8	209	0	0	Como empilhar e localizar elementos em uma fila ?
+20	['SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0]	4p0_pert_19	4p0	0	-1	-1		1	2	Como empilhar e localizar elementos em uma fila ?

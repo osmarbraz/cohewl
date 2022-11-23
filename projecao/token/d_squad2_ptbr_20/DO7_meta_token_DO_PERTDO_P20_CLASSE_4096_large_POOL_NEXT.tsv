@@ -1,0 +1,169 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Qual	PRON	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	0	1	Qual era o nome do padrão incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	1	2	Qual era o nome do padrão incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	2	3	Qual era o nome do padrão incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	3	4	Qual era o nome do padrão incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	4	5	Qual era o nome do padrão incompleto ?
+padrão	NOUN	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	5	6	Qual era o nome do padrão incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	6	7	Qual era o nome do padrão incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643	5a8c3316fd22b3001a8d8643	1	0	7		Qual era o nome do padrão incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	0	9	Qual era o nome do nome incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	1	10	Qual era o nome do nome incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	2	11	Qual era o nome do nome incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	3	12	Qual era o nome do nome incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	4	13	Qual era o nome do nome incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	5	14	Qual era o nome do nome incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	6	15	Qual era o nome do nome incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_0	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do nome incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	0	17	Qual era o nome do aluno incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	1	18	Qual era o nome do aluno incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	2	19	Qual era o nome do aluno incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	3	20	Qual era o nome do aluno incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	4	21	Qual era o nome do aluno incompleto ?
+aluno	NOUN	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	1	5	22	Qual era o nome do aluno incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	6	23	Qual era o nome do aluno incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_1	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do aluno incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	0	25	Qual era o nome do homem incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	1	26	Qual era o nome do homem incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	2	27	Qual era o nome do homem incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	3	28	Qual era o nome do homem incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	4	29	Qual era o nome do homem incompleto ?
+homem	NOUN	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	1	5	30	Qual era o nome do homem incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	6	31	Qual era o nome do homem incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_2	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do homem incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	0	33	Qual era o nome do filho incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	1	34	Qual era o nome do filho incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	2	35	Qual era o nome do filho incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	3	36	Qual era o nome do filho incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	4	37	Qual era o nome do filho incompleto ?
+filho	NOUN	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	1	5	38	Qual era o nome do filho incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	6	39	Qual era o nome do filho incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_3	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do filho incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	0	41	Qual era o nome do estudante incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	1	42	Qual era o nome do estudante incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	2	43	Qual era o nome do estudante incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	3	44	Qual era o nome do estudante incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	4	45	Qual era o nome do estudante incompleto ?
+estudante	NOUN	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	1	5	46	Qual era o nome do estudante incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	6	47	Qual era o nome do estudante incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_4	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do estudante incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	0	49	Qual era o nome do candidato incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	1	50	Qual era o nome do candidato incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	2	51	Qual era o nome do candidato incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	3	52	Qual era o nome do candidato incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	4	53	Qual era o nome do candidato incompleto ?
+candidato	NOUN	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	1	5	54	Qual era o nome do candidato incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	6	55	Qual era o nome do candidato incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_5	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do candidato incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	0	57	Qual era o nome do termo incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	1	58	Qual era o nome do termo incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	2	59	Qual era o nome do termo incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	3	60	Qual era o nome do termo incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	4	61	Qual era o nome do termo incompleto ?
+termo	NOUN	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	1	5	62	Qual era o nome do termo incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	6	63	Qual era o nome do termo incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_6	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do termo incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	0	65	Qual era o nome do trabalho incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	1	66	Qual era o nome do trabalho incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	2	67	Qual era o nome do trabalho incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	3	68	Qual era o nome do trabalho incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	4	69	Qual era o nome do trabalho incompleto ?
+trabalho	NOUN	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	1	5	70	Qual era o nome do trabalho incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	6	71	Qual era o nome do trabalho incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_7	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do trabalho incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	0	73	Qual era o nome do curso incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	1	74	Qual era o nome do curso incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	2	75	Qual era o nome do curso incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	3	76	Qual era o nome do curso incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	4	77	Qual era o nome do curso incompleto ?
+curso	NOUN	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	1	5	78	Qual era o nome do curso incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	6	79	Qual era o nome do curso incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_8	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do curso incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	0	81	Qual era o nome do sujeito incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	1	82	Qual era o nome do sujeito incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	2	83	Qual era o nome do sujeito incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	3	84	Qual era o nome do sujeito incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	4	85	Qual era o nome do sujeito incompleto ?
+sujeito	NOUN	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	1	5	86	Qual era o nome do sujeito incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	6	87	Qual era o nome do sujeito incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_9	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do sujeito incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	0	89	Qual era o nome do texto incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	1	90	Qual era o nome do texto incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	2	91	Qual era o nome do texto incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	3	92	Qual era o nome do texto incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	4	93	Qual era o nome do texto incompleto ?
+texto	NOUN	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	1	5	94	Qual era o nome do texto incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	6	95	Qual era o nome do texto incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_10	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do texto incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	0	97	Qual era o nome do trabalhador incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	1	98	Qual era o nome do trabalhador incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	2	99	Qual era o nome do trabalhador incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	3	100	Qual era o nome do trabalhador incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	4	101	Qual era o nome do trabalhador incompleto ?
+trabalhador	NOUN	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	1	5	102	Qual era o nome do trabalhador incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	6	103	Qual era o nome do trabalhador incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_11	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do trabalhador incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	0	105	Qual era o nome do verbo incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	1	106	Qual era o nome do verbo incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	2	107	Qual era o nome do verbo incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	3	108	Qual era o nome do verbo incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	4	109	Qual era o nome do verbo incompleto ?
+verbo	NOUN	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	1	5	110	Qual era o nome do verbo incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	6	111	Qual era o nome do verbo incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_12	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do verbo incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	0	113	Qual era o nome do projeto incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	1	114	Qual era o nome do projeto incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	2	115	Qual era o nome do projeto incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	3	116	Qual era o nome do projeto incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	4	117	Qual era o nome do projeto incompleto ?
+projeto	NOUN	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	1	5	118	Qual era o nome do projeto incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	6	119	Qual era o nome do projeto incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_13	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do projeto incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	0	121	Qual era o nome do ano incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	1	122	Qual era o nome do ano incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	2	123	Qual era o nome do ano incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	3	124	Qual era o nome do ano incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	4	125	Qual era o nome do ano incompleto ?
+ano	NOUN	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	1	5	126	Qual era o nome do ano incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	6	127	Qual era o nome do ano incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_14	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do ano incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	0	129	Qual era o nome do quadro incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	1	130	Qual era o nome do quadro incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	2	131	Qual era o nome do quadro incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	3	132	Qual era o nome do quadro incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	4	133	Qual era o nome do quadro incompleto ?
+quadro	NOUN	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	1	5	134	Qual era o nome do quadro incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	6	135	Qual era o nome do quadro incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_15	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do quadro incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	0	137	Qual era o nome do produto incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	1	138	Qual era o nome do produto incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	2	139	Qual era o nome do produto incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	3	140	Qual era o nome do produto incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	4	141	Qual era o nome do produto incompleto ?
+produto	NOUN	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	1	5	142	Qual era o nome do produto incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	6	143	Qual era o nome do produto incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_16	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do produto incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	0	145	Qual era o nome do número incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	1	146	Qual era o nome do número incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	2	147	Qual era o nome do número incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	3	148	Qual era o nome do número incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	4	149	Qual era o nome do número incompleto ?
+número	NOUN	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	1	5	150	Qual era o nome do número incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	6	151	Qual era o nome do número incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_17	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do número incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	0	153	Qual era o nome do livro incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	1	154	Qual era o nome do livro incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	2	155	Qual era o nome do livro incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	3	156	Qual era o nome do livro incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	4	157	Qual era o nome do livro incompleto ?
+livro	NOUN	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	1	5	158	Qual era o nome do livro incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	6	159	Qual era o nome do livro incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_18	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do livro incompleto ?
+Qual	PRON	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	0	161	Qual era o nome do endereço incompleto ?
+era	AUX	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	1	162	Qual era o nome do endereço incompleto ?
+o	DET	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	2	163	Qual era o nome do endereço incompleto ?
+nome	NOUN	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	3	164	Qual era o nome do endereço incompleto ?
+do	ADP	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	4	165	Qual era o nome do endereço incompleto ?
+endereço	NOUN	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	1	5	166	Qual era o nome do endereço incompleto ?
+incompleto	ADJ	1	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	6	167	Qual era o nome do endereço incompleto ?
+?	PUNCT	0	5a8c3316fd22b3001a8d8643_pert_19	5a8c3316fd22b3001a8d8643	0	0	7		Qual era o nome do endereço incompleto ?

@@ -1,0 +1,17 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+How	SCONJ	0	1	1	1	0	0	1	How to enqueue elements in a queue ?
+to	PART	0	1	1	1	0	1	2	How to enqueue elements in a queue ?
+enqueue	VERB	1	1	1	1	0	2	3	How to enqueue elements in a queue ?
+elements	NOUN	0	1	1	1	0	3	4	How to enqueue elements in a queue ?
+in	ADP	0	1	1	1	0	4	5	How to enqueue elements in a queue ?
+a	DET	0	1	1	1	0	5	6	How to enqueue elements in a queue ?
+queue	NOUN	1	1	1	1	1	6	7	How to enqueue elements in a queue ?
+?	PUNCT	0	1	1	1	0	7		How to enqueue elements in a queue ?
+How	SCONJ	0	1_pert_0	1	0	0	0	9	How to enqueue elements in a stack ?
+to	PART	0	1_pert_0	1	0	0	1	10	How to enqueue elements in a stack ?
+enqueue	VERB	1	1_pert_0	1	0	0	2	11	How to enqueue elements in a stack ?
+elements	NOUN	0	1_pert_0	1	0	0	3	12	How to enqueue elements in a stack ?
+in	ADP	0	1_pert_0	1	0	0	4	13	How to enqueue elements in a stack ?
+a	DET	0	1_pert_0	1	0	0	5	14	How to enqueue elements in a stack ?
+stack	NOUN	0	1_pert_0	1	0	1	6	15	How to enqueue elements in a stack ?
+?	PUNCT	0	1_pert_0	1	0	0	7		How to enqueue elements in a stack ?

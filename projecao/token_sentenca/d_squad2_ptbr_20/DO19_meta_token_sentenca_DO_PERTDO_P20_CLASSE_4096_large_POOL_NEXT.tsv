@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+Em	ADP	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	0	1	0	1	Em que ano Nero foi feito imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	1	2	0	1	Em que ano Nero foi feito imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	2	3	0	1	Em que ano Nero foi feito imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	3	4	0	1	Em que ano Nero foi feito imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	4	5	0	1	Em que ano Nero foi feito imperador ?
+feito	VERB	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	1	5	6	0	1	Em que ano Nero foi feito imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	6	7	0	1	Em que ano Nero foi feito imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	0	7	8	0	1	Em que ano Nero foi feito imperador ?
+Em que ano Nero foi feito imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73	5acd4d2c07355d001abf3c73	1	-1	-1		1	3	Em que ano Nero foi feito imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	0	10	0	0	Em que ano Nero foi eleito imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	1	11	0	0	Em que ano Nero foi eleito imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	2	12	0	0	Em que ano Nero foi eleito imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	3	13	0	0	Em que ano Nero foi eleito imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	4	14	0	0	Em que ano Nero foi eleito imperador ?
+eleito	VERB	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	1	5	15	0	0	Em que ano Nero foi eleito imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	6	16	0	0	Em que ano Nero foi eleito imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	0	7	17	0	0	Em que ano Nero foi eleito imperador ?
+Em que ano Nero foi eleito imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_0	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi eleito imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	0	19	0	0	Em que ano Nero foi coroado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	1	20	0	0	Em que ano Nero foi coroado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	2	21	0	0	Em que ano Nero foi coroado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	3	22	0	0	Em que ano Nero foi coroado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	4	23	0	0	Em que ano Nero foi coroado imperador ?
+coroado	VERB	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	1	5	24	0	0	Em que ano Nero foi coroado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	6	25	0	0	Em que ano Nero foi coroado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	0	7	26	0	0	Em que ano Nero foi coroado imperador ?
+Em que ano Nero foi coroado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_1	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi coroado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	0	28	0	0	Em que ano Nero foi aclamado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	1	29	0	0	Em que ano Nero foi aclamado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	2	30	0	0	Em que ano Nero foi aclamado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	3	31	0	0	Em que ano Nero foi aclamado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	4	32	0	0	Em que ano Nero foi aclamado imperador ?
+aclamado	VERB	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	1	5	33	0	0	Em que ano Nero foi aclamado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	6	34	0	0	Em que ano Nero foi aclamado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	0	7	35	0	0	Em que ano Nero foi aclamado imperador ?
+Em que ano Nero foi aclamado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_2	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi aclamado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	0	37	0	0	Em que ano Nero foi declarado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	1	38	0	0	Em que ano Nero foi declarado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	2	39	0	0	Em que ano Nero foi declarado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	3	40	0	0	Em que ano Nero foi declarado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	4	41	0	0	Em que ano Nero foi declarado imperador ?
+declarado	VERB	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	1	5	42	0	0	Em que ano Nero foi declarado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	6	43	0	0	Em que ano Nero foi declarado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	0	7	44	0	0	Em que ano Nero foi declarado imperador ?
+Em que ano Nero foi declarado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_3	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi declarado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	0	46	0	0	Em que ano Nero foi nomeado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	1	47	0	0	Em que ano Nero foi nomeado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	2	48	0	0	Em que ano Nero foi nomeado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	3	49	0	0	Em que ano Nero foi nomeado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	4	50	0	0	Em que ano Nero foi nomeado imperador ?
+nomeado	VERB	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	1	5	51	0	0	Em que ano Nero foi nomeado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	6	52	0	0	Em que ano Nero foi nomeado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	0	7	53	0	0	Em que ano Nero foi nomeado imperador ?
+Em que ano Nero foi nomeado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_4	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi nomeado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	0	55	0	0	Em que ano Nero foi escolhido imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	1	56	0	0	Em que ano Nero foi escolhido imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	2	57	0	0	Em que ano Nero foi escolhido imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	3	58	0	0	Em que ano Nero foi escolhido imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	4	59	0	0	Em que ano Nero foi escolhido imperador ?
+escolhido	VERB	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	1	5	60	0	0	Em que ano Nero foi escolhido imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	6	61	0	0	Em que ano Nero foi escolhido imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	0	7	62	0	0	Em que ano Nero foi escolhido imperador ?
+Em que ano Nero foi escolhido imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_5	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi escolhido imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	0	64	0	0	Em que ano Nero foi feito imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	1	65	0	0	Em que ano Nero foi feito imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	2	66	0	0	Em que ano Nero foi feito imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	3	67	0	0	Em que ano Nero foi feito imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	4	68	0	0	Em que ano Nero foi feito imperador ?
+feito	VERB	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	1	5	69	0	0	Em que ano Nero foi feito imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	6	70	0	0	Em que ano Nero foi feito imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	0	7	71	0	0	Em que ano Nero foi feito imperador ?
+Em que ano Nero foi feito imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_6	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi feito imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	0	73	0	0	Em que ano Nero foi considerado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	1	74	0	0	Em que ano Nero foi considerado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	2	75	0	0	Em que ano Nero foi considerado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	3	76	0	0	Em que ano Nero foi considerado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	4	77	0	0	Em que ano Nero foi considerado imperador ?
+considerado	VERB	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	1	5	78	0	0	Em que ano Nero foi considerado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	6	79	0	0	Em que ano Nero foi considerado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	0	7	80	0	0	Em que ano Nero foi considerado imperador ?
+Em que ano Nero foi considerado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_7	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi considerado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	0	82	0	0	Em que ano Nero foi designado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	1	83	0	0	Em que ano Nero foi designado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	2	84	0	0	Em que ano Nero foi designado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	3	85	0	0	Em que ano Nero foi designado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	4	86	0	0	Em que ano Nero foi designado imperador ?
+designado	VERB	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	1	5	87	0	0	Em que ano Nero foi designado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	6	88	0	0	Em que ano Nero foi designado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	0	7	89	0	0	Em que ano Nero foi designado imperador ?
+Em que ano Nero foi designado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_8	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi designado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	0	91	0	0	Em que ano Nero foi reeleito imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	1	92	0	0	Em que ano Nero foi reeleito imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	2	93	0	0	Em que ano Nero foi reeleito imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	3	94	0	0	Em que ano Nero foi reeleito imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	4	95	0	0	Em que ano Nero foi reeleito imperador ?
+reeleito	VERB	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	1	5	96	0	0	Em que ano Nero foi reeleito imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	6	97	0	0	Em que ano Nero foi reeleito imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	0	7	98	0	0	Em que ano Nero foi reeleito imperador ?
+Em que ano Nero foi reeleito imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_9	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi reeleito imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	0	100	0	0	Em que ano Nero foi o imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	1	101	0	0	Em que ano Nero foi o imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	2	102	0	0	Em que ano Nero foi o imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	3	103	0	0	Em que ano Nero foi o imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	4	104	0	0	Em que ano Nero foi o imperador ?
+o	DET	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	1	5	105	0	0	Em que ano Nero foi o imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	6	106	0	0	Em que ano Nero foi o imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	0	7	107	0	0	Em que ano Nero foi o imperador ?
+Em que ano Nero foi o imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_10	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi o imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	0	109	0	0	Em que ano Nero foi indicado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	1	110	0	0	Em que ano Nero foi indicado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	2	111	0	0	Em que ano Nero foi indicado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	3	112	0	0	Em que ano Nero foi indicado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	4	113	0	0	Em que ano Nero foi indicado imperador ?
+indicado	VERB	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	1	5	114	0	0	Em que ano Nero foi indicado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	6	115	0	0	Em que ano Nero foi indicado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	0	7	116	0	0	Em que ano Nero foi indicado imperador ?
+Em que ano Nero foi indicado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_11	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi indicado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	0	118	0	0	Em que ano Nero foi constituído imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	1	119	0	0	Em que ano Nero foi constituído imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	2	120	0	0	Em que ano Nero foi constituído imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	3	121	0	0	Em que ano Nero foi constituído imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	4	122	0	0	Em que ano Nero foi constituído imperador ?
+constituído	VERB	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	1	5	123	0	0	Em que ano Nero foi constituído imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	6	124	0	0	Em que ano Nero foi constituído imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	0	7	125	0	0	Em que ano Nero foi constituído imperador ?
+Em que ano Nero foi constituído imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_12	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi constituído imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	0	127	0	0	Em que ano Nero foi chamado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	1	128	0	0	Em que ano Nero foi chamado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	2	129	0	0	Em que ano Nero foi chamado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	3	130	0	0	Em que ano Nero foi chamado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	4	131	0	0	Em que ano Nero foi chamado imperador ?
+chamado	VERB	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	1	5	132	0	0	Em que ano Nero foi chamado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	6	133	0	0	Em que ano Nero foi chamado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	0	7	134	0	0	Em que ano Nero foi chamado imperador ?
+Em que ano Nero foi chamado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_13	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi chamado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	0	136	0	0	Em que ano Nero foi consagrado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	1	137	0	0	Em que ano Nero foi consagrado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	2	138	0	0	Em que ano Nero foi consagrado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	3	139	0	0	Em que ano Nero foi consagrado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	4	140	0	0	Em que ano Nero foi consagrado imperador ?
+consagrado	ADJ	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	1	5	141	0	0	Em que ano Nero foi consagrado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	6	142	0	0	Em que ano Nero foi consagrado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	0	7	143	0	0	Em que ano Nero foi consagrado imperador ?
+Em que ano Nero foi consagrado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_14	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi consagrado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	0	145	0	0	Em que ano Nero foi confirmado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	1	146	0	0	Em que ano Nero foi confirmado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	2	147	0	0	Em que ano Nero foi confirmado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	3	148	0	0	Em que ano Nero foi confirmado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	4	149	0	0	Em que ano Nero foi confirmado imperador ?
+confirmado	VERB	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	1	5	150	0	0	Em que ano Nero foi confirmado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	6	151	0	0	Em que ano Nero foi confirmado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	0	7	152	0	0	Em que ano Nero foi confirmado imperador ?
+Em que ano Nero foi confirmado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_15	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi confirmado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	0	154	0	0	Em que ano Nero foi tornado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	1	155	0	0	Em que ano Nero foi tornado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	2	156	0	0	Em que ano Nero foi tornado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	3	157	0	0	Em que ano Nero foi tornado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	4	158	0	0	Em que ano Nero foi tornado imperador ?
+tornado	VERB	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	1	5	159	0	0	Em que ano Nero foi tornado imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	6	160	0	0	Em que ano Nero foi tornado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	0	7	161	0	0	Em que ano Nero foi tornado imperador ?
+Em que ano Nero foi tornado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_16	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi tornado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	0	163	0	0	Em que ano Nero foi lamado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	1	164	0	0	Em que ano Nero foi lamado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	2	165	0	0	Em que ano Nero foi lamado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	3	166	0	0	Em que ano Nero foi lamado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	4	167	0	0	Em que ano Nero foi lamado imperador ?
+lamado	VERB	1	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	1	5	168	0	0	Em que ano Nero foi lamado imperador ?
+imperador	ADJ	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	6	169	0	0	Em que ano Nero foi lamado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	0	7	170	0	0	Em que ano Nero foi lamado imperador ?
+Em que ano Nero foi lamado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0]	5acd4d2c07355d001abf3c73_pert_17	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi lamado imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	0	172	0	0	Em que ano Nero foi proc imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	1	173	0	0	Em que ano Nero foi proc imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	2	174	0	0	Em que ano Nero foi proc imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	3	175	0	0	Em que ano Nero foi proc imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	4	176	0	0	Em que ano Nero foi proc imperador ?
+proc	VERB	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	1	5	177	0	0	Em que ano Nero foi proc imperador ?
+imperador	NOUN	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	6	178	0	0	Em que ano Nero foi proc imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	0	7	179	0	0	Em que ano Nero foi proc imperador ?
+Em que ano Nero foi proc imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_18	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi proc imperador ?
+Em	ADP	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	0	181	0	0	Em que ano Nero foi sagrado imperador ?
+que	DET	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	1	182	0	0	Em que ano Nero foi sagrado imperador ?
+ano	NOUN	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	2	183	0	0	Em que ano Nero foi sagrado imperador ?
+Nero	PROPN	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	3	184	0	0	Em que ano Nero foi sagrado imperador ?
+foi	AUX	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	4	185	0	0	Em que ano Nero foi sagrado imperador ?
+sagrado	ADJ	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	1	5	186	0	0	Em que ano Nero foi sagrado imperador ?
+imperador	ADJ	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	6	187	0	0	Em que ano Nero foi sagrado imperador ?
+?	PUNCT	0	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	0	7	188	0	0	Em que ano Nero foi sagrado imperador ?
+Em que ano Nero foi sagrado imperador ?	['ADP', 'DET', 'NOUN', 'PROPN', 'AUX', 'ADJ', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0]	5acd4d2c07355d001abf3c73_pert_19	5acd4d2c07355d001abf3c73	0	-1	-1		1	2	Em que ano Nero foi sagrado imperador ?

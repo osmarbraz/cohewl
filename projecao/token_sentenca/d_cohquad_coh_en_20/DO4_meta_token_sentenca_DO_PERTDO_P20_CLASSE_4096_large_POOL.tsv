@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+How	SCONJ	0	4	4	1	0	0	0	1	How to push and pop elements in a stack ?
+to	PART	0	4	4	1	0	1	0	1	How to push and pop elements in a stack ?
+push	VERB	0	4	4	1	1	2	0	1	How to push and pop elements in a stack ?
+and	CCONJ	0	4	4	1	0	3	0	1	How to push and pop elements in a stack ?
+pop	NOUN	0	4	4	1	0	4	0	1	How to push and pop elements in a stack ?
+elements	NOUN	0	4	4	1	0	5	0	1	How to push and pop elements in a stack ?
+in	ADP	0	4	4	1	0	6	0	1	How to push and pop elements in a stack ?
+a	DET	0	4	4	1	0	7	0	1	How to push and pop elements in a stack ?
+stack	NOUN	0	4	4	1	0	8	0	1	How to push and pop elements in a stack ?
+?	PUNCT	0	4	4	1	0	9	0	1	How to push and pop elements in a stack ?
+0	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4	4	1	-1	-1	1	3	How to push and pop elements in a stack ?
+How	SCONJ	0	4_pert_0	4	0	0	0	0	0	How to mix and pop elements in a stack ?
+to	PART	0	4_pert_0	4	0	0	1	0	0	How to mix and pop elements in a stack ?
+mix	VERB	0	4_pert_0	4	0	1	2	0	0	How to mix and pop elements in a stack ?
+and	CCONJ	0	4_pert_0	4	0	0	3	0	0	How to mix and pop elements in a stack ?
+pop	VERB	0	4_pert_0	4	0	0	4	0	0	How to mix and pop elements in a stack ?
+elements	NOUN	0	4_pert_0	4	0	0	5	0	0	How to mix and pop elements in a stack ?
+in	ADP	0	4_pert_0	4	0	0	6	0	0	How to mix and pop elements in a stack ?
+a	DET	0	4_pert_0	4	0	0	7	0	0	How to mix and pop elements in a stack ?
+stack	NOUN	0	4_pert_0	4	0	0	8	0	0	How to mix and pop elements in a stack ?
+?	PUNCT	0	4_pert_0	4	0	0	9	0	0	How to mix and pop elements in a stack ?
+1	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_0	4	0	-1	-1	1	2	How to mix and pop elements in a stack ?
+How	SCONJ	0	4_pert_1	4	0	0	0	0	0	How to combine and pop elements in a stack ?
+to	PART	0	4_pert_1	4	0	0	1	0	0	How to combine and pop elements in a stack ?
+combine	VERB	0	4_pert_1	4	0	1	2	0	0	How to combine and pop elements in a stack ?
+and	CCONJ	0	4_pert_1	4	0	0	3	0	0	How to combine and pop elements in a stack ?
+pop	NOUN	0	4_pert_1	4	0	0	4	0	0	How to combine and pop elements in a stack ?
+elements	NOUN	0	4_pert_1	4	0	0	5	0	0	How to combine and pop elements in a stack ?
+in	ADP	0	4_pert_1	4	0	0	6	0	0	How to combine and pop elements in a stack ?
+a	DET	0	4_pert_1	4	0	0	7	0	0	How to combine and pop elements in a stack ?
+stack	NOUN	0	4_pert_1	4	0	0	8	0	0	How to combine and pop elements in a stack ?
+?	PUNCT	0	4_pert_1	4	0	0	9	0	0	How to combine and pop elements in a stack ?
+2	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_1	4	0	-1	-1	1	2	How to combine and pop elements in a stack ?
+How	SCONJ	0	4_pert_2	4	0	0	0	0	0	How to throw and pop elements in a stack ?
+to	PART	0	4_pert_2	4	0	0	1	0	0	How to throw and pop elements in a stack ?
+throw	VERB	0	4_pert_2	4	0	1	2	0	0	How to throw and pop elements in a stack ?
+and	CCONJ	0	4_pert_2	4	0	0	3	0	0	How to throw and pop elements in a stack ?
+pop	NOUN	0	4_pert_2	4	0	0	4	0	0	How to throw and pop elements in a stack ?
+elements	NOUN	0	4_pert_2	4	0	0	5	0	0	How to throw and pop elements in a stack ?
+in	ADP	0	4_pert_2	4	0	0	6	0	0	How to throw and pop elements in a stack ?
+a	DET	0	4_pert_2	4	0	0	7	0	0	How to throw and pop elements in a stack ?
+stack	NOUN	0	4_pert_2	4	0	0	8	0	0	How to throw and pop elements in a stack ?
+?	PUNCT	0	4_pert_2	4	0	0	9	0	0	How to throw and pop elements in a stack ?
+3	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_2	4	0	-1	-1	1	2	How to throw and pop elements in a stack ?
+How	SCONJ	0	4_pert_3	4	0	0	0	0	0	How to put and pop elements in a stack ?
+to	PART	0	4_pert_3	4	0	0	1	0	0	How to put and pop elements in a stack ?
+put	VERB	0	4_pert_3	4	0	1	2	0	0	How to put and pop elements in a stack ?
+and	CCONJ	0	4_pert_3	4	0	0	3	0	0	How to put and pop elements in a stack ?
+pop	VERB	0	4_pert_3	4	0	0	4	0	0	How to put and pop elements in a stack ?
+elements	NOUN	0	4_pert_3	4	0	0	5	0	0	How to put and pop elements in a stack ?
+in	ADP	0	4_pert_3	4	0	0	6	0	0	How to put and pop elements in a stack ?
+a	DET	0	4_pert_3	4	0	0	7	0	0	How to put and pop elements in a stack ?
+stack	NOUN	0	4_pert_3	4	0	0	8	0	0	How to put and pop elements in a stack ?
+?	PUNCT	0	4_pert_3	4	0	0	9	0	0	How to put and pop elements in a stack ?
+4	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_3	4	0	-1	-1	1	2	How to put and pop elements in a stack ?
+How	SCONJ	0	4_pert_4	4	0	0	0	0	0	How to blend and pop elements in a stack ?
+to	PART	0	4_pert_4	4	0	0	1	0	0	How to blend and pop elements in a stack ?
+blend	VERB	0	4_pert_4	4	0	1	2	0	0	How to blend and pop elements in a stack ?
+and	CCONJ	0	4_pert_4	4	0	0	3	0	0	How to blend and pop elements in a stack ?
+pop	NOUN	0	4_pert_4	4	0	0	4	0	0	How to blend and pop elements in a stack ?
+elements	NOUN	0	4_pert_4	4	0	0	5	0	0	How to blend and pop elements in a stack ?
+in	ADP	0	4_pert_4	4	0	0	6	0	0	How to blend and pop elements in a stack ?
+a	DET	0	4_pert_4	4	0	0	7	0	0	How to blend and pop elements in a stack ?
+stack	NOUN	0	4_pert_4	4	0	0	8	0	0	How to blend and pop elements in a stack ?
+?	PUNCT	0	4_pert_4	4	0	0	9	0	0	How to blend and pop elements in a stack ?
+5	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_4	4	0	-1	-1	1	2	How to blend and pop elements in a stack ?
+How	SCONJ	0	4_pert_5	4	0	0	0	0	0	How to add and pop elements in a stack ?
+to	PART	0	4_pert_5	4	0	0	1	0	0	How to add and pop elements in a stack ?
+add	VERB	0	4_pert_5	4	0	1	2	0	0	How to add and pop elements in a stack ?
+and	CCONJ	0	4_pert_5	4	0	0	3	0	0	How to add and pop elements in a stack ?
+pop	NOUN	0	4_pert_5	4	0	0	4	0	0	How to add and pop elements in a stack ?
+elements	NOUN	0	4_pert_5	4	0	0	5	0	0	How to add and pop elements in a stack ?
+in	ADP	0	4_pert_5	4	0	0	6	0	0	How to add and pop elements in a stack ?
+a	DET	0	4_pert_5	4	0	0	7	0	0	How to add and pop elements in a stack ?
+stack	NOUN	0	4_pert_5	4	0	0	8	0	0	How to add and pop elements in a stack ?
+?	PUNCT	0	4_pert_5	4	0	0	9	0	0	How to add and pop elements in a stack ?
+6	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_5	4	0	-1	-1	1	2	How to add and pop elements in a stack ?
+How	SCONJ	0	4_pert_6	4	0	0	0	0	0	How to gather and pop elements in a stack ?
+to	PART	0	4_pert_6	4	0	0	1	0	0	How to gather and pop elements in a stack ?
+gather	VERB	0	4_pert_6	4	0	1	2	0	0	How to gather and pop elements in a stack ?
+and	CCONJ	0	4_pert_6	4	0	0	3	0	0	How to gather and pop elements in a stack ?
+pop	VERB	0	4_pert_6	4	0	0	4	0	0	How to gather and pop elements in a stack ?
+elements	NOUN	0	4_pert_6	4	0	0	5	0	0	How to gather and pop elements in a stack ?
+in	ADP	0	4_pert_6	4	0	0	6	0	0	How to gather and pop elements in a stack ?
+a	DET	0	4_pert_6	4	0	0	7	0	0	How to gather and pop elements in a stack ?
+stack	NOUN	0	4_pert_6	4	0	0	8	0	0	How to gather and pop elements in a stack ?
+?	PUNCT	0	4_pert_6	4	0	0	9	0	0	How to gather and pop elements in a stack ?
+7	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_6	4	0	-1	-1	1	2	How to gather and pop elements in a stack ?
+How	SCONJ	0	4_pert_7	4	0	0	0	0	0	How to arrange and pop elements in a stack ?
+to	PART	0	4_pert_7	4	0	0	1	0	0	How to arrange and pop elements in a stack ?
+arrange	VERB	0	4_pert_7	4	0	1	2	0	0	How to arrange and pop elements in a stack ?
+and	CCONJ	0	4_pert_7	4	0	0	3	0	0	How to arrange and pop elements in a stack ?
+pop	NOUN	0	4_pert_7	4	0	0	4	0	0	How to arrange and pop elements in a stack ?
+elements	NOUN	0	4_pert_7	4	0	0	5	0	0	How to arrange and pop elements in a stack ?
+in	ADP	0	4_pert_7	4	0	0	6	0	0	How to arrange and pop elements in a stack ?
+a	DET	0	4_pert_7	4	0	0	7	0	0	How to arrange and pop elements in a stack ?
+stack	NOUN	0	4_pert_7	4	0	0	8	0	0	How to arrange and pop elements in a stack ?
+?	PUNCT	0	4_pert_7	4	0	0	9	0	0	How to arrange and pop elements in a stack ?
+8	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_7	4	0	-1	-1	1	2	How to arrange and pop elements in a stack ?
+How	SCONJ	0	4_pert_8	4	0	0	0	0	0	How to trap and pop elements in a stack ?
+to	PART	0	4_pert_8	4	0	0	1	0	0	How to trap and pop elements in a stack ?
+trap	VERB	0	4_pert_8	4	0	1	2	0	0	How to trap and pop elements in a stack ?
+and	CCONJ	0	4_pert_8	4	0	0	3	0	0	How to trap and pop elements in a stack ?
+pop	NOUN	0	4_pert_8	4	0	0	4	0	0	How to trap and pop elements in a stack ?
+elements	NOUN	0	4_pert_8	4	0	0	5	0	0	How to trap and pop elements in a stack ?
+in	ADP	0	4_pert_8	4	0	0	6	0	0	How to trap and pop elements in a stack ?
+a	DET	0	4_pert_8	4	0	0	7	0	0	How to trap and pop elements in a stack ?
+stack	NOUN	0	4_pert_8	4	0	0	8	0	0	How to trap and pop elements in a stack ?
+?	PUNCT	0	4_pert_8	4	0	0	9	0	0	How to trap and pop elements in a stack ?
+9	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_8	4	0	-1	-1	1	2	How to trap and pop elements in a stack ?
+How	SCONJ	0	4_pert_9	4	0	0	0	0	0	How to go and pop elements in a stack ?
+to	PART	0	4_pert_9	4	0	0	1	0	0	How to go and pop elements in a stack ?
+go	VERB	0	4_pert_9	4	0	1	2	0	0	How to go and pop elements in a stack ?
+and	CCONJ	0	4_pert_9	4	0	0	3	0	0	How to go and pop elements in a stack ?
+pop	VERB	0	4_pert_9	4	0	0	4	0	0	How to go and pop elements in a stack ?
+elements	NOUN	0	4_pert_9	4	0	0	5	0	0	How to go and pop elements in a stack ?
+in	ADP	0	4_pert_9	4	0	0	6	0	0	How to go and pop elements in a stack ?
+a	DET	0	4_pert_9	4	0	0	7	0	0	How to go and pop elements in a stack ?
+stack	NOUN	0	4_pert_9	4	0	0	8	0	0	How to go and pop elements in a stack ?
+?	PUNCT	0	4_pert_9	4	0	0	9	0	0	How to go and pop elements in a stack ?
+10	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_9	4	0	-1	-1	1	2	How to go and pop elements in a stack ?
+How	SCONJ	0	4_pert_10	4	0	0	0	0	0	How to use and pop elements in a stack ?
+to	PART	0	4_pert_10	4	0	0	1	0	0	How to use and pop elements in a stack ?
+use	VERB	0	4_pert_10	4	0	1	2	0	0	How to use and pop elements in a stack ?
+and	CCONJ	0	4_pert_10	4	0	0	3	0	0	How to use and pop elements in a stack ?
+pop	NOUN	0	4_pert_10	4	0	0	4	0	0	How to use and pop elements in a stack ?
+elements	NOUN	0	4_pert_10	4	0	0	5	0	0	How to use and pop elements in a stack ?
+in	ADP	0	4_pert_10	4	0	0	6	0	0	How to use and pop elements in a stack ?
+a	DET	0	4_pert_10	4	0	0	7	0	0	How to use and pop elements in a stack ?
+stack	NOUN	0	4_pert_10	4	0	0	8	0	0	How to use and pop elements in a stack ?
+?	PUNCT	0	4_pert_10	4	0	0	9	0	0	How to use and pop elements in a stack ?
+11	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_10	4	0	-1	-1	1	2	How to use and pop elements in a stack ?
+How	SCONJ	0	4_pert_11	4	0	0	0	0	0	How to create and pop elements in a stack ?
+to	PART	0	4_pert_11	4	0	0	1	0	0	How to create and pop elements in a stack ?
+create	VERB	0	4_pert_11	4	0	1	2	0	0	How to create and pop elements in a stack ?
+and	CCONJ	0	4_pert_11	4	0	0	3	0	0	How to create and pop elements in a stack ?
+pop	VERB	0	4_pert_11	4	0	0	4	0	0	How to create and pop elements in a stack ?
+elements	NOUN	0	4_pert_11	4	0	0	5	0	0	How to create and pop elements in a stack ?
+in	ADP	0	4_pert_11	4	0	0	6	0	0	How to create and pop elements in a stack ?
+a	DET	0	4_pert_11	4	0	0	7	0	0	How to create and pop elements in a stack ?
+stack	NOUN	0	4_pert_11	4	0	0	8	0	0	How to create and pop elements in a stack ?
+?	PUNCT	0	4_pert_11	4	0	0	9	0	0	How to create and pop elements in a stack ?
+12	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_11	4	0	-1	-1	1	2	How to create and pop elements in a stack ?
+How	SCONJ	0	4_pert_12	4	0	0	0	0	0	How to twist and pop elements in a stack ?
+to	PART	0	4_pert_12	4	0	0	1	0	0	How to twist and pop elements in a stack ?
+twist	VERB	0	4_pert_12	4	0	1	2	0	0	How to twist and pop elements in a stack ?
+and	CCONJ	0	4_pert_12	4	0	0	3	0	0	How to twist and pop elements in a stack ?
+pop	VERB	0	4_pert_12	4	0	0	4	0	0	How to twist and pop elements in a stack ?
+elements	NOUN	0	4_pert_12	4	0	0	5	0	0	How to twist and pop elements in a stack ?
+in	ADP	0	4_pert_12	4	0	0	6	0	0	How to twist and pop elements in a stack ?
+a	DET	0	4_pert_12	4	0	0	7	0	0	How to twist and pop elements in a stack ?
+stack	NOUN	0	4_pert_12	4	0	0	8	0	0	How to twist and pop elements in a stack ?
+?	PUNCT	0	4_pert_12	4	0	0	9	0	0	How to twist and pop elements in a stack ?
+13	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_12	4	0	-1	-1	1	2	How to twist and pop elements in a stack ?
+How	SCONJ	0	4_pert_13	4	0	0	0	0	0	How to connect and pop elements in a stack ?
+to	PART	0	4_pert_13	4	0	0	1	0	0	How to connect and pop elements in a stack ?
+connect	VERB	0	4_pert_13	4	0	1	2	0	0	How to connect and pop elements in a stack ?
+and	CCONJ	0	4_pert_13	4	0	0	3	0	0	How to connect and pop elements in a stack ?
+pop	VERB	0	4_pert_13	4	0	0	4	0	0	How to connect and pop elements in a stack ?
+elements	NOUN	0	4_pert_13	4	0	0	5	0	0	How to connect and pop elements in a stack ?
+in	ADP	0	4_pert_13	4	0	0	6	0	0	How to connect and pop elements in a stack ?
+a	DET	0	4_pert_13	4	0	0	7	0	0	How to connect and pop elements in a stack ?
+stack	NOUN	0	4_pert_13	4	0	0	8	0	0	How to connect and pop elements in a stack ?
+?	PUNCT	0	4_pert_13	4	0	0	9	0	0	How to connect and pop elements in a stack ?
+14	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_13	4	0	-1	-1	1	2	How to connect and pop elements in a stack ?
+How	SCONJ	0	4_pert_14	4	0	0	0	0	0	How to try and pop elements in a stack ?
+to	PART	0	4_pert_14	4	0	0	1	0	0	How to try and pop elements in a stack ?
+try	VERB	0	4_pert_14	4	0	1	2	0	0	How to try and pop elements in a stack ?
+and	CCONJ	0	4_pert_14	4	0	0	3	0	0	How to try and pop elements in a stack ?
+pop	VERB	0	4_pert_14	4	0	0	4	0	0	How to try and pop elements in a stack ?
+elements	NOUN	0	4_pert_14	4	0	0	5	0	0	How to try and pop elements in a stack ?
+in	ADP	0	4_pert_14	4	0	0	6	0	0	How to try and pop elements in a stack ?
+a	DET	0	4_pert_14	4	0	0	7	0	0	How to try and pop elements in a stack ?
+stack	NOUN	0	4_pert_14	4	0	0	8	0	0	How to try and pop elements in a stack ?
+?	PUNCT	0	4_pert_14	4	0	0	9	0	0	How to try and pop elements in a stack ?
+15	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_14	4	0	-1	-1	1	2	How to try and pop elements in a stack ?
+How	SCONJ	0	4_pert_15	4	0	0	0	0	0	How to stack and pop elements in a stack ?
+to	PART	0	4_pert_15	4	0	0	1	0	0	How to stack and pop elements in a stack ?
+stack	VERB	0	4_pert_15	4	0	0	2	0	0	How to stack and pop elements in a stack ?
+and	CCONJ	0	4_pert_15	4	0	0	3	0	0	How to stack and pop elements in a stack ?
+pop	NOUN	0	4_pert_15	4	0	0	4	0	0	How to stack and pop elements in a stack ?
+elements	NOUN	0	4_pert_15	4	0	0	5	0	0	How to stack and pop elements in a stack ?
+in	ADP	0	4_pert_15	4	0	0	6	0	0	How to stack and pop elements in a stack ?
+a	DET	0	4_pert_15	4	0	0	7	0	0	How to stack and pop elements in a stack ?
+stack	NOUN	0	4_pert_15	4	0	0	8	0	0	How to stack and pop elements in a stack ?
+?	PUNCT	0	4_pert_15	4	0	0	9	0	0	How to stack and pop elements in a stack ?
+16	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_15	4	0	-1	-1	1	2	How to stack and pop elements in a stack ?
+How	SCONJ	0	4_pert_16	4	0	0	0	0	0	How to fit and pop elements in a stack ?
+to	PART	0	4_pert_16	4	0	0	1	0	0	How to fit and pop elements in a stack ?
+fit	VERB	0	4_pert_16	4	0	1	2	0	0	How to fit and pop elements in a stack ?
+and	CCONJ	0	4_pert_16	4	0	0	3	0	0	How to fit and pop elements in a stack ?
+pop	ADJ	0	4_pert_16	4	0	0	4	0	0	How to fit and pop elements in a stack ?
+elements	NOUN	0	4_pert_16	4	0	0	5	0	0	How to fit and pop elements in a stack ?
+in	ADP	0	4_pert_16	4	0	0	6	0	0	How to fit and pop elements in a stack ?
+a	DET	0	4_pert_16	4	0	0	7	0	0	How to fit and pop elements in a stack ?
+stack	NOUN	0	4_pert_16	4	0	0	8	0	0	How to fit and pop elements in a stack ?
+?	PUNCT	0	4_pert_16	4	0	0	9	0	0	How to fit and pop elements in a stack ?
+17	['SCONJ', 'PART', 'VERB', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_16	4	0	-1	-1	1	2	How to fit and pop elements in a stack ?
+How	SCONJ	0	4_pert_17	4	0	0	0	0	0	How to write and pop elements in a stack ?
+to	PART	0	4_pert_17	4	0	0	1	0	0	How to write and pop elements in a stack ?
+write	VERB	0	4_pert_17	4	0	1	2	0	0	How to write and pop elements in a stack ?
+and	CCONJ	0	4_pert_17	4	0	0	3	0	0	How to write and pop elements in a stack ?
+pop	VERB	0	4_pert_17	4	0	0	4	0	0	How to write and pop elements in a stack ?
+elements	NOUN	0	4_pert_17	4	0	0	5	0	0	How to write and pop elements in a stack ?
+in	ADP	0	4_pert_17	4	0	0	6	0	0	How to write and pop elements in a stack ?
+a	DET	0	4_pert_17	4	0	0	7	0	0	How to write and pop elements in a stack ?
+stack	NOUN	0	4_pert_17	4	0	0	8	0	0	How to write and pop elements in a stack ?
+?	PUNCT	0	4_pert_17	4	0	0	9	0	0	How to write and pop elements in a stack ?
+18	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_17	4	0	-1	-1	1	2	How to write and pop elements in a stack ?
+How	SCONJ	0	4_pert_18	4	0	0	0	0	0	How to fold and pop elements in a stack ?
+to	PART	0	4_pert_18	4	0	0	1	0	0	How to fold and pop elements in a stack ?
+fold	VERB	0	4_pert_18	4	0	1	2	0	0	How to fold and pop elements in a stack ?
+and	CCONJ	0	4_pert_18	4	0	0	3	0	0	How to fold and pop elements in a stack ?
+pop	VERB	0	4_pert_18	4	0	0	4	0	0	How to fold and pop elements in a stack ?
+elements	NOUN	0	4_pert_18	4	0	0	5	0	0	How to fold and pop elements in a stack ?
+in	ADP	0	4_pert_18	4	0	0	6	0	0	How to fold and pop elements in a stack ?
+a	DET	0	4_pert_18	4	0	0	7	0	0	How to fold and pop elements in a stack ?
+stack	NOUN	0	4_pert_18	4	0	0	8	0	0	How to fold and pop elements in a stack ?
+?	PUNCT	0	4_pert_18	4	0	0	9	0	0	How to fold and pop elements in a stack ?
+19	['SCONJ', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_18	4	0	-1	-1	1	2	How to fold and pop elements in a stack ?
+How	SCONJ	0	4_pert_19	4	0	0	0	0	0	How to layer and pop elements in a stack ?
+to	PART	0	4_pert_19	4	0	0	1	0	0	How to layer and pop elements in a stack ?
+layer	VERB	0	4_pert_19	4	0	1	2	0	0	How to layer and pop elements in a stack ?
+and	CCONJ	0	4_pert_19	4	0	0	3	0	0	How to layer and pop elements in a stack ?
+pop	NOUN	0	4_pert_19	4	0	0	4	0	0	How to layer and pop elements in a stack ?
+elements	NOUN	0	4_pert_19	4	0	0	5	0	0	How to layer and pop elements in a stack ?
+in	ADP	0	4_pert_19	4	0	0	6	0	0	How to layer and pop elements in a stack ?
+a	DET	0	4_pert_19	4	0	0	7	0	0	How to layer and pop elements in a stack ?
+stack	NOUN	0	4_pert_19	4	0	0	8	0	0	How to layer and pop elements in a stack ?
+?	PUNCT	0	4_pert_19	4	0	0	9	0	0	How to layer and pop elements in a stack ?
+20	['SCONJ', 'PART', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	4_pert_19	4	0	-1	-1	1	2	How to layer and pop elements in a stack ?

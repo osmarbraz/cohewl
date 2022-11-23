@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	0	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	1	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+engenheiros	NOUN	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	1	2	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+eletricistas	ADJ	1	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	3	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	4	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	5	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	6	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	0	7	0	1	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+Para que engenheiros eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78	afb217fec90c418f9df75a46eb329f78	1	-1	-1	1	3	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+os	DET	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que os eletricistas contruiam circuitos eletrônicos ?
+Para que os eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_0	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que os eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+engenheiros	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+eletricistas	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+Para que engenheiros eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_1	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que engenheiros eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+alguns	DET	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+Para que alguns eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_2	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que alguns eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+esses	DET	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que esses eletricistas contruiam circuitos eletrônicos ?
+Para que esses eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_3	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que esses eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+o	DET	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que o eletricistas contruiam circuitos eletrônicos ?
+Para que o eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_4	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que o eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+só	ADV	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que só eletricistas contruiam circuitos eletrônicos ?
+Para que só eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'ADV', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_5	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que só eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+as	DET	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que as eletricistas contruiam circuitos eletrônicos ?
+Para que as eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_6	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que as eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+razão	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que razão eletricistas contruiam circuitos eletrônicos ?
+Para que razão eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_7	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que razão eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+somente	ADV	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que somente eletricistas contruiam circuitos eletrônicos ?
+Para que somente eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'ADV', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_8	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que somente eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+médicos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+Para que médicos eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_9	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que médicos eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+estes	DET	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que estes eletricistas contruiam circuitos eletrônicos ?
+Para que estes eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_10	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que estes eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+apenas	ADV	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+Para que apenas eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'ADV', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_11	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que apenas eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+muitos	DET	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+Para que muitos eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_12	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que muitos eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+profissionais	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+Para que profissionais eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_13	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que profissionais eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+então	ADV	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que então eletricistas contruiam circuitos eletrônicos ?
+Para que então eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'ADV', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_14	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que então eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+arquitetos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+Para que arquitetos eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_15	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que arquitetos eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+dois	NUM	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que dois eletricistas contruiam circuitos eletrônicos ?
+Para que dois eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'NUM', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_16	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que dois eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+certos	DET	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que certos eletricistas contruiam circuitos eletrônicos ?
+Para que certos eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_17	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que certos eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+tais	DET	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que tais eletricistas contruiam circuitos eletrônicos ?
+Para que tais eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_18	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que tais eletricistas contruiam circuitos eletrônicos ?
+Para	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	0	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+que	SCONJ	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	1	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+tantos	DET	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	1	2	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+eletricistas	NOUN	1	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	3	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+contruiam	ADJ	1	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	4	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+circuitos	NOUN	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	5	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+eletrônicos	ADJ	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	6	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+?	PUNCT	0	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	0	7	0	0	Para que tantos eletricistas contruiam circuitos eletrônicos ?
+Para que tantos eletricistas contruiam circuitos eletrônicos ?	['SCONJ', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 1, 0, 0, 0]	afb217fec90c418f9df75a46eb329f78_pert_19	afb217fec90c418f9df75a46eb329f78	0	-1	-1	1	2	Para que tantos eletricistas contruiam circuitos eletrônicos ?

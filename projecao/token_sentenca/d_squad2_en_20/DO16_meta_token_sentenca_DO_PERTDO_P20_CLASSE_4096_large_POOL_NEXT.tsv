@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
+What	PRON	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	0	1	0	1	What is the oldest example of financial fault lines ?
+is	AUX	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	1	2	0	1	What is the oldest example of financial fault lines ?
+the	DET	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	2	3	0	1	What is the oldest example of financial fault lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	3	4	0	1	What is the oldest example of financial fault lines ?
+example	NOUN	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	4	5	0	1	What is the oldest example of financial fault lines ?
+of	ADP	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	5	6	0	1	What is the oldest example of financial fault lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	6	7	0	1	What is the oldest example of financial fault lines ?
+fault	NOUN	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	1	7	8	0	1	What is the oldest example of financial fault lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	8	9	0	1	What is the oldest example of financial fault lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	0	9	10	0	1	What is the oldest example of financial fault lines ?
+What is the oldest example of financial fault lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064	5ad261cfd7d075001a429064	1	-1	-1		1	3	What is the oldest example of financial fault lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	0	12	0	0	What is the oldest example of financial property lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	1	13	0	0	What is the oldest example of financial property lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	2	14	0	0	What is the oldest example of financial property lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	3	15	0	0	What is the oldest example of financial property lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	4	16	0	0	What is the oldest example of financial property lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	5	17	0	0	What is the oldest example of financial property lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	6	18	0	0	What is the oldest example of financial property lines ?
+property	NOUN	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	1	7	19	0	0	What is the oldest example of financial property lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	8	20	0	0	What is the oldest example of financial property lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	0	9	21	0	0	What is the oldest example of financial property lines ?
+What is the oldest example of financial property lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_0	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial property lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	0	23	0	0	What is the oldest example of financial time lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	1	24	0	0	What is the oldest example of financial time lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	2	25	0	0	What is the oldest example of financial time lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	3	26	0	0	What is the oldest example of financial time lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	4	27	0	0	What is the oldest example of financial time lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	5	28	0	0	What is the oldest example of financial time lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	6	29	0	0	What is the oldest example of financial time lines ?
+time	NOUN	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	1	7	30	0	0	What is the oldest example of financial time lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	8	31	0	0	What is the oldest example of financial time lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	0	9	32	0	0	What is the oldest example of financial time lines ?
+What is the oldest example of financial time lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_1	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial time lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	0	34	0	0	What is the oldest example of financial branch lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	1	35	0	0	What is the oldest example of financial branch lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	2	36	0	0	What is the oldest example of financial branch lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	3	37	0	0	What is the oldest example of financial branch lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	4	38	0	0	What is the oldest example of financial branch lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	5	39	0	0	What is the oldest example of financial branch lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	6	40	0	0	What is the oldest example of financial branch lines ?
+branch	NOUN	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	1	7	41	0	0	What is the oldest example of financial branch lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	8	42	0	0	What is the oldest example of financial branch lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	0	9	43	0	0	What is the oldest example of financial branch lines ?
+What is the oldest example of financial branch lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_2	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial branch lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	0	45	0	0	What is the oldest example of financial product lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	1	46	0	0	What is the oldest example of financial product lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	2	47	0	0	What is the oldest example of financial product lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	3	48	0	0	What is the oldest example of financial product lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	4	49	0	0	What is the oldest example of financial product lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	5	50	0	0	What is the oldest example of financial product lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	6	51	0	0	What is the oldest example of financial product lines ?
+product	NOUN	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	1	7	52	0	0	What is the oldest example of financial product lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	8	53	0	0	What is the oldest example of financial product lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	0	9	54	0	0	What is the oldest example of financial product lines ?
+What is the oldest example of financial product lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_3	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial product lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	0	56	0	0	What is the oldest example of financial bottom lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	1	57	0	0	What is the oldest example of financial bottom lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	2	58	0	0	What is the oldest example of financial bottom lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	3	59	0	0	What is the oldest example of financial bottom lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	4	60	0	0	What is the oldest example of financial bottom lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	5	61	0	0	What is the oldest example of financial bottom lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	6	62	0	0	What is the oldest example of financial bottom lines ?
+bottom	ADJ	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	1	7	63	0	0	What is the oldest example of financial bottom lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	8	64	0	0	What is the oldest example of financial bottom lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	0	9	65	0	0	What is the oldest example of financial bottom lines ?
+What is the oldest example of financial bottom lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_4	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial bottom lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	0	67	0	0	What is the oldest example of financial credit lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	1	68	0	0	What is the oldest example of financial credit lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	2	69	0	0	What is the oldest example of financial credit lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	3	70	0	0	What is the oldest example of financial credit lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	4	71	0	0	What is the oldest example of financial credit lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	5	72	0	0	What is the oldest example of financial credit lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	6	73	0	0	What is the oldest example of financial credit lines ?
+credit	NOUN	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	1	7	74	0	0	What is the oldest example of financial credit lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	8	75	0	0	What is the oldest example of financial credit lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	0	9	76	0	0	What is the oldest example of financial credit lines ?
+What is the oldest example of financial credit lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_5	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial credit lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	0	78	0	0	What is the oldest example of financial value lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	1	79	0	0	What is the oldest example of financial value lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	2	80	0	0	What is the oldest example of financial value lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	3	81	0	0	What is the oldest example of financial value lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	4	82	0	0	What is the oldest example of financial value lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	5	83	0	0	What is the oldest example of financial value lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	6	84	0	0	What is the oldest example of financial value lines ?
+value	NOUN	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	1	7	85	0	0	What is the oldest example of financial value lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	8	86	0	0	What is the oldest example of financial value lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	0	9	87	0	0	What is the oldest example of financial value lines ?
+What is the oldest example of financial value lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_6	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial value lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	0	89	0	0	What is the oldest example of financial date lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	1	90	0	0	What is the oldest example of financial date lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	2	91	0	0	What is the oldest example of financial date lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	3	92	0	0	What is the oldest example of financial date lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	4	93	0	0	What is the oldest example of financial date lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	5	94	0	0	What is the oldest example of financial date lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	6	95	0	0	What is the oldest example of financial date lines ?
+date	NOUN	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	1	7	96	0	0	What is the oldest example of financial date lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	8	97	0	0	What is the oldest example of financial date lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	0	9	98	0	0	What is the oldest example of financial date lines ?
+What is the oldest example of financial date lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_7	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial date lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	0	100	0	0	What is the oldest example of financial plot lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	1	101	0	0	What is the oldest example of financial plot lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	2	102	0	0	What is the oldest example of financial plot lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	3	103	0	0	What is the oldest example of financial plot lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	4	104	0	0	What is the oldest example of financial plot lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	5	105	0	0	What is the oldest example of financial plot lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	6	106	0	0	What is the oldest example of financial plot lines ?
+plot	NOUN	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	1	7	107	0	0	What is the oldest example of financial plot lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	8	108	0	0	What is the oldest example of financial plot lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	0	9	109	0	0	What is the oldest example of financial plot lines ?
+What is the oldest example of financial plot lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_8	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial plot lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	0	111	0	0	What is the oldest example of financial production lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	1	112	0	0	What is the oldest example of financial production lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	2	113	0	0	What is the oldest example of financial production lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	3	114	0	0	What is the oldest example of financial production lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	4	115	0	0	What is the oldest example of financial production lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	5	116	0	0	What is the oldest example of financial production lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	6	117	0	0	What is the oldest example of financial production lines ?
+production	NOUN	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	1	7	118	0	0	What is the oldest example of financial production lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	8	119	0	0	What is the oldest example of financial production lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	0	9	120	0	0	What is the oldest example of financial production lines ?
+What is the oldest example of financial production lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_9	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial production lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	0	122	0	0	What is the oldest example of financial power lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	1	123	0	0	What is the oldest example of financial power lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	2	124	0	0	What is the oldest example of financial power lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	3	125	0	0	What is the oldest example of financial power lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	4	126	0	0	What is the oldest example of financial power lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	5	127	0	0	What is the oldest example of financial power lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	6	128	0	0	What is the oldest example of financial power lines ?
+power	NOUN	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	1	7	129	0	0	What is the oldest example of financial power lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	8	130	0	0	What is the oldest example of financial power lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	0	9	131	0	0	What is the oldest example of financial power lines ?
+What is the oldest example of financial power lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_10	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial power lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	0	133	0	0	What is the oldest example of financial front lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	1	134	0	0	What is the oldest example of financial front lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	2	135	0	0	What is the oldest example of financial front lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	3	136	0	0	What is the oldest example of financial front lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	4	137	0	0	What is the oldest example of financial front lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	5	138	0	0	What is the oldest example of financial front lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	6	139	0	0	What is the oldest example of financial front lines ?
+front	ADJ	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	1	7	140	0	0	What is the oldest example of financial front lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	8	141	0	0	What is the oldest example of financial front lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	0	9	142	0	0	What is the oldest example of financial front lines ?
+What is the oldest example of financial front lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_11	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial front lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	0	144	0	0	What is the oldest example of financial fault lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	1	145	0	0	What is the oldest example of financial fault lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	2	146	0	0	What is the oldest example of financial fault lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	3	147	0	0	What is the oldest example of financial fault lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	4	148	0	0	What is the oldest example of financial fault lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	5	149	0	0	What is the oldest example of financial fault lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	6	150	0	0	What is the oldest example of financial fault lines ?
+fault	NOUN	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	1	7	151	0	0	What is the oldest example of financial fault lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	8	152	0	0	What is the oldest example of financial fault lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	0	9	153	0	0	What is the oldest example of financial fault lines ?
+What is the oldest example of financial fault lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_12	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial fault lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	0	155	0	0	What is the oldest example of financial continuity lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	1	156	0	0	What is the oldest example of financial continuity lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	2	157	0	0	What is the oldest example of financial continuity lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	3	158	0	0	What is the oldest example of financial continuity lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	4	159	0	0	What is the oldest example of financial continuity lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	5	160	0	0	What is the oldest example of financial continuity lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	6	161	0	0	What is the oldest example of financial continuity lines ?
+continuity	NOUN	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	1	7	162	0	0	What is the oldest example of financial continuity lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	8	163	0	0	What is the oldest example of financial continuity lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	0	9	164	0	0	What is the oldest example of financial continuity lines ?
+What is the oldest example of financial continuity lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_13	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial continuity lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	0	166	0	0	What is the oldest example of financial party lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	1	167	0	0	What is the oldest example of financial party lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	2	168	0	0	What is the oldest example of financial party lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	3	169	0	0	What is the oldest example of financial party lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	4	170	0	0	What is the oldest example of financial party lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	5	171	0	0	What is the oldest example of financial party lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	6	172	0	0	What is the oldest example of financial party lines ?
+party	NOUN	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	1	7	173	0	0	What is the oldest example of financial party lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	8	174	0	0	What is the oldest example of financial party lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	0	9	175	0	0	What is the oldest example of financial party lines ?
+What is the oldest example of financial party lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_14	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial party lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	0	177	0	0	What is the oldest example of financial tree lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	1	178	0	0	What is the oldest example of financial tree lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	2	179	0	0	What is the oldest example of financial tree lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	3	180	0	0	What is the oldest example of financial tree lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	4	181	0	0	What is the oldest example of financial tree lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	5	182	0	0	What is the oldest example of financial tree lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	6	183	0	0	What is the oldest example of financial tree lines ?
+tree	NOUN	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	1	7	184	0	0	What is the oldest example of financial tree lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	8	185	0	0	What is the oldest example of financial tree lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	0	9	186	0	0	What is the oldest example of financial tree lines ?
+What is the oldest example of financial tree lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_15	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial tree lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	0	188	0	0	What is the oldest example of financial life lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	1	189	0	0	What is the oldest example of financial life lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	2	190	0	0	What is the oldest example of financial life lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	3	191	0	0	What is the oldest example of financial life lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	4	192	0	0	What is the oldest example of financial life lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	5	193	0	0	What is the oldest example of financial life lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	6	194	0	0	What is the oldest example of financial life lines ?
+life	NOUN	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	1	7	195	0	0	What is the oldest example of financial life lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	8	196	0	0	What is the oldest example of financial life lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	0	9	197	0	0	What is the oldest example of financial life lines ?
+What is the oldest example of financial life lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_16	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial life lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	0	199	0	0	What is the oldest example of financial history lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	1	200	0	0	What is the oldest example of financial history lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	2	201	0	0	What is the oldest example of financial history lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	3	202	0	0	What is the oldest example of financial history lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	4	203	0	0	What is the oldest example of financial history lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	5	204	0	0	What is the oldest example of financial history lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	6	205	0	0	What is the oldest example of financial history lines ?
+history	NOUN	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	1	7	206	0	0	What is the oldest example of financial history lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	8	207	0	0	What is the oldest example of financial history lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	0	9	208	0	0	What is the oldest example of financial history lines ?
+What is the oldest example of financial history lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_17	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial history lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	0	210	0	0	What is the oldest example of financial policy lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	1	211	0	0	What is the oldest example of financial policy lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	2	212	0	0	What is the oldest example of financial policy lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	3	213	0	0	What is the oldest example of financial policy lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	4	214	0	0	What is the oldest example of financial policy lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	5	215	0	0	What is the oldest example of financial policy lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	6	216	0	0	What is the oldest example of financial policy lines ?
+policy	NOUN	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	1	7	217	0	0	What is the oldest example of financial policy lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	8	218	0	0	What is the oldest example of financial policy lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	0	9	219	0	0	What is the oldest example of financial policy lines ?
+What is the oldest example of financial policy lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_18	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial policy lines ?
+What	PRON	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	0	221	0	0	What is the oldest example of financial straight lines ?
+is	AUX	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	1	222	0	0	What is the oldest example of financial straight lines ?
+the	DET	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	2	223	0	0	What is the oldest example of financial straight lines ?
+oldest	ADJ	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	3	224	0	0	What is the oldest example of financial straight lines ?
+example	NOUN	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	4	225	0	0	What is the oldest example of financial straight lines ?
+of	ADP	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	5	226	0	0	What is the oldest example of financial straight lines ?
+financial	ADJ	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	6	227	0	0	What is the oldest example of financial straight lines ?
+straight	ADJ	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	1	7	228	0	0	What is the oldest example of financial straight lines ?
+lines	NOUN	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	8	229	0	0	What is the oldest example of financial straight lines ?
+?	PUNCT	0	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	0	9	230	0	0	What is the oldest example of financial straight lines ?
+What is the oldest example of financial straight lines ?	['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	5ad261cfd7d075001a429064_pert_19	5ad261cfd7d075001a429064	0	-1	-1		1	2	What is the oldest example of financial straight lines ?

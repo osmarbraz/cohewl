@@ -1,0 +1,232 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	0	1	Qual o valor de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	1	2	Qual o valor de um crédito na maioria das universidades ?
+valor	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	1	2	3	Qual o valor de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	3	4	Qual o valor de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	4	5	Qual o valor de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	5	6	Qual o valor de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	6	7	Qual o valor de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	7	8	Qual o valor de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	8	9	Qual o valor de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	9	10	Qual o valor de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703	f32d39fbc7044eb6ada2ac189c2db703	1	0	10		Qual o valor de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	12	Qual o custo de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	13	Qual o custo de um crédito na maioria das universidades ?
+custo	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	14	Qual o custo de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	15	Qual o custo de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	16	Qual o custo de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	17	Qual o custo de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	18	Qual o custo de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	19	Qual o custo de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	20	Qual o custo de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	21	Qual o custo de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_0	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o custo de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	23	Qual o valor de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	24	Qual o valor de um crédito na maioria das universidades ?
+valor	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	25	Qual o valor de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	26	Qual o valor de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	27	Qual o valor de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	28	Qual o valor de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	29	Qual o valor de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	30	Qual o valor de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	31	Qual o valor de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	32	Qual o valor de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_1	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o valor de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	34	Qual o preço de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	35	Qual o preço de um crédito na maioria das universidades ?
+preço	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	36	Qual o preço de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	37	Qual o preço de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	38	Qual o preço de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	39	Qual o preço de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	40	Qual o preço de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	41	Qual o preço de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	42	Qual o preço de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	43	Qual o preço de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_2	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o preço de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	45	Qual o limite de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	46	Qual o limite de um crédito na maioria das universidades ?
+limite	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	47	Qual o limite de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	48	Qual o limite de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	49	Qual o limite de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	50	Qual o limite de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	51	Qual o limite de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	52	Qual o limite de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	53	Qual o limite de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	54	Qual o limite de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_3	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o limite de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	56	Qual o risco de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	57	Qual o risco de um crédito na maioria das universidades ?
+risco	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	58	Qual o risco de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	59	Qual o risco de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	60	Qual o risco de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	61	Qual o risco de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	62	Qual o risco de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	63	Qual o risco de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	64	Qual o risco de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	65	Qual o risco de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_4	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o risco de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	67	Qual o impacto de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	68	Qual o impacto de um crédito na maioria das universidades ?
+impacto	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	69	Qual o impacto de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	70	Qual o impacto de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	71	Qual o impacto de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	72	Qual o impacto de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	73	Qual o impacto de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	74	Qual o impacto de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	75	Qual o impacto de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	76	Qual o impacto de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_5	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o impacto de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	78	Qual o prazo de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	79	Qual o prazo de um crédito na maioria das universidades ?
+prazo	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	80	Qual o prazo de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	81	Qual o prazo de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	82	Qual o prazo de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	83	Qual o prazo de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	84	Qual o prazo de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	85	Qual o prazo de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	86	Qual o prazo de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	87	Qual o prazo de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_6	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o prazo de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	89	Qual o objetivo de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	90	Qual o objetivo de um crédito na maioria das universidades ?
+objetivo	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	91	Qual o objetivo de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	92	Qual o objetivo de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	93	Qual o objetivo de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	94	Qual o objetivo de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	95	Qual o objetivo de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	96	Qual o objetivo de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	97	Qual o objetivo de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	98	Qual o objetivo de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_7	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o objetivo de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	100	Qual o papel de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	101	Qual o papel de um crédito na maioria das universidades ?
+papel	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	102	Qual o papel de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	103	Qual o papel de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	104	Qual o papel de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	105	Qual o papel de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	106	Qual o papel de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	107	Qual o papel de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	108	Qual o papel de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	109	Qual o papel de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_8	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o papel de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	111	Qual o tamanho de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	112	Qual o tamanho de um crédito na maioria das universidades ?
+tamanho	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	113	Qual o tamanho de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	114	Qual o tamanho de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	115	Qual o tamanho de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	116	Qual o tamanho de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	117	Qual o tamanho de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	118	Qual o tamanho de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	119	Qual o tamanho de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	120	Qual o tamanho de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_9	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o tamanho de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	122	Qual o perfil de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	123	Qual o perfil de um crédito na maioria das universidades ?
+perfil	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	124	Qual o perfil de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	125	Qual o perfil de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	126	Qual o perfil de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	127	Qual o perfil de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	128	Qual o perfil de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	129	Qual o perfil de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	130	Qual o perfil de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	131	Qual o perfil de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_10	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o perfil de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	133	Qual o benefício de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	134	Qual o benefício de um crédito na maioria das universidades ?
+benefício	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	135	Qual o benefício de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	136	Qual o benefício de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	137	Qual o benefício de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	138	Qual o benefício de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	139	Qual o benefício de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	140	Qual o benefício de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	141	Qual o benefício de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	142	Qual o benefício de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_11	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o benefício de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	144	Qual o histórico de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	145	Qual o histórico de um crédito na maioria das universidades ?
+histórico	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	146	Qual o histórico de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	147	Qual o histórico de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	148	Qual o histórico de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	149	Qual o histórico de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	150	Qual o histórico de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	151	Qual o histórico de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	152	Qual o histórico de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	153	Qual o histórico de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_12	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o histórico de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	155	Qual o problema de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	156	Qual o problema de um crédito na maioria das universidades ?
+problema	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	157	Qual o problema de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	158	Qual o problema de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	159	Qual o problema de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	160	Qual o problema de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	161	Qual o problema de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	162	Qual o problema de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	163	Qual o problema de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	164	Qual o problema de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_13	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o problema de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	166	Qual o percentual de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	167	Qual o percentual de um crédito na maioria das universidades ?
+percentual	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	168	Qual o percentual de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	169	Qual o percentual de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	170	Qual o percentual de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	171	Qual o percentual de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	172	Qual o percentual de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	173	Qual o percentual de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	174	Qual o percentual de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	175	Qual o percentual de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_14	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o percentual de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	177	Qual o peso de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	178	Qual o peso de um crédito na maioria das universidades ?
+peso	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	179	Qual o peso de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	180	Qual o peso de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	181	Qual o peso de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	182	Qual o peso de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	183	Qual o peso de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	184	Qual o peso de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	185	Qual o peso de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	186	Qual o peso de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_15	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o peso de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	188	Qual o juros de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	189	Qual o juros de um crédito na maioria das universidades ?
+juros	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	190	Qual o juros de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	191	Qual o juros de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	192	Qual o juros de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	193	Qual o juros de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	194	Qual o juros de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	195	Qual o juros de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	196	Qual o juros de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	197	Qual o juros de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_16	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o juros de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	199	Qual o conceito de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	200	Qual o conceito de um crédito na maioria das universidades ?
+conceito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	201	Qual o conceito de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	202	Qual o conceito de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	203	Qual o conceito de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	204	Qual o conceito de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	205	Qual o conceito de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	206	Qual o conceito de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	207	Qual o conceito de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	208	Qual o conceito de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_17	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o conceito de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	210	Qual o significado de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	211	Qual o significado de um crédito na maioria das universidades ?
+significado	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	212	Qual o significado de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	213	Qual o significado de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	214	Qual o significado de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	215	Qual o significado de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	216	Qual o significado de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	217	Qual o significado de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	218	Qual o significado de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	219	Qual o significado de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_18	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o significado de um crédito na maioria das universidades ?
+Qual	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	0	221	Qual o rendimento de um crédito na maioria das universidades ?
+o	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	1	222	Qual o rendimento de um crédito na maioria das universidades ?
+rendimento	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	1	2	223	Qual o rendimento de um crédito na maioria das universidades ?
+de	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	3	224	Qual o rendimento de um crédito na maioria das universidades ?
+um	DET	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	4	225	Qual o rendimento de um crédito na maioria das universidades ?
+crédito	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	5	226	Qual o rendimento de um crédito na maioria das universidades ?
+na	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	6	227	Qual o rendimento de um crédito na maioria das universidades ?
+maioria	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	7	228	Qual o rendimento de um crédito na maioria das universidades ?
+das	ADP	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	8	229	Qual o rendimento de um crédito na maioria das universidades ?
+universidades	NOUN	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	9	230	Qual o rendimento de um crédito na maioria das universidades ?
+?	PUNCT	0	f32d39fbc7044eb6ada2ac189c2db703_pert_19	f32d39fbc7044eb6ada2ac189c2db703	0	0	10		Qual o rendimento de um crédito na maioria das universidades ?

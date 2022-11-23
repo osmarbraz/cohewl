@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	0	1	O que é análise de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	1	2	O que é análise de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	2	3	O que é análise de sistemas ?
+análise	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	1	3	4	O que é análise de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	4	5	O que é análise de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	5	6	O que é análise de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f	3f8ee2355e1f4745a10f55a9cc41396f	1	0	6		O que é análise de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	8	O que é análise de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	9	O que é análise de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	10	O que é análise de sistemas ?
+análise	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	11	O que é análise de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	12	O que é análise de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	13	O que é análise de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_0	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é análise de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	15	O que é engenharia de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	16	O que é engenharia de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	17	O que é engenharia de sistemas ?
+engenharia	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	18	O que é engenharia de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	19	O que é engenharia de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	20	O que é engenharia de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_1	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é engenharia de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	22	O que é arquitetura de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	23	O que é arquitetura de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	24	O que é arquitetura de sistemas ?
+arquitetura	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	25	O que é arquitetura de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	26	O que é arquitetura de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	27	O que é arquitetura de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_2	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é arquitetura de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	29	O que é desenvolvimento de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	30	O que é desenvolvimento de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	31	O que é desenvolvimento de sistemas ?
+desenvolvimento	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	32	O que é desenvolvimento de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	33	O que é desenvolvimento de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	34	O que é desenvolvimento de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_3	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é desenvolvimento de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	36	O que é integração de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	37	O que é integração de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	38	O que é integração de sistemas ?
+integração	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	39	O que é integração de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	40	O que é integração de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	41	O que é integração de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_4	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é integração de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	43	O que é gerenciamento de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	44	O que é gerenciamento de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	45	O que é gerenciamento de sistemas ?
+gerenciamento	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	46	O que é gerenciamento de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	47	O que é gerenciamento de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	48	O que é gerenciamento de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_5	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é gerenciamento de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	50	O que é avaliação de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	51	O que é avaliação de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	52	O que é avaliação de sistemas ?
+avaliação	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	53	O que é avaliação de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	54	O que é avaliação de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	55	O que é avaliação de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_6	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é avaliação de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	57	O que é gestão de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	58	O que é gestão de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	59	O que é gestão de sistemas ?
+gestão	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	60	O que é gestão de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	61	O que é gestão de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	62	O que é gestão de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_7	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é gestão de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	64	O que é segurança de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	65	O que é segurança de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	66	O que é segurança de sistemas ?
+segurança	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	67	O que é segurança de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	68	O que é segurança de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	69	O que é segurança de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_8	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é segurança de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	71	O que é administração de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	72	O que é administração de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	73	O que é administração de sistemas ?
+administração	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	74	O que é administração de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	75	O que é administração de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	76	O que é administração de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_9	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é administração de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	78	O que é teste de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	79	O que é teste de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	80	O que é teste de sistemas ?
+teste	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	81	O que é teste de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	82	O que é teste de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	83	O que é teste de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_10	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é teste de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	85	O que é design de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	86	O que é design de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	87	O que é design de sistemas ?
+design	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	88	O que é design de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	89	O que é design de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	90	O que é design de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_11	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é design de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	92	O que é teoria de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	93	O que é teoria de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	94	O que é teoria de sistemas ?
+teoria	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	95	O que é teoria de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	96	O que é teoria de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	97	O que é teoria de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_12	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é teoria de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	99	O que é Arquitetura de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	100	O que é Arquitetura de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	101	O que é Arquitetura de sistemas ?
+Arquitetura	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	102	O que é Arquitetura de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	103	O que é Arquitetura de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	104	O que é Arquitetura de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_13	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é Arquitetura de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	106	O que é administrador de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	107	O que é administrador de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	108	O que é administrador de sistemas ?
+administrador	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	109	O que é administrador de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	110	O que é administrador de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	111	O que é administrador de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_14	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é administrador de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	113	O que é Engenharia de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	114	O que é Engenharia de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	115	O que é Engenharia de sistemas ?
+Engenharia	PROPN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	116	O que é Engenharia de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	117	O que é Engenharia de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	118	O que é Engenharia de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_15	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é Engenharia de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	120	O que é linguagem de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	121	O que é linguagem de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	122	O que é linguagem de sistemas ?
+linguagem	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	123	O que é linguagem de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	124	O que é linguagem de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	125	O que é linguagem de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_16	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é linguagem de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	127	O que é complexidade de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	128	O que é complexidade de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	129	O que é complexidade de sistemas ?
+complexidade	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	130	O que é complexidade de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	131	O que é complexidade de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	132	O que é complexidade de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_17	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é complexidade de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	134	O que é lógica de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	135	O que é lógica de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	136	O que é lógica de sistemas ?
+lógica	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	137	O que é lógica de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	138	O que é lógica de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	139	O que é lógica de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_18	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é lógica de sistemas ?
+O	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	0	141	O que é engenheiro de sistemas ?
+que	PRON	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	1	142	O que é engenheiro de sistemas ?
+é	AUX	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	2	143	O que é engenheiro de sistemas ?
+engenheiro	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	1	3	144	O que é engenheiro de sistemas ?
+de	ADP	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	4	145	O que é engenheiro de sistemas ?
+sistemas	NOUN	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	5	146	O que é engenheiro de sistemas ?
+?	PUNCT	0	3f8ee2355e1f4745a10f55a9cc41396f_pert_19	3f8ee2355e1f4745a10f55a9cc41396f	0	0	6		O que é engenheiro de sistemas ?

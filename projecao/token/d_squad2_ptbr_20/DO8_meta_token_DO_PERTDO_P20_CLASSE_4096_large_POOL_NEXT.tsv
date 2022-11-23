@@ -1,0 +1,148 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+Qual	PRON	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	0	1	Qual a nacionalidade de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	1	2	Qual a nacionalidade de Estêvão Gomes ?
+nacionalidade	NOUN	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	1	2	3	Qual a nacionalidade de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	3	4	Qual a nacionalidade de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	4	5	Qual a nacionalidade de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	5	6	Qual a nacionalidade de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596	56ce34c7aab44d1400b88596	1	0	6		Qual a nacionalidade de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	0	8	Qual a opinião de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	1	9	Qual a opinião de Estêvão Gomes ?
+opinião	NOUN	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	1	2	10	Qual a opinião de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	3	11	Qual a opinião de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	4	12	Qual a opinião de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	5	13	Qual a opinião de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_0	56ce34c7aab44d1400b88596	0	0	6		Qual a opinião de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	0	15	Qual a idade de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	1	16	Qual a idade de Estêvão Gomes ?
+idade	NOUN	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	1	2	17	Qual a idade de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	3	18	Qual a idade de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	4	19	Qual a idade de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	5	20	Qual a idade de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_1	56ce34c7aab44d1400b88596	0	0	6		Qual a idade de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	0	22	Qual a posição de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	1	23	Qual a posição de Estêvão Gomes ?
+posição	NOUN	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	1	2	24	Qual a posição de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	3	25	Qual a posição de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	4	26	Qual a posição de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	5	27	Qual a posição de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_2	56ce34c7aab44d1400b88596	0	0	6		Qual a posição de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	0	29	Qual a importância de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	1	30	Qual a importância de Estêvão Gomes ?
+importância	NOUN	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	1	2	31	Qual a importância de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	3	32	Qual a importância de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	4	33	Qual a importância de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	5	34	Qual a importância de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_3	56ce34c7aab44d1400b88596	0	0	6		Qual a importância de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	0	36	Qual a origem de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	1	37	Qual a origem de Estêvão Gomes ?
+origem	NOUN	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	1	2	38	Qual a origem de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	3	39	Qual a origem de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	4	40	Qual a origem de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	5	41	Qual a origem de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_4	56ce34c7aab44d1400b88596	0	0	6		Qual a origem de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	0	43	Qual a história de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	1	44	Qual a história de Estêvão Gomes ?
+história	NOUN	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	1	2	45	Qual a história de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	3	46	Qual a história de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	4	47	Qual a história de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	5	48	Qual a história de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_5	56ce34c7aab44d1400b88596	0	0	6		Qual a história de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	0	50	Qual a resposta de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	1	51	Qual a resposta de Estêvão Gomes ?
+resposta	NOUN	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	1	2	52	Qual a resposta de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	3	53	Qual a resposta de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	4	54	Qual a resposta de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	5	55	Qual a resposta de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_6	56ce34c7aab44d1400b88596	0	0	6		Qual a resposta de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	0	57	Qual a intenção de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	1	58	Qual a intenção de Estêvão Gomes ?
+intenção	NOUN	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	1	2	59	Qual a intenção de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	3	60	Qual a intenção de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	4	61	Qual a intenção de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	5	62	Qual a intenção de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_7	56ce34c7aab44d1400b88596	0	0	6		Qual a intenção de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	0	64	Qual a função de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	1	65	Qual a função de Estêvão Gomes ?
+função	NOUN	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	1	2	66	Qual a função de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	3	67	Qual a função de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	4	68	Qual a função de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	5	69	Qual a função de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_8	56ce34c7aab44d1400b88596	0	0	6		Qual a função de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	0	71	Qual a missão de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	1	72	Qual a missão de Estêvão Gomes ?
+missão	NOUN	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	1	2	73	Qual a missão de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	3	74	Qual a missão de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	4	75	Qual a missão de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	5	76	Qual a missão de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_9	56ce34c7aab44d1400b88596	0	0	6		Qual a missão de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	0	78	Qual a situação de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	1	79	Qual a situação de Estêvão Gomes ?
+situação	NOUN	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	1	2	80	Qual a situação de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	3	81	Qual a situação de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	4	82	Qual a situação de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	5	83	Qual a situação de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_10	56ce34c7aab44d1400b88596	0	0	6		Qual a situação de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	0	85	Qual a identidade de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	1	86	Qual a identidade de Estêvão Gomes ?
+identidade	NOUN	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	1	2	87	Qual a identidade de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	3	88	Qual a identidade de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	4	89	Qual a identidade de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	5	90	Qual a identidade de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_11	56ce34c7aab44d1400b88596	0	0	6		Qual a identidade de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	0	92	Qual a biografia de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	1	93	Qual a biografia de Estêvão Gomes ?
+biografia	NOUN	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	1	2	94	Qual a biografia de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	3	95	Qual a biografia de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	4	96	Qual a biografia de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	5	97	Qual a biografia de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_12	56ce34c7aab44d1400b88596	0	0	6		Qual a biografia de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	0	99	Qual a proposta de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	1	100	Qual a proposta de Estêvão Gomes ?
+proposta	NOUN	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	1	2	101	Qual a proposta de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	3	102	Qual a proposta de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	4	103	Qual a proposta de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	5	104	Qual a proposta de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_13	56ce34c7aab44d1400b88596	0	0	6		Qual a proposta de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	0	106	Qual a razão de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	1	107	Qual a razão de Estêvão Gomes ?
+razão	NOUN	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	1	2	108	Qual a razão de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	3	109	Qual a razão de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	4	110	Qual a razão de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	5	111	Qual a razão de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_14	56ce34c7aab44d1400b88596	0	0	6		Qual a razão de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	0	113	Qual a profissão de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	1	114	Qual a profissão de Estêvão Gomes ?
+profissão	NOUN	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	1	2	115	Qual a profissão de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	3	116	Qual a profissão de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	4	117	Qual a profissão de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	5	118	Qual a profissão de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_15	56ce34c7aab44d1400b88596	0	0	6		Qual a profissão de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	0	120	Qual a versão de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	1	121	Qual a versão de Estêvão Gomes ?
+versão	NOUN	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	1	2	122	Qual a versão de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	3	123	Qual a versão de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	4	124	Qual a versão de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	5	125	Qual a versão de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_16	56ce34c7aab44d1400b88596	0	0	6		Qual a versão de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	0	127	Qual a nacionalidade de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	1	128	Qual a nacionalidade de Estêvão Gomes ?
+nacionalidade	NOUN	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	1	2	129	Qual a nacionalidade de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	3	130	Qual a nacionalidade de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	4	131	Qual a nacionalidade de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	5	132	Qual a nacionalidade de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_17	56ce34c7aab44d1400b88596	0	0	6		Qual a nacionalidade de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	0	134	Qual a culpa de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	1	135	Qual a culpa de Estêvão Gomes ?
+culpa	NOUN	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	1	2	136	Qual a culpa de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	3	137	Qual a culpa de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	4	138	Qual a culpa de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	5	139	Qual a culpa de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_18	56ce34c7aab44d1400b88596	0	0	6		Qual a culpa de Estêvão Gomes ?
+Qual	PRON	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	0	141	Qual a motivação de Estêvão Gomes ?
+a	DET	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	1	142	Qual a motivação de Estêvão Gomes ?
+motivação	NOUN	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	1	2	143	Qual a motivação de Estêvão Gomes ?
+de	ADP	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	3	144	Qual a motivação de Estêvão Gomes ?
+Estêvão	PROPN	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	4	145	Qual a motivação de Estêvão Gomes ?
+Gomes	PROPN	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	5	146	Qual a motivação de Estêvão Gomes ?
+?	PUNCT	0	56ce34c7aab44d1400b88596_pert_19	56ce34c7aab44d1400b88596	0	0	6		Qual a motivação de Estêvão Gomes ?

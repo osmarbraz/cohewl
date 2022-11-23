@@ -1,0 +1,190 @@
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Sentença
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	0	1	O regime de exercícios domiciliares substitui o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	1	2	O regime de exercícios domiciliares substitui o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	2	3	O regime de exercícios domiciliares substitui o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	3	4	O regime de exercícios domiciliares substitui o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	4	5	O regime de exercícios domiciliares substitui o quê ?
+substitui	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	1	5	6	O regime de exercícios domiciliares substitui o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	6	7	O regime de exercícios domiciliares substitui o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	7	8	O regime de exercícios domiciliares substitui o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d	bd3fcc6f14164d3eb6c17f06ab17db8d	1	0	8		O regime de exercícios domiciliares substitui o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	10	O regime de exercícios domiciliares é o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	11	O regime de exercícios domiciliares é o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	12	O regime de exercícios domiciliares é o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	13	O regime de exercícios domiciliares é o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	14	O regime de exercícios domiciliares é o quê ?
+é	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	15	O regime de exercícios domiciliares é o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	16	O regime de exercícios domiciliares é o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	17	O regime de exercícios domiciliares é o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_0	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares é o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	19	O regime de exercícios domiciliares significa o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	20	O regime de exercícios domiciliares significa o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	21	O regime de exercícios domiciliares significa o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	22	O regime de exercícios domiciliares significa o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	23	O regime de exercícios domiciliares significa o quê ?
+significa	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	24	O regime de exercícios domiciliares significa o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	25	O regime de exercícios domiciliares significa o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	26	O regime de exercícios domiciliares significa o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_1	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares significa o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	28	O regime de exercícios domiciliares era o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	29	O regime de exercícios domiciliares era o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	30	O regime de exercícios domiciliares era o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	31	O regime de exercícios domiciliares era o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	32	O regime de exercícios domiciliares era o quê ?
+era	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	33	O regime de exercícios domiciliares era o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	34	O regime de exercícios domiciliares era o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	35	O regime de exercícios domiciliares era o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_2	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares era o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	37	O regime de exercícios domiciliares seria o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	38	O regime de exercícios domiciliares seria o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	39	O regime de exercícios domiciliares seria o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	40	O regime de exercícios domiciliares seria o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	41	O regime de exercícios domiciliares seria o quê ?
+seria	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	42	O regime de exercícios domiciliares seria o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	43	O regime de exercícios domiciliares seria o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	44	O regime de exercícios domiciliares seria o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_3	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares seria o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	46	O regime de exercícios domiciliares foi o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	47	O regime de exercícios domiciliares foi o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	48	O regime de exercícios domiciliares foi o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	49	O regime de exercícios domiciliares foi o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	50	O regime de exercícios domiciliares foi o quê ?
+foi	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	51	O regime de exercícios domiciliares foi o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	52	O regime de exercícios domiciliares foi o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	53	O regime de exercícios domiciliares foi o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_4	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares foi o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	55	O regime de exercícios domiciliares vale o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	56	O regime de exercícios domiciliares vale o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	57	O regime de exercícios domiciliares vale o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	58	O regime de exercícios domiciliares vale o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	59	O regime de exercícios domiciliares vale o quê ?
+vale	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	60	O regime de exercícios domiciliares vale o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	61	O regime de exercícios domiciliares vale o quê ?
+quê	PRON	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	62	O regime de exercícios domiciliares vale o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_5	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares vale o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	64	O regime de exercícios domiciliares será o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	65	O regime de exercícios domiciliares será o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	66	O regime de exercícios domiciliares será o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	67	O regime de exercícios domiciliares será o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	68	O regime de exercícios domiciliares será o quê ?
+será	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	69	O regime de exercícios domiciliares será o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	70	O regime de exercícios domiciliares será o quê ?
+quê	PRON	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	71	O regime de exercícios domiciliares será o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_6	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares será o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	73	O regime de exercícios domiciliares representa o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	74	O regime de exercícios domiciliares representa o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	75	O regime de exercícios domiciliares representa o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	76	O regime de exercícios domiciliares representa o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	77	O regime de exercícios domiciliares representa o quê ?
+representa	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	78	O regime de exercícios domiciliares representa o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	79	O regime de exercícios domiciliares representa o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	80	O regime de exercícios domiciliares representa o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_7	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares representa o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	82	O regime de exercícios domiciliares faz o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	83	O regime de exercícios domiciliares faz o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	84	O regime de exercícios domiciliares faz o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	85	O regime de exercícios domiciliares faz o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	86	O regime de exercícios domiciliares faz o quê ?
+faz	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	87	O regime de exercícios domiciliares faz o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	88	O regime de exercícios domiciliares faz o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	89	O regime de exercícios domiciliares faz o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_8	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares faz o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	91	O regime de exercícios domiciliares resolve o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	92	O regime de exercícios domiciliares resolve o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	93	O regime de exercícios domiciliares resolve o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	94	O regime de exercícios domiciliares resolve o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	95	O regime de exercícios domiciliares resolve o quê ?
+resolve	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	96	O regime de exercícios domiciliares resolve o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	97	O regime de exercícios domiciliares resolve o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	98	O regime de exercícios domiciliares resolve o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_9	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares resolve o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	100	O regime de exercícios domiciliares significava o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	101	O regime de exercícios domiciliares significava o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	102	O regime de exercícios domiciliares significava o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	103	O regime de exercícios domiciliares significava o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	104	O regime de exercícios domiciliares significava o quê ?
+significava	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	105	O regime de exercícios domiciliares significava o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	106	O regime de exercícios domiciliares significava o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	107	O regime de exercícios domiciliares significava o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_10	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares significava o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	109	O regime de exercícios domiciliares , o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	110	O regime de exercícios domiciliares , o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	111	O regime de exercícios domiciliares , o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	112	O regime de exercícios domiciliares , o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	113	O regime de exercícios domiciliares , o quê ?
+,	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	114	O regime de exercícios domiciliares , o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	115	O regime de exercícios domiciliares , o quê ?
+quê	PRON	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	116	O regime de exercícios domiciliares , o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_11	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares , o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	118	O regime de exercícios domiciliares permite o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	119	O regime de exercícios domiciliares permite o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	120	O regime de exercícios domiciliares permite o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	121	O regime de exercícios domiciliares permite o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	122	O regime de exercícios domiciliares permite o quê ?
+permite	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	123	O regime de exercícios domiciliares permite o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	124	O regime de exercícios domiciliares permite o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	125	O regime de exercícios domiciliares permite o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_12	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares permite o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	127	O regime de exercícios domiciliares são o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	128	O regime de exercícios domiciliares são o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	129	O regime de exercícios domiciliares são o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	130	O regime de exercícios domiciliares são o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	131	O regime de exercícios domiciliares são o quê ?
+são	AUX	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	132	O regime de exercícios domiciliares são o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	133	O regime de exercícios domiciliares são o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	134	O regime de exercícios domiciliares são o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_13	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares são o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	136	O regime de exercícios domiciliares fez o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	137	O regime de exercícios domiciliares fez o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	138	O regime de exercícios domiciliares fez o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	139	O regime de exercícios domiciliares fez o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	140	O regime de exercícios domiciliares fez o quê ?
+fez	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	141	O regime de exercícios domiciliares fez o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	142	O regime de exercícios domiciliares fez o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	143	O regime de exercícios domiciliares fez o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_14	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares fez o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	145	O regime de exercícios domiciliares diz o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	146	O regime de exercícios domiciliares diz o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	147	O regime de exercícios domiciliares diz o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	148	O regime de exercícios domiciliares diz o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	149	O regime de exercícios domiciliares diz o quê ?
+diz	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	150	O regime de exercícios domiciliares diz o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	151	O regime de exercícios domiciliares diz o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	152	O regime de exercícios domiciliares diz o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_15	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares diz o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	154	O regime de exercícios domiciliares mudou o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	155	O regime de exercícios domiciliares mudou o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	156	O regime de exercícios domiciliares mudou o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	157	O regime de exercícios domiciliares mudou o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	158	O regime de exercícios domiciliares mudou o quê ?
+mudou	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	159	O regime de exercícios domiciliares mudou o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	160	O regime de exercícios domiciliares mudou o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	161	O regime de exercícios domiciliares mudou o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_16	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares mudou o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	163	O regime de exercícios domiciliares para o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	164	O regime de exercícios domiciliares para o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	165	O regime de exercícios domiciliares para o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	166	O regime de exercícios domiciliares para o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	167	O regime de exercícios domiciliares para o quê ?
+para	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	168	O regime de exercícios domiciliares para o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	169	O regime de exercícios domiciliares para o quê ?
+quê	PRON	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	170	O regime de exercícios domiciliares para o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_17	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares para o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	172	O regime de exercícios domiciliares prevê o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	173	O regime de exercícios domiciliares prevê o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	174	O regime de exercícios domiciliares prevê o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	175	O regime de exercícios domiciliares prevê o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	176	O regime de exercícios domiciliares prevê o quê ?
+prevê	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	177	O regime de exercícios domiciliares prevê o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	178	O regime de exercícios domiciliares prevê o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	179	O regime de exercícios domiciliares prevê o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_18	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares prevê o quê ?
+O	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	0	181	O regime de exercícios domiciliares garante o quê ?
+regime	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	1	182	O regime de exercícios domiciliares garante o quê ?
+de	ADP	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	2	183	O regime de exercícios domiciliares garante o quê ?
+exercícios	NOUN	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	3	184	O regime de exercícios domiciliares garante o quê ?
+domiciliares	ADJ	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	4	185	O regime de exercícios domiciliares garante o quê ?
+garante	VERB	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	1	5	186	O regime de exercícios domiciliares garante o quê ?
+o	DET	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	6	187	O regime de exercícios domiciliares garante o quê ?
+quê	NOUN	1	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	7	188	O regime de exercícios domiciliares garante o quê ?
+?	PUNCT	0	bd3fcc6f14164d3eb6c17f06ab17db8d_pert_19	bd3fcc6f14164d3eb6c17f06ab17db8d	0	0	8		O regime de exercícios domiciliares garante o quê ?
