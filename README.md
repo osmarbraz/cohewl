@@ -176,7 +176,7 @@ As projeções dos *embeddings* de palavras e sentenças podem se relacionar com
 - Tipo Texto (0 - Palavra modificada, 1 Palavra Original, 2 - Sentença modificada, 3 - Sentença original)
 - Sentença
 
-#### As pastas **"token_sentenca/cohquad_cohinc"**, **"token_sentenca/d_cohquad_coh"**, **"token_sentenca/d_cohquad_inc"**, **"token_sentenca/d_faquad"** e **"token_sentenca/d_squard2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
+#### As pastas **"token_sentenca/cohquad_cohinc"**, **"token_sentenca/d_cohquad_coh"**, **"token_sentenca/d_cohquad_inc"**, **"token_sentenca/d_faquad"** e **"token_sentenca/d_squad2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
 
 **Links** para os arquivos de configuração do **Embedding Projector** dos conjuntos de dados:
 
