@@ -1,0 +1,20 @@
+{
+  "embeddings": [    	
+    {
+      "tensorName": "C(CohQuad Coh,20) (en)",
+      "tensorShape": [420, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/c_cohquad_coh_en_20/records_sentenca_DO_PERTDO_P20_CLASSE_4096_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/c_cohquad_coh_en_20/meta_sentenca_DO_PERTDO_P20_CLASSE_4096_large_MEAN.tsv",
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/C_COHQUAD_COH_EN_20.txt"
+    },
+	{
+      "tensorName": "C(CohQuad Coh,20) (en) com Next",
+      "tensorShape": [420, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/c_cohquad_coh_en_20/records_sentenca_DO_PERTDO_P20_CLASSE_4096_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/c_cohquad_coh_en_20/meta_sentenca_DO_PERTDO_P20_CLASSE_4096_large_MEAN_NEXT.tsv",
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/C_COHQUAD_COH_EN_20.txt"   
+    }	
+  ],
+  "modelCheckpointPath": "<b>C(CohQuad Coh,20) (en) - Embeddings de Sentença"
+}
+

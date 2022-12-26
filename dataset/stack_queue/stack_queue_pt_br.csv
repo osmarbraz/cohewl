@@ -1,0 +1,105 @@
+topico;fonte;sentenca
+pilha;wikipedia;"Em ciência da computação, uma pilha (stack em inglês) é um tipo abstrato de dado e estrutura de dados baseado no princípio de Last In First Out (LIFO), ou seja ""o último que entra é o primeiro que sai"" caracterizando um empilhamento de dados."
+pilha;wikipedia;Pilhas são fundamentalmente compostas por duas operações: push (empilhar) que adiciona um elemento no topo da pilha e pop (desempilhar) que remove o último elemento adicionado.
+pilha;wikipedia;Pilhas zamba são usadas extensivamente em cada nível de um sistema de computação moderno.
+pilha;wikipedia;Por exemplo, um PC moderno usa pilhas ao nível de arquitetura, as quais são usadas no design básico de um sistema operacional para manipular interrupções e chamadas de função do sistema operacional.
+pilha;wikipedia;"Entre outros usos, pilhas são usadas para executar uma Máquina virtual java e a própria linguagem Java possui uma classe denominada ""Stack"", as quais podem ser usadas pelos programadores."
+pilha;wikipedia;A pilha é onipresente.
+pilha;wikipedia;Um sistema informático baseado em pilha é aquele que armazena a informação temporária basicamente em pilhas, em vez de registradores de hardware da UCP (um sistema baseado em registradores).
+pilha;Thomas Cormen;As pilhas e filas são conjuntos dinâmicos nos quais o elemento removido do conjunto pela operação DELETE é especificado previamente.
+pilha;Thomas Cormen;Em uma pilha, o elemento eliminado do conjunto é o mais recentemente inserido: a pilha implementa uma norma de último a entrar, primeiro a sair, ou LIFO (last-in, first-out).
+pilha;Thomas Cormen;De modo semelhante, em uma fila, o elemento eliminado é sempre o que esteve no conjunto pelo tempo mais longo: a fila implementa uma norma de prímeiro a entrar, primeiro a sair, ou FIFO (first-in, first-out).
+pilha;Thomas Cormen;Existem vários modos eficientes de implementar pilhas e filas em um computador.
+pilha;Thomas Cormen;Nesta seção, mostraremos como usar um arranjo simples para implementar cada uma dessas estruturas.
+pilha;Thomas Cormen;A operação INSERT sobre uma pilha é chamada com frequência PUSH, e a operação DELETE, que não toma um argumento de elemento, é freqientemente chamada POP.
+pilha;Thomas Cormen;Esses nomes são alusões a pilhas físicas, como as pilhas de pratos usados em restaurantes.
+pilha;Thomas Cormen;A ordem em que os pratos são retirados da pilha é o oposto da ordem em que eles são colocados sobre a pilha e, como conseqúência, apenas o prato do topo está acessível.
+pilha;Thomas Cormen;Como mostra a Figura 10.1, podemos implementar uma pilha de no máximo n elementos com um arranjo S[1.. ].
+pilha;Thomas Cormen;O arranjo tem um atributo topo[S] que realiza a indexação do elemento inserido mais recentemente.
+pilha;Thomas Cormen;A pilha consiste nos elementos S[1..topo[S]], onde s[1] é o elemento na parte inferior da pilha e S[topo[S]] é o elemento na parte superior (ou no topo).
+pilha;Thomas Cormen;Quando topo(S] = O, a pilha não contém nenhum elemento e está vazia.
+pilha;Thomas Cormen;É possível testar se a pilha está vazia, através da operação de consulta STACK-EMPTY.
+pilha;Thomas Cormen;Se uma pilha vazia sofre uma Operação de extração, dizemos que a pilha tem um estouro negativo, que é normalmente um erro.
+pilha;Thomas Cormen;Se topo[S] excede n, a pilha tem um estonuro posítivo.
+pilha;Thomas Cormen;(Em nossa implementação de pseudocódigo, não nos preocuparemos com o estouro de pilhas.)
+pilha;Thomas Cormen;FIGURA 10.1 Uma implementação de arranjo de uma pilha S.
+pilha;Thomas Cormen;Os elementos da pilha só aparecem nas posições levemente sombreadas.
+pilha;Thomas Cormen;(a) A pilha S tem á elementos.
+pilha;Thomas Cormen;O elemento do topo é 9.
+pilha;Thomas Cormen;(b) A pilha S após as chamadas PUSH(S, 17) e PUSH(S, 3).
+pilha;Thomas Cormen;(c) A pilha S após a chamada POP(S) retornou o elemento 3, que é o e lemento mais recentemente inserido na pilha.
+pilha;Thomas Cormen;"Embora o elemento 3 ainda apareça no arranjo, ele não está mais na pilha; o elemento do topo é o elemento 17."
+pilha;Thomas Cormen;Cada uma das operações sobre pilhas pode ser implementada com algumas linhas de código.
+pilha;Thomas Cormen;STACK-EMPTY(S)
+pilha;Thomas Cormen;1 if topo[s] = O
+pilha;Thomas Cormen;2  then return TRUE
+pilha;Thomas Cormen;3  else return FALSE
+pilha;Thomas Cormen;PUSH(S, x)
+pilha;Thomas Cormen;1 topo[S] <- topo[S] + 1
+pilha;Thomas Cormen;2 S[topo[S]] <- x
+pilha;Thomas Cormen;POP(S)
+pilha;Thomas Cormen;1 if STACK-EMPTY(S)
+pilha;Thomas Cormen;"2  then error \“underflow"""
+pilha;Thomas Cormen;3  else topolS] <- topo[S]-1
+pilha;Thomas Cormen;4    return S[topo[S] + 1)
+pilha;Thomas Cormen;A Figura 10.1 mostra os feitos das operações de modificação PUSH (EMPILHAR) e POP(DESEMPILHAR).
+pilha;Thomas Cormen;Cada uma das três operações sobre pilhas demora o tempo O(1).
+fila;wikipedia;"Em Ciência da Computação, algoritmo de fila simples,FIFO (do inglês: first in, first out, ""primeiro a entrar, primeiro a sair"", ""PEPS"") ou FCFS (do inglês: first come, first served, ""primeiro a chegar, primeiro a ser servido"") é um algoritmo de escalonamento para estruturas de dados do tipo fila."
+fila;wikipedia;Apresenta o seguinte critério: o primeiro elemento a ser retirado é o primeiro que tiver sido inserido, é um algoritmo de escalonamento não preemptivo que entrega a CPU os processos pela ordem de chegada.
+fila;wikipedia;Ele executa o processo como um todo do inicio ao fim não interrompendo o processo executado até ser finalizado, então quando um novo processo chega e existe um ainda em execução ele vai para uma fila de espera.
+fila;wikipedia;Esta fila de espera nada mais é do que uma fila que organiza os processos que chegam até eles serem atendidos pela CPU.
+fila;wikipedia;Neste escalonamento todos os processos tendem a serem atendidos (por isso evita o fenômeno do starvation) ao menos que um processo possua um erro ou loop infinito.
+fila;wikipedia;O loop infinito irá parar a máquina, pois com o FIFO não terá como dar continuidade a execução dos processos que estão aguardando na fila de espera.
+fila;wikipedia;O algoritmo FIFO não garante um tempo de resposta rápido pois é extremamente sensível a ordem de chegada de cada processo e dos antecessores (se existirem) e se processos que tendem a demorar mais tempo chegarem primeiro o tempo médio de espera e o turnaround acabam sendo aumentados.
+fila;wikipedia;Pelo critério do primeiro a entrar é o primeiro a ser servido, faz o agendamento de tarefas do sistema operacional dando a cada processo tempo de CPU na ordem em que as demandas são feitas.
+fila;wikipedia;"O oposto de FIFO é LIFO (Last-In, First-Out), que significa ""o último a entrar é o primeiro a sair"", aonde a entrada mais recente, ou o topo da pilha de processos, é processado primeiro.[4]."
+fila;wikipedia;Já uma fila prioritária não é nem FIFO, nem LIFO, mas pode adotar comportamento similar temporariamente, ou mesmo por padrão.
+fila;wikipedia;As listas são amplamente utilizadas em programação para implementar filas de espera.
+fila;wikipedia;Em uma fila de tipo FIFO os elementos vão sendo colocados na fila e retirados (ou processados) por ordem de chegada.
+fila;wikipedia;A ideia fundamental da fila é que só podemos inserir um novo elemento no final da fila e só podemos retirar o elemento do início.
+fila;wikipedia;"É vantajoso por ser o mais simples entre os processos de escalonamento; e todos os processos tendem a serem atendidos."
+fila;wikipedia;"Dentre as desvantagens estão: muito sensível a ordem de chegada; se processos maiores chegarem primeiro aumentarão o tempo médio de espera; nãoo garante um tempo de resposta rápido; não é eficiente em sistemas de tempo compartilhado; e não é eficiente em sistemas em tempo real."
+fila;wikipedia;FIFO são comumente usados em circuitos eletrônicos de buffer e controle de fluxo, que vai desde o hardware até o software.
+fila;wikipedia;Na forma de um hardware o FIFO consiste basicamente de um conjunto de ler e escrever ponteiros, armazenamento e lógica de controle.
+fila;wikipedia;Armazenamento pode ser SRAM, flip-flops, fechos ou qualquer outra forma adequada de armazenamento.
+fila;wikipedia;Para o FIFO, de tamanho não trivial, uma SRAM de porta dupla geralmente é utilizada quando uma porta é usada para a escrita e a outra para leitura.
+fila;wikipedia;O FIFO síncrono aonde o mesmo clock é usado para leitura e escrita.
+fila;wikipedia;Um FIFO assíncrono utiliza diferentes relógios para leitura e escrita.
+fila;wikipedia;Uma aplicação comum de um FIFO assíncrono utiliza um código de Gray (código binário refletido), ou qualquer unidade de código a distância, para a ler e escrever os ponteiros para garantir a geração de bandeira confiável.
+fila;wikipedia;Uma nota mais preocupante é que se deve necessariamente usar a aritmética de ponteiro para gerar bandeiras para implementações assíncronas FIFO.
+fila;wikipedia;"Por outro lado, pode-se usar a abordagem de um balde ""de fuga"" ou a aritmética de ponteiro para gerar bandeiras nas implementações síncronas FIFO."
+fila;Thomas Cormen;"Chamamos a operação INSERT sobre uma fila de ENQUEUE (ENFILEIRAR), e também a operação DELETE de DEQUEUE (DESINFILEIRAR); como a operação sobre pilhas POP, DEQUEUE não tem nenhum argumento de elemento."
+fila;Thomas Cormen;A propriedade FIFO de uma fila faz com que ela opere como uma fileira de pessoas no posto de atendimento da previdência social.
+fila;Thomas Cormen;A fila tem um início (ou cabeça) e um fim (ou cauda).
+fila;Thomas Cormen;Quando um elemento é colocado na fila, ele ocupa seu lugar no fim da fila, como um aluno recém-chegado que ocupa um lugar no final da fileira.
+fila;Thomas Cormen;O elemento retirado da fila é sempre aquele que está no início da fila, como o aluno que se encontra no começo da fileira e que esperou por mais tempo.
+fila;Thomas Cormen;(Felizmente, não temos de nos preocupar com a possibilidade de elementos computacionais \“furarem\” a fila.)
+fila;Thomas Cormen;A Figura 10.2 mostra um modo de implementar uma fila de no máximo n - 1 elementos usando um arranjo O[1..n].
+fila;Thomas Cormen;A fila tem um atributo ínício[Q] que indexa ou aponta para seu início.
+fila;Thomas Cormen;O atributo fím[Q] realiza a indexação da próxima posição na qual um elemento recém chegado será inserido na fila.
+fila;Thomas Cormen;Os elementos na fila estão nas posições início[Q), início[Q]+1, ... fim[Q]-1, onde “retornamos”, no sentido de que a posição 1 segue imediatamente a posição n em uma ordem circular.
+fila;Thomas Cormen;Quando início[Q] = fim[Q]), a fila está vazia.
+fila;Thomas Cormen;Inicialmente, temos início[Q] = fim[Q] = 1.
+fila;Thomas Cormen;Quando a fila está vazia, uma tentativa de retirar um elemento da fila provoca o estouro negativo da fila.
+fila;Thomas Cormen;Quando início[Q] = fim[Q] + 1, a fila está cheia, e uma tentativa de colocar um elemento na fila provoca o estouro positivo da fila.
+fila;Thomas Cormen;FIGURA 10.2 Uma fila implementada com a utilização de um arranjo Q[1..12).
+fila;Thomas Cormen;Os elementos da fila aparecem apenas nas posições levemente sombreadas.
+fila;Thomas Cormen;(a) A filatem 5 elementos, nas localizações O[7..11].
+fila;Thomas Cormen;(b) A configuração da fila depois das chamadas ENQUEUE(Q, 17), ENQUEUE(Q, 3) e ENQUEUE(O, 5).
+fila;Thomas Cormen;A configuração da fila depois da chamada DEQUEUE(Q) retorna o valor de chave 15 que se encontrava anteriormente no início da fila.
+fila;Thomas Cormen;O novo início tem a chave 6
+fila;Thomas Cormen;Em nossos procedimentos ENQUEUE e DEQUEUE, a verificação de erros de estouro negativo (underfiow) € estouro positivo (overflow) foi omitida.
+fila;Thomas Cormen;O Exercício 10.1-4 lhe pede para fornecer o código que efetua a verificação dessas duas condições de erro.
+fila;Thomas Cormen;ENQUEUE(Q, x)
+fila;Thomas Cormen;1 Q[fim[Q] = x
+fila;Thomas Cormen;2 iffim[Q] = comprimento[Q]
+fila;Thomas Cormen;3 then fim[Q] = 1
+fila;Thomas Cormen;4 else fim[Q] = fim[Q]+1
+fila;Thomas Cormen;DEQUEUE(Q)
+fila;Thomas Cormen;1 x = OQlinício[Q]]
+fila;Thomas Cormen;2 if início[Q] == comprimento[Q]
+fila;Thomas Cormen;3 then início[Q] = 1
+fila;Thomas Cormen;4  else início[Q] & início[Q] + 1
+fila;Thomas Cormen;5 return x
+fila;Thomas Cormen;A Figura 10.2 mostra os efeitos das operações ENQUEUE e DEQUEUE.
+fila;Thomas Cormen;Cada operação demora o tempo O(1).

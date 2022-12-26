@@ -53,7 +53,7 @@ As projeções dos *embeddings* de sentenças estão relacionados com os seguint
 - Origem (Id do documento de origem)
 - Classe (1 - Original e 0 - Modificado)
 
-#### As pastas **"sentenca/cohquad_cohinc"**, **"sentenca/d_cohquad_coh"**, **"sentenca/d_cohquad_inc"**, **"sentenca/d_faquad"** e **"sentenca/d_squard2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
+#### As pastas **"sentenca/cohquad_cohinc"**, **"sentenca/c_cohquad_coh"**, **"sentenca/c_cohquad_inc"**, **"sentenca/c_faquad"** e **"sentenca/c_squard2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
 
 
 **Links** para os arquivos de configuração do **Embedding Projector** para os conjuntos de dados:
@@ -64,26 +64,26 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - **CohQuAD Coh+Inc (en):** *config_cohquad_cohinc_ptbr_sentenca.json*: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_cohquad_cohinc_en_sentenca.json
 
-- **D(CohQuAD Coh, 20) (pt-br):** *config_d_cohquad_coh_ptbr_20_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_cohquad_coh_ptbr_20_sentenca.json
+- **C(CohQuAD Coh, 20) (pt-br):** *config_c_cohquad_coh_ptbr_20_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_cohquad_coh_ptbr_20_sentenca.json
 
-- **D(CohQuAD Coh, 20) (en):** *config_d_cohquad_coh_en_20_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_cohquad_coh_en_20_sentenca.json
+- **C(CohQuAD Coh, 20) (en):** *config_c_cohquad_coh_en_20_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_cohquad_coh_en_20_sentenca.json
 
-- **D(CohQuAD Inc, 20) (pt-br):** *config_d_cohquad_inc_ptbr_20_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_cohquad_inc_ptbr_20_sentenca.json
+- **C(CohQuAD Inc, 20) (pt-br):** *config_c_cohquad_inc_ptbr_20_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_cohquad_inc_ptbr_20_sentenca.json
 
-- **D(CohQuAD Inc, 20) (en):** *config_d_cohquad_inc_en_20_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_cohquad_inc_en_20_sentenca.json
+- **C(CohQuAD Inc, 20) (en):** *config_c_cohquad_inc_en_20_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_cohquad_inc_en_20_sentenca.json
 
-- **20 D(20 DO FAQuAD, 20) (pt-br):** *config_d_faquad_ptbr_20_sentenca.json*:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_faquad_ptbr_20_sentenca.json
+- **20 C(20 DO FAQuAD, 20) (pt-br):** *config_c_faquad_ptbr_20_sentenca.json*:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_faquad_ptbr_20_sentenca.json
 
-- **20 D(20 DO SQuAD2, 20) (pt-br):** *config_d_squad2_ptbr_20_sentenca.json*:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_squad2_ptbr_20_sentenca.json
+- **20 C(20 DO SQuAD2, 20) (pt-br):** *config_c_squad2_ptbr_20_sentenca.json*:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_squad2_ptbr_20_sentenca.json
 
-- **D(20 DO SQuAD2, 20) (en):** *config_d_squad2_en_20_sentenca.json*:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_d_squad2_en_20_sentenca.json
+- **C(20 DO SQuAD2, 20) (en):** *config_c_squad2_en_20_sentenca.json*:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/sentenca/config_c_squad2_en_20_sentenca.json
 
 ### 3.2 Projeções dos *embeddings* de palavras
 Projeções de *embeddings* das palavras consolidados pela média dos *embeddings* dos tokens para as palavras que estão fora do vocabulário do modelo. Os *embeddings* dos tokens são recuperados das 4 últimas camadas do **BERTimbau Large** em português ou **BERT Large** em inglês e concatenados.
@@ -100,7 +100,7 @@ As projeções dos *embeddings* de palavras podem se relacionar com os seguintes
 - Próximo token da sentença
 - Sentença
 
-#### As pastas **"token/cohquad_cohinc"**, **"token/d_cohquad_coh"**, **"token/d_cohquad_inc"**, **"token/d_faquad"** e **"token/d_squard2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
+#### As pastas **"token/cohquad_cohinc"**, **"token/c_cohquad_coh"**, **"token/c_cohquad_inc"**, **"token/c_faquad"** e **"token/c_squard2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
 
 **Links** para os arquivos de configuração do **Embedding Projector** dos conjuntos de dados:
 
@@ -116,47 +116,47 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 	- **Com linhas** *config_cohquad_cohinc_en_token_next.json*: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_cohquad_cohinc_en_token_next.json
 
-- **D(CohQuAD Coh, 20) (pt-br)**:
-	- **Sem linhas** *config_d_cohquad_coh_ptbr_20_token.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_coh_ptbr_20_token.json
-	- **Com linhas** *config_d_cohquad_coh_ptbr_20_token_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_coh_ptbr_20_token_next.json
+- **C(CohQuAD Coh, 20) (pt-br)**:
+	- **Sem linhas** *config_c_cohquad_coh_ptbr_20_token.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_coh_ptbr_20_token.json
+	- **Com linhas** *config_c_cohquad_coh_ptbr_20_token_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_coh_ptbr_20_token_next.json
 
-- **D(CohQuAD Coh, 20) (en)**:
-	- **Sem linhas** *config_d_cohquad_coh_en_20_token.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_coh_en_20_token.json
-	- **Com linhas** *config_d_cohquad_coh_en_20_token_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_coh_en_20_token_next.json
+- **C(CohQuAD Coh, 20) (en)**:
+	- **Sem linhas** *config_c_cohquad_coh_en_20_token.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_coh_en_20_token.json
+	- **Com linhas** *config_c_cohquad_coh_en_20_token_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_coh_en_20_token_next.json
 
-- **D(CohQuAD Inc, 20) (pt-br)**:
-	- **Sem linhas** *config_d_cohquad_inc_ptbr_20_token.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_inc_ptbr_20_token.json
-	- **Com linhas** *config_d_cohquad_inc_ptbr_20_token_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_inc_ptbr_20_token_next.json
+- **C(CohQuAD Inc, 20) (pt-br)**:
+	- **Sem linhas** *config_c_cohquad_inc_ptbr_20_token.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_inc_ptbr_20_token.json
+	- **Com linhas** *config_c_cohquad_inc_ptbr_20_token_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_inc_ptbr_20_token_next.json
 
-- **D(CohQuAD Inc, 20) (en)**:
-	- **Sem linhas** *config_d_cohquad_inc_en_20_token.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_inc_en_20_token.json
-	- **Com linhas** *config_d_cohquad_inc_en_20_token_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_cohquad_inc_en_20_token_next.json
+- **C(CohQuAD Inc, 20) (en)**:
+	- **Sem linhas** *config_c_cohquad_inc_en_20_token.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_inc_en_20_token.json
+	- **Com linhas** *config_c_cohquad_inc_en_20_token_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_cohquad_inc_en_20_token_next.json
 
-- **D(20 DO FaQuAD, 20)**:
-	- **Sem linhas** *config_d_faquad_ptbr_20_token.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_faquad_ptbr_20_token.json
-	- **Com linhas** *config_d_faquad_ptbr_20_token_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_faquad_ptbr_20_token_next.json
+- **C(20 DO FaQuAD, 20)**:
+	- **Sem linhas** *config_c_faquad_ptbr_20_token.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_faquad_ptbr_20_token.json
+	- **Com linhas** *config_c_faquad_ptbr_20_token_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_faquad_ptbr_20_token_next.json
 
-- **D(20 DO SQuAD2, 20) (pt-br)**:
-	- **Sem linhas** *config_d_squad2_ptbr_20_token.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_squad2_ptbr_20_token.json
-	- **Com linhas** *config_d_squad2_ptbr_20_token_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_squad2_ptbr_20_token_next.json
+- **C(20 DO SQuAD2, 20) (pt-br)**:
+	- **Sem linhas** *config_c_squad2_ptbr_20_token.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_squad2_ptbr_20_token.json
+	- **Com linhas** *config_c_squad2_ptbr_20_token_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_squad2_ptbr_20_token_next.json
 
-- **D(20 DO SQuAD2, 20) (en)**:
-	- **Sem linhas** *config_d_squad2_en_20_token.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_squad2_en_20_token.json
-	- **Com linhas** *config_d_squad2_en_20_token_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_d_squad2_en_20_token_next.json
+- **C(20 DO SQuAD2, 20) (en)**:
+	- **Sem linhas** *config_c_squad2_en_20_token.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_squad2_en_20_token.json
+	- **Com linhas** *config_c_squad2_en_20_token_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/config_c_squad2_en_20_token_next.json
 
 ### 3.3 Projeções dos *embeddings* de palavras e sentenças
 
@@ -176,7 +176,7 @@ As projeções dos *embeddings* de palavras e sentenças podem se relacionar com
 - Tipo Texto (0 - Palavra modificada, 1 Palavra Original, 2 - Sentença modificada, 3 - Sentença original)
 - Sentença
 
-#### As pastas **"token_sentenca/cohquad_cohinc"**, **"token_sentenca/d_cohquad_coh"**, **"token_sentenca/d_cohquad_inc"**, **"token_sentenca/d_faquad"** e **"token_sentenca/d_squad2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
+#### As pastas **"token_sentenca/cohquad_cohinc"**, **"token_sentenca/c_cohquad_coh"**, **"token_sentenca/c_cohquad_inc"**, **"token_sentenca/c_faquad"** e **"token_sentenca/c_squad2"**  possuem projeções dos *embeddings* separam os arquivos de dados dos conjuntos de dados.
 
 **Links** para os arquivos de configuração do **Embedding Projector** dos conjuntos de dados:
 
@@ -192,47 +192,47 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 	- **Com linhas** *config_cohquad_cohinc_en_token_sentenca_next.json* com linhas: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_cohquad_cohinc_en_token_sentenca_next.json
 
-- **D(CohQuAD Coh, 20) (pt-br)**:
-	- **Sem linhas** *config_d_cohquad_coh_ptbr_20_token_sentenca.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_coh_ptbr_20_token_sentenca.json
-	- **Com linhas** *config_d_cohquad_coh_ptbr_20_token_sentenca_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_coh_ptbr_20_token_sentenca_next.json
+- **C(CohQuAD Coh, 20) (pt-br)**:
+	- **Sem linhas** *config_c_cohquad_coh_ptbr_20_token_sentenca.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_coh_ptbr_20_token_sentenca.json
+	- **Com linhas** *config_c_cohquad_coh_ptbr_20_token_sentenca_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_coh_ptbr_20_token_sentenca_next.json
 
-- **D(CohQuAD Coh, 20) (en)**:
-	- **Sem linhas** *config_d_cohquad_coh_en_20_token_sentenca.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_coh_en_20_token_sentenca.json
-	- **Com linhas** *config_d_cohquad_coh_en_20_token_sentenca_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_coh_en_20_token_sentenca_next.json
+- **C(CohQuAD Coh, 20) (en)**:
+	- **Sem linhas** *config_c_cohquad_coh_en_20_token_sentenca.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_coh_en_20_token_sentenca.json
+	- **Com linhas** *config_c_cohquad_coh_en_20_token_sentenca_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_coh_en_20_token_sentenca_next.json
 
-- **D(CohQuAD Inc, 20) (pt-br)**:
-	- **Sem linhas** *config_d_cohquad_inc_ptbr_20_token_sentenca.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_inc_ptbr_20_token_sentenca.json
-	- **Com linhas** *config_d_cohquad_inc_ptbr_20_token_sentenca_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_inc_ptbr_20_token_sentenca_next.json
+- **C(CohQuAD Inc, 20) (pt-br)**:
+	- **Sem linhas** *config_c_cohquad_inc_ptbr_20_token_sentenca.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_inc_ptbr_20_token_sentenca.json
+	- **Com linhas** *config_c_cohquad_inc_ptbr_20_token_sentenca_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_inc_ptbr_20_token_sentenca_next.json
 
-- **D(CohQuAD Inc, 20) (en)**:
-	- **Sem linhas** *config_d_cohquad_inc_en_20_token_sentenca.json* sem linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_inc_en_20_token_sentenca.json
-	- **Com linhas** *config_d_cohquad_inc_en_20_token_sentenca_next.json* com linhas: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_cohquad_inc_en_20_token_sentenca_next.json
+- **C(CohQuAD Inc, 20) (en)**:
+	- **Sem linhas** *config_c_cohquad_inc_en_20_token_sentenca.json* sem linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_inc_en_20_token_sentenca.json
+	- **Com linhas** *config_c_cohquad_inc_en_20_token_sentenca_next.json* com linhas: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_cohquad_inc_en_20_token_sentenca_next.json
 
-- **D(20 DO FaQuAD, 20)**:
-	- **Sem linhas** *config_d_faquad_ptbr_20_token_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_faquad_ptbr_20_token_sentenca.json
-	- **Com linhas** *config_d_faquad_ptbr_20_token_sentenca_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_faquad_ptbr_20_token_sentenca_next.json
+- **C(20 DO FaQuAD, 20)**:
+	- **Sem linhas** *config_c_faquad_ptbr_20_token_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_faquad_ptbr_20_token_sentenca.json
+	- **Com linhas** *config_c_faquad_ptbr_20_token_sentenca_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_faquad_ptbr_20_token_sentenca_next.json
 
-- **D(20 DO SQuAD2, 20) (pt-br)**:
-	- **Sem linhas** *config_d_squad2_ptbr_20_token_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_squad2_ptbr_20_token_sentenca.json
-	- **Com linhas** *config_d_squad2_ptbr_20_token_sentenca_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_squad2_ptbr_20_token_sentenca_next.json
+- **C(20 DO SQuAD2, 20) (pt-br)**:
+	- **Sem linhas** *config_c_squad2_ptbr_20_token_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_ptbr_20_token_sentenca.json
+	- **Com linhas** *config_c_squad2_ptbr_20_token_sentenca_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_ptbr_20_token_sentenca_next.json
 
-- **D(20 DO SQuAD2, 20) (en)**:
-	- **Sem linhas** *config_d_squad2_en_20_token_sentenca.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_squad2_en_20_token_sentenca.json
-	- **Com linhas** *config_d_squad2_en_20_token_sentenca_next.json*: 
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_d_squad2_en_20_token_sentenca_next.json
+- **C(20 DO SQuAD2, 20) (en)**:
+	- **Sem linhas** *config_c_squad2_en_20_token_sentenca.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca.json
+	- **Com linhas** *config_c_squad2_en_20_token_sentenca_next.json*: 
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca_next.json
 
 ## Referências
 

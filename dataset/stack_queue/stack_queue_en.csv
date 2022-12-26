@@ -1,0 +1,107 @@
+topico;fonte;sentenca
+pilha;wikipedia;For the use of the term LIFO in accounting, see LIFO (accounting).
+pilha;wikipedia;For the use of the term pushdown in strength training, see Pushdown (exercise).
+pilha;wikipedia;For other uses, see Stack (disambiguation).
+pilha;wikipedia;Similar to a stack of plates, adding or removing is only possible at the top.
+pilha;wikipedia;Simple representation of a stack runtime with push and pop operations.
+pilha;wikipedia;In computer science, a stack is an abstract data type that serves as a collection of elements, with two main operations:
+pilha;wikipedia;Push, which adds an element to the collection, and Pop, which removes the most recently added element that was not yet removed.
+pilha;wikipedia;Additionally, a peek operation can, without modifying the stack, return the value of the last element added.
+pilha;wikipedia;Calling this structure a stack is by analogy to a set of physical items stacked one atop another, such as a stack of plates.
+pilha;wikipedia;The order in which an element added to or removed from a stack is described as last in, first out, referred to by the acronym LIFO.[nb 1] As with a stack of physical objects, this structure makes it easy to take an item off the top of the stack, but accessing a datum deeper in the stack may require taking off multiple other items first.
+pilha;wikipedia;Considered as a linear data structure, or more abstractly a sequential collection, the push and pop operations occur only at one end of the structure, referred to as the top of the stack.
+pilha;wikipedia;This data structure makes it possible to implement a stack as a singly linked list and as a pointer to the top element.
+pilha;wikipedia;A stack may be implemented to have a bounded capacity.
+pilha;wikipedia;If the stack is full and does not contain enough space to accept another element, the stack is in a state of stack overflow.
+pilha;wikipedia;A stack is needed to implement depth-first search.
+pilha;Thomas Cormen;Stacks and queues are dynamic sets in which the element removed from the set by the DELETE operation is prespecified.
+pilha;Thomas Cormen;In a stack, the element deleted from the set is the one most recently inserted: the stack implements a last-in, first-out, or LIFO, policy.
+pilha;Thomas Cormen;Similarly, in a queue, the element deleted is always the one that has been in the set for the longest time: the queue implements a first-in, first-out, or FIFO, policy.
+pilha;Thomas Cormen;There are several efficient ways to implement stacks and queues on a computer.
+pilha;Thomas Cormen;In this section we show how to use a simple array to implement each.
+pilha;Thomas Cormen;The INSERT operation on a stack is often called PUSH, and the DELETE operation, which does not take an element argument, is often called POP.
+pilha;Thomas Cormen;These names are allusions to physical stacks, such as the spring-loaded stacks of plates used in cafeterias.
+pilha;Thomas Cormen;The order in which plates are popped from the stack is the reverse of the order in which they were pushed onto the stack, since only the top plate is accessible.
+pilha;Thomas Cormen;As Figure 10.1 shows, we can implement a stack of at most n elements with an array S[1..n].
+pilha;Thomas Cormen;The array has an attribute S:top that indexes the most recently inserted element.
+pilha;Thomas Cormen;The stack consists of elements S[1..S.top], where S[1] is the element at the bottom of the stack and S[S.top] is the element at the top.
+pilha;Thomas Cormen;When S.top = 0, the stack contains no elements and is empty.
+pilha;Thomas Cormen;We can test to see whether the stack is empty by query operation STACK-EMPTY.
+pilha;Thomas Cormen;If we attempt to pop an empty stack, we say the stack underflows, which is normally an error.
+pilha;Thomas Cormen;If S.top exceeds n, the stack overflows.
+pilha;Thomas Cormen;(In our pseudocode implementation, we don’t worry about stack overflow.)
+pilha;Thomas Cormen;We can implement each of the stack operations with just a few lines of code:
+pilha;Thomas Cormen;STACK-EMPTY(S)
+pilha;Thomas Cormen;1 if S.top == 0
+pilha;Thomas Cormen;2 return TRUE
+pilha;Thomas Cormen;3 else return FALSE
+pilha;Thomas Cormen;PUSH(S,x)
+pilha;Thomas Cormen;1 S.top= S.top + 1
+pilha;Thomas Cormen;2 S[S.top] = x
+pilha;Thomas Cormen;POP(S)
+pilha;Thomas Cormen;1 if STACK-EMPTY(S)
+pilha;Thomas Cormen;2 error \“underflow\”
+pilha;Thomas Cormen;3 else S.top = S.top -1
+pilha;Thomas Cormen;4 return S[S.top + 1]
+pilha;Thomas Cormen;Figure 10.1 shows the effects of the modifying operations PUSH and POP.
+pilha;Thomas Cormen;Each of the three stack operations takes O(1) time.
+pilha;Thomas Cormen;Figure 10.2 A queue implemented using an array Q[1..12] Queue elements appear only in the lightly shaded positions.
+pilha;Thomas Cormen;(a) The queue has 5 elements, in locations Q[7..11].
+pilha;Thomas Cormen;(b) The configuration of the queue after the calls ENQUEUE(Q,17), ENQUEUE(Q,3), and ENQUEUE(Q,5).
+pilha;Thomas Cormen;(c) The configuration of the queue after the call DEQUEUE(Q) returns the key value 15 formerly at the head of the queue.
+pilha;Thomas Cormen;The new head has key 6.
+pilha;wikipedia;In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence.
+pilha;wikipedia;By convention, the end of the sequence at which elements are added is called the back, tail, or rear of the queue, and the end at which elements are removed is called the head or front of the queue, analogously to the words used when people line up to wait for goods or services.
+pilha;wikipedia;The operation of adding an element to the rear of the queue is known as enqueue, and the operation of removing an element from the front is known as dequeue.
+pilha;wikipedia;Other operations may also be allowed, often including a peek or front operation that returns the value of the next element to be dequeued without dequeuing it.
+pilha;wikipedia;The operations of a queue make it a first-in-first-out (FIFO) data structure.
+pilha;wikipedia;In a FIFO data structure, the first element added to the queue will be the first one to be removed.
+pilha;wikipedia;This is equivalent to the requirement that once a new element is added, all elements that were added before have to be removed before the new element can be removed.
+pilha;wikipedia;A queue is an example of a linear data structure, or more abstractly a sequential collection.
+pilha;wikipedia;Queues are common in computer programs, where they are implemented as data structures coupled with access routines, as an abstract data structure or in object-oriented languages as classes.
+pilha;wikipedia;Common implementations are circular buffers and linked lists.
+pilha;wikipedia;Queues provide services in computer science, transport, and operations research where various entities such as data, objects, persons, or events are stored and held to be processed later.
+pilha;wikipedia;In these contexts, the queue performs the function of a buffer.
+pilha;wikipedia;Another usage of queues is in the implementation of breadth-first search.
+pilha;wikipedia;Theoretically, one characteristic of a queue is that it does not have a specific capacity.
+pilha;wikipedia;Regardless of how many elements are already contained, a new element can always be added.
+pilha;wikipedia;It can also be empty, at which point removing an element will be impossible until a new element has been added again.
+pilha;wikipedia;Fixed-length arrays are limited in capacity, but it is not true that items need to be copied towards the head of the queue.
+pilha;wikipedia;The simple trick of turning the array into a closed circle and letting the head and tail drift around endlessly in that circle makes it unnecessary to ever move items stored in the array.
+pilha;wikipedia;If n is the size of the array, then computing indices modulo n will turn the array into a circle.
+pilha;wikipedia;This is still the conceptually simplest way to construct a queue in a high-level language, but it does admittedly slow things down a little, because the array indices must be compared to zero and the array size, which is comparable to the time taken to check whether an array index is out of bounds, which some languages do, but this will certainly be the method of choice for a quick and dirty implementation, or for any high-level language that does not have pointer syntax.
+pilha;wikipedia;The array size must be declared ahead of time, but some implementations simply double the declared array size when overflow occurs.
+pilha;wikipedia;Most modern languages with objects or pointers can implement or come with libraries for dynamic lists.
+pilha;wikipedia;Such data structures may have not specified a fixed capacity limit besides memory constraints.
+pilha;wikipedia;Queue overflow results from trying to add an element onto a full queue and queue underflow happens when trying to remove an element from an empty queue.
+pilha;wikipedia;A bounded queue is a queue limited to a fixed number of items.
+fila;Thomas Cormen;"We call the INSERT operation on a queue ENQUEUE, and we call the DELETE operation DEQUEUE; like the stack operation POP, DEQUEUE takes no element argument."
+fila;Thomas Cormen;The FIFO property of a queue causes it to operate like a line of customers waiting to pay a cashier.
+fila;Thomas Cormen;The queue has a head and a tail.
+fila;Thomas Cormen;When an element is enqueued, it takes its place at the tail of the queue, just as a newly arriving customer takes a place at the end of the line.
+fila;Thomas Cormen;The element dequeued is always the one at the head of the queue, like the customer at the head of the line who has waited the longest.
+fila;Thomas Cormen;Figure 10.2 shows one way to implement a queue of at most n-1 elements using an array Q[1..n].
+fila;Thomas Cormen;The queue has an attribute Q:head that indexes, or points to, its head.
+fila;Thomas Cormen;The attribute Q:tail indexes the next location at which a newly arriving element will be inserted into the queue.
+fila;Thomas Cormen;"The elements in the queue reside in locations Q.head;Q.head + 1;...;Q.tail - 1, where we “wrap around” in the sense that location 1 immediately follows location n in a circular order."
+fila;Thomas Cormen;When Q:head D Q:tail, the queue is empty.
+fila;Thomas Cormen;Initially, we have Q:head D Q:tail D 1.
+fila;Thomas Cormen;If we attempt to dequeue an element from an empty queue, the queue underflows.
+fila;Thomas Cormen;When Q.head = Q.tail + 1, the queue is full, and if we attempt to enqueue an element, then the queue overflows.
+fila;Thomas Cormen;In our procedures ENQUEUE and DEQUEUE, we have omitted the error checking for underflow and overflow.
+fila;Thomas Cormen;(Exercise 10.1-4 asks you to supply code that checks for these two error conditions.)
+fila;Thomas Cormen;The pseudocode assumes that n D Q:length.
+fila;Thomas Cormen;ENQUEUE(Q,x)
+fila;Thomas Cormen;1 Q[Q.tail] = x
+fila;Thomas Cormen;2 if Q.tail
+fila;Thomas Cormen;== Q.length
+fila;Thomas Cormen;3 Q.tail = 1
+fila;Thomas Cormen;4 else Q.tail = Q.tail + 1
+fila;Thomas Cormen;DEQUEUE(Q)
+fila;Thomas Cormen;1 x D Q[Q.head]
+fila;Thomas Cormen;2 if Q.head == Q.length
+fila;Thomas Cormen;3 Q.head = 1
+fila;Thomas Cormen;4 else Q.head D Q.head + 1
+fila;Thomas Cormen;5 return x
+fila;Thomas Cormen;Figure 10.2 shows the effects of the ENQUEUE and DEQUEUE operations.
+fila;Thomas Cormen;Each operation takes O.1/ time.
