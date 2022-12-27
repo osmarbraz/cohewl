@@ -1,10 +1,14 @@
 # COHEWL - Coherence at Word Level 
 
-Avaliando a coerência semântica em textos curtos a nível de palavras.
+## **COHEWL: Assessing the Semantic Coherence of Short~Text at the Word~Level**
 
-## **Resumo**
+COHEWL: Avaliando a coerência semântica de texto curto a nível da palavra
 
-Colocar o resumo aqui.
+## **Abstract**
+
+Most text coherence models proposed in the literature are trained and evaluated based on sentence ordering and semantic similarity of neighbor sentences. Thus, they can not be applied to short text and do not consider incoherences caused by particular words. This work proposes a framework called COHEWL (COHErence at Word Level) that supports contrastive data generation by exchanging particular words with other ones that fit in the context of short documents, and coeherence classification and measurement based on the semantics of particular words, using alternative methods to compare their results. Experiments with short documents with questions typical of QA in Portuguese and English showed that BERT properly trained for the task of discriminating original documents from those with an changed word achieves accuracies between 80% and 99.88%. However, coherence measures based on average similarities of BERT embeddings do not allow discriminating these documents, while top coherence measures based on a domain specific corpus allowed accuracies superior to 95%.
+
+**Keywords**: Textual Coherence, Word Semantics, BERT, Topic Models 
 
 ## **Diretórios**
 
