@@ -1,6 +1,6 @@
 # COHEWL - Coherence at Word Level 
 
-## **COHEWL: Assessing the Semantic Coherence of Short~Text at the Word~Level**
+## **COHEWL: Assessing the Semantic Coherence of Short Text at the Word~Level**
 
 COHEWL: Avaliando a coerência semântica de texto curto a nível da palavra
 
