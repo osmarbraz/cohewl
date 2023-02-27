@@ -238,6 +238,19 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 	- **With lines** *config_c_squad2_en_20_token_sentenca_next.json*: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca_next.json
 
+## Citing & Authors
+
+If you find this repository useful, feel free to cite our [publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349367):
+
+```bibtex 
+@@article{brazfileto-2022-cohewl,
+    title = "Cohewl: Assessing the Semantic Coherence of Short Text at The Word Level",
+    author = "Braz Junior, Osmar de Oliveira and Fileto, Renato",    
+    journal = {Available at SSRN 4349367},
+    url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349367}        
+}
+```
+
 ## References
 
 **BERTimbau** : Souza, F., Nogueira, R., Lotufo, R., 2020. Bertimbau: Pretrained bert models for brazilian portuguese, in: Brazilian Conference on Intelligent Systems, Springer. Springer, Rio Grande, Brazil. pp. 403–417. https://link.springer.com/chapter/10.1007/978-3-030-61377-8_28
