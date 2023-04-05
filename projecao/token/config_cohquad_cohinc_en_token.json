@@ -121,5 +121,5 @@
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token/cohquad_cohinc_en/DO20_meta_token_DO_PERTDO_P1_CLASSE_4096_large_POOL.tsv"
     }	
   ],
-  "modelCheckpointPath": "<b>CohQuad Coh+Inc (pt-br) - Embeddings de Palavras"
+  "modelCheckpointPath": "<b>CohQuad Coh+Inc (en) - Embeddings de Palavras"
 }
