@@ -1,29 +1,29 @@
-Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
-O	PRON	0	16	16	1	0	0	1	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-que	PRON	0	16	16	1	0	1	2	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-é	AUX	0	16	16	1	0	2	3	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-uma	DET	0	16	16	1	0	3	4	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-fila	NOUN	1	16	16	1	1	4	5	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-e	CCONJ	0	16	16	1	0	5	6	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-como	SCONJ	0	16	16	1	0	6	7	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-enfileirar	VERB	1	16	16	1	0	7	8	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-e	CCONJ	0	16	16	1	0	8	9	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-desenfileirar	ADV	1	16	16	1	0	9	10	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-seus	DET	0	16	16	1	0	10	11	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-elementos	NOUN	0	16	16	1	0	11	12	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-?	PUNCT	0	16	16	1	0	12	13	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-0	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'CCONJ', 'ADV', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]	16	16	1	-1	-1		1	3	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
-O	PRON	0	16_pert_0	16	0	0	0	15	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-que	PRON	0	16_pert_0	16	0	0	1	16	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-é	AUX	0	16_pert_0	16	0	0	2	17	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-uma	DET	0	16_pert_0	16	0	0	3	18	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-pilha	NOUN	0	16_pert_0	16	0	1	4	19	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-e	CCONJ	0	16_pert_0	16	0	0	5	20	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-como	SCONJ	0	16_pert_0	16	0	0	6	21	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-enfileirar	VERB	1	16_pert_0	16	0	0	7	22	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-e	CCONJ	0	16_pert_0	16	0	0	8	23	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-desenfileirar	ADV	1	16_pert_0	16	0	0	9	24	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-seus	DET	0	16_pert_0	16	0	0	10	25	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-elementos	NOUN	0	16_pert_0	16	0	0	11	26	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-?	PUNCT	0	16_pert_0	16	0	0	12	27	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
-1	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'CCONJ', 'ADV', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]	16_pert_0	16	0	-1	-1		1	2	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+O	PRON	0	16	16	1	0	0	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+que	PRON	0	16	16	1	0	1	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+é	AUX	0	16	16	1	0	2	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+uma	DET	0	16	16	1	0	3	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+fila	NOUN	1	16	16	1	1	4	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+e	CCONJ	0	16	16	1	0	5	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+como	SCONJ	0	16	16	1	0	6	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+enfileirar	VERB	1	16	16	1	0	7	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+e	CCONJ	0	16	16	1	0	8	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+desenfileirar	ADV	1	16	16	1	0	9	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+seus	DET	0	16	16	1	0	10	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+elementos	NOUN	0	16	16	1	0	11	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+?	PUNCT	0	16	16	1	0	12	0	1	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+0	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'CCONJ', 'ADV', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]	16	16	1	-1	-1	1	3	O que é uma fila e como enfileirar e desenfileirar seus elementos ?
+O	PRON	0	16_pert_0	16	0	0	0	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+que	PRON	0	16_pert_0	16	0	0	1	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+é	AUX	0	16_pert_0	16	0	0	2	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+uma	DET	0	16_pert_0	16	0	0	3	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+pilha	NOUN	0	16_pert_0	16	0	1	4	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+e	CCONJ	0	16_pert_0	16	0	0	5	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+como	SCONJ	0	16_pert_0	16	0	0	6	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+enfileirar	VERB	1	16_pert_0	16	0	0	7	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+e	CCONJ	0	16_pert_0	16	0	0	8	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+desenfileirar	ADV	1	16_pert_0	16	0	0	9	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+seus	DET	0	16_pert_0	16	0	0	10	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+elementos	NOUN	0	16_pert_0	16	0	0	11	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+?	PUNCT	0	16_pert_0	16	0	0	12	0	0	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?
+1	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'CCONJ', 'ADV', 'DET', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]	16_pert_0	16	0	-1	-1	1	2	O que é uma pilha e como enfileirar e desenfileirar seus elementos ?

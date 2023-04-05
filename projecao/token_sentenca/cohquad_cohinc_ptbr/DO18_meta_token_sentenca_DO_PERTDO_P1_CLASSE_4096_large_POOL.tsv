@@ -1,31 +1,31 @@
-Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
-Como	ADV	0	18	18	1	0	0	1	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-são	AUX	0	18	18	1	0	1	2	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-implementadas	VERB	1	18	18	1	0	2	3	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-as	DET	0	18	18	1	0	3	4	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-operações	NOUN	0	18	18	1	0	4	5	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-de	SCONJ	0	18	18	1	0	5	6	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-enfileirar	VERB	1	18	18	1	0	6	7	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-e	CCONJ	0	18	18	1	0	7	8	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-desenfileirar	DET	1	18	18	1	0	8	9	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-elementos	NOUN	0	18	18	1	0	9	10	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-em	ADP	0	18	18	1	0	10	11	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-uma	DET	0	18	18	1	0	11	12	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-fila	NOUN	1	18	18	1	1	12	13	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-?	PUNCT	0	18	18	1	0	13	14	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-0	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]	18	18	1	-1	-1		1	3	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
-Como	ADV	0	18_pert_0	18	0	0	0	16	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-são	AUX	0	18_pert_0	18	0	0	1	17	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-implementadas	VERB	1	18_pert_0	18	0	0	2	18	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-as	DET	0	18_pert_0	18	0	0	3	19	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-operações	NOUN	0	18_pert_0	18	0	0	4	20	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-de	SCONJ	0	18_pert_0	18	0	0	5	21	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-enfileirar	VERB	1	18_pert_0	18	0	0	6	22	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-e	CCONJ	0	18_pert_0	18	0	0	7	23	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-desenfileirar	DET	1	18_pert_0	18	0	0	8	24	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-elementos	NOUN	0	18_pert_0	18	0	0	9	25	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-em	ADP	0	18_pert_0	18	0	0	10	26	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-uma	DET	0	18_pert_0	18	0	0	11	27	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-pilha	NOUN	0	18_pert_0	18	0	1	12	28	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-?	PUNCT	0	18_pert_0	18	0	0	13	29	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
-1	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]	18_pert_0	18	0	-1	-1		1	2	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+Como	ADV	0	18	18	1	0	0	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+são	AUX	0	18	18	1	0	1	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+implementadas	VERB	1	18	18	1	0	2	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+as	DET	0	18	18	1	0	3	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+operações	NOUN	0	18	18	1	0	4	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+de	SCONJ	0	18	18	1	0	5	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+enfileirar	VERB	1	18	18	1	0	6	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+e	CCONJ	0	18	18	1	0	7	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+desenfileirar	DET	1	18	18	1	0	8	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+elementos	NOUN	0	18	18	1	0	9	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+em	ADP	0	18	18	1	0	10	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+uma	DET	0	18	18	1	0	11	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+fila	NOUN	1	18	18	1	1	12	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+?	PUNCT	0	18	18	1	0	13	0	1	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+0	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]	18	18	1	-1	-1	1	3	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila ?
+Como	ADV	0	18_pert_0	18	0	0	0	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+são	AUX	0	18_pert_0	18	0	0	1	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+implementadas	VERB	1	18_pert_0	18	0	0	2	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+as	DET	0	18_pert_0	18	0	0	3	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+operações	NOUN	0	18_pert_0	18	0	0	4	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+de	SCONJ	0	18_pert_0	18	0	0	5	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+enfileirar	VERB	1	18_pert_0	18	0	0	6	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+e	CCONJ	0	18_pert_0	18	0	0	7	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+desenfileirar	DET	1	18_pert_0	18	0	0	8	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+elementos	NOUN	0	18_pert_0	18	0	0	9	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+em	ADP	0	18_pert_0	18	0	0	10	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+uma	DET	0	18_pert_0	18	0	0	11	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+pilha	NOUN	0	18_pert_0	18	0	1	12	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+?	PUNCT	0	18_pert_0	18	0	0	13	0	0	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?
+1	['ADV', 'AUX', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]	18_pert_0	18	0	-1	-1	1	2	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha ?

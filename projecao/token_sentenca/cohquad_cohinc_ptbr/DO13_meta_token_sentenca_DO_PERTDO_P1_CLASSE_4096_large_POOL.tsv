@@ -1,27 +1,27 @@
-Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	__next__	Granularidade	Tipo_Texto	Sentença
-O	PRON	0	13	13	1	0	0	1	0	1	O que é uma fila e como enfileirar um elemento nela ?
-que	PRON	0	13	13	1	0	1	2	0	1	O que é uma fila e como enfileirar um elemento nela ?
-é	AUX	0	13	13	1	0	2	3	0	1	O que é uma fila e como enfileirar um elemento nela ?
-uma	DET	0	13	13	1	0	3	4	0	1	O que é uma fila e como enfileirar um elemento nela ?
-fila	NOUN	1	13	13	1	1	4	5	0	1	O que é uma fila e como enfileirar um elemento nela ?
-e	CCONJ	0	13	13	1	0	5	6	0	1	O que é uma fila e como enfileirar um elemento nela ?
-como	ADV	0	13	13	1	0	6	7	0	1	O que é uma fila e como enfileirar um elemento nela ?
-enfileirar	VERB	1	13	13	1	0	7	8	0	1	O que é uma fila e como enfileirar um elemento nela ?
-um	DET	0	13	13	1	0	8	9	0	1	O que é uma fila e como enfileirar um elemento nela ?
-elemento	NOUN	0	13	13	1	0	9	10	0	1	O que é uma fila e como enfileirar um elemento nela ?
-nela	PRON	0	13	13	1	0	10	11	0	1	O que é uma fila e como enfileirar um elemento nela ?
-?	PUNCT	0	13	13	1	0	11	12	0	1	O que é uma fila e como enfileirar um elemento nela ?
-0	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'ADV', 'VERB', 'DET', 'NOUN', 'PRON', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]	13	13	1	-1	-1		1	3	O que é uma fila e como enfileirar um elemento nela ?
-O	PRON	0	13_pert_0	13	0	0	0	14	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-que	PRON	0	13_pert_0	13	0	0	1	15	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-é	AUX	0	13_pert_0	13	0	0	2	16	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-uma	DET	0	13_pert_0	13	0	0	3	17	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-pilha	NOUN	0	13_pert_0	13	0	1	4	18	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-e	CCONJ	0	13_pert_0	13	0	0	5	19	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-como	SCONJ	0	13_pert_0	13	0	0	6	20	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-enfileirar	VERB	1	13_pert_0	13	0	0	7	21	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-um	DET	0	13_pert_0	13	0	0	8	22	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-elemento	NOUN	0	13_pert_0	13	0	0	9	23	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-nela	PRON	0	13_pert_0	13	0	0	10	24	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-?	PUNCT	0	13_pert_0	13	0	0	11	25	0	0	O que é uma pilha e como enfileirar um elemento nela ?
-1	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'DET', 'NOUN', 'PRON', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	13_pert_0	13	0	-1	-1		1	2	O que é uma pilha e como enfileirar um elemento nela ?
+Token	POS-Tag	OOV	Id	Origem	Classe	Perturbada	Index	Granularidade	Tipo_Texto	Sentença
+O	PRON	0	13	13	1	0	0	0	1	O que é uma fila e como enfileirar um elemento nela ?
+que	PRON	0	13	13	1	0	1	0	1	O que é uma fila e como enfileirar um elemento nela ?
+é	AUX	0	13	13	1	0	2	0	1	O que é uma fila e como enfileirar um elemento nela ?
+uma	DET	0	13	13	1	0	3	0	1	O que é uma fila e como enfileirar um elemento nela ?
+fila	NOUN	1	13	13	1	1	4	0	1	O que é uma fila e como enfileirar um elemento nela ?
+e	CCONJ	0	13	13	1	0	5	0	1	O que é uma fila e como enfileirar um elemento nela ?
+como	ADV	0	13	13	1	0	6	0	1	O que é uma fila e como enfileirar um elemento nela ?
+enfileirar	VERB	1	13	13	1	0	7	0	1	O que é uma fila e como enfileirar um elemento nela ?
+um	DET	0	13	13	1	0	8	0	1	O que é uma fila e como enfileirar um elemento nela ?
+elemento	NOUN	0	13	13	1	0	9	0	1	O que é uma fila e como enfileirar um elemento nela ?
+nela	PRON	0	13	13	1	0	10	0	1	O que é uma fila e como enfileirar um elemento nela ?
+?	PUNCT	0	13	13	1	0	11	0	1	O que é uma fila e como enfileirar um elemento nela ?
+0	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'ADV', 'VERB', 'DET', 'NOUN', 'PRON', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]	13	13	1	-1	-1	1	3	O que é uma fila e como enfileirar um elemento nela ?
+O	PRON	0	13_pert_0	13	0	0	0	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+que	PRON	0	13_pert_0	13	0	0	1	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+é	AUX	0	13_pert_0	13	0	0	2	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+uma	DET	0	13_pert_0	13	0	0	3	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+pilha	NOUN	0	13_pert_0	13	0	1	4	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+e	CCONJ	0	13_pert_0	13	0	0	5	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+como	SCONJ	0	13_pert_0	13	0	0	6	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+enfileirar	VERB	1	13_pert_0	13	0	0	7	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+um	DET	0	13_pert_0	13	0	0	8	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+elemento	NOUN	0	13_pert_0	13	0	0	9	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+nela	PRON	0	13_pert_0	13	0	0	10	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+?	PUNCT	0	13_pert_0	13	0	0	11	0	0	O que é uma pilha e como enfileirar um elemento nela ?
+1	['PRON', 'PRON', 'AUX', 'DET', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'DET', 'NOUN', 'PRON', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	13_pert_0	13	0	-1	-1	1	2	O que é uma pilha e como enfileirar um elemento nela ?
