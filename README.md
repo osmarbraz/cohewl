@@ -4,9 +4,9 @@
 
 ## **Abstract**
 
-Most text coherence models proposed in the literature focus on sentence ordering and semantic similarity of neighboring sentences. Thus, they can not be applied to documents with just one sentence and do not consider incoherences caused by particular words. This work proposes a framework called COHEWL (COHErence at Word Level) for coherence  classification and measurement based on word semantics. COHEWL also supports contrastive data generation, by exchanging particular words with other ones that fit in the context of short documents. Experiments with documents containing single sentence questions typical of QA in Brazilian Portuguese and English showed that BERT properly trained for the task of discriminating original documents from those with a changed word achieves accuracy between 80% and 99.88%. However, coherence measures calculated with BERT embeddings are less adherent to the human perception of coherence in our dataset than topic coherence measures calculated using a topic model built on top of a domain specific corpus.
+Most text coherence models proposed in the literature focus on sentence ordering and semantic similarity of neighboring sentences. Thus, they can not be applied to documents with just one sentence and do not properly look at incoherences caused by particular words. This work proposes a framework called COHEWL (COHErence at Word Level) for assessing short document coherence at the word semantic level. COHEWL also supports contrastive data generation, by exchanging particular words with other ones that may fit in the context of short documents. Experiments with documents containing single sentence questions typical of QA in Brazilian Portuguese and English showed that BERT properly trained for the task of discriminating original documents from those with a changed word achieves accuracy between 80% and 99.88%. However, our experimental results did not show statistical relevant correlations of the BERT Masked Language Model (MLM) prediction rank with coherence measures based on average distances between embeddings produced by using BERT. In addition, in our manually made corpus of coherent and incoherent questions about data structures, coherence measures based on a topic model built from a few documents in this domain discriminate coherent documents from incoherent ones with much higher precision than the coherence measures derived from BERT embeddings.
 
-**Keywords**: Textual Coherence, Word Semantics, BERT, Topic Models 
+**Keywords**: Textual Coherence, Word Semantics, Language Models
 
 ## **Directory/folder**
 
@@ -238,14 +238,13 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 
 ## Citing & Authors
 
-If you find this repository useful, feel free to cite our [publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349367):
+If you find this repository useful, feel free to cite our publication:
 
 ```bibtex 
-@article{brazfileto-2022-cohewl,
+@article{brazfileto-2023-cohewl,
     title = "Cohewl: Assessing the Semantic Coherence of Short Text at The Word Level",
-    author = "Braz Junior, Osmar de Oliveira and Fileto, Renato",    
-    journal = {Available at SSRN 4349367},
-    url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349367}        
+    author = "Braz Junior, Osmar de Oliveira and Fileto, Renato"
+          
 }
 ```
 
