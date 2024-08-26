@@ -1,0 +1,162 @@
+#1
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar uma operação específica em uma fila, que é enfileirar elementos. Enfileirar (enqueue) é a operação utilizada em filas para adicionar elementos ao final da fila. Portanto, a pergunta está bem estruturada para solicitar informações sobre como adicionar elementos a uma fila, através da operação de enfileirar.
+
+#1_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma operação que não é aplicável à estrutura de dados pilha. Enfileirar (enqueue) é uma operação específica de filas, não de pilhas. Em pilhas, utiliza-se a operação empilhar (push) para adicionar elementos. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#2
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar uma operação específica em uma fila, que é desenfileirar elementos. Desenfileirar (dequeue) é a operação utilizada em filas para remover o elemento que está na frente da fila. Portanto, a pergunta está bem formulada para obter informações sobre como remover elementos de uma fila, através da operação de desenfileirar.
+
+#2_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma operação que não é aplicável à estrutura de dados pilha. Desenfileirar (dequeue) é uma operação específica de filas, não de pilhas. Em pilhas, utiliza-se a operação desempilhar (pop) para remover o elemento que está no topo da pilha. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#3
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar uma operação específica em uma pilha, que é empilhar elementos. Empilhar (push) é a operação utilizada em pilhas para adicionar um novo elemento no topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre como adicionar elementos a uma pilha, através da operação de empilhar.
+
+#3_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma operação que não é aplicável à estrutura de dados fila. "Empilhar" (push) é uma operação específica de pilhas, não de filas. Em filas, utiliza-se a operação de "enfileirar" (enqueue) para adicionar elementos. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#4
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar duas operações específicas em uma pilha: empilhar (push) e desempilhar (pop) elementos. Essas são operações fundamentais em estruturas de pilha, onde empilhar refere-se a adicionar um elemento no topo da pilha e desempilhar refere-se a remover o elemento do topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre como realizar essas operações em uma pilha.
+
+#4_pert
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar duas operações específicas em uma fila: empilhar (enqueue) e desempilhar (dequeue) elementos. Embora o termo "empilhar" seja mais comumente associado a pilhas, no contexto da pergunta, é entendido que se refere à operação de adicionar elementos à fila (enqueue), enquanto "desempilhar" (dequeue) se refere à operação de remover elementos da fila. Portanto, a pergunta é compreensível dentro do contexto de estruturas de dados, apesar de a terminologia poder ser mais específica se referindo diretamente às operações de fila.
+
+#5
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar uma operação específica em uma estrutura de dados do tipo pilha, que é empilhar elementos. A pergunta está bem formulada para obter informações sobre como adicionar elementos a uma pilha, através da operação de empilhar (push), que é a operação fundamental nesse tipo de estrutura de dados.
+
+#5_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma estrutura de dados que não existe na nomenclatura comum. A estrutura de dados correta é "fila" e não "estrutura de dados fila". Portanto, a frase não está gramaticalmente correta e não faz sentido dentro do contexto correto das estruturas de dados comuns.
+
+#6
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar duas operações específicas em uma estrutura de dados do tipo pilha: empilhar (push) e desempilhar (pop) elementos. Essas são operações fundamentais e exclusivas de estruturas de pilha, onde empilhar refere-se a adicionar um elemento no topo da pilha e desempilhar refere-se a remover o elemento do topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre como realizar essas operações em uma estrutura de dados pilha.
+
+#6_pert
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar duas operações específicas em uma estrutura de dados do tipo fila: empilhar (enqueue) e desempilhar (dequeue) elementos. Embora o termo "empilhar" seja mais comumente associado a pilhas, no contexto da pergunta, é entendido que se refere à operação de adicionar elementos à fila (enqueue), enquanto "desempilhar" (dequeue) se refere à operação de remover elementos da fila. Portanto, a pergunta é compreensível dentro do contexto de estruturas de dados, apesar de a terminologia poder ser mais específica se referindo diretamente às operações de fila.
+
+#7
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre como realizar uma operação específica em uma pilha, que é desempilhar elementos. Desempilhar (pop) é a operação padrão usada em estruturas de pilha para remover o elemento mais recentemente adicionado (topo da pilha). Portanto, a pergunta está bem formulada para obter informações sobre como realizar essa operação específica em uma pilha.
+
+#7_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma operação que não é aplicável à estrutura de dados fila. "Desempilhar" é uma operação específica de pilhas (stacks), onde se remove o último elemento adicionado (topo da pilha). Em filas, a operação correspondente para remover um elemento é "desenfileirar" (dequeue), que remove o elemento mais antigo da fila. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#8
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre como realizar uma operação específica em uma estrutura de dados do tipo pilha, que é desempilhar elementos. Desempilhar (pop) é a operação utilizada em pilhas para remover o elemento que está no topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre como realizar essa operação em uma estrutura de dados pilha.
+
+8_pert#
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque menciona uma operação que não é aplicável à estrutura de dados fila. "Desempilhar" é uma operação específica de pilhas (stacks), onde se remove o último elemento adicionado (topo da pilha). Em filas, a operação correspondente para remover um elemento é "desenfileirar" (dequeue), que remove o elemento mais antigo da fila. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#9
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e compreensível sobre o conceito de pilha e como realizar uma operação específica nessa estrutura de dados, que é empilhar seu elemento. "Empilhar" (push) é a operação utilizada em pilhas para adicionar um novo elemento no topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma pilha e como adicionar elementos a ela através da operação de empilhar.).
+
+#9_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. Uma fila é uma estrutura de dados que utiliza operações como "enfileirar" (enqueue) para adicionar elementos e "desenfileirar" (dequeue) para remover elementos. O termo "empilhar" (push) é utilizado em pilhas, não em filas. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#10
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de fila e como realizar uma operação específica nessa estrutura de dados, que é enfileirar seu elemento. "Enfileirar" (enqueue) é a operação utilizada em filas para adicionar um novo elemento ao final da fila. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma fila e como adicionar elementos a ela através da operação de enfileirar.
+
+#10_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. Uma pilha é uma estrutura de dados que utiliza operações como "empilhar" (push) para adicionar elementos e "desempilhar" (pop) para remover elementos. O termo "enfileirar" (enqueue) é utilizado em filas, não em pilhas. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#11
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de fila e como realizar uma operação específica nessa estrutura de dados, que é desenfileirar um elemento. "Desenfileirar" (dequeue) é a operação utilizada em filas para remover o elemento que está na frente da fila. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma fila e como remover elementos dela através da operação de desenfileirar.
+
+#11_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Desenfileirar" (dequeue) é uma operação específica de filas, onde se remove o elemento que está na frente da fila. Por outro lado, pilhas utilizam a operação "desempilhar" (pop) para remover o elemento que está no topo da pilha. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#12
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de pilha e como realizar uma operação específica nessa estrutura de dados, que é desempilhar um elemento. "Desempilhar" (pop) é a operação utilizada em pilhas para remover o elemento que está no topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma pilha e como remover elementos dela através da operação de desempilhar.
+
+#12_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Desempilhar" (pop) é uma operação específica de pilhas, onde se remove o elemento que está no topo da pilha. Por outro lado, filas utilizam a operação "desenfileirar" (dequeue) para remover o elemento que está na frente da fila. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#13
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de fila e como realizar uma operação específica nessa estrutura de dados, que é enfileirar um elemento. "Enfileirar" (enqueue) é a operação utilizada em filas para adicionar um novo elemento ao final da fila. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma fila e como adicionar elementos a ela através da operação de enfileirar.
+
+#13_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Enfileirar" (enqueue) é uma operação específica de filas, onde se adiciona um elemento ao final da fila. Por outro lado, pilhas utilizam a operação "empilhar" (push) para adicionar um elemento no topo da pilha. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#14
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de pilha e como realizar uma operação específica nessa estrutura de dados, que é empilhar um elemento. "Empilhar" (push) é a operação utilizada em pilhas para adicionar um novo elemento no topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma pilha e como adicionar elementos a ela através da operação de empilhar.
+
+#14_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Empilhar" (push) é uma operação específica de pilhas, onde se adiciona um elemento no topo da pilha. Por outro lado, filas utilizam a operação "enfileirar" (enqueue) para adicionar um elemento ao final da fila. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#15
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de pilha e as operações básicas relacionadas a ela, que são empilhar e desempilhar elementos. "Empilhar" (push) é a operação utilizada em pilhas para adicionar elementos no topo da pilha, enquanto "desempilhar" (pop) é utilizada para remover o elemento do topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre o que é uma pilha e como realizar suas operações básicas.
+
+#15_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Empilhar" (push) e "desempilhar" (pop) são operações específicas de pilhas, não de filas. Em filas, utilizamos as operações "enfileirar" (enqueue) para adicionar elementos ao final da fila e "desenfileirar" (dequeue) para remover o elemento que está na frente da fila. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo fila.
+
+#16
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e gramaticalmente correta sobre o conceito de fila e as operações básicas relacionadas a ela. "Enfileirar" refere-se à ação de adicionar um elemento ao final da fila, enquanto "desenfileirar" significa remover o elemento que está na frente da fila. Portanto, a pergunta está correta ao buscar entender o que é uma fila e como realizar essas operações fundamentais nessa estrutura de dados.
+
+#16_pert
+Resultado: <incoerente(0)>
+Justificativa: O texto é incoerente porque mistura conceitos de estruturas de dados de forma inadequada. "Enfileirar" e "desenfileirar" são operações específicas de filas, não de pilhas. Em pilhas, utilizamos as operações "empilhar" (push) para adicionar elementos e "desempilhar" (pop) para remover o elemento no topo da pilha. Portanto, a pergunta não faz sentido dentro do contexto correto das operações em estruturas de dados do tipo pilha.
+
+#17
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e específica sobre a implementação das operações de empilhar (push) e desempilhar (pop) em uma pilha. Essas operações são fundamentais para o funcionamento de uma pilha, onde "empilhar" significa adicionar um elemento no topo da pilha e "desempilhar" significa remover o elemento do topo da pilha. Portanto, a pergunta está bem formulada para obter informações sobre como essas operações são implementadas em uma estrutura de dados do tipo pilha.
+
+#17_pert
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e específica sobre a implementação das operações de empilhar (enqueue) e desempilhar (dequeue) em uma fila. Essas operações são fundamentais para o funcionamento de uma fila, onde "enfileirar" (enqueue) significa adicionar um elemento ao final da fila e "desenfileirar" (dequeue) significa remover o elemento que está na frente da fila. Portanto, a pergunta está bem formulada para obter informações sobre como essas operações são implementadas em uma estrutura de dados do tipo fila.
+
+#18
+Resultado: <coerente(1)>
+Justificativa: O texto é coerente porque formula uma pergunta clara e específica sobre a implementação das operações de enfileirar (enqueue) e desenfileirar (dequeue) em uma fila. Essas operações são exatamente as operações básicas que definem o comportamento de uma fila: "enfileirar" significa adicionar um elemento ao final da fila, e "desenfileirar" significa remover o elemento que está na frente da fila. Portanto, a pergunta está corretamente formulada para obter informações sobre como essas operações são implementadas em uma estrutura de dados do tipo fila.
+
+#18_pert
+Resultado: <incoerente(0)>
+Justificativa: A classificação é incoerente porque o texto faz uma pergunta sobre como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha. No entanto, em uma pilha, as operações correspondentes são empilhar (push) e desempilhar (pop), não enfileirar e desenfileirar.
+"Empilhar" (push): Adiciona um elemento no topo da pilha.
+"Desempilhar" (pop): Remove o elemento do topo da pilha.
+Portanto, o uso dos termos "enfileirar" e "desenfileirar" está incorreto quando se refere a uma estrutura de dados do tipo pilha.
+
+#19
+Resultado: <coerente(1)>
+Justificativa: A classificação é coerente porque a pergunta está corretamente formulada ao perguntar sobre a extremidade onde ocorre a operação de empilhar em uma pilha. Em uma pilha, a operação de empilhar (push) sempre ocorre no topo da pilha, adicionando o elemento mais recente. Portanto, a pergunta está alinhada com o comportamento esperado da estrutura de dados pilha.
+
+#19_pert
+Resultado: <incoerente(0)>
+Justificativa: A classificação é incoerente porque a operação de enfileirar não é uma operação que ocorre em uma pilha. A estrutura de dados pilha utiliza as operações de empilhar (push) e desempilhar (pop), onde a inserção e remoção de elementos acontecem apenas na extremidade superior (topo) da pilha. Por outro lado, a operação de enfileirar (enqueue) é específica para filas, onde a inserção ocorre no final da fila e a remoção ocorre no início da fila. Portanto, a pergunta está incorreta ao sugerir que enfileirar é uma operação válida em pilhas.
+
+#20
+Resultado: <coerente(1)>
+Justificativa: A classificação é coerente porque a operação de enfileirar (enqueue) em uma fila ocorre na extremidade posterior, também conhecida como final da fila. Nessa estrutura de dados, novos elementos são adicionados no final da fila, enquanto a remoção de elementos (desenfileirar, dequeue) ocorre no início da fila, na extremidade frontal. Portanto, a afirmativa de que a operação de enfileirar ocorre na extremidade posterior de uma fila está correta.
+
+#20_pert
+Resultado: <incoerente(0)>
+Justificativa: A classificação é incoerente porque a operação de empilhar não é realizada em filas. A operação de empilhar (push) é específica para pilhas (stacks), onde novos elementos são adicionados e removidos apenas na extremidade superior da pilha. Em contraste, em filas, a operação de enfileirar (enqueue) ocorre na extremidade posterior (final da fila), não na extremidade superior como ocorre em pilhas. Portanto, a afirmação de que a operação de empilhar ocorre em uma fila é incorreta.

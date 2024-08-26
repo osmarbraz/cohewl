@@ -1,0 +1,159 @@
+#1
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como enfileirar elementos em uma fila. A linguagem utilizada é simples e direta, não há ambiguidade ou duplo sentido. Além disso, a pergunta está bem estruturada e fácil de entender, o que facilita a compreensão do que está sendo perguntado. Portanto, a coerência do texto é alta, justificando a pontuação de 5.
+
+#1_pert
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como enfileirar elementos em uma pilha. A linguagem utilizada é simples e direta, não há ambiguidade ou duplo sentido. Além disso, a pergunta está bem estruturada e fácil de entender, o que facilita a compreensão do que está sendo perguntado. Notar que, em estruturas de dados, pilha é uma estrutura de dados que segue o princípio LIFO (Last In, First Out), ou seja, o último elemento adicionado é o primeiro a ser removido, o que torna a pergunta coerente e sensata. Portanto, a coerência do texto é alta, justificando a pontuação de 5.
+
+#2
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como desenfileirar elementos em uma fila. A linguagem utilizada é simples e direta, não há ambiguidade ou duplo sentido. Além disso, a pergunta está bem estruturada e fácil de entender, o que facilita a compreensão do que está sendo perguntado. Em estruturas de dados, fila é uma estrutura que segue o princípio FIFO (First In, First Out), ou seja, o primeiro elemento adicionado é o primeiro a ser removido, o que torna a pergunta coerente e sensata. A palavra "desenfileirar" é o oposto de "enfileirar", o que também contribui para a coerência da pergunta. Portanto, a coerência do texto é alta, justificando a pontuação de 5.
+
+#2_pert
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como desenfileirar elementos em uma pilha, o que sugere que o autor tem uma compreensão clara do conceito de pilha e está procurando uma solução para um problema específico. Além disso, a linguagem utilizada é simples e direta, o que facilita a compreensão do texto. A estrutura da pergunta também é lógica e fácil de seguir, o que contribui para a alta coerência do texto.
+
+#3
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como empilhar elementos em uma pilha. A linguagem utilizada é simples e direta, tornando fácil entender o que está sendo perguntado. Além disso, a estrutura da frase é correta e não há ambiguidades ou erros de gramática, o que contribui para a alta coerência do texto.
+
+#3_pert
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta direta e concisa sobre como empilhar elementos em uma fila. A linguagem utilizada é simples e fácil de entender, e a questão é bem definida, o que facilita a compreensão do que está sendo perguntado. Além disso, a pergunta é coerente em si mesma, pois está claro o que o autor está tentando perguntar. Portanto, a pontuação de coerência é alta, pois o texto apresenta uma estrutura lógica e fácil de entender.
+
+#4
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta direta e concisa sobre como empilhar e desempilhar elementos em uma pilha. A linguagem utilizada é simples e fácil de entender, e a questão é bem definida, o que facilita a compreensão do que está sendo perguntado. Além disso, a pergunta é coerente em si mesma, pois está claro o que o autor está tentando perguntar, e a relação entre empilhar e desempilhar é lógica e coerente no contexto de uma pilha. A pergunta também apresenta uma boa estrutura, pois aborda dois conceitos relacionados em uma única pergunta, o que torna a compreensão mais fácil. Portanto, a pontuação de coerência é alta, pois o texto apresenta uma estrutura lógica e fácil de entender.
+
+#4_pert
+Resultado: 3
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta direta e concisa sobre como empilhar e desempilhar elementos em uma fila. No entanto, a pergunta apresenta uma incoerência conceitual, pois filas não são estruturas de dados que permitem empilhar e desempilhar elementos, essa é uma característica de pilhas. Filas seguem a ordem FIFO (First-In-First-Out), ou seja, o primeiro elemento a entrar é o primeiro a sair. Portanto, a pergunta apresenta uma certa confusão entre conceitos, o que reduz a coerência do texto. A pontuação de coerência é média, pois a estrutura da pergunta é clara, mas a relação entre os conceitos apresentados não é coerente.
+
+#5
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como empilhar elementos em uma estrutura de dados pilha. A linguagem utilizada é simples e direta, e a estrutura da sentença é coerente e fácil de entender. Além disso, a pergunta é específica e bem definida, o que indica que o autor tem uma ideia clara do que está perguntando. Essas características sugerem que o texto tem uma alta coerência, merecendo uma pontuação de 5.
+
+#5_pert
+Resultado: 1
+Justificativa: O texto apresenta uma pergunta que parece confusa ou inconsistente. Uma fila (queue) é uma estrutura de dados que segue a ordem FIFO (First-In-First-Out), onde os elementos são adicionados ao final e removidos do início. Já uma pilha (stack) é uma estrutura de dados que segue a ordem LIFO (Last-In-First-Out), onde os elementos são adicionados e removidos do topo. A pergunta sobre como empilhar elementos em uma fila não faz sentido, pois as operações de empilhar e desempilhar são características de uma pilha, não de uma fila. Essa confusão entre conceitos sugere que o texto tem uma baixa coerência, merecendo uma pontuação de 1.
+
+#6
+Resultado: 5
+Justificativa: O texto apresenta uma pergunta clara e objetiva sobre como empilhar e desempilhar elementos em uma estrutura de dados pilha. As operações de empilhar e desempilhar são características fundamentais de uma pilha, e a pergunta demonstra um entendimento correto sobre o conceito. A linguagem utilizada é simples e direta, e a estrutura da sentença é coerente e fácil de entender. Além disso, a pergunta é específica e bem definida, o que indica que o autor tem uma ideia clara do que está perguntando. Essas características sugerem que o texto tem uma alta coerência, merecendo uma pontuação de 5.
+
+#6_pert
+Resultado: 2
+Justificativa: O texto apresenta uma pergunta que demonstra uma confusão entre conceitos de estruturas de dados. As operações de empilhar e desempilhar são características de uma pilha (stack), não de uma fila (queue). Embora a pergunta seja clara e objetiva, a escolha da estrutura de dados (fila) é inadequada para as operações mencionadas. Isso sugere que o autor pode ter uma compreensão parcial ou confusa sobre as estruturas de dados, o que reduz a coerência do texto. No entanto, a pergunta ainda é fácil de entender e apresenta uma linguagem simples, o que justifica uma pontuação de 2, intermediária entre alta e baixa coerência.
+
+#7
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa sobre como desempilhar elementos em uma pilha. A linguagem utilizada é simples e fácil de entender, e a pergunta é bem definida, o que torna fácil de compreender o que o autor está perguntando. Além disso, a pergunta é coerente em si mesma, pois desempilhar elementos é uma operação comum em estruturas de dados do tipo pilha. Portanto, a coerência do texto é alta.
+
+#7_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa sobre como desempilhar elementos em uma fila. No entanto, a pergunta apresenta uma incoerência conceitual, pois desempilhar é uma operação típica de estruturas de dados do tipo pilha, e não fila. Em uma fila, os elementos são removidos da frente ou do final da fila, mas não "desempilhados". Portanto, a coerência do texto é baixa, pois a pergunta não faz sentido no contexto de uma fila.
+
+#8
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa sobre como desempilhar elementos em uma estrutura de dados pilha. A linguagem utilizada é precisa e técnica, e a pergunta é bem definida e coerente com o conceito de pilha. Desempilhar é uma operação comum em estruturas de dados do tipo pilha, e a pergunta faz sentido no contexto de uma pilha. Além disso, a pergunta não apresenta ambiguidades ou contradições, o que torna a coerência do texto alta.
+
+#8_pert
+Resultado: 1
+Justificativa: O texto apresenta uma estrutura clara e objetiva, mas a pergunta em si é incoerente. Desempilhar é uma operação típica de estruturas de dados do tipo pilha, e não fila. Em uma fila, os elementos são removidos da frente ou do final da fila, mas não "desempilhados". A pergunta apresenta uma confusão conceitual entre as estruturas de dados pilha e fila, o que torna a coerência do texto baixa. Além disso, a pergunta não faz sentido no contexto de uma fila, o que torna a coerência ainda mais baixa.
+
+#9
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa que busca explicar um conceito específico (pilha) e como realizar uma ação relacionada a ele (empilhar elemento). A linguagem utilizada é simples e acessível, tornando fácil de entender o que está sendo perguntado. Além disso, a pergunta é autocontida e não apresenta ambiguidades, o que facilita a compreensão do assunto em questão. Portanto, a coerência do texto é alta, merecendo uma pontuação de 5.
+
+#9_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa que busca explicar um conceito específico (fila). No entanto, há uma incoerência entre o conceito apresentado (fila) e a ação mencionada (empilhar elemento). Empilhar é uma ação mais comummente associada a pilhas, e não a filas. Isso gera uma certa confusão e ambiguidade no texto, tornando mais difícil de entender o que está sendo perguntado. Portanto, a coerência do texto é baixa, merecendo uma pontuação de 2.
+
+#10
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa que busca explicar um conceito específico (fila) e como realizar uma ação relacionada a ele (enfileirar elemento). A linguagem utilizada é simples e acessível, tornando fácil de entender o que está sendo perguntado. Além disso, a pergunta é autocontida e não apresenta ambiguidades, pois "enfileirar" é uma ação que faz sentido no contexto de filas. Portanto, a coerência do texto é alta, merecendo uma pontuação de 5.
+
+#10_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa que busca explicar um conceito específico (pilha). No entanto, há uma incoerência entre o conceito apresentado (pilha) e a ação mencionada (enfileirar elemento). Enfileirar é uma ação mais comummente associada a filas, e não a pilhas. Isso gera uma certa confusão e ambiguidade no texto, tornando mais difícil de entender o que está sendo perguntado. Portanto, a coerência do texto é baixa, merecendo uma pontuação de 2.
+
+#11
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência pois apresenta uma estrutura clara e objetiva. Ele começa com uma pergunta que define o tema a ser abordado ("O que é uma fila?"), e em seguida, apresenta uma segunda parte que é uma continuação lógica da primeira, perguntando como realizar uma ação específica relacionada ao tema ("como desenfileirar um elemento nela?"). A conexão entre as duas partes é clara e fácil de entender, o que torna o texto coerente e fácil de seguir. Além disso, o texto não apresenta ambiguidades ou informações desnecessárias, o que contribui para sua alta coerência.
+
+#11_pert
+Resultado: 2
+Justificativa: O texto apresenta uma baixa coerência pois apresenta uma inconsistência entre as duas partes da pergunta. A primeira parte pergunta sobre o que é uma pilha, o que sugere que o texto está abordando o conceito de pilha. No entanto, a segunda parte da pergunta fala em desenfileirar um elemento, o que é uma operação típica de filas, e não de pilhas. Isso cria uma confusão e uma falta de conexão lógica entre as duas partes da pergunta, o que afeta a coerência do texto.
+
+#12
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa. A linguagem utilizada é simples e fácil de entender, e a ordem das palavras é lógica e coerente. Além disso, a pergunta é claramente dividida em duas partes: "O que é uma pilha" e "como desempilhar um elemento nela", o que facilita a compreensão do que está sendo perguntado. Não há ambiguidade ou confusão na linguagem, tornando o texto fácil de entender e responder.
+
+#12_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa. No entanto, há uma incoerência entre a primeira parte da pergunta ("O que é uma fila") e a segunda parte ("como desempilhar um elemento nela"). A palavra "desempilhar" é mais comummente associada a pilhas, e não a filas. Isso causa uma certa confusão e ambiguidade na linguagem, tornando o texto menos coerente. Além disso, a pergunta parece ter um erro conceitual, pois filas e pilhas são estruturas de dados diferentes, com operações diferentes.
+
+#13
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, começando com uma pergunta que define o tópico a ser abordado ("O que é uma fila") e, em seguida, especificando a ação a ser realizada sobre esse tópico ("e como enfileirar um elemento nela"). A linguagem é simples e direta, tornando fácil entender o que está sendo perguntado. Além disso, a pergunta é completa e autocontida, não requerendo informações adicionais para ser compreendida. Essas características contribuem para uma alta coerência do texto.
+
+#13_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura semelhante ao exemplo anterior, começando com uma pergunta que define o tópico a ser abordado ("O que é uma pilha") e, em seguida, especificando a ação a ser realizada sobre esse tópico ("e como enfileirar um elemento nela"). No entanto, há uma incoerência entre o tópico apresentado ("pilha") e a ação especificada ("enfileirar"), pois "enfileirar" é uma ação mais comummente associada a filas, e não a pilhas. Isso pode causar confusão e tornar o texto menos claro e menos coerente.
+
+#14
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, começando com uma pergunta que define o tópico a ser abordado ("O que é uma pilha") e, em seguida, especificando a ação a ser realizada sobre esse tópico ("e como empilhar um elemento nela"). A linguagem é simples e direta, e a ação especificada ("empilhar") é coerente com o tópico apresentado ("pilha"), pois empilhar é uma ação comummente associada a pilhas. Além disso, a pergunta é completa e autocontida, não requerendo informações adicionais para ser compreendida. Essas características contribuem para uma alta coerência do texto.
+
+#14_pert
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência porque apresenta uma pergunta clara e objetiva sobre um conceito específico (fila) e uma ação específica (empilhar um elemento nela). A estrutura da pergunta é simples e direta, o que facilita a compreensão do que está sendo perguntado. Além disso, a pergunta é concisa e não apresenta ambiguidades ou informações desnecessárias, o que contribui para a alta coerência do texto.
+
+#15
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência porque apresenta uma pergunta clara e objetiva sobre um conceito específico (pilha) e duas ações específicas relacionadas a ela (empilhar e desempilhar seus elementos). A estrutura da pergunta é simples e direta, o que facilita a compreensão do que está sendo perguntado. Além disso, a pergunta é concisa e apresenta uma lógica sequencial, começando pela definição do conceito e seguida pelas ações relacionadas a ele, o que contribui para a alta coerência do texto.
+
+#15_pert
+Resultado: 3
+Justificativa: O texto apresenta uma coerência média porque, embora apresente uma pergunta clara e objetiva sobre um conceito específico (fila), as ações mencionadas (empilhar e desempilhar) são mais comumente associadas a uma pilha, e não a uma fila. Isso pode causar confusão ou ambiguidade, pois as operações de empilhar e desempilhar não são típicas de uma fila. Além disso, a pergunta não é tão concisa e direta quanto poderia ser, o que pode afetar a compreensão do que está sendo perguntado.
+
+#16
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência porque apresenta uma pergunta clara e objetiva sobre um conceito específico (fila) e duas ações específicas relacionadas a ela (enfileirar e desenfileirar). As ações mencionadas são consistentes com o conceito de fila, o que mantém a coerência do texto. Além disso, a pergunta é concisa e direta, o que facilita a compreensão do que está sendo perguntado. A linguagem utilizada é precisa e apropriada para o contexto, o que contribui para a alta coerência do texto.
+
+#16_pert
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa que busca explicação sobre um conceito específico (pilha) e suas operações (enfileirar e desenfileirar). A linguagem utilizada é simples e fácil de entender, sem ambiguidades ou informações desnecessárias. Além disso, a pergunta está bem delimitada e não apresenta digressões, o que facilita a compreensão do que está sendo perguntado. Essas características contribuem para uma alta coerência do texto.
+
+#17
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência pois apresenta uma estrutura clara e objetiva. A pergunta é direta e específica, solicitando informações sobre como são implementadas as operações de empilhar e desempilhar elementos em uma pilha. A linguagem utilizada é técnica e apropriada para o contexto, não havendo ambiguidades ou informações desnecessárias. Além disso, a pergunta é concisa e fácil de entender, o que facilita a compreensão e a resposta.
+
+#17_pert
+Resultado: 3
+Justificativa: O texto apresenta uma coerência moderada pois, embora a estrutura da pergunta seja clara e objetiva, há uma inconsistência conceitual. A pergunta solicita informações sobre como são implementadas as operações de empilhar e desempilhar elementos em uma fila, mas essas operações são típicas de uma pilha (stack), e não de uma fila (queue). Isso pode gerar confusão e tornar a pergunta ambígua. Além disso, a linguagem utilizada é técnica e apropriada para o contexto, mas a pergunta pode ser mal formulada devido à troca de conceitos.
+
+#18
+Resultado: 5
+Justificativa: O texto apresenta uma alta coerência pois apresenta uma estrutura clara e objetiva. A pergunta é direta e específica, solicitando informações sobre como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila. A linguagem utilizada é técnica e apropriada para o contexto, e as operações mencionadas são consistentes com o conceito de fila (queue). A pergunta é concisa e fácil de entender, não havendo ambiguidades ou informações desnecessárias. Além disso, a utilização dos termos "enfileirar" e "desenfileirar" é correta e específica para o contexto de filas, o que aumenta a coerência do texto.
+
+#18_pert
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, com uma pergunta direta e concisa sobre como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha. A linguagem utilizada é simples e acessível, e a estrutura da frase é fácil de entender. Além disso, a pergunta é específica e focalizada em um tópico bem definido, o que sugere que o autor tem uma boa compreensão do assunto e sabe o que está perguntando. Essas características contribuem para uma alta coerência do texto.
+
+#19
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta específica sobre a operação de empilhar em uma pilha. A linguagem utilizada é simples e direta, sem ambiguidades ou erros de gramática. Além disso, a pergunta é bem definida e fácil de entender, o que torna o texto coerente e fácil de compreender.
+
+#19_pert
+Resultado: 2
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta específica sobre a operação de enfileirar em uma pilha. No entanto, a pergunta apresenta um erro conceitual, pois enfileirar é uma operação típica de filas, e não de pilhas. Isso pode causar confusão e tornar o texto menos coerente. Além disso, a linguagem utilizada é simples e direta, mas a pergunta em si é inconsistente com o conceito de pilha, o que diminui a coerência do texto.
+
+#20
+Resultado: 5
+Justificativa: O texto apresenta uma estrutura clara e objetiva, fazendo uma pergunta específica e consistente sobre a operação de enfileirar em uma fila. A linguagem utilizada é simples e direta, sem ambiguidades ou erros de gramática. Além disso, a pergunta é bem definida e fácil de entender, e a operação de enfileirar é uma operação típica de filas, o que torna o texto coerente e fácil de compreender. A resposta à pergunta também é óbvia, pois a operação de enfileirar ocorre na extremidade posterior da fila.
+
+#20_pert
+Resultado: 1
+Justificativa: O texto apresenta uma estrutura clara, mas a pergunta é inconsistente e confusa. A operação de empilhar não ocorre em uma fila, pois empilhar é uma operação típica de pilhas, e não de filas. Isso torna a pergunta sem sentido e impossível de responder de forma coerente. Além disso, a linguagem utilizada é simples e direta, mas a pergunta em si é errada e não faz sentido no contexto de filas, o que diminui drasticamente a coerência do texto.

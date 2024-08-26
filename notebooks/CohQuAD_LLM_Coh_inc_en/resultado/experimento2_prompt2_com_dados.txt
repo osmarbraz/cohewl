@@ -1,0 +1,239 @@
+#1
+Text:"How to enqueue elements in a queue?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#1_pert_0
+Text:"How to dequeue elements in a stack?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#2
+Text:"How to dequeue elements in a queue?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#2_pert_0
+Text:"How to dequeue elements in a stack?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#3
+Text:"How to push elements in a stack?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#3_pert_0
+Text:"How to push elements in a queue?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#4
+Text:"How to push and pop elements in a stack?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#4_pert_0
+Text:"How to push and pop elements in a queue?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#5
+Text:"How to push elements in a stack data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#5_pert_0
+Text:"How to push elements in a queue data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#6
+Text:"How to push and pop elements in a stack data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#6_pert_0
+Text:"How to push and pop elements in a queue data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#7
+Text:"How to pop elements from a stack?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#7_pert_0
+Text:"How to pop elements from a queue?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#8
+Text:"How to pop elements in a stack data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#8_pert_0
+Text:"How to pop elements in a queue data structure?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#9
+Text:"What is a stack and how to push its element?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#9_pert_0
+Text:"What is a queue and how to push its element?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#10
+Text:"What is a queue and how to enqueue its element?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#10_pert_0
+Text:"What is a stack and how to enqueue its element?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#11
+Text:"What is a queue and how to dequeue an element in it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#11_pert_0
+Text:"What is a stack and how to dequeue an element in it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#12
+Text:"What is a stack and how to pop an element from it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#12_pert_0
+Text:"What is a queue and how to pop an element from it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#13
+Text:"What is a queue and how to enqueue an element in it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#13_pert_0
+Text:"What is a stack and how to enqueue an element in it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#14
+Text:"What is a stack and how to push an element on it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#14_pert_0
+Text:"What is a queue and how to push an element on it?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#15
+Text:"What is a stack and how to push and pop its elements?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#15_pert_0
+Text:"What is a queue and how to push and pop its elements?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#16
+Text:"What is a queue and how to enqueue and dequeue its elements?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#16_pert_0
+Text:"What is a stack and how to enqueue and dequeue its elements?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#17
+Text:"How are the operations to push and pop elements in a stack implemented?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#17_pert_0
+Text:"How are the operations to push and pop elements in a queue implemented?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#18
+Text:"How are the operations to enqueue and dequeue elements in a queue implemented?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#18_pert_0
+Text:"How are the operations to enqueue and dequeue elements in a stack implemented?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#19
+Text:"In a stack does the pop operation occur at which end?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#19_pert_0
+Text:"In a stack does the enqueue operation occur at which end?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#20
+Text:"In a queue does the enqueue operation occur at which end?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>
+
+#20_pert_0
+Text:"In a queue does the push operation occur at which end?"
+Task: Given the text above, provide a text coherence score (5 - high, 1 - low) and justify your answer in the format below:
+Result: <SCORE>
+Justification: <JUSTIFICATION>

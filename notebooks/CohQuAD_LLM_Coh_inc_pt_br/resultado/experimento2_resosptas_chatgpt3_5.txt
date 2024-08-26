@@ -1,0 +1,159 @@
+#1
+Resultado: 5
+Justificativa: O texto é curto, mas claro e direto ao ponto. A pergunta "Como enfileirar elementos em uma fila?" é uma sentença completa e bem formulada, que não apresenta ambiguidades ou problemas gramaticais. A questão é específica e compreensível, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#1_pert
+Resultado: 3
+Justificativa: O texto é gramaticalmente correto e claro, mas apresenta um problema conceitual. A operação de enfileirar (enqueue) elementos é associada a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de empilhar (push) e desempilhar (pop). Esse erro conceitual afeta a coerência do texto, pois a pergunta resulta em uma confusão sobre as estruturas de dados e suas operações corretas.4
+
+#2
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como desenfileirar elementos em uma fila?" está correta e faz sentido, pois "desenfileirar" (dequeue) é uma operação típica realizada em uma fila (queue). A frase é específica e direta ao ponto, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#2_pert
+Resultado: 2
+Justificativa: Embora o texto seja gramaticalmente correto e claro, ele contém um erro conceitual que afeta a coerência. A operação de "desenfileirar" (dequeue) é associada a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de "empilhar" (push) e "desempilhar" (pop). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#3
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como empilhar elementos em uma pilha?" está correta e faz sentido, pois "empilhar" (push) é uma operação típica realizada em uma pilha (stack). A frase é específica e direta ao ponto, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#3_pert
+Resultado: 2
+Justificativa: Embora o texto seja gramaticalmente correto e claro, ele contém um erro conceitual que afeta a coerência. A operação de "empilhar" (push) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#4
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como empilhar e desempilhar elementos em uma pilha?" está correta e faz sentido, pois "empilhar" (push) e "desempilhar" (pop) são operações típicas realizadas em uma pilha (stack). A frase é específica e direta ao ponto, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#4_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto e claro, mas apresenta um erro conceitual que afeta a coerência. As operações de "empilhar" (push) e "desempilhar" (pop) são associadas a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Este erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#5
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como empilhar elementos em uma estrutura de dados pilha?" está correta e faz sentido, pois "empilhar" (push) é uma operação típica realizada em uma pilha (stack). A frase especifica corretamente a estrutura de dados em questão, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#5_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto e claro, mas contém um erro conceitual que afeta a coerência. A operação de "empilhar" (push) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#6
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como empilhar e desempilhar elementos em uma estrutura de dados pilha?" está correta e faz sentido, pois "empilhar" (push) e "desempilhar" (pop) são operações típicas realizadas em uma pilha (stack). A frase especifica corretamente a estrutura de dados em questão e as operações que deseja entender, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#6_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, porém apresenta um erro conceitual que afeta a coerência. As operações de "empilhar" (push) e "desempilhar" (pop) são associadas a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#7
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como desempilhar elementos em uma pilha?" está correta e faz sentido, pois "desempilhar" (pop) é uma operação típica realizada em uma pilha (stack). A frase é específica e direta ao ponto, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#7_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "desempilhar" (pop) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#8
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "Como desempilhar elementos em uma estrutura de dados pilha?" está correta e faz sentido, pois "desempilhar" (pop) é uma operação típica realizada em uma pilha (stack). A frase especifica corretamente a estrutura de dados em questão e a operação que deseja entender, indicando claramente o que está sendo solicitado. Portanto, o texto é altamente coerente.
+
+#8_pert5
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "desempilhar" (pop) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, mas ele ainda é compreensível, justificando uma pontuação de 2.
+
+#9
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma pilha e como empilhar seu elemento?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de pilha, enquanto a segunda parte aborda especificamente a operação de "empilhar" (push) elementos em uma pilha (stack). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#9_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A segunda parte da frase "como empilhar seu elemento?" está incorreta, pois a operação de "empilhar" (push) não é realizada em filas (queues), mas sim em pilhas (stacks). Filas utilizam operações de "enfileirar" (enqueue) para adicionar elementos. Esse erro conceitual compromete a coerência do texto, justificando uma pontuação de 2.
+
+#10
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma fila e como enfileirar seu elemento?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de fila, enquanto a segunda parte aborda especificamente a operação de "enfileirar" (enqueue) elementos em uma fila (queue). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#10_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "enfileirar" (enqueue) é associada a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de "empilhar" (push) e "desempilhar" (pop). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#11
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma fila e como desenfileirar um elemento nela?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de fila, enquanto a segunda parte aborda especificamente a operação de "desenfileirar" (dequeue) um elemento de uma fila (queue). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#11_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "desenfileirar" (dequeue) é associada a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de "empilhar" (push) e "desempilhar" (pop). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.5
+
+#12
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma pilha e como desempilhar um elemento nela?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de pilha, enquanto a segunda parte aborda especificamente a operação de "desempilhar" (pop) um elemento de uma pilha (stack). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#12_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "desempilhar" (pop) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#13
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma fila e como enfileirar um elemento nela?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de fila, enquanto a segunda parte aborda especificamente a operação de "enfileirar" (enqueue) um elemento em uma fila (queue). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#13_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "enfileirar" (enqueue) é associada a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de "empilhar" (push) e "desempilhar" (pop). Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#14
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma pilha e como empilhar um elemento nela?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de pilha, enquanto a segunda parte aborda especificamente a operação de "empilhar" (push) um elemento em uma pilha (stack). A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#14_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. A operação de "empilhar" (push) é associada a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) para adicionar elementos. Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#15
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma pilha e como empilhar e desempilhar seus elementos?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de pilha, enquanto a segunda parte aborda duas operações distintas e corretas para uma pilha: "empilhar" (push) e "desempilhar" (pop) elementos. A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#15_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. As operações de "empilhar" (push) e "desempilhar" (pop) são associadas a pilhas (stacks) e não a filas (queues). Filas utilizam operações de "enfileirar" (enqueue) para adicionar elementos e "desenfileirar" (dequeue) para remover elementos. Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#16
+Resultado: 5
+Justificativa: O texto é claro, gramaticalmente correto e conceitualmente preciso. A pergunta "O que é uma fila e como enfileirar e desenfileirar seus elementos?" está bem formulada e faz sentido. A primeira parte da frase introduz o conceito de fila, enquanto a segunda parte aborda duas operações distintas e corretas para uma fila: "enfileirar" (enqueue) e "desenfileirar" (dequeue) elementos. A frase é direta ao ponto, indicando claramente o que está sendo perguntado e mantendo uma alta coerência.
+
+#16_pert
+Resultado: 2
+Justificativa: O texto é gramaticalmente correto, mas apresenta um erro conceitual que afeta a coerência. As operações de "enfileirar" (enqueue) e "desenfileirar" (dequeue) são associadas a filas (queues) e não a pilhas (stacks). Pilhas utilizam operações de "empilhar" (push) e "desempilhar" (pop) elementos. Esse erro conceitual sobre as operações corretas para cada estrutura de dados reduz a coerência do texto, justificando uma pontuação de 2.
+
+#17
+Resultado: 4
+Justificativa: A pontuação de coerência é alta (4) porque o texto apresenta uma pergunta clara e específica sobre um tema bem definido (operações de empilhar e desempilhar elementos em uma pilha). A pergunta indica uma expectativa de resposta que deve explicar como essas operações são implementadas, o que direciona o leitor para um contexto técnico relacionado a estruturas de dados. Embora curto, o texto é coeso ao focar em um único tópico e estabelecer claramente a informação desejada.
+
+#17_pert
+Resultado: 3
+Justificativa: A pontuação de coerência é moderada (3) porque o texto apresenta uma pergunta clara sobre um tema específico (operações de empilhar e desempilhar elementos em uma fila). No entanto, há uma inconsistência sutil na pergunta, já que a operação de "empilhar" é mais comumente associada a pilhas (stacks), não a filas (queues), onde se usam termos como "enfileirar" e "desenfileirar". Isso pode causar uma leve confusão ou estranhamento para o leitor familiarizado com estruturas de dados. Apesar disso, o texto ainda mantém uma coerência razoável ao introduzir um tema claro e específico para discussão.
+
+#18
+Resultado: 5
+Justificativa: A pontuação de coerência é alta (5) porque o texto apresenta uma pergunta clara e precisa sobre um tema bem definido (operações de enfileirar e desenfileirar elementos em uma fila). A escolha correta dos termos técnicos ("enfileirar" e "desenfileirar") para descrever as operações em filas demonstra um conhecimento adequado do assunto. A pergunta é direta e não deixa margem para interpretações equivocadas, indicando claramente o que se espera como resposta. Isso estabelece uma base sólida para uma discussão técnica sobre implementações de estruturas de dados, o que contribui para uma alta coerência do texto.
+
+#18_pert
+Resultado: 2
+Justificativa: A pontuação de coerência é baixa (2) porque o texto apresenta uma contradição no uso dos termos técnicos. A pergunta menciona operações de "enfileirar" e "desenfileirar" elementos, que são terminologias associadas a filas, não a pilhas. Em pilhas, as operações correspondentes seriam "empilhar" e "desempilhar". Essa incongruência cria confusão e pode levar o leitor a questionar a precisão do texto, já que os termos utilizados não correspondem à estrutura mencionada (pilha). Isso compromete significativamente a coerência do texto, pois a pergunta não está alinhada com o contexto técnico adequado.
+
+#19
+Resultado: 4
+Justificativa: A pontuação de coerência é alta (4) porque o texto apresenta uma pergunta clara e específica sobre um aspecto central das pilhas: a operação de empilhar e sua localização na estrutura. A pergunta é direta e focada, sem ambiguidades, o que facilita a compreensão e estabelece um contexto claro para uma explicação técnica. A coerência é mantida pela escolha apropriada do tema e pela formulação precisa da pergunta, que orienta o leitor para um conceito específico das estruturas de dados, neste caso, pilhas.
+
+#19_pert
+Resultado: 1
+Justificativa: A pontuação de coerência é baixa (1) porque o texto contém uma contradição fundamental no uso dos termos técnicos. A pergunta menciona a operação de "enfileirar", que é uma operação associada a filas, não a pilhas. Em pilhas, a operação correspondente seria "empilhar". Essa incongruência cria uma confusão significativa, pois os termos utilizados não estão corretos para descrever a estrutura mencionada (pilha). Isso compromete severamente a coerência do texto, pois a pergunta não está alinhada com o contexto técnico apropriado e pode levar a interpretações errôneas por parte do leitor.
+
+#20
+Resultado: 5
+Justificativa: A pontuação de coerência é alta (5) porque o texto apresenta uma pergunta clara e precisa sobre um tema bem definido (operação de enfileirar em uma fila). A pergunta está corretamente formulada, utilizando o termo técnico adequado ("enfileirar") para descrever a operação específica em filas. Isso demonstra um conhecimento apropriado do contexto das estruturas de dados e estabelece uma base clara para uma discussão técnica sobre como ocorre essa operação em uma fila. A pergunta não deixa espaço para ambiguidades ou interpretações equivocadas, o que contribui para a alta coerência do texto.
+
+#20_pert
+Resultado: 1
+Justificativa: A pontuação de coerência é baixa (1) porque o texto contém uma contradição fundamental no uso dos termos técnicos. A pergunta menciona a operação de "empilhar", que é uma operação associada a pilhas, não a filas. Em filas, a operação correspondente seria "enfileirar". Essa incongruência cria uma confusão significativa, pois os termos utilizados não estão corretos para descrever a estrutura mencionada (fila). Isso compromete severamente a coerência do texto, pois a pergunta não está alinhada com o contexto técnico apropriado e pode levar a interpretações errôneas por parte do leitor.

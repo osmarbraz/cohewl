@@ -1,0 +1,239 @@
+#1
+Texto:"Como enfileirar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#1_pert
+Texto:"Como enfileirar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#2
+Texto:"Como desenfileirar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#2_pert
+Texto:"Como desenfileirar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#3
+Texto:"Como empilhar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#3_pert
+Texto:"Como empilhar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#4
+Texto:"Como empilhar e desempilhar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#4_pert
+Texto:"Como empilhar e desempilhar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#5
+Texto:"Como empilhar elementos em uma estrutura de dados pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#5_pert
+Texto:"Como empilhar elementos em uma estrutura de dados fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#6
+Texto:"Como empilhar e desempilhar elementos em uma estrutura de dados pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#6_pert
+Texto:"Como empilhar e desempilhar elementos em uma estrutura de dados fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#7
+Texto:"Como desempilhar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#7_pert
+Texto:"Como desempilhar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#8
+Texto:"Como desempilhar elementos em uma estrutura de dados pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#8_pert
+Texto:"Como desempilhar elementos em uma estrutura de dados fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#9
+Texto:"O que é uma pilha e como empilhar seu elemento?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#9_pert
+Texto:"O que é uma fila e como empilhar seu elemento?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#10
+Texto:"O que é uma fila e como enfileirar seu elemento?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#10_pert
+Texto:"O que é uma pilha e como enfileirar seu elemento?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#11
+Texto:"O que é uma fila e como desenfileirar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#11_pert
+Texto:"O que é uma pilha e como desenfileirar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#12
+Texto:"O que é uma pilha e como desempilhar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#12_pert
+Texto:"O que é uma fila e como desempilhar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#13
+Texto:"O que é uma fila e como enfileirar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#13_pert
+Texto:"O que é uma pilha e como enfileirar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#14
+Texto:"O que é uma pilha e como empilhar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#14_pert
+Texto:"O que é uma fila e como empilhar um elemento nela?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#15
+Texto:"O que é uma pilha e como empilhar e desempilhar seus elementos?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#15_pert
+Texto:"O que é uma fila e como empilhar e desempilhar seus elementos?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#16
+Texto:"O que é uma fila e como enfileirar e desenfileirar seus elementos?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#16_pert
+Texto:"O que é uma pilha e como enfileirar e desenfileirar seus elementos?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#17
+Texto:"Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#17_pert
+Texto:"Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#18
+Texto:"Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#18_pert
+Texto:"Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#19
+Texto:"Em uma pilha a operação de empilhar ocorre em qual extremidade?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#19_pert
+Texto:"Em uma pilha a operação de enfileirar ocorre em qual extremidade?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+20#
+Texto:"Em uma fila a operação de enfileirar ocorre em qual extremidade?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
+
+#20_pert
+Texto:"Em uma fila a operação de empilhar ocorre em qual extremidade?"
+Tarefa: Dado o texto acima forneça o resultado da classifação como coerente(1) ou incoerente(0) e justifique sua resposta no formato abaixo:
+Resultado: <coerente(1)> ou <incoerente(0)>
+Justificativa: <JUSTIFICATIVA>
