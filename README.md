@@ -1,6 +1,4 @@
-# COHEWL: Assessing the Semantic Coherence of Short Text at the Word Level
-
-*COHEWL: Avaliando a coerência semântica de texto curto a nível da palavra*
+# COHEWL
 
 ## **Abstract**
 
@@ -235,18 +233,6 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca.json
 	- **With lines** *config_c_squad2_en_20_token_sentenca_next.json*: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca_next.json
-
-## Citing & Authors
-
-If you find this repository useful, feel free to cite our publication:
-
-```bibtex 
-@article{brazfileto-2023-cohewl,
-    title = "Cohewl: Assessing the Semantic Coherence of Short Text at The Word Level",
-    author = "Braz Junior, Osmar de Oliveira and Fileto, Renato"
-          
-}
-```
 
 ## References
 
