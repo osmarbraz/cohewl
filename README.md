@@ -235,7 +235,7 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/config_c_squad2_en_20_token_sentenca_next.json
 
 - **CohePrBEE(pt-br):** *config_coheprbee_ptbr_token_sentenca.json*:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/stoken_sentenca/config_coheprbee_ptbr_token_sentenca.json
+https://projector.tensorflow.org/?config=https://github.com/osmarbraz/cohewl/blob/main/projecao/token_sentenca/config_coheprbee_ptbr_token_sentenca.json
 
 ## References
 
