@@ -1,17 +1,18 @@
 {
   "embeddings": [
     {
-      "tensorName": "Texto-resumo/3-Versões",
-      "tensorShape": [173, 4096],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/refs/heads/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL.tsv",
+      "tensorName": "Texto-resumo",
+      "tensorShape": [172, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL.tsv",
 	  
-      "metadataPath": " https://raw.githubusercontent.com/osmarbraz/cohewl/refs/heads/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL.tsv"
     },
 	{
-      "tensorName": "Texto-resumo/3-Versões com linhas",
-      "tensorShape": [173, 4096],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/refs/heads/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL_next.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/refs/heads/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL_next.tsv"
+      "tensorName": "Texto-resumo com linhas",
+      "tensorShape": [172, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL_next.tsv
+	  ",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL_next.tsv"
     }
   ],
   "modelCheckpointPath": "<b>CohePrBEE (pt-br) - Embeddings de Palavras e Sentença"
