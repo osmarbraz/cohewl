@@ -2,14 +2,14 @@
   "embeddings": [
     {
       "tensorName": "Texto-resumo",
-      "tensorShape": [172, 4096],
+      "tensorShape": [1327, 4096],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL.tsv",	  
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL.tsv",
-	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/COHEPRBEE_VERBOS_DICENDI.txt"
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/COHEPRBEE_VERBOS_DICENDI_1.txt"
     },
     {
       "tensorName": "Texto-resumo com linhas",
-      "tensorShape": [172, 4096],
+      "tensorShape": [1327, 4096],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL_next.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL_next.tsv"
     }
