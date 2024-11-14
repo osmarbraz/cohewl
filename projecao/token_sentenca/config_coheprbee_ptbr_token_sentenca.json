@@ -4,7 +4,8 @@
       "tensorName": "Texto-resumo",
       "tensorShape": [172, 4096],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_records_token_documento_4096_large_POOL.tsv",	  
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/coheprbee_ptbr/DOALL_meta_token_documento_4096_large_POOL.tsv",
+	  "bookmarksPath": "https://raw.githubusercontent.com/osmarbraz/cohewl/main/projecao/token_sentenca/COHEPRBEE_VERBOS_DICENDI.txt"
     },
     {
       "tensorName": "Texto-resumo com linhas",
