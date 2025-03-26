@@ -1,0 +1,159 @@
+#1
+Resultado: 3
+Justificativa: O texto apresenta uma pergunta clara e direta sobre um conceito de estrutura de dados, especificamente sobre como organizar elementos em uma fila. No entanto, a falta de contexto ou de uma introdução mais detalhada sobre o assunto e o propósito da pergunta pode diminuir a coerência em um contexto mais amplo. Se estivesse inserido em um manual ou uma explicação sobre estruturas de dados, a coerência seria maior. Portanto, o texto é coerente dentro do contexto de uma questão técnica direta, mas carece de elementos que poderiam aumentar a coerência em um contexto mais amplo.
+
+#1_pert
+Resultado: 2
+Justificativa: A frase apresenta um equívoco conceitual que afeta sua coerência. A palavra enfileirar é geralmente associada à estrutura de dados chamada fila, que segue o princípio FIFO (First In, First Out), enquanto uma pilha segue o princípio LIFO (Last In, First Out). Portanto, o uso do termo enfileirar em relação a uma pilha é inapropriado, pois não reflete a maneira como os elementos são organizados em uma pilha. Isso introduz confusão e reduz a coerência do texto. Se a intenção era perguntar sobre a inserção de elementos em uma pilha, seria mais adequado usar termos como empilhar ou adicionar ao topo.
+
+#2
+Resultado: 5
+Justificativa: O texto é altamente coerente porque utiliza o termo desenfileirar corretamente no contexto de uma fila, que é uma estrutura de dados onde o primeiro elemento que entra é o primeiro que sai (FIFO - First In, First Out). Desenfileirar significa remover o elemento do início da fila, seguindo o princípio da estrutura. A frase é clara, concisa e precisa no contexto de operações básicas em estruturas de dados, o que confere a ela alta coerência.
+
+#2_pert
+Resultado: 1
+Justificativa: A frase apresenta uma incoerência conceitual significativa. O termo desenfileirar é específico para a operação de remover elementos de uma fila, seguindo o princípio FIFO. No entanto, uma pilha opera sob o princípio LIFO (Last In, First Out), onde o último elemento a entrar é o primeiro a sair. A operação correspondente em uma pilha é desempilhar ou pop, que remove o elemento do topo da pilha, não o elemento que está na frente como em uma fila. Por isso, a utilização do termo desenfileirar em relação a uma pilha é incorreta e leva a uma baixa coerência do texto.
+
+#3
+Resultado: 5
+Justificativa: A frase é altamente coerente pois usa o termo empilhar de forma apropriada para descrever a ação de adicionar elementos em uma pilha. Em uma pilha, os elementos são adicionados ao topo, seguindo o princípio LIFO (Last In, First Out), e o termo empilhar captura exatamente essa ideia. A frase é clara, concisa e precisa, fazendo uso correto da terminologia técnica associada à estrutura de dados conhecida como pilha, o que confere a ela alta coerência.
+
+#3_pert
+Resultado: 2
+Justificativa: A frase apresenta um uso inadequado do termo empilhar, o que diminui a coerência do texto. Empilhar é um termo associado à estrutura de dados chamada pilha, onde os elementos são adicionados ao topo, não sendo apropriado para descrever a inserção de elementos em uma fila, que segue um padrão diferente de organização (FIFO - First In, First Out). Em uma fila, os elementos são adicionados ao final e removidos do início, e o termo correto para adicionar elementos seria enfileirar ou inserir no final da fila. A confusão entre os termos específicos de pilha e fila indica uma falta de precisão técnica, afetando a coerência do texto.
+
+#4
+Resultado: 5
+Justificativa: O texto é coerente porque utiliza os termos técnicos empilhar e desempilhar corretamente no contexto de uma pilha, que é uma estrutura de dados operando sob o princípio LIFO. Empilhar refere-se ao ato de adicionar um elemento ao topo da pilha, enquanto desempilhar ou pop refere-se à remoção do elemento do topo. Ambas as ações são fundamentais para a manipulação de uma pilha e são descritas de forma precisa e apropriada na frase, o que confere a ela alta coerência.
+
+#4_pert
+Resultado: 1
+Justificativa: O texto é incoerente devido ao uso incorreto dos termos empilhar e desempilhar no contexto de uma fila. Esses termos são específicos para operações em uma pilha (LIFO), e não se aplicam diretamente a uma fila (FIFO). Em uma fila, os termos apropriados seriam enfileirar para adicionar um elemento ao final da fila e desenfileirar ou dequeue para remover um elemento do início da fila. O uso de terminologia específica de pilha em um contexto de fila leva a uma confusão conceitual e, consequentemente, a uma baixa coerência do texto.
+
+#5
+Resultado: 5
+Justificativa: O texto é coerente pois utiliza o termo empilhar de forma apropriada para descrever a ação de adicionar elementos em uma estrutura de dados conhecida como pilha. A frase especifica corretamente que a estrutura de dados em questão é uma pilha, e a ação de empilhar corresponde ao ato de adicionar elementos ao topo da pilha, o que está em conformidade com o princípio de funcionamento LIFO (Last In, First Out). A clareza na terminologia e a precisão técnica conferem ao texto alta coerência.
+
+#5_pert
+Resultado: 2
+Justificativa: A frase apresenta um uso inadequado do termo empilhar, o que reduz a coerência do texto. Empilhar é um termo associado à operação de adicionar elementos ao topo de uma pilha, não sendo apropriado para descrever a inserção de elementos em uma fila, que segue o padrão FIFO (First In, First Out). Em uma fila, os elementos são adicionados ao final e removidos do início. O termo correto para adicionar elementos a uma fila seria enfileirar ou inserir no final da fila. A confusão entre os termos específicos de pilha e fila indica uma falta de precisão técnica, afetando a coerência do texto.
+
+#6
+Resultado: 5
+Justificativa: A frase é coerente porque descreve com precisão as operações básicas de inserção e remoção de elementos em uma estrutura de dados do tipo pilha. Empilhar refere-se ao ato de adicionar um elemento ao topo da pilha, enquanto desempilhar refere-se à remoção do elemento do topo da pilha. Ambas as operações são fundamentais para a manipulação de uma pilha e seguem o princípio LIFO (Last In, First Out). A especificação de que a estrutura de dados é uma pilha também contribui para a clareza e coerência do texto. Portanto, o uso correto dos termos técnicos e a correspondência com as operações características de uma pilha resultam em alta coerência.
+
+#6_pert
+Resultado: 1
+Justificativa: A frase é incoerente porque emprega os termos empilhar e desempilhar de maneira incorreta ao se referir a uma estrutura de dados do tipo fila. Essas operações são específicas para pilhas e não se aplicam diretamente a filas, que operam sob o princípio FIFO (First In, First Out). Em uma fila, os elementos são adicionados ao final e removidos do início, e os termos corretos para essas ações seriam enfileirar ou inserir no final da fila e desenfileirar ou remover do início da fila, respectivamente. A confusão entre a terminologia de pilha e fila indica um erro conceitual que afeta seriamente a coerência do texto.
+
+#7
+Resultado: 5
+Justificativa: A frase é altamente coerente porque descreve corretamente uma operação fundamental da estrutura de dados conhecida como pilha. Desempilhar é o termo técnico apropriado para a remoção de um elemento do topo de uma pilha, seguindo o princípio LIFO (Last In, First Out). A frase é direta, usa a terminologia correta e especifica a estrutura de dados à qual se refere, o que a torna precisa e coerente no contexto de discussão sobre operações em estruturas de dados.
+
+#7_pert
+Resultado: 2
+Justificativa: A frase apresenta um uso inapropriado do termo desempilhar, o que afeta a coerência do texto. Desempilhar é o termo usado para descrever a remoção de elementos de uma pilha, não de uma fila. Em uma fila, que opera sob o princípio FIFO (First In, First Out), o termo correto para remover um elemento seria desenfileirar ou remover do início da fila. A falta de precisão técnica na terminologia reduz a coerência do texto, pois pode levar a uma interpretação errada sobre como operar com elementos em uma fila.
+
+#8
+Resultado: 5
+Justificativa: A frase é coerente porque faz uso correto do termo técnico desempilhar no contexto apropriado de uma estrutura de dados do tipo pilha. Desempilhar refere-se à operação de remover o elemento do topo de uma pilha, que é uma ação essencial para a manipulação dessa estrutura de dados e está em conformidade com o princípio LIFO (Last In, First Out). A especificação de que a estrutura de dados é uma pilha também contribui para a clareza da frase. Portanto, o texto é preciso e coerente no contexto das operações básicas de uma pilha.
+
+#8_pert
+Resultado: 1
+Justificativa: A frase é incoerente devido ao uso inadequado do termo desempilhar. Esse termo é aplicável a pilhas e não a filas. Em uma fila, que segue o princípio FIFO (First In, First Out), a operação de remover um elemento é chamada de desenfileirar ou dequeue. O uso do termo desempilhar em referência a uma fila indica um erro conceitual, pois sugere uma operação típica de pilha em um contexto onde ela não se aplica. Isso cria confusão e reduz a coerência do texto.
+
+#9
+Resultado: 4
+Justificativa: O texto é em grande parte coerente porque faz uma introdução clara ao conceito de uma pilha como uma estrutura de dados e segue com uma menção à operação de empilhar, que é apropriada para uma pilha. No entanto, a frase poderia ser melhorada ao especificar que é um único elemento que está sendo empilhado, já que a estrutura da frase pode sugerir que é um conjunto ou plural de elementos que estão sendo tratados como um único item. A falta dessa precisão impede que o texto alcance uma coerência total, mas ainda assim é bastante compreensível e tecnicamente correto em seu contexto.
+
+#9_pert
+Resultado: 2
+Justificativa: A frase começa com coerência ao definir o que é uma fila, que é uma estrutura de dados conhecida e bem estabelecida. No entanto, a segunda parte introduz um erro conceitual ao usar o termo empilhar em referência a uma fila. Empilhar é uma operação típica de pilha e não se aplica diretamente ao funcionamento de uma fila, onde os elementos são adicionados ao final e removidos do início. A operação correta para adicionar um elemento a uma fila seria enfileirar. Essa imprecisão técnica na segunda parte do texto reduz sua coerência, pois mistura operações características de diferentes estruturas de dados.
+
+#10
+Resultado: 5
+Justificativa: O texto é totalmente coerente. Ele define claramente o que será discutido, que é uma fila, uma estrutura de dados bem conhecida. Em seguida, utiliza o termo técnico enfileirar corretamente ao descrever como adicionar um elemento a essa estrutura de dados. Enfileirar é o termo apropriado para a operação de inserção de um elemento no final de uma fila, que é consistente com o princípio FIFO (First In, First Out) que caracteriza as filas. A frase é precisa e está em conformidade com o vocabulário técnico esperado para o tópico, o que confere a ela alta coerência.
+
+#10_pert
+Resultado: 2
+Justificativa: A frase começa com coerência ao introduzir o conceito de uma pilha como estrutura de dados. No entanto, a segunda parte da frase compromete a coerência ao usar o termo enfileirar em relação a uma pilha. Enfileirar é um termo aplicável a filas, onde os elementos são organizados em uma sequência linear seguindo o princípio FIFO. Em uma pilha, os elementos são adicionados ao topo e o termo correto para essa operação é empilhar. A mistura de terminologia específica de fila com o conceito de pilha leva a uma imprecisão técnica que afeta a coerência do texto.
+
+#11
+Resultado: 5
+Justificativa: O texto é altamente coerente. Ele inicia com a definição do que será discutido, que é uma fila, e segue com a descrição da operação desenfileirar, que é o termo técnico correto para a remoção de um elemento do início de uma fila. A frase está alinhada com a terminologia e os princípios de funcionamento de uma fila, que segue o modelo FIFO (First In, First Out), onde o primeiro elemento que entra é o primeiro que sai. A precisão na terminologia técnica e a correspondência com as operações características de uma fila contribuem para a alta coerência do texto.
+
+#11_pert
+Resultado: 2
+Justificativa: O texto começa de forma coerente ao definir o que será discutido, que é uma pilha, uma estrutura de dados conhecida. No entanto, a coerência é comprometida quando a segunda parte da frase utiliza o termo desenfileirar em relação a uma pilha. Desenfileirar é um termo aplicável a filas e não a pilhas. Em uma pilha, que segue o princípio LIFO (Last In, First Out), a operação de remover um elemento é chamada de desempilhar ou pop. A confusão entre a terminologia de fila e pilha indica um erro conceitual que afeta a coerência do texto.
+
+#12
+Resultado: 5
+Justificativa: O texto é coerente porque faz uma introdução clara ao conceito de uma pilha, que é uma estrutura de dados específica, e segue com uma explicação que utiliza o termo técnico desempilhar de maneira correta. Desempilhar é a operação de remoção de um elemento do topo de uma pilha, o que está em conformidade com o princípio LIFO (Last In, First Out) que caracteriza uma pilha. A precisão na terminologia técnica e a correspondência com as operações características de uma pilha resultam em alta coerência do texto.
+
+#12_pert
+Resultado: 2
+Justificativa: A frase começa com coerência ao definir o que será discutido, que é uma fila, uma estrutura de dados bem compreendida. Contudo, a segunda parte da frase compromete a coerência ao empregar o termo desempilhar em referência a uma fila. Desempilhar é um termo específico para a operação de remoção de elementos de uma pilha, que segue o princípio LIFO. Em uma fila, que opera sob o princípio FIFO, o termo correto para a remoção de um elemento seria desenfileirar. A utilização de uma terminologia própria de pilha em um contexto de fila gera uma incoerência técnica, o que reduz a pontuação de coerência do texto.
+
+#13
+Resultado: 5
+Justificativa: O texto apresenta alta coerência porque inicia com a definição do objeto de discussão, que é uma fila, e prossegue com a descrição de uma operação que é apropriada para essa estrutura de dados: enfileirar. O termo enfileirar é usado corretamente para indicar a inserção de um elemento ao final da fila, mantendo-se em conformidade com o princípio FIFO (First In, First Out) que caracteriza a estrutura de dados fila. A frase é precisa e consistente no uso da terminologia técnica relevante, o que contribui para a sua coerência.
+
+#13_pert
+Resultado: 2
+Justificativa: A frase inicia de maneira coerente ao introduzir o conceito de uma pilha, que é uma estrutura de dados específica. No entanto, a segunda parte da frase perde coerência ao usar o termo enfileirar para descrever a inserção de um elemento em uma pilha. Enfileirar é um termo associado às operações em uma fila, onde os elementos são organizados em uma sequência linear seguindo o princípio FIFO. Em uma pilha, que segue o princípio LIFO (Last In, First Out), o termo correto para adicionar um elemento seria empilhar. A mistura de terminologia de fila com a estrutura de pilha leva a uma imprecisão técnica e afeta a coerência do texto.
+
+#14
+Resultado: 5
+Justificativa: O texto mantém alta coerência pois define claramente o que será discutido, que é uma pilha, e segue com a descrição de uma operação consistente com essa estrutura de dados: empilhar. O termo empilhar é o correto para descrever a inserção de um elemento no topo de uma pilha, mantendo-se alinhado com o princípio LIFO (Last In, First Out) que caracteriza as pilhas. A precisão técnica no uso da terminologia relevante para a estrutura de dados pilha contribui para a coerência do texto.
+
+#14_pert
+Resultado: 2
+Justificativa: A frase começa de forma coerente ao definir o que será discutido, que é uma fila, uma estrutura de dados bem estabelecida. No entanto, a segunda parte da frase introduz um erro conceitual ao usar o termo empilhar para descrever uma operação em uma fila. Empilhar é um termo apropriado para pilhas, onde os elementos são adicionados ao topo e removidos seguindo o princípio LIFO. Em uma fila, que opera sob o princípio FIFO, os elementos são adicionados ao final e removidos do início, e o termo correto para adicionar um elemento seria enfileirar. A confusão entre terminologias específicas de pilha e fila indica um desvio da precisão técnica esperada, o que afeta a coerência do texto.
+
+#15
+Resultado: 5
+Justificativa: O texto é coerente porque apresenta uma definição clara do conceito a ser discutido, que é uma pilha, e prossegue descrevendo as operações fundamentais associadas a essa estrutura de dados: empilhar e desempilhar. Estes são os termos técnicos corretos para adicionar e remover elementos de uma pilha, respectivamente, seguindo o princípio LIFO (Last In, First Out). A frase é precisa e técnica, utilizando a terminologia apropriada para as operações em questão, o que contribui para a alta coerência do texto.
+
+#15_pert
+Resultado: 1
+Justificativa: A frase começa de forma coerente ao introduzir o conceito de uma fila, que é uma estrutura de dados conhecida. No entanto, a segunda parte da frase compromete seriamente a coerência ao usar os termos empilhar e desempilhar para descrever operações em uma fila. Esses termos são específicos para pilhas e não se aplicam às filas, que operam sob o princípio FIFO (First In, First Out). Em uma fila, os termos apropriados para adicionar e remover elementos seriam enfileirar e desenfileirar, respectivamente. A confusão entre os termos de pilha e fila e o uso incorreto da terminologia técnica específica reduzem a coerência do texto para o nível mais baixo.
+
+#16
+Resultado: 5
+Justificativa: O texto é coerente pois define claramente o objeto de discussão, que é uma fila, e segue com a descrição de operações que são consistentes com essa estrutura de dados: enfileirar e desenfileirar. O termo enfileirar é apropriado para descrever a inserção de um elemento ao final de uma fila, e desenfileirar é o termo correto para a remoção de um elemento do início da fila, em conformidade com o princípio FIFO (First In, First Out). A precisão técnica no uso da terminologia relevante para a estrutura de dados fila contribui para a alta coerência do texto.
+
+#16_pert
+Resultado: 1
+Justificativa: A frase inicia com uma definição clara do que será discutido, que é uma pilha. No entanto, a segunda parte da frase é incoerente ao usar os termos enfileirar e desenfileirar para descrever operações em uma pilha. Esses termos são específicos para filas e não se aplicam às pilhas, que operam sob o princípio LIFO (Last In, First Out). Em uma pilha, as operações correspondentes seriam empilhar para adicionar um elemento e desempilhar para remover um elemento do topo da pilha. A confusão entre os termos de fila e pilha e o uso incorreto da terminologia técnica específica resultam em baixa coerência do texto.
+
+#17
+Resultado: 5
+Justificativa: O texto é coerente porque aborda corretamente o tema das operações fundamentais de uma pilha, que são empilhar e desempilhar. A frase faz uma pergunta clara sobre como essas operações são implementadas, o que indica um entendimento adequado do funcionamento de uma pilha e das ações específicas associadas a essa estrutura de dados. A terminologia é precisa e técnica, e está alinhada com as expectativas para uma discussão sobre a implementação de operações em uma pilha, mantendo a coerência do texto.
+
+#17_pert
+Resultado: 2
+Justificativa: A frase começa com uma formulação coerente ao abordar a implementação de operações em uma estrutura de dados. No entanto, a coerência é prejudicada pelo uso inadequado dos termos empilhar e desempilhar em referência a uma fila. Esses termos são específicos para pilhas e não descrevem corretamente as operações em uma fila, que são enfileirar para adicionar um elemento ao final e desenfileirar para remover um elemento do início da fila. A falta de precisão na terminologia técnica específica para a estrutura de dados fila reduz a coerência do texto.
+
+#18
+Resultado: 5
+Justificativa: O texto é altamente coerente porque faz uma pergunta clara e precisa sobre as operações fundamentais de uma fila, que são enfileirar e desenfileirar. A escolha dos termos é técnica e apropriada para a estrutura de dados em questão, refletindo um entendimento correto das ações de adicionar e remover elementos em uma fila que segue o princípio FIFO. A formulação da pergunta indica conhecimento das operações específicas de uma fila e é consistente com o contexto de discussão sobre a implementação de operações em estruturas de dados, o que confere alta coerência ao texto.
+
+#18_pert
+Resultado: 1
+Justificativa: A frase é incoerente porque utiliza os termos enfileirar e desenfileirar de forma inadequada em relação a uma pilha. Esses termos são específicos para operações em uma fila e não descrevem as ações de adicionar ou remover elementos de uma pilha. Em uma pilha, as operações correspondentes seriam empilhar para adicionar um elemento ao topo e desempilhar para remover o elemento do topo. A confusão entre a terminologia de fila e pilha indica um erro conceitual que afeta seriamente a coerência do texto.
+
+#19
+Resultado: 5
+Justificativa: O texto é coerente pois faz uma pergunta precisa e relevante sobre uma operação fundamental em uma estrutura de dados do tipo pilha. A operação de empilhar é corretamente associada à adição de elementos em uma pilha, e a questão sobre em qual extremidade essa operação ocorre é pertinente, já que pilhas têm um comportamento específico onde os elementos são adicionados e removidos sempre pelo topo. A precisão da terminologia técnica e a relevância da questão no contexto das estruturas de dados contribuem para a alta coerência do texto.
+
+#19_pert
+Resultado: 2
+Justificativa: A frase inicia com coerência ao se referir a uma pilha e ao fazer uma pergunta sobre onde ocorre uma operação de inserção de elementos. No entanto, a coerência é prejudicada pelo uso do termo enfileirar, que é específico para operações em uma fila, onde os elementos são adicionados ao final. Em uma pilha, a operação de inserção é chamada de empilhar, e os elementos são adicionados ao topo. A confusão entre os termos de fila e pilha introduz um erro conceitual que afeta a coerência do texto.
+
+#20
+Resultado: 5
+Justificativa: O texto é coerente pois faz uma pergunta clara e relevante sobre a operação de inserção de elementos em uma fila, usando o termo correto enfileirar. A questão sobre em qual extremidade essa operação ocorre é apropriada, já que em uma fila os elementos são adicionados ao final, seguindo o princípio FIFO (First In, First Out). A precisão da terminologia técnica e a relevância da questão no contexto das estruturas de dados contribuem para a alta coerência do texto.
+
+#20_pert
+Resultado: 2
+Justificativa: A frase começa de maneira coerente ao se referir a uma fila e ao questionar sobre a extremidade onde ocorre uma operação de inserção de elementos. No entanto, o uso do termo empilhar é inadequado para uma fila. Empilhar é o termo apropriado para adicionar elementos ao topo de uma pilha, não para uma fila, onde o termo correto para adicionar um elemento é enfileirar e ocorre no final da fila. A utilização de um termo específico de pilha em um contexto de fila introduz um erro conceitual que afeta a coerência do texto.
