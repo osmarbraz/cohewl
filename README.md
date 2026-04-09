@@ -249,7 +249,7 @@ Se achar este repositório útil, sinta-se à vontade para citar nossa [publica�
 
 ```bibtex 
 @article{brazfileto-2025-semantic,
-    title = "Semantic Coherence of Short Text at the Word Level",
+    title = {Semantic Coherence of Short Text at the Word Level},
     author = {Junior, Osmar de Oliveira Braz and Fileto, Renato}, 
     journal = {Journal of the Brazilian Computer Society},
     number = {1},
