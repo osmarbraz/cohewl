@@ -242,3 +242,25 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **BERTimbau** : Souza, F., Nogueira, R., Lotufo, R., 2020. Bertimbau: Pretrained bert models for brazilian portuguese, in: Brazilian Conference on Intelligent Systems, Springer. Springer, Rio Grande, Brazil. pp. 403–417. https://link.springer.com/chapter/10.1007/978-3-030-61377-8_28
 
 **Embedding Projector** : Smilkov, D., Thorat, N., Nicholson, C., Reif, E., Vi ́egas, F.B., Wattenberg, M., 2016. Embedding projector: Interactive visualization and interpretation of embeddings. arXiv preprint arXiv:1611.05469. https://arxiv.org/pdf/1611.05469.pdf
+
+## Citando & Autores
+
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3705):
+
+```bibtex 
+@article{brazfileto-2025-semantic,
+    title = "Semantic Coherence of Short Text at the Word Level",
+    author = {Junior, Osmar de Oliveira Braz and Fileto, Renato}, 
+    journal = {Journal of the Brazilian Computer Society},
+    number = {1},
+    volume = {31},
+    location = {Online},
+    year = {2025},
+    month = {Jun.},
+    pages = {449–464}
+    publisher = {SBC},
+    address = {Porto Alegre, RS, Brasil},
+    doi = {10.5753/jbcs.2025.3705},
+    url = {https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3705}     
+}
+```
